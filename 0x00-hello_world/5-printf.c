@@ -2,7 +2,8 @@
 
 /** Print the words
  *
- * return  (success)
+ * return: Always 0  (success)
+ *
  */
 
 int main(void)

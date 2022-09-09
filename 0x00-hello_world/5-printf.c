@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** Print the words
+/**
+ * main- entry point
  *
  * return: Always 0  (success)
  *

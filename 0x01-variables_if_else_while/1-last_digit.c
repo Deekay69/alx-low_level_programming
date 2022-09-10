@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -main block
+ * main - main block
  * Description: Print the last digit
  * Return 0
  */

@@ -2,7 +2,8 @@
 
 /**
  * main - main body
- * Description: prints all possible combinations of single-digit numbers in ascending order
+ * Description: prints all possible combinations of single-digit
+ *numbers in ascending order
  * Return: 0
  */
 int main(void)

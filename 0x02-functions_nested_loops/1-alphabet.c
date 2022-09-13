@@ -2,7 +2,7 @@
 
 /**
  * main - main body
- * print_alphabet: Print the alphabet in lowercase
+ * print_alphabet - Print alphabet in lowercase using only `_putchar`
  * Return: 0
  */
 

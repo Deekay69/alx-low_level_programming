@@ -1,8 +1,8 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
- * main -main body
- * Description: Prints _putchar folowed by new line
+ * main - main body
+ * Description: Prints _putchar and new line
  * Return: 0
  */
 int main(void)
@@ -11,8 +11,9 @@ int main(void)
 
 	while (*c)
 	{
-		putchar(c);
+		_putchar(*c);
 		c++;
 	}
 	return (0);
+
 }

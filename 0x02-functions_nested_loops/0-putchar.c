@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main -main body
@@ -7,6 +7,12 @@
  */
 int main(void)
 {
-	printf("_putchar\n");
+	char *c = "_putchar\n";
+
+	while (*c)
+	{
+		putchar(c);
+		c++;
+	}
 	return (0);
 }

@@ -4,6 +4,7 @@
 /**
  * main -entry point
  * _islower -  checks for lowercase character.
+ * @c: the character to print
  * Return: 0
  */
 int _islower(int c)

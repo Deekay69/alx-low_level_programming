@@ -2,7 +2,6 @@
 #include "ctype.h"
 
 /**
- * main -entry point
  * _islower -  checks for lowercase character.
  * @c: the character to print
  * Return: 0

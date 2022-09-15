@@ -4,6 +4,8 @@
 /**
  * _isupper - checks for uppercase character.
  *
+ * @c: character tobe tedted
+ *
  * Return: 0
  */
 

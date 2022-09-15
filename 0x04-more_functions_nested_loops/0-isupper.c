@@ -15,4 +15,5 @@ int _isupper(int c)
 	else if (c = 'a')
 	{
 		return (0);
+	}
 }

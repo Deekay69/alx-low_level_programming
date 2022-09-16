@@ -8,15 +8,15 @@
 
 void print_most_numbers(void)
 {
-	int i = 0;
+	int num = 0;
 
-	while (i < 10)
+	while (num < 10)
 	{
-		if (i != 2 && i != 4)
+		if (num != 2 && num != 4)
 		{
-			_putchar('0' + i);
-			i++;
+			_putchar('0' + num);
+		num++;
 		}
-		_putchar('\n');
 	}
+	_putchar('\n');
 }

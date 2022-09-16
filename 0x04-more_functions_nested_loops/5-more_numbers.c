@@ -10,9 +10,8 @@ void more_numbers(void)
 	int i = 0;
 
 	while (i < 15)
-	{
 		_putchar(i * '10');
 		i++;
-	}
+
 	_putchar('\n');
 }

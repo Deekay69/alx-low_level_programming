@@ -18,10 +18,9 @@ char *cap_string(char *str)
 		for (c = 0; nots[c] != '\0'; c++)
 		{
 			if (nots[c] == str[i])
-			{
 				trigger = 1;
-			}
 		}
+
 		if (trigger)
 		{
 			if (str[i] > 96 && str[i] < 123)
@@ -30,13 +29,9 @@ char *cap_string(char *str)
 				trigger = 0;
 			}
 			else if (str[i] > 64 && str[i] < 91)
-			{
 				trigger = 0;
-			}
 			else if (str[i] > 47 && str[i] < 58)
-			{
 				trigger = 0;
-			}
 		}
 	}
 	return (str);	

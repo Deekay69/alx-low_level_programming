@@ -5,7 +5,7 @@
  * @n: int type number
  * Return: factorial of number
  */
-int _strlen_recursion(char *s)
+int factorial(int n)
 {
 	if (n < 0)
 		return (-1);

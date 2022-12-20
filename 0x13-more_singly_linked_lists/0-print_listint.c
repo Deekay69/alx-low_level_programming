@@ -6,42 +6,22 @@
 
 /**
  *
- *  * print_list - print all elements of `list_t` list
+ *  * print_listint - print all elements of a `listint_t` list
  *
- *   * @h: head of linked list
+ *   * @h: linked list head
  *
  *    * Return: number of nodes
  *
  *     */
 
-size_t print_list(const list_t *h)
+size_t print_listint(const listint_t *h)
 
 {
 
-		const list_t *current;
+		const listint_t *c;
+		size_t count;
 
-			size_t c;
-
-
-
-				c = 0;
-
-					current = h;
-
-						while (current != NULL)
-
-								{
-
-											printf("[%d] %s\n", current->len, current->str);
-
-													current = current->next;
-
-															c++;
-
-																}
-
-
-
-							return (c);
-
+		for (c = h, count = 0; c != NULL; count++, c = c->next)
+			printf("%d\n", c->n);
+		return (count);
 }

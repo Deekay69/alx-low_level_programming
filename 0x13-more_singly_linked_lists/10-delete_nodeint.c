@@ -1,77 +1,47 @@
-nclude "lists.h"
-
-
+#include "lists.h"
 
 /**
+ * insert_nodeint_at_index - inserts a new node in a linked list,
+ * at a given position
+ * @head: pointer to the first node in the list
+ * @idx: index where the new node is added
+ * @n: data to insert in the new node
  *
- *  * delete_nodeint_at_index - delete the node at index of a `listint_t` list
- *
- *   * @head: double header to head of linked list
- *
- *    * @index: index of node to delete, starting at 0
- *
- *     * Return: 1 if success, -1 if failed
- *
- *      */
+ * Return: pointer to the new node, or NULL
+ */
 
-int delete_nodeint_at_index(listint_t **head, unsigned int index)
-
+listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
+	unsigned int i;
+	listint_t *new;
+	listint_t *temp = *head;
 
-		listint_t *current;
+	new = malloc(sizeof(listint_t));
+	if (!new || !head)
+		return (NULL);
+	new->n = n;
+	new->next = NULL;
 
-			listint_t *hold;
+	if (idx == 0)
+	{
+		new->next = *head;
+		*head = new;
+		return (new);
+	}
 
-				unsigned int i;
+	for (i = 0; temp && i < idx; i++)
+	{
+		if (i == idx - 1)
+		{
+			new->next = temp->next;
+			temp->next = new;
+			return (new);
+		}
+		else
+			temp = temp->next;
+	}
 
-
-
-					i = 0;
-
-						current = *head;
-
-							if (*head == NULL)
-
-										return (-1);
-
-
-
-								while (i < index)
-
-										{
-
-													i++;
-
-															hold = current;
-
-																	if (current->next)
-
-																					current = current->next;
-
-																			else
-
-																							return (-1);
-
-																				}
-
-
-
-									if (index == 0)
-
-												*head = current->next;
-
-										else if (current->next)
-
-													hold->next = current->next;
-
-											else
-
-														hold->next = NULL;
-
-
-
-												free(current);
-
-													return (1);
-
+	return (NULL);
 }
+
+

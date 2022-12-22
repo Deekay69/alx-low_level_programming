@@ -1,103 +1,49 @@
-nclude "lists.h"
-
-#include <stdio.h>
+#include "lists.h"
 
 /**
+ * insert_nodeint_at_index - inserts a new node in a linked list,
+ * at a given position
+ * @head: pointer to the first node in the list
+ * @idx: index where the new node is added
+ * @n: data to insert in the new node
  *
- *  * insert_nodeint_at_index - insert a new node at a given position
- *
- *   * @head: double pointer to head
- *
- *    * @index: insert node at this index, starting count at 0
- *
- *     * @n: value to store in node
- *
- *      * Return: Address of new node or NULL if failed
- *
- *       */
+ * Return: pointer to the new node, or NULL
+ */
 
-listint_t *insert_nodeint_at_index(listint_t **head, unsigned int index, int n)
-
+listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
+	unsigned int i;
+	listint_t *new;
+	listint_t *temp = *head;
 
-		listint_t *new;
+	new = malloc(sizeof(listint_t));
+	if (!new || !head)
+		return (NULL);
 
-			listint_t *current;
+	new->n = n;
+	new->next = NULL;
 
-				unsigned int count;
-
-
-
-					if (head == NULL)
-
-								return (NULL);
-
-
-
-						current = *head;
-
-							for (count = 1; current && count < index; count++)
-
-									{
-
-												current = current->next;
-
-														if (current == NULL)
-
-																		return (NULL);
-
-															}
+	if (idx == 0)
+	{
+		new->next = *head;
+		*head = new;
+		return (new);
+	}
 
 
+	for (i = 0; temp && i < idx; i++)		
+	{
+		if (i == idx - 1)
+		{
+			new->next = temp->next;
+			temp->next = new;
+			return (new);
+		}
+		else
+			temp = temp->next;
+	}
 
-								new = malloc(sizeof(listint_t));
-
-									if (new == NULL)
-
-											{
-
-														free(new);
-
-																return (NULL);
-
-																	}
-
-										new->n = n;
-
-
-
-											if (index == 0)
-
-													{
-
-																*head = new;
-
-																		new->next = current;
-
-																			}
-
-												else if (current->next)
-
-														{
-
-																	new->next = current->next;
-
-																			current->next = new;
-
-																				}
-
-													else
-
-															{
-
-																		new->next = NULL;
-
-																				current->next = new;
-
-																					}
-
-
-
-														return (new);
-
+	return (NULL);
 }
+
+

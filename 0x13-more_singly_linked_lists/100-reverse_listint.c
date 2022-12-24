@@ -1,77 +1,28 @@
-nclude "lists.h"
-
-#include <stdio.h>
+#include "lists.h"
 
 /**
+ * reverse_listint - reverses a linked list.
+ * @head: head of a list.
  *
- *  * reverse_listint - Reverse a `listint_t` linked list
- *
- *   * @head: double pointer to head
- *
- *    * Description: Limited to going through loop only once.
- *
- *     * Not allowed to use `malloc` or `free` or arrays
- *
- *      * Can only declare a max of 2 variables.
- *
- *       * Return: pointer to first node of reversed list
- *
- *        */
-
+ * Return: pointer to the first node.
+ */
 listint_t *reverse_listint(listint_t **head)
-
 {
+	listint_t *p;
+	listint_t *n;
 
-		listint_t *hold;
+	p = NULL;
+	n = NULL;
 
-			listint_t *current;
+	while (*head != NULL)
+	{
+		n = (*head)->next;
+		(*head)->next = p;
+		p = *head;
+		*head = n;
+	}
 
-
-
-				if (*head == NULL)
-
-							return (NULL);
-
-
-
-					current = *head;
-
-						*head = current->next;
-
-							hold = (*head)->next;
-
-								current->next = NULL;
-
-									if (*head == NULL)
-
-											{
-
-														*head = current;
-
-																return (current);
-
-																	}
-
-
-
-										while (hold != NULL)
-
-												{
-
-															(*head)->next = current;
-
-																	current = *head;
-
-																			*head = hold;
-
-																					hold = (*head)->next;
-
-																						}
-
-
-
-											(*head)->next = current;
-
-												return (*head);
-
+	*head = p;
+	return (*head);
 }
+

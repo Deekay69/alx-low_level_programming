@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "fea2b372-c19a-4a01-9735-f05c8d10594d",
+        "type": "message",
+        "text": "Hello everyone,\n\nFor Part 01 of Project 02, the instructions says to \"Include any references you intend to use in your PSA here.\" Do I need to use the references I put for Part01 in my final PSA, or can I use different sources if I need to?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1679510552.365279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\n\nFor Part 01 of Project 02, the instructions says to \"Include any references you intend to use in your PSA here.\" Do I need to use the references I put for Part01 in my final PSA, or can I use different sources if I need to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1679510565.000000"
+        },
+        "thread_ts": "1679510552.365279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679514057.436619",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679512632.396699"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1679514057.436619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679514057.436619"
+    },
+    {
+        "client_msg_id": "f77edbae-3acf-4af4-ac0f-4d205486a2b7",
+        "type": "message",
+        "text": "Hi Sara: You can absolutely modify your references as you go along, and learn more!",
+        "user": "U04GV2EK7UP",
+        "ts": "1679512632.396699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sara: You can absolutely modify your references as you go along, and learn more!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679510552.365279",
+        "parent_user_id": "U04KKRC0ZRA",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KKA31SG2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a803b8b1-9f36-4457-8ac3-c76e28e16212",
+        "type": "message",
+        "text": "Thank you :blush:",
+        "user": "U04KKRC0ZRA",
+        "ts": "1679514057.436619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IyzFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679510552.365279",
+        "parent_user_id": "U04KKRC0ZRA"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "8398d540-d812-4009-b823-efc5f8c2f293",
+        "type": "message",
+        "text": "Just a quick tip, if anyone is interested, <http:\/\/CodeAcademy.com|CodeAcademy.com> offers free courses for a ton of different languages, such as Java, c\/c#, Python, Swift, SQL, etc. The website is very easy to use and its free.",
+        "user": "U04KMHZ46GM",
+        "ts": "1677166462.982359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJY+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a quick tip, if anyone is interested, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/CodeAcademy.com",
+                                "text": "CodeAcademy.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " offers free courses for a ton of different languages, such as Java, c\/c#, Python, Swift, SQL, etc. The website is very easy to use and its free."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a36b88bd81d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670648366226_a36b88bd81d3c9499ce2_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Arthur Freeman",
+            "display_name": "Justin Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "justin.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04JYA33E9Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

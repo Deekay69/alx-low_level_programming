@@ -1,0 +1,230 @@
+[
+    {
+        "client_msg_id": "52f01e70-fae8-4608-84cd-f2649a24c820",
+        "type": "message",
+        "text": "Here's my tip: Someone tried to hack my hotmail account today. You can check if there are any successful login attempts on outlook in account settings. Gmail also has this feature.",
+        "user": "U04L288QDJ4",
+        "ts": "1676918235.266639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOhBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's my tip: Someone tried to hack my hotmail account today. You can check if there are any successful login attempts on outlook in account settings. Gmail also has this feature."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676918235.266639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676918580.231329",
+        "reply_users": [
+            "U04JWGYC9JT",
+            "U04L288QDJ4"
+        ],
+        "replies": [
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1676918524.436109"
+            },
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1676918580.231329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04M20JS7D0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21aae502-7289-4f11-8172-31d32ecda69a",
+        "type": "message",
+        "text": "2FA is a really good detterant and is really good when used in tandem woth strong passwords.",
+        "user": "U04JWGYC9JT",
+        "ts": "1676918524.436109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=pAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2FA is a really good detterant and is really good when used in tandem woth strong passwords."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676918235.266639",
+        "parent_user_id": "U04L288QDJ4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L288QDJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "127b2697-5071-48cd-b3c2-2a0532151ab6",
+        "type": "message",
+        "text": "They weren't successful, just annoying. I set up 2FA after this attempt.",
+        "user": "U04L288QDJ4",
+        "ts": "1676918580.231329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They weren't successful, just annoying. I set up 2FA after this attempt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676918235.266639",
+        "parent_user_id": "U04L288QDJ4"
+    },
+    {
+        "client_msg_id": "b60d8bdf-ea03-4b23-98aa-211269b01528",
+        "type": "message",
+        "text": "Here's another tip. Having backups will help you out when things go wrong with your PC. I had to do a full reinstall of my OS the other day, and right now I was about to reinstall Ubuntu on VirtualBox, but I realized that I backed up my virtual machine after my Lab01.",
+        "user": "U04K42C14HM",
+        "ts": "1676944806.644369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's another tip. Having backups will help you out when things go wrong with your PC. I had to do a full reinstall of my OS the other day, and right now I was about to reinstall Ubuntu on VirtualBox, but I realized that I backed up my virtual machine after my Lab01."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04JYA33E9Z",
+                    "U04LLU98PDE",
+                    "U04M20JS7D0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "091883d5-d8dc-4e96-aea7-795eff56907a",
+        "type": "message",
+        "text": "to find my BIOS and make sure virtualization was enable I opened my task manager and I went to performance. When I went there it was already enabled.",
+        "user": "U04L0EASN9H",
+        "ts": "1676855531.774799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to find my BIOS and make sure virtualization was enable I opened my task manager and I went to performance. When I went there it was already enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g42bc934a37e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/42bc934a37e5beebe7181473d791bc29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Lael",
+            "real_name": "Lael Morille",
+            "display_name": "Lael Morille",
+            "team": "T04HC2CMNJ0",
+            "name": "lael.morille",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

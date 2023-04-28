@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "text": "Here is a random tree that I saw in Illinois in November.",
+        "files": [
+            {
+                "id": "F04L78Y0LCV",
+                "created": 1674572322,
+                "timestamp": 1674572322,
+                "name": "IMG_3366.JPG",
+                "title": "IMG_3366.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04JYA33E9Z",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 3682515,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L78Y0LCV\/img_3366.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L78Y0LCV\/download\/img_3366.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L78Y0LCV-520ef247ec\/img_3366_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCwuPWnbaqxsc55FSGQqMhqfOTyj2ZRxn8qAVPeq4yeKVTmp9oy+RFnbRtFRAkHrxioyzn86pTI5R4Q9zSMTgjY34GoftZ\/uik+1N6LWepVx\/zg52tTwrE\/cIz3qA3DkY4H0pnmv\/fP50co+YuFT3I496ZgZ7VVLM33mzSU0hNjaKKO1MQmaKKKAFzSjpTacOlAH\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04JYA33E9Z\/F04L78Y0LCV\/img_3366.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L78Y0LCV-c959fbccdb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04JYA33E9Z",
+        "display_as_bot": false,
+        "ts": "1674572366.804199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a random tree that I saw in Illinois in November."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "855096bd-50e3-4d9a-b26a-dcc66a77d709",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KXUSD00Z",
+                    "U04L4KYU5A7",
+                    "U04KUGYNGJJ",
+                    "U04LQU89ZGQ",
+                    "U04KZMSE24X",
+                    "U04LTUDMSSU",
+                    "U04L7E54R41",
+                    "U04KSUAPWTX",
+                    "U04LBN6DEKT",
+                    "U04K9S07JRM",
+                    "U04M8TJKPQE"
+                ],
+                "count": 12
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

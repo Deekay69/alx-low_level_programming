@@ -1,0 +1,457 @@
+[
+    {
+        "client_msg_id": "1f0c6c55-8edd-4425-a44f-6f4bc25901ce",
+        "type": "message",
+        "text": "\"Welcome to our Spring 2023 IS 1003 Slack Workspace! Please review the guidelines for this workspace:\n1. Post your question or comment on the most relevant *channel*.\n2. Read *prior posts* on a channel before posting to minimize duplication.\n3. Address your professor or peer with *@name* before starting your message.\n4. Communicate with *respect*. Abusive or inappropriate language will be removed.\n5. Be *specific* in your post with the issue, error messages, and solutions you’ve already tried.\n6. Think before you post! *Edit\/delete* your messages if needed.\n7. Cultivate a *positive atmosphere* and be aware of <https:\/\/www.verywellmind.com\/what-is-groupthink-2795213|groupthink>.\n8. Respond to those who have attempted to assist you with a “*thank you*” :pray:.\n9. *Support* our peers and professor where applicable.\n10. *Email* your professor privately with personal questions and grade concerns.\n_Please confirm your agreement of this rules with a thumbs up_ :+1: _emoji._\nThank you!",
+        "user": "U04GV2EK7UP",
+        "ts": "1673205912.456889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rUdj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Welcome to our Spring 2023 IS 1003 Slack Workspace! Please review the guidelines for this workspace:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Post your question or comment on the most relevant "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "channel",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Read "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "prior posts",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on a channel before posting to minimize duplication."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Address your professor or peer with "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "@name",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " before starting your message."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Communicate with"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " respect",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Abusive or inappropriate language will be removed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Be "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "specific",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in your post with the issue, error messages, and solutions you’ve already tried."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Think before you post! "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Edit\/delete",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " your messages if needed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cultivate a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "positive atmosphere",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and be aware of "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.verywellmind.com\/what-is-groupthink-2795213",
+                                        "text": "groupthink"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Respond to those who have attempted to assist you with a “"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "thank you",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "” "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "pray",
+                                        "unicode": "1f64f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Support ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "our peers and professor where applicable."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Email ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "your professor privately with personal questions and grade concerns."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please confirm your agreement of this rules with a thumbs up ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " emoji.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673205912.456889",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1676523953.312359",
+        "reply_users": [
+            "U04KSBEMPDY",
+            "U04M8MADT4Y",
+            "U04M1SQ1B7D",
+            "U04K91MUE9Z",
+            "U04MH376FT6",
+            "U04MUERAPS5",
+            "U04MD203YJZ",
+            "U04PY45ETRS"
+        ],
+        "replies": [
+            {
+                "user": "U04KSBEMPDY",
+                "ts": "1674189778.238129"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1674688704.698429"
+            },
+            {
+                "user": "U04M1SQ1B7D",
+                "ts": "1675052507.993389"
+            },
+            {
+                "user": "U04K91MUE9Z",
+                "ts": "1675114024.229809"
+            },
+            {
+                "user": "U04MH376FT6",
+                "ts": "1675202430.843969"
+            },
+            {
+                "user": "U04MUERAPS5",
+                "ts": "1675222626.190919"
+            },
+            {
+                "user": "U04MD203YJZ",
+                "ts": "1675225407.227889"
+            },
+            {
+                "user": "U04PY45ETRS",
+                "ts": "1676523953.312359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676523953.312359",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JYA33E9Z",
+                    "U04KCLBBHDF",
+                    "U04KASKBBC4",
+                    "U04K91MUE9Z",
+                    "U04KAKV7N7L",
+                    "U04JWGYC9JT",
+                    "U04KB1Z9EKD",
+                    "U04KBBG47TM",
+                    "U04JX0Q745V",
+                    "U04KBHXKQF4",
+                    "U04L1A0LWPJ",
+                    "U04KQGC6X4Z",
+                    "U04KEJUNAJG",
+                    "U04KF4BJLMS",
+                    "U04K6BYPJES",
+                    "U04JYFT8ABH",
+                    "U04KJJ8QD6Y",
+                    "U04KJP8KMAQ",
+                    "U04KK75LT0U",
+                    "U04KE3VL2JH",
+                    "U04KACQ0K38",
+                    "U04KKRC0ZRA",
+                    "U04KHAY0UM9",
+                    "U04KHN8U3FC",
+                    "U04L7M890E4",
+                    "U04KBRD8ESJ",
+                    "U04K42C14HM",
+                    "U04L8MFMR5W",
+                    "U04KCGR3C4E",
+                    "U04L7V1MBK2",
+                    "U04KKA31SG2",
+                    "U04KKBWHMCL",
+                    "U04KMTVDCQ4",
+                    "U04KXUSD00Z",
+                    "U04KY6FU2GZ",
+                    "U04KKLE7Y75",
+                    "U04KXNRMAG1",
+                    "U04KRAPHL4U",
+                    "U04KPRUQ78T",
+                    "U04K9DQ2NEB",
+                    "U04K4A5B7JB",
+                    "U04K9S07JRM",
+                    "U04KMHZ46GM",
+                    "U04L3C880PK",
+                    "U04KANQ8EKZ",
+                    "U04KR96P71Q",
+                    "U04KAMMBV1V",
+                    "U04L441HZ8R",
+                    "U04KRGGUU9Y"
+                ],
+                "count": 321
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04JVCE8GA1",
+                    "U04KACQ0K38",
+                    "U04KHN8U3FC",
+                    "U04LHGC3S1M",
+                    "U04ME79DU2C",
+                    "U04LKH5DBFS",
+                    "U04KHC6L3T9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04KACQ0K38",
+                    "U04KHN8U3FC",
+                    "U04L96ZG1C1",
+                    "U04L5H05V8W",
+                    "U04LHGC3S1M",
+                    "U04ME79DU2C",
+                    "U04MBA0077E",
+                    "U04LKH5DBFS",
+                    "U04KHC6L3T9"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1",
+                    "U04KKDA7FQT",
+                    "U04M8MADT4Y",
+                    "U04M3QWSG5P",
+                    "U04LYM9UDP0"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U04KHFE00F9",
+                    "U04LFF8BL2Z",
+                    "U04MB00LANM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04LHGC3S1M",
+                    "U04ME79DU2C",
+                    "U04M8TJKPQE",
+                    "U04LKH5DBFS",
+                    "U04KHC6L3T9"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

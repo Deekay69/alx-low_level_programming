@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "82e84fea-7d9a-41ce-bb75-c0eb21ca9d2c",
+        "type": "message",
+        "text": "7.Cultivate a *positive atmosphere* and be aware of <https:\/\/www.verywellmind.com\/what-is-groupthink-2795213|groupthink>.",
+        "user": "U04NY3XGSMP",
+        "ts": "1675830608.610839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ng2zK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7.Cultivate a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "positive atmosphere",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and be aware of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.verywellmind.com\/what-is-groupthink-2795213",
+                                "text": "groupthink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ge3d3ad0603b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e3d3ad0603bdf6d91f26a8551850a817.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Victoria",
+            "real_name": "Victoria Guerrero",
+            "display_name": "Victoria Guerrero",
+            "team": "T04HC2CMNJ0",
+            "name": "victoria.guerrero2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.verywellmind.com\/what-is-groupthink-2795213",
+                "image_url": "https:\/\/www.verywellmind.com\/thmb\/p9dX9o2uqgwklfuJlQzh4bSam1s=\/2120x0\/filters:no_upscale():max_bytes(150000):strip_icc()\/GettyImages-517044699-5aa5ed828e1b6e003672dc54.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 128440,
+                "service_icon": "https:\/\/www.verywellmind.com\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.verywellmind.com\/what-is-groupthink-2795213",
+                "fallback": "Verywell Mind: The Psychology Behind Why We Strive for Consensus",
+                "text": "People often strive for consensus in groups, a phenomenon is known as groupthink. Learn more about groupthink and how it impacts human behavior.",
+                "title": "The Psychology Behind Why We Strive for Consensus",
+                "title_link": "https:\/\/www.verywellmind.com\/what-is-groupthink-2795213",
+                "service_name": "Verywell Mind"
+            }
+        ]
+    }
+]

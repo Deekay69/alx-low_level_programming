@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "A38FE8A6-E78E-4D1F-9F96-6EA9277EE8D6",
+        "type": "message",
+        "text": ":+1::skin-tone-5: ",
+        "user": "U04P11Z1MK2",
+        "ts": "1675724404.770869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d-1f3fe",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "aa7b5f99b697",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-06\/4772020438577_aa7b5f99b697851801b3_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Akinwunmi",
+            "display_name": "Josh A",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.akinwunmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

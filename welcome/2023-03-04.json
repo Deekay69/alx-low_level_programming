@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "08243a31-e4ae-4bf0-b16e-9daafc30c3a7",
+        "type": "message",
+        "text": "Think before you post! Edit\/delete your messages if needed.",
+        "user": "U04M8LV9DPF",
+        "ts": "1677975018.854609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Think before you post! Edit\/delete your messages if needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ddad03c26fed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4730425408566_ddad03c26fed8d8cd69d_72.jpg",
+            "first_name": "Sonia",
+            "real_name": "Sonia Tiofack",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "sonia.tiofack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31d033d3-8d5e-48f8-b655-e39a888626c5",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04M8LV9DPF",
+        "ts": "1677975037.544779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7v17r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ddad03c26fed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4730425408566_ddad03c26fed8d8cd69d_72.jpg",
+            "first_name": "Sonia",
+            "real_name": "Sonia Tiofack",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "sonia.tiofack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "5a11d1dc-a2c0-42ec-bcd5-c510051d2b44",
+        "type": "message",
+        "text": "Thanks for your helpful response, Vicente!",
+        "user": "U04GV2EK7UP",
+        "ts": "1674041892.017049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FzSFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your helpful response, Vicente!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674026433.570809",
+        "parent_user_id": "U04K9V1MEUD"
+    },
+    {
+        "client_msg_id": "410be75a-267f-49e7-bd3a-c7aba30ca547",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04KXNRMAG1",
+        "ts": "1674091310.693629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=r0JQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gc67cc7a4e2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c67cc7a4e2df75dcfcef6923be2732c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Noel",
+            "real_name": "Noel Abrego",
+            "display_name": "Noel Abrego",
+            "team": "T04HC2CMNJ0",
+            "name": "noel.abrego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60628418-1e5e-42bc-8321-62bd8525022e",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04KXUSD00Z",
+        "ts": "1674095689.201109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "et7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "513524075859",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4669071757845_5135240758592f53845d_72.jpg",
+            "first_name": "Jesse",
+            "real_name": "Jesse Flores",
+            "display_name": "Jesse Flores",
+            "team": "T04HC2CMNJ0",
+            "name": "jesus.flores3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

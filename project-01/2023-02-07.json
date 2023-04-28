@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "83e27daa-dcf3-4cce-ba26-7c8f8b3458e5",
+        "type": "message",
+        "text": "Hello, it saids \"Click on the discussion forum link and start a thread\" I don't see a Discussion Thread. Where is it?",
+        "user": "U04LC0ZBF27",
+        "ts": "1675821768.005499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, it saids \"Click on the discussion forum link and start a thread\" I don't see a Discussion Thread. Where is it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gcfc2afa823b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cfc2afa823ba1707cefe289421104427.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew R. Johnson",
+            "display_name": "Matthew R. Johnson",
+            "team": "T04HC2CMNJ0",
+            "name": "matthew.johnson4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675821768.005499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675821935.851059",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675821935.851059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675821935.851059"
+    },
+    {
+        "client_msg_id": "d38824f9-1c45-4e2a-a5b4-f2f0297e091d",
+        "type": "message",
+        "text": "Hi Matthew: First click on the title: *<https:\/\/utsa.blackboard.com\/webapps\/blackboard\/content\/launchLink.jsp?course_id=_241522_1&amp;content_id=_8390049_1&amp;mode=cpview|Discussion Project 01 | Cybersecurity Podcast Review | Part 01>* and then click on *Create Thread*.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675821935.851059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Matthew: First click on the title: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.blackboard.com\/webapps\/blackboard\/content\/launchLink.jsp?course_id=_241522_1&content_id=_8390049_1&mode=cpview",
+                                "text": "Discussion Project 01 | Cybersecurity Podcast Review | Part 01",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then click on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Create Thread",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675821768.005499",
+        "parent_user_id": "U04LC0ZBF27"
+    }
+]

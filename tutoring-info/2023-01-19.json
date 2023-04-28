@@ -1,0 +1,355 @@
+[
+    {
+        "client_msg_id": "f41d9306-9e55-4e02-a78f-986fb5574707",
+        "type": "message",
+        "text": "*Tutoring Guidelines*\nPlease keep these guidelines in mind when communicating with your tutors.\n1. You are welcome to post on Slack outside your tutor's posted hours, and they will respond during their next tutoring session if the question has not already been answered by one of your peers or an instructor. \n2. Please make a good faith effort at reading the materials and instructions and working on the material before contacting your tutors. \n3. Please start on your assignment and make notes of your issue before posting on Slack and\/or contacting your tutors.\n4. If you are posting an issue on Slack, please outline your issue on one of the public channels so that your peers can chime in with advice, or can learn from any insights that are posted. \n5. Please contact your tutor with a description of the issue, including the following:\n    ◦ The lab name\n    ◦ The step on which you are stuck\n    ◦ The error message(s) you are receiving\n    ◦ Screenshots of your current status\/error\n6. You are welcome to DM your tutor; please include your instructor on any correspondence.  ",
+        "user": "U04GV2EK7UP",
+        "ts": "1674135571.863989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tutoring Guidelines",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease keep these guidelines in mind when communicating with your tutors.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You are welcome to post on Slack outside your tutor's posted hours, and they will respond during their next tutoring session if the question has not already been answered by one of your peers or an instructor. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please make a good faith effort at reading the materials and instructions and working on the material before contacting your tutors. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please start on your assignment and make notes of your issue before posting on Slack and\/or contacting your tutors."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you are posting an issue on Slack, please outline your issue on one of the public channels so that your peers can chime in with advice, or can learn from any insights that are posted. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please contact your tutor with a description of the issue, including the following:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The lab name"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The step on which you are stuck"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The error message(s) you are receiving"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Screenshots of your current status\/error"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You are welcome to DM your tutor; please include your instructor on any correspondence.  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 5,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb9b52c0-1047-4b15-82e2-51f349a29fd5",
+        "type": "message",
+        "text": "*Adiyta Dindi*\nHere is my zoom link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>\nI will be available on Zoom and Slack during these hours:\n• Mondays: 10 AM – 12 Noon\n• Tuesdays: 11:30 AM – 1:30 PM\n• Thursdays: 11:30 AM – 1:30 PM\n• Fridays: 9 AM – 12 Noon",
+        "user": "U04GV2EK7UP",
+        "ts": "1674135670.623089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Goo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adiyta Dindi",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHere is my zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will be available on Zoom and Slack during these hours:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mondays: 10 AM – 12 Noon"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tuesdays: 11:30 AM – 1:30 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursdays: 11:30 AM – 1:30 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fridays: 9 AM – 12 Noon"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1674135766.000000"
+        }
+    },
+    {
+        "client_msg_id": "9f9efb8c-b6e9-4675-a851-e6ceacc34c09",
+        "type": "message",
+        "text": "*Dana Mijangos*\nHere is my Zoom link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ekpsb01ON3pyTTNuTTJTYXhTZFZIZz09>\nI will be available on Zoom and Slack during these hours:\n• Tuesdays: 2 PM – 5 PM\n• Wednesdays: 10 AM – 1 PM\n• Thursdays: 2 PM – 5 PM\n",
+        "user": "U04GV2EK7UP",
+        "ts": "1674135738.789329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dana Mijangos",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHere is my Zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ekpsb01ON3pyTTNuTTJTYXhTZFZIZz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will be available on Zoom and Slack during these hours:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tuesdays: 2 PM – 5 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wednesdays: 10 AM – 1 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursdays: 2 PM – 5 PM"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

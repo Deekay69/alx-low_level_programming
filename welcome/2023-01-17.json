@@ -1,0 +1,656 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673963786.723839",
+        "user": "U04KASKBBC4",
+        "text": "<@U04KASKBBC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673969939.731869",
+        "user": "U04K91MUE9Z",
+        "text": "<@U04K91MUE9Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673978972.931509",
+        "user": "U04KCMLDMPE",
+        "text": "<@U04KCMLDMPE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673982824.987629",
+        "user": "U04KAKV7N7L",
+        "text": "<@U04KAKV7N7L> has joined the channel"
+    },
+    {
+        "client_msg_id": "3f262099-8ca3-409d-8cf8-bd364158b36b",
+        "type": "message",
+        "text": "Hello Ma'am, hope all is well on this first day of spring simester. Just wondering, where I should paste the copy of wellcome guideline",
+        "user": "U04KAKV7N7L",
+        "ts": "1673983921.719289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Ma'am, hope all is well on this first day of spring simester. Just wondering, where I should paste the copy of wellcome guideline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2b5b3259cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2b5b3259cf2728dfd5f9d109b606ac14.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Serge",
+            "real_name": "Serge Shirvanian",
+            "display_name": "SERGE SHIRVANIAN",
+            "team": "T04HC2CMNJ0",
+            "name": "serge.shirvanian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673983921.719289",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1674607949.030399",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04L5GD9LQZ",
+            "U04KF4BJLMS",
+            "U04L5H05V8W"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1673992867.844219"
+            },
+            {
+                "user": "U04L5GD9LQZ",
+                "ts": "1674229849.325859"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674230228.520929"
+            },
+            {
+                "user": "U04L5GD9LQZ",
+                "ts": "1674230291.868509"
+            },
+            {
+                "user": "U04KF4BJLMS",
+                "ts": "1674490835.089329"
+            },
+            {
+                "user": "U04L5H05V8W",
+                "ts": "1674590272.728209"
+            },
+            {
+                "user": "U04L5H05V8W",
+                "ts": "1674590794.494189"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674607949.030399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674607949.030399"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673987314.503129",
+        "user": "U04JWGYC9JT",
+        "text": "<@U04JWGYC9JT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673988022.215729",
+        "user": "U04KB1Z9EKD",
+        "text": "<@U04KB1Z9EKD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673990671.975359",
+        "user": "U04KDSDECLC",
+        "text": "<@U04KDSDECLC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673991498.688069",
+        "user": "U04KBBG47TM",
+        "text": "<@U04KBBG47TM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992153.686969",
+        "user": "U04JX0Q745V",
+        "text": "<@U04JX0Q745V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992679.370209",
+        "user": "U04KBHXKQF4",
+        "text": "<@U04KBHXKQF4> has joined the channel"
+    },
+    {
+        "client_msg_id": "13711073-b3fa-4c26-aa98-187a261ebfeb",
+        "type": "message",
+        "text": "Hi Serge: Good question! Please include your guideline choice and your screenshot within your Lab 00 report.",
+        "user": "U04GV2EK7UP",
+        "ts": "1673992867.844219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8xq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Serge: Good question! Please include your guideline choice and your screenshot within your Lab 00 report."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673983921.719289",
+        "parent_user_id": "U04KAKV7N7L",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04LTUDMSSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673993045.431619",
+        "user": "U04L1A0LWPJ",
+        "text": "<@U04L1A0LWPJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673996736.908549",
+        "user": "U04KQGC6X4Z",
+        "text": "<@U04KQGC6X4Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001068.710269",
+        "user": "U04KEJUNAJG",
+        "text": "<@U04KEJUNAJG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001472.969409",
+        "user": "U04L1S6GGU8",
+        "text": "<@U04L1S6GGU8> has joined the channel"
+    },
+    {
+        "client_msg_id": "ef5eac1e-d976-4dd4-b054-25a99cfd17fb",
+        "type": "message",
+        "text": "Hello! Are we supposed to use the lab template for lab 00 or are we just following the steps as given and the template is for following labs?",
+        "user": "U04KEJUNAJG",
+        "ts": "1674001877.597439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBT9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Are we supposed to use the lab template for lab 00 or are we just following the steps as given and the template is for following labs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674001877.597439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674004681.651229",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674004681.651229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674004681.651229"
+    },
+    {
+        "client_msg_id": "53ae14ca-350d-4448-8cff-82f459c12340",
+        "type": "message",
+        "text": "I finished the lab today, and you are supposed to use the lab template. The lab itself walks you through filling it out.",
+        "user": "U04JWGYC9JT",
+        "ts": "1674003028.309129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iWD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I finished the lab today, and you are supposed to use the lab template. The lab itself walks you through filling it out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674003028.309129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674004616.374929",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674004616.374929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674004616.374929",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "538c8fc0-f7ab-4dd4-adf3-426277b750eb",
+        "type": "message",
+        "text": "Thanks for your comment, <@U04JWGYC9JT>! This is exactly correct. :-)",
+        "user": "U04GV2EK7UP",
+        "ts": "1674004616.374929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWTp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your comment, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is exactly correct. :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674003028.309129",
+        "parent_user_id": "U04JWGYC9JT"
+    },
+    {
+        "client_msg_id": "38c98a8c-d2ac-4e1e-ba13-b52942f4f368",
+        "type": "message",
+        "text": "Hi Nathanael: Thanks for your question! Please see <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04H6L414F7\/p1674003028309129|Xander's> response below.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674004681.651229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nathanael: Thanks for your question! Please see "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04H6L414F7\/p1674003028309129",
+                                "text": "Xander's"
+                            },
+                            {
+                                "type": "text",
+                                "text": " response below."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04H6L414F7\/p1674003028309129",
+                "ts": "1674003028.309129",
+                "author_id": "U04JWGYC9JT",
+                "channel_id": "C04H6L414F7",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "welcome",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04H6L414F7",
+                        "ts": "1674003028.309129",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "2iWD",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "I finished the lab today, and you are supposed to use the lab template. The lab itself walks you through filling it out."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04H6L414F7\/p1674003028309129",
+                "fallback": "[January 17th, 2023 4:50 PM] xander.newlun: I finished the lab today, and you are supposed to use the lab template. The lab itself walks you through filling it out.",
+                "text": "I finished the lab today, and you are supposed to use the lab template. The lab itself walks you through filling it out.",
+                "author_name": "Xander Newlun",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04JWGYC9JT",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "author_subname": "Xander Newlun",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #welcome"
+            }
+        ],
+        "thread_ts": "1674001877.597439",
+        "parent_user_id": "U04KEJUNAJG"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674008513.669979",
+        "user": "U04KCGCUXH8",
+        "text": "<@U04KCGCUXH8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674009173.100919",
+        "user": "U04L288QDJ4",
+        "text": "<@U04L288QDJ4> has joined the channel"
+    },
+    {
+        "client_msg_id": "6f879729-9ef8-4cb7-9d86-d146e9fb0d8a",
+        "type": "message",
+        "text": "What would we need to screenshot for the first step?",
+        "user": "U04K6BYPJES",
+        "ts": "1674019552.885989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What would we need to screenshot for the first step?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2a9dd6aef7d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a9dd6aef7d320c27f60ab763fbce4b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Martin",
+            "real_name": "Martin Da Jose",
+            "display_name": "Martin Da Jose",
+            "team": "T04HC2CMNJ0",
+            "name": "martin.dajose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f62c373-9f75-4c1a-81c3-c5a15a4cff7b",
+        "type": "message",
+        "text": "<@U04K6BYPJES> for Breakoutpoint one (1) it states to screenshot your slack profile with an explanation of the screenshot. Your profile icon will be located in the top right corner of Slack. I also do recommend watching the Lab 00 Video Overview, It covers the Lab down to a T. I hope this helps, please feel free to reach out to me for any other questions!",
+        "user": "U04K9V1MEUD",
+        "ts": "1674026433.570809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U0uq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04K6BYPJES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for Breakoutpoint one (1) it states to screenshot your slack profile with an explanation of the screenshot. Your profile icon will be located in the top right corner of Slack. I also do recommend watching the Lab 00 Video Overview, It covers the Lab down to a T. I hope this helps, please feel free to reach out to me for any other questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a98fcc60241d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4685000287285_a98fcc60241dd01fc994_72.png",
+            "first_name": "Vicente",
+            "real_name": "Vicente De La Cerda",
+            "display_name": "Vicente De La Cerda",
+            "team": "T04HC2CMNJ0",
+            "name": "vicente.delacerda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04K9V1MEUD",
+            "ts": "1674026513.000000"
+        },
+        "thread_ts": "1674026433.570809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674041892.017049",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674041892.017049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674041892.017049",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKDDCCE6",
+                    "U04K4D9UPBR",
+                    "U04KKBWHMCL",
+                    "U04KL98EXC6",
+                    "U04MUBAQXHP",
+                    "U04M9CZJSK0",
+                    "U04P11Z1MK2"
+                ],
+                "count": 7
+            },
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U04K4D9UPBR",
+                    "U04M8MADT4Y"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04LDFJAJNM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

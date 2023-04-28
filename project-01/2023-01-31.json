@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "300a8b07-129b-49e1-9cd8-200839803f99",
+        "type": "message",
+        "text": "Hi <@U04KZFVR030> For this class, I do not believe that we have the option to edit our posts.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675170981.720389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zira7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KZFVR030"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For this class, I do not believe that we have the option to edit our posts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675142051.379909",
+        "parent_user_id": "U04KZFVR030",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04KZFVR030"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c3e3473-1469-4581-81f2-e88744a3fc09",
+        "type": "message",
+        "text": "Alright, thank you Sara.",
+        "user": "U04KZFVR030",
+        "ts": "1675180108.290919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s1i35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright, thank you Sara."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gcd85cbfab67",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd85cbfab67984401876b65807b72a83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Christian",
+            "real_name": "Christian Albright",
+            "display_name": "Christian Albright",
+            "team": "T04HC2CMNJ0",
+            "name": "christian.albright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675142051.379909",
+        "parent_user_id": "U04KZFVR030",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12f5375a-69bf-43fa-8bbf-5a52793e5a97",
+        "type": "message",
+        "text": "Hi <@U04KZFVR030>: <@U04KKRC0ZRA> is correct! Thanks, Sara! However, you can reply to your own post with a revision if you'd like.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675180345.635729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KZFVR030"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is correct! Thanks, Sara! However, you can reply to your own post with a revision if you'd like."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675142051.379909",
+        "parent_user_id": "U04KZFVR030",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KZFVR030"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,699 @@
+[
+    {
+        "client_msg_id": "0B871D75-7F4B-4476-9F13-F33C20DFEF54",
+        "type": "message",
+        "text": "For part 2 are we supposed to make a word doc or can it be any form of document as long as we ensure it’s a PSA of the topic?",
+        "user": "U04KEU53M9D",
+        "ts": "1680617991.954819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For part 2 are we supposed to make a word doc or can it be any form of document as long as we ensure "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a PSA of the topic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7430884b77ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4699231807424_7430884b77ec68e058b7_72.png",
+            "first_name": "Loimata",
+            "real_name": "Loimata Tufono",
+            "display_name": "Loi",
+            "team": "T04HC2CMNJ0",
+            "name": "loi.tufono",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680617991.954819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680618429.005189",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680618429.005189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680618429.005189"
+    },
+    {
+        "client_msg_id": "491b9205-8004-49d7-b827-53749de90e84",
+        "type": "message",
+        "text": "Hi Loimata: We'd prefer a PDF to a Word document, but either is acceptable. The main thing it to provide a link to it in some kind of online space (for example, your OneDrive account).",
+        "user": "U04GV2EK7UP",
+        "ts": "1680618429.005189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wueS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Loimata: We'd prefer a PDF to a Word document, but either is acceptable. The main thing it to provide a link to it in some kind of online space (for example, your OneDrive account)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680617991.954819",
+        "parent_user_id": "U04KEU53M9D"
+    },
+    {
+        "client_msg_id": "ccd722dd-e863-487a-a6e1-8b06913117aa",
+        "type": "message",
+        "text": "Should this psa be one page of regular text or include some sort of image to make it more readable if printed and taped to a wall somewhere",
+        "user": "U04KSDYV8DQ",
+        "ts": "1680660413.417589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hc9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should this psa be one page of regular text or include some sort of image to make it more readable if printed and taped to a wall somewhere"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1680662843.384169",
+        "reply_users": [
+            "U04KSDYV8DQ",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KSDYV8DQ",
+                "ts": "1680660435.898649"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680660577.600609"
+            },
+            {
+                "user": "U04KSDYV8DQ",
+                "ts": "1680660823.851149"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680660907.105409"
+            },
+            {
+                "user": "U04KSDYV8DQ",
+                "ts": "1680660973.965259"
+            },
+            {
+                "user": "U04KSDYV8DQ",
+                "ts": "1680662695.703399"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680662843.384169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680662843.384169"
+    },
+    {
+        "client_msg_id": "2b1e3817-377a-453d-bceb-1a9e5fc4dca3",
+        "type": "message",
+        "text": "I am mostly asking about how \"wordy\" it should be.",
+        "user": "U04KSDYV8DQ",
+        "ts": "1680660435.898649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zr=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am mostly asking about how \"wordy\" it should be."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    },
+    {
+        "client_msg_id": "70FA41C9-E773-4407-B041-F39377538E28",
+        "type": "message",
+        "text": "I would look at it from a typical layperson’s perspective and consider what would be most effective. Typically, lots of words in small font will not be read but at the same time, you want enough information to be useful. ",
+        "user": "U04GV2EK7UP",
+        "ts": "1680660577.600609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would look at it from a typical "
+                            },
+                            {
+                                "type": "text",
+                                "text": "layperson’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " perspective and consider what would be most effective. Typically, lots of words in small font will not be read but at the same time, you want enough information to be useful. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    },
+    {
+        "client_msg_id": "5498e9a9-91c9-4d12-b26b-360d0eada903",
+        "type": "message",
+        "text": "Thank you, should this be inviting someone to learn more about a subject at a meeting\/event or try to get the message across during the short read",
+        "user": "U04KSDYV8DQ",
+        "ts": "1680660823.851149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, should this be inviting someone to learn more about a subject at a meeting\/event or try to get the message across during the short read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    },
+    {
+        "client_msg_id": "d2d32379-78bc-4205-abe5-3f35df96020b",
+        "type": "message",
+        "text": "I would say the latter, unless you indicate that you are planning the meeting\/event as part of the project.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680660907.105409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say the latter, unless you indicate that you are planning the meeting\/event as part of the project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    },
+    {
+        "client_msg_id": "701e0277-f3f5-4175-be7d-f8fcbd4c0fb3",
+        "type": "message",
+        "text": "Understood, thank you!",
+        "user": "U04KSDYV8DQ",
+        "ts": "1680660973.965259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X=N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Understood, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d8f94fa-89e8-47bd-8060-1b7eca8dfddf",
+        "type": "message",
+        "text": "do you think you could look at my link to see if I am doing assignment correctly?",
+        "user": "U04KSDYV8DQ",
+        "ts": "1680662695.703399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+iGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you think you could look at my link to see if I am doing assignment correctly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    },
+    {
+        "client_msg_id": "ff64a432-b3ab-413d-8552-5ce3f4d837be",
+        "type": "message",
+        "text": "I'm placing <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSL60KLM\/p1680637179098149|this information> about how to share a OneDrive link here as well as in module-06 in case helpful.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680662814.934149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm placing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSL60KLM\/p1680637179098149",
+                                "text": "this information"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about how to share a OneDrive link here as well as in module-06 in case helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1680774999.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSL60KLM\/p1680637179098149",
+                "ts": "1680637179.098149",
+                "author_id": "U04GV2EK7UP",
+                "channel_id": "C04JSL60KLM",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "module-06",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04JSL60KLM",
+                        "ts": "1680637179.098149",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "4fWWb",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hi all: To share your uploaded file with others, there are about three steps. First, select \"Share\" from the three dots in the middle column of your file column.\n\nThen, select "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "People in University t...t San Antonio",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "View",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", and "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Block Download",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ". Then copy the link. This is the link you will place in Blackboard, as a reply to your own initial post. You can say something like: Here is my PSA: <link>."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F051CQHE423",
+                        "created": 1680636941,
+                        "timestamp": 1680636941,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U04GV2EK7UP",
+                        "user_team": "T04HC2CMNJ0",
+                        "editable": false,
+                        "size": 7219,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051CQHE423\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051CQHE423\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360_w": 211,
+                        "thumb_360_h": 141,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "original_w": 211,
+                        "original_h": 141,
+                        "thumb_tiny": "AwAgADDRwfWlpaKAEopT044pAGzy2fwoAKKWigAzRmkxRtoAMg0Dj1pCuOnekx7frQA\/NGaZg+lOGaAP\/9k=",
+                        "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F051CQHE423\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F051CQHE423-ca32a0ed74",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    },
+                    {
+                        "id": "F051VR2QT3N",
+                        "created": 1680637073,
+                        "timestamp": 1680637073,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U04GV2EK7UP",
+                        "user_team": "T04HC2CMNJ0",
+                        "editable": false,
+                        "size": 56948,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051VR2QT3N\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051VR2QT3N\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360_w": 300,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_480_w": 400,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_720_w": 600,
+                        "thumb_720_h": 720,
+                        "original_w": 602,
+                        "original_h": 723,
+                        "thumb_tiny": "AwAwACfRw2e2PpSgHPJB\/CkwMn7tKMDpigBaKMj1ooAZL\/qjVWrMxHlsMjtVbI9aALZwe36UYHp+lBAJ5HTpSjjtQAYHpS4oooAjm\/1bVWq1N\/qmqr+FAFtgP8ilBo3L6j86Ny+o\/OiwC0jsEUsc4HoKbI52Hyypbtk0yN5MnzCmMcYNAhZGDQkjP5VXqxKwMR5H51X\/ABoGf\/\/Z",
+                        "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F051VR2QT3N\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F051VR2QT3N-dcfeabbf9e",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSL60KLM\/p1680637179098149",
+                "fallback": "[April 4th, 2023 12:39 PM] rita.mitra: Hi all: To share your uploaded file with others, there are about three steps. First, select \"Share\" from the three dots in the middle column of your file column.\n\nThen, select *People in University t...t San Antonio*, *View*, and *Block Download*. Then copy the link. This is the link you will place in Blackboard, as a reply to your own initial post. You can say something like: Here is my PSA: &lt;link&gt;.",
+                "text": "Hi all: To share your uploaded file with others, there are about three steps. First, select \"Share\" from the three dots in the middle column of your file column.\n\nThen, select *People in University t...t San Antonio*, *View*, and *Block Download*. Then copy the link. This is the link you will place in Blackboard, as a reply to your own initial post. You can say something like: Here is my PSA: &lt;link&gt;.",
+                "author_name": "Rita Mitra",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04GV2EK7UP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_48.png",
+                "author_subname": "Rita Mitra",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Posted in #module-06"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d053c56-0d0c-4cfe-9847-08eb69ab38b9",
+        "type": "message",
+        "text": "Sure.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680662843.384169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIvX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680660413.417589",
+        "parent_user_id": "U04KSDYV8DQ"
+    }
+]

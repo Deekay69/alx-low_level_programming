@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "ba0499e5-64f9-4127-936f-cd4b90ee5907",
+        "type": "message",
+        "text": ":mega: Hi all: Dana's tutoring hours on *Tuesday, April 4,* have been rescheduled due to a class assignment.\nShe will be available on Zoom and Slack during these hours the week of April 3:\n• *Monday, April 3: 6 PM – 9 PM (instead of Tuesday)*\n• Wednesday: 10 AM – 1 PM (as usual)\n• Thursday: 2 PM – 5 PM (as usual)",
+        "user": "U04GV2EK7UP",
+        "ts": "1680489901.835919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5bPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all: Dana's tutoring hours on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tuesday, April 4,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " have been rescheduled due to a class assignment.\nShe will be available on Zoom and Slack during these hours the week of April 3:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Monday, April 3: 6 PM – 9 PM (instead of Tuesday)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wednesday: 10 AM – 1 PM (as usual)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursday: 2 PM – 5 PM (as usual)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1680490790.000000"
+        }
+    }
+]

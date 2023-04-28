@@ -1,0 +1,337 @@
+[
+    {
+        "type": "message",
+        "text": "Hi all: Job\/internship\/career ops can be posted on this channel by anyone. Here is one!\n\nCore4ce, an innovative, cutting-edge cyber analytics firm, is holding a Technical Skills workshop 11 AM - Noon February 3, in person at the SSC. If you're around and able to make it, please do, and then, if you can share their tips, that would be wonderful! Please see attached flyer. Thank you!",
+        "files": [
+            {
+                "id": "F04L8DPATV5",
+                "created": 1674742207,
+                "timestamp": 1674742207,
+                "name": "Technical Skills with Core4ce - Feb. 3.pdf",
+                "title": "Technical Skills with Core4ce - Feb. 3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 133448,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L8DPATV5\/technical_skills_with_core4ce_-_feb._3.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L8DPATV5\/download\/technical_skills_with_core4ce_-_feb._3.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L8DPATV5-96cc14a727\/technical_skills_with_core4ce_-_feb._3_thumb_pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04L8DPATV5\/technical_skills_with_core4ce_-_feb._3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L8DPATV5-f024914a0d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1674742218.694789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "al6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: Job\/internship\/career ops can be posted on this channel by anyone. Here is one!\n\nCore4ce, an innovative, cutting-edge cyber analytics firm, is holding a Technical Skills workshop 11 AM - Noon February 3, in person at the SSC. If you're around and able to make it, please do, and then, if you can share their tips, that would be wonderful! Please see attached flyer. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bfcf9275-8dfe-4f9c-a199-e5bc037e3dc3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04L4KYU5A7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi all: The next two weeks are career expo fairs galore!\n\n• The <https:\/\/careercenter.utsa.edu\/events\/2023\/02\/01\/utsa-spring-2023-stem-career-expo\/|UTSA Stem Career Expo> is next week. The <https:\/\/careercenter.utsa.edu\/events\/2023\/02\/08\/utsa-spring-2023-all-majors-career-expo\/|UTSA All Majors Career Expo> is the following week. \n• The HSI Career Fair at UTSA is being held *virtually* on Handshake on February 22: <https:\/\/careercenter.utsa.edu\/events\/2023\/02\/22\/hispanic-serving-institutions-hsi-virtual-career-fair\/>. \nPlease consider register for and attending one or more of these. Even if it's just to scope out the nature of a career fair, you will be more prepared for the next one. There are also several virtual prep sessions being offered that could be useful now and later. Please see the attached flyers for more info.\n\nFor any of these ops, if you do attend, please let everyone know how it went and what you learned! Thank you!",
+        "files": [
+            {
+                "id": "F04LGG047GW",
+                "created": 1674743559,
+                "timestamp": 1674743559,
+                "name": "UTSA All Expos.png",
+                "title": "UTSA All Expos.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 441456,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LGG047GW\/utsa_all_expos.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LGG047GW\/download\/utsa_all_expos.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LGG047GW-3d8e1f9fd6\/utsa_all_expos_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "original_w": 2550,
+                "original_h": 3300,
+                "thumb_tiny": "AwAwACWy8mGIyeuKidmcjDEAVNubnmPjryaY43fMdp7cE0DI9rYU7z1wcmnrI23nJx6UgxyBzke9SoWxgAceuaNRaDo23g+1Opv7z\/Y\/Wj95\/sfrQA0qmWJb689KQhApw3ofWlKoSxLfXmmlYwCQ39aBjQE3DDnPfANSq6gYG78QaiAUMMPg9DgEVKsigYDMfqCaZI8HIyKKAcjIopDGbFBJyeaaYVIwCfxp\/wC89E\/M03L\/AN1f1oAb5A4yR704\/u8BAPejL\/3V\/WkId+oXj6imA5WJznjmnZpio6jACfmaXD\/7P5mkB\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04LGG047GW\/utsa_all_expos.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LGG047GW-5883e3fbd1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04LP0V1FQB",
+                "created": 1674743565,
+                "timestamp": 1674743565,
+                "name": "UTSA HSI Career Expo Prep.png",
+                "title": "UTSA HSI Career Expo Prep.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 399772,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LP0V1FQB\/utsa_hsi_career_expo_prep.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LP0V1FQB\/download\/utsa_hsi_career_expo_prep.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LP0V1FQB-8460f8cf2d\/utsa_hsi_career_expo_prep_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "original_w": 2550,
+                "original_h": 3300,
+                "thumb_tiny": "AwAwACW28hQ9B7UzzBnp196bNIwcgRlsDrVcXYHZc+nP+NTq2XolqWGlYMQE6H+9QJmAzsGT\/tVWa8GSdoJ\/H\/GmfbT\/AM81\/M1WpPumlGzMuWUD0wc06obWXzoQ23bg4xU1AitOzeYQqAgDqe9UvOQHBji\/75q7O0gkO1VwOmcVU+1kdkP\/AAEf4UluypbIb9oTP+qjx\/uik+0J\/wA8o\/8AvkU77Yf7qn\/gI\/wo+2H+6v8A3yP8KogvWcnmW4JULg44HFT1BZyNLAGcAHOOBjNT0DK05l8zgqAOmaqfaJvRj\/wGtTmjJpJDbujK+0T+jflQbi4I4BH4Vq5PvTJM4GNx57UyRlo0jwAyj5s8ZGMipqbGDt5zye9OpDP\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04LP0V1FQB\/utsa_hsi_career_expo_prep.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LP0V1FQB-ee94494eaa",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "ts": "1674743655.842119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk4uB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: The next two weeks are career expo fairs galore!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/01\/utsa-spring-2023-stem-career-expo\/",
+                                        "text": "UTSA Stem Career Expo"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is next week. The "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/08\/utsa-spring-2023-all-majors-career-expo\/",
+                                        "text": "UTSA All Majors Career Expo"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is the following week. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The HSI Career Fair at UTSA is being held "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "virtually",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on Handshake on February 22: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/22\/hispanic-serving-institutions-hsi-virtual-career-fair\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPlease consider register for and attending one or more of these. Even if it's just to scope out the nature of a career fair, you will be more prepared for the next one. There are also several virtual prep sessions being offered that could be useful now and later. Please see the attached flyers for more info.\n\nFor any of these ops, if you do attend, please let everyone know how it went and what you learned! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "843fa253-0c3d-427b-86f2-389d950de08e",
+        "attachments": [
+            {
+                "from_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/01\/utsa-spring-2023-stem-career-expo\/",
+                "ts": 1670428511,
+                "image_url": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/images\/default-og-image.png?v=4.743.1.066",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 57427,
+                "service_icon": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/favicon.ico?v=4.743.1.066",
+                "id": 1,
+                "original_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/01\/utsa-spring-2023-stem-career-expo\/",
+                "fallback": "UTSA University Career Center: UTSA Spring 2023 STEM Career Expo",
+                "text": "The UTSA University Career Center invites you to attend the STEM Career Expo! Wednesday, February 1, 2023, from 2:00pm CST – 6:00pm CST at HEB Ballroom 1 &amp; 2 (Building across Freebirds &amp;a…",
+                "title": "UTSA Spring 2023 STEM Career Expo",
+                "title_link": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/01\/utsa-spring-2023-stem-career-expo\/",
+                "service_name": "UTSA University Career Center"
+            },
+            {
+                "from_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/08\/utsa-spring-2023-all-majors-career-expo\/",
+                "ts": 1670429323,
+                "image_url": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/images\/default-og-image.png?v=4.743.1.066",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 57427,
+                "service_icon": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/favicon.ico?v=4.743.1.066",
+                "id": 2,
+                "original_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/08\/utsa-spring-2023-all-majors-career-expo\/",
+                "fallback": "UTSA University Career Center: UTSA Spring 2023 All Majors Career Expo",
+                "text": "The UTSA University Career Center invites you to attend the All Majors Career Expo! Wednesday, February 8, 2023, from 2:00 pm CST – 6:00 pm CST at HEB Ballroom 1 &amp; 2 (Building across Free…",
+                "title": "UTSA Spring 2023 All Majors Career Expo",
+                "title_link": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/08\/utsa-spring-2023-all-majors-career-expo\/",
+                "service_name": "UTSA University Career Center"
+            },
+            {
+                "from_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/22\/hispanic-serving-institutions-hsi-virtual-career-fair\/",
+                "ts": 1670445646,
+                "image_url": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/images\/default-og-image.png?v=4.743.1.066",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 57427,
+                "service_icon": "https:\/\/cdn.uconnectlabs.com\/wp-content\/themes\/uConnect_UTSA\/favicon.ico?v=4.743.1.066",
+                "id": 3,
+                "original_url": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/22\/hispanic-serving-institutions-hsi-virtual-career-fair\/",
+                "fallback": "UTSA University Career Center: Hispanic Serving Institutions (HSI) Virtual Career Fair",
+                "text": "  The HSI Virtual Career Fair will be on February 22nd from 11:00am-4:00pm CST. Don’t miss this great opportunity to network and recruit students and alumni from 14 of the leading HSIs i…",
+                "title": "Hispanic Serving Institutions (HSI) Virtual Career Fair",
+                "title_link": "https:\/\/careercenter.utsa.edu\/events\/2023\/02\/22\/hispanic-serving-institutions-hsi-virtual-career-fair\/",
+                "service_name": "UTSA University Career Center"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04M8MADT4Y",
+                    "U04M8TJKPQE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

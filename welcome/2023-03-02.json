@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "c62c610f-355c-41a8-8208-68a514b27ac0",
+        "type": "message",
+        "text": "8.Respond to those who have attempted to assist you with a “*thank you*” :pray:",
+        "user": "U04MMDG8T9P",
+        "ts": "1677774412.335409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy6vK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8.Respond to those who have attempted to assist you with a “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "thank you",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gae2e04203bd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ae2e04203bdea54e375e633ff980f7dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Angelina",
+            "real_name": "Angelina Palacios",
+            "display_name": "Angelina Palacios",
+            "team": "T04HC2CMNJ0",
+            "name": "angelina.palacios2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

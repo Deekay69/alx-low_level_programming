@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "82c92676-622e-4aa3-ae29-70e1864a9b51",
+        "type": "message",
+        "text": "9.*Support* our peers and professor where applicable.",
+        "user": "U04MFQRPFT6",
+        "ts": "1677603151.575289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "infH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9."
+                            },
+                            {
+                                "type": "text",
+                                "text": "Support ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "our peers and professor where applicable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "cf0c150bee9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4712832845991_cf0c150bee9fd7fbd9fd_72.png",
+            "first_name": "Leia",
+            "real_name": "Leia Pascone",
+            "display_name": "Leia Pascone",
+            "team": "T04HC2CMNJ0",
+            "name": "leia.pascone02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04PDQSLG03"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f28469bc-f3ea-4063-aeb1-d68c344a4e13",
+        "type": "message",
+        "text": "*10. Email* your professor privately with personal questions and grade concerns.",
+        "user": "U04PDQSLG03",
+        "ts": "1677613715.143859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/Xw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10. Email ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "your professor privately with personal questions and grade concerns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "669bd99a90ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4871419093429_669bd99a90abd5cdaf13_72.png",
+            "first_name": "Peter",
+            "real_name": "Peter Akinwunmi",
+            "display_name": "Peter Akinwunmi",
+            "team": "T04HC2CMNJ0",
+            "name": "peter.akinwunmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b00f32fe-d047-4a62-ae5a-9c7819d72f9e",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04PDQSLG03",
+        "ts": "1677613736.677899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWvLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "669bd99a90ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4871419093429_669bd99a90abd5cdaf13_72.png",
+            "first_name": "Peter",
+            "real_name": "Peter Akinwunmi",
+            "display_name": "Peter Akinwunmi",
+            "team": "T04HC2CMNJ0",
+            "name": "peter.akinwunmi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

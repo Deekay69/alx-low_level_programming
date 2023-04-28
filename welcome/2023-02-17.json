@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "e0a23aca-daf6-468e-97b1-b8f885661abc",
+        "type": "message",
+        "text": "9. *Support* our peers and professor where applicable.",
+        "user": "U04QAHSMK1A",
+        "ts": "1676682798.577479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Support ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "our peers and professor where applicable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gdfe6d2282da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe6d2282daecf2fc40cb484c710f7de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Diora",
+            "real_name": "Diora Meraz",
+            "display_name": "Diora Meraz",
+            "team": "T04HC2CMNJ0",
+            "name": "danielle.meraz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "b009d5d2-8465-453d-90ef-2f4a113af63e",
+        "type": "message",
+        "text": "Here is my new Zoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09>\nI will be available during these hours:\n• Tuesday: 6:00 PM – 9:00 PM (in-person @ the HUB BB 3.02.26 and Zoom)\n• Wednesday: 3:00 PM – 6:00 PM (Zoom only)\n• Saturday: 3:00 PM – 6:00 PM (Zoom only)\n",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1679785109.781219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is my new Zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will be available during these hours:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tuesday: 6:00 PM – 9:00 PM (in-person @ the HUB BB 3.02.26 and Zoom)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wednesday: 3:00 PM – 6:00 PM (Zoom only)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Saturday: 3:00 PM – 6:00 PM (Zoom only)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JVCE8GA1",
+                    "U04KHN8U3FC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

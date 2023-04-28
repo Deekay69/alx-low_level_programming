@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "07455c29-6edb-4269-80c0-5f3b3188d665",
+        "type": "message",
+        "text": "A little shortcut I accidentally found on the command terminal: if you're trying to show all files (including hidden files) you would type \"ls -a\", but instead you can type \"la\" it performs the same operation--saving you a few key strokes :]",
+        "user": "U04M20JS7D0",
+        "ts": "1677002862.795349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A little shortcut I accidentally found on the command terminal: if you're trying to show all files (including hidden files) you would type \"ls -a\", but instead you can type \"la\" it performs the same operation--saving you a few key strokes :]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bb7cefbe85ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-29\/4709428304902_bb7cefbe85ab203b5eec_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian Zapata",
+            "display_name": "Adrian",
+            "team": "T04HC2CMNJ0",
+            "name": "adrian.zapata2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04M20JS7D0",
+            "ts": "1677003167.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04KKRC0ZRA",
+                    "U04KSUAPWTX",
+                    "U04L46KHE82"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

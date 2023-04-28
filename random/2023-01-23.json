@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "text": "For anyone interested, here is a link to the UTSA Global Intelligence Association.",
+        "files": [
+            {
+                "id": "F04L9J33H1S",
+                "created": 1674522899,
+                "timestamp": 1674522899,
+                "name": "GLOBAL INTELLIGENCE ASSOCIATION. (2).pdf",
+                "title": "GLOBAL INTELLIGENCE ASSOCIATION. (2).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04JVCE8GA1",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 262816,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L9J33H1S\/global_intelligence_association.__2_.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L9J33H1S\/download\/global_intelligence_association.__2_.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L9J33H1S-61519ca4c2\/global_intelligence_association.__2__thumb_pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_pdf_w": 1980,
+                "thumb_pdf_h": 2640,
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04JVCE8GA1\/F04L9J33H1S\/global_intelligence_association.__2_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L9J33H1S-1c10dc2131",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04JVCE8GA1",
+        "display_as_bot": false,
+        "ts": "1674522951.946759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For anyone interested, here is a link to the UTSA Global Intelligence Association."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "08d4fd37-1887-4506-a324-1b5d857c4211",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04M8TJKPQE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U04L4KYU5A7",
+                    "U04KMTVDCQ4",
+                    "U04M8TJKPQE"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

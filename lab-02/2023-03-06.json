@@ -1,0 +1,225 @@
+[
+    {
+        "type": "message",
+        "text": "I'm stuck on Lab 02 Step 1.....Can anyone help me with this?",
+        "files": [
+            {
+                "id": "F04TA12SPPS",
+                "created": 1678124805,
+                "timestamp": 1678124805,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04M1CWSQKS",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 560243,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TA12SPPS\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TA12SPPS\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TA12SPPS-c198a5f9a0\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCIXtwf4h\/3yKQ3twP4h\/3yKhXvQcUDJft0\/wDfH\/fIo+3Tjo4\/75FQ4HrTcUwsWPt9x\/fH\/fIpfts5H3x\/3yKq04dKAsBJxjtTa2xaQf8APJaDaQZH7paAuYlFbLWsHP7paQ2sAx+7WgLmPTh0rYW1gIOYloNrB\/zyWgLn\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04M1CWSQKS\/F04TA12SPPS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TA12SPPS-e012a275b2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04M1CWSQKS",
+        "display_as_bot": false,
+        "ts": "1678124835.656919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DD=K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm stuck on Lab 02 Step 1.....Can anyone help me with this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6ab92b52-2f53-4e61-b777-fa061ef474cb",
+        "thread_ts": "1678124835.656919",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1679349788.599939",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04M1CWSQKS",
+            "U04M8MADT4Y"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1678125026.767419"
+            },
+            {
+                "user": "U04M1CWSQKS",
+                "ts": "1678125299.517479"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1679349788.599939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "84b1635c-4cc5-413a-a0c7-c0cebe9dcfc1",
+        "type": "message",
+        "text": "Hey Soohyun, I would recommended you update the machine before running the command again with: sudo apt-get update. If it still does not work, try: sudo apt get install git --fix-missing. If you are still having problems with installing git, feel free to hop onto a peer mentors zoom session and we can help you!",
+        "user": "U04KCMLDMPE",
+        "ts": "1678125026.767419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Amwxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Soohyun, I would recommended you update the machine before running the command again with: sudo apt-get update. If it still does not work, try: sudo apt get install git --fix-missing. If you are still having problems with installing git, feel free to hop onto a peer mentors zoom session and we can help you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KCMLDMPE",
+            "ts": "1678125091.000000"
+        },
+        "thread_ts": "1678124835.656919",
+        "parent_user_id": "U04M1CWSQKS",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04KMHZ46GM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U04M1CWSQKS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c6361a7-6310-4a45-9a0b-4ebdbf689682",
+        "type": "message",
+        "text": "Wow it worked!! Thank you so much!!",
+        "user": "U04M1CWSQKS",
+        "ts": "1678125299.517479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1sO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow it worked!! Thank you so much!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gecffad32c17",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ecffad32c17920e3d09fcc3b6119fc4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Soohyun",
+            "real_name": "Soohyun Lee",
+            "display_name": "Soohyun Lee",
+            "team": "T04HC2CMNJ0",
+            "name": "soohyun.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678124835.656919",
+        "parent_user_id": "U04M1CWSQKS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KCMLDMPE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

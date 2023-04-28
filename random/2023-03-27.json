@@ -1,0 +1,500 @@
+[
+    {
+        "client_msg_id": "5ddacb7a-a913-4cf4-9175-d18ed0bae5e9",
+        "type": "message",
+        "text": "This was <@U04KCMLDMPE> and I's RowdyHack project. A python tool that takes control of nearby DJI Tello Drones\n<https:\/\/devpost.com\/software\/tellovertake|https:\/\/devpost.com\/software\/tellovertake>",
+        "user": "U04JWGYC9JT",
+        "ts": "1679929452.808499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bm9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KCMLDMPE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I's RowdyHack project. A python tool that takes control of nearby DJI Tello Drones\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/devpost.com\/software\/tellovertake",
+                                "text": "https:\/\/devpost.com\/software\/tellovertake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/devpost.com\/software\/tellovertake",
+                "service_icon": "https:\/\/devpost.com\/favicon.ico",
+                "thumb_url": "https:\/\/d112y698adiu2z.cloudfront.net\/photos\/production\/software_thumbnail_photos\/002\/431\/486\/datas\/medium.jpg",
+                "thumb_width": 333,
+                "thumb_height": 222,
+                "id": 1,
+                "original_url": "https:\/\/devpost.com\/software\/tellovertake",
+                "fallback": "Devpost: TellOvertake",
+                "text": "We use wireless enumeration to detect and remotely hijack unsecured DJI Tello drones. A strong development path allows potential for adding more advanced offensive capabilities in the future.",
+                "title": "TellOvertake",
+                "title_link": "https:\/\/devpost.com\/software\/tellovertake",
+                "service_name": "Devpost"
+            }
+        ],
+        "thread_ts": "1679929452.808499",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1679930944.332699",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04JWGYC9JT"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679930216.069659"
+            },
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1679930598.032299"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679930944.332699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679930944.332699",
+        "reactions": [
+            {
+                "name": "clap::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4761ddc0-e6b2-411c-b92c-2cd974089cf8",
+        "type": "message",
+        "text": "Hi all:  *On 5 April from 1215-1500, NCTC Director Christy Abizaid (<https:\/\/outlook.office.com\/owa\/redir.aspx?REF=zRVkCiBiOi_oP1do3K8DQR3jGUR4fOWa_pPHznyVlhaDGij71C7bCAFodHRwczovL25hbTExLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuZG5pLmdvdiUyRmluZGV4LnBocCUyRm5jdGMtd2hvLXdlLWFyZSUyRmRpcmVjdG9yLW5jdGMmZGF0YT0wNSU3QzAxJTdDYW5nZWxpY2EuY29sbGF6byU0MHV0c2EuZWR1JTdDMTdiOWVlMzkzMTVhNDhjZTQzNGQwOGRiMmE1Y2FjNjIlN0MzYTIyOGRmYmM2NDc0NGNiODgzNTdiMjA2MTdmYzkwNiU3QzAlN0MxJTdDNjM4MTUwMzQ5NzY3MDY5MDcwJTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9M3NkUDJsMTZGR1JYOFdiY2ZDZkZHRUw0Q2lSME9NakhKQm43dkNrODdFbyUzRCZyZXNlcnZlZD0w|click here for her bio>) is coming to UTSA to meet with the National Security Collaboration Center (NSCC). She also wants, during this visit, to talk and engage with UTSA students interested in national security careers. This engagement opportunity will occur at the new downtown San Pedro building (506 Dolorosa St, San Antonio, TX 78204). There will be recruiters from the Office of the Director of National Intelligence (ODNI) and NCTC in attendance so this is an excellent opportunity to talk and make connections with senior government executives. For more information about the NCTC, please see this publication titled <https:\/\/outlook.office.com\/owa\/redir.aspx?REF=n3AdY0qah011TMXEU6mZABqWDUmn_0OPy3B76TzkdHODGij71C7bCAFodHRwczovL25hbTExLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuZG5pLmdvdiUyRmZpbGVzJTJGTkNUQyUyRmRvY3VtZW50cyUyRmZlYXR1cmVzX2RvY3VtZW50cyUyRkluc2lkZU5DVEMtMjAyMS5wZGYmZGF0YT0wNSU3QzAxJTdDYW5nZWxpY2EuY29sbGF6byU0MHV0c2EuZWR1JTdDMTdiOWVlMzkzMTVhNDhjZTQzNGQwOGRiMmE1Y2FjNjIlN0MzYTIyOGRmYmM2NDc0NGNiODgzNTdiMjA2MTdmYzkwNiU3QzAlN0MxJTdDNjM4MTUwMzQ5NzY3MDY5MDcwJTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9JTJCTkRKc2R5ZVZVeEIwZkMlMkZmeGFCTDhYdWhBNjJ2WTN0RnRlZ09aMlRmcjQlM0QmcmVzZXJ2ZWQ9MA..|NCTC 101>. If you have any questions, please feel free to email <mailto:grace.johnson@utsa.edu|grace.johnson@utsa.edu> for more information.*",
+        "user": "U04JVCE8GA1",
+        "ts": "1679929743.477689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all:  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "On 5 April from 1215-1500, NCTC Director Christy Abizaid (",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/outlook.office.com\/owa\/redir.aspx?REF=zRVkCiBiOi_oP1do3K8DQR3jGUR4fOWa_pPHznyVlhaDGij71C7bCAFodHRwczovL25hbTExLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuZG5pLmdvdiUyRmluZGV4LnBocCUyRm5jdGMtd2hvLXdlLWFyZSUyRmRpcmVjdG9yLW5jdGMmZGF0YT0wNSU3QzAxJTdDYW5nZWxpY2EuY29sbGF6byU0MHV0c2EuZWR1JTdDMTdiOWVlMzkzMTVhNDhjZTQzNGQwOGRiMmE1Y2FjNjIlN0MzYTIyOGRmYmM2NDc0NGNiODgzNTdiMjA2MTdmYzkwNiU3QzAlN0MxJTdDNjM4MTUwMzQ5NzY3MDY5MDcwJTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9M3NkUDJsMTZGR1JYOFdiY2ZDZkZHRUw0Q2lSME9NakhKQm43dkNrODdFbyUzRCZyZXNlcnZlZD0w",
+                                "text": "click here for her bio",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") is coming to UTSA to meet with the National Security Collaboration Center (NSCC). She also wants, during this visit, to talk and engage with UTSA students interested in national security careers. This engagement opportunity will occur at the new downtown San Pedro building (506 Dolorosa St, San Antonio, TX 78204). There will be recruiters from the Office of the Director of National Intelligence (ODNI) and NCTC in attendance so this is an excellent opportunity to talk and make connections with senior government executives. For more information about the NCTC, please see this publication titled ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/outlook.office.com\/owa\/redir.aspx?REF=n3AdY0qah011TMXEU6mZABqWDUmn_0OPy3B76TzkdHODGij71C7bCAFodHRwczovL25hbTExLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuZG5pLmdvdiUyRmZpbGVzJTJGTkNUQyUyRmRvY3VtZW50cyUyRmZlYXR1cmVzX2RvY3VtZW50cyUyRkluc2lkZU5DVEMtMjAyMS5wZGYmZGF0YT0wNSU3QzAxJTdDYW5nZWxpY2EuY29sbGF6byU0MHV0c2EuZWR1JTdDMTdiOWVlMzkzMTVhNDhjZTQzNGQwOGRiMmE1Y2FjNjIlN0MzYTIyOGRmYmM2NDc0NGNiODgzNTdiMjA2MTdmYzkwNiU3QzAlN0MxJTdDNjM4MTUwMzQ5NzY3MDY5MDcwJTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9JTJCTkRKc2R5ZVZVeEIwZkMlMkZmeGFCTDhYdWhBNjJ2WTN0RnRlZ09aMlRmcjQlM0QmcmVzZXJ2ZWQ9MA..",
+                                "text": "NCTC 101",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you have any questions, please feel free to email ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:grace.johnson@utsa.edu",
+                                "text": "grace.johnson@utsa.edu",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for more information.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Topping off of Professor Collazo's excellent opportunity above, please note that the ODNI will also be at UTSA's Alvarez SSC the next day, April 6, for *ODNI's National Counterterrorism Center – Information Session*\n• Thursday, April 6, 2023 | 10 – 1 p.m. | Alvarez Student Success Center | Business Building Room 2.01.08\n• The Alvarez Student Success Center invite you to a private session with the *ODNI's National Counterterrorism Center – Information Session*. Learn about their job opportunities and receive feedback on your resume and interview tips from professionals. \n• *Open to all UTSA Majors |* RSVP : <https:\/\/conta.cc\/3TFzkFb>  \nPlease see the attached flyer.",
+        "files": [
+            {
+                "id": "F050F7C4KK4",
+                "created": 1679930014,
+                "timestamp": 1679930014,
+                "name": "ODNI Info Session.jpg",
+                "title": "ODNI Info Session.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 297764,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F050F7C4KK4\/odni_info_session.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F050F7C4KK4\/download\/odni_info_session.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1036,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050F7C4KK4-01b8ae19e2\/odni_info_session_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "original_w": 1545,
+                "original_h": 2000,
+                "thumb_tiny": "AwAwACVgspVXDRISe5fFNNlLj7qf991rSFVQs3QCoIbiOZ9o3A9s96dwsZ\/2GbPIT\/vql+xS\/wB1P++61Mr70oVWHFFwsZX2Cc8hVx\/vUf2fcf3V\/wC+q2KKLisNkUPGyt0IqtBAsUm8sWIGBxVumPtRSzYAHtSGJlfenKwzgVGJYiQAwyTj7pqUKB6UALRRRQAVHOCYWABJ9BVE6jKOiJ09aYdSkP8AyzX8zQBYijkWVSUOM9au1lf2jJ\/zzX8zSjUpAPup+Zp2A1KKy\/7Tl\/uJ+tH9py\/880\/Wiwrn\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F050F7C4KK4\/odni_info_session.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F050F7C4KK4-04eb8ab157",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1679930034.395099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "accp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Topping off of Professor Collazo's excellent opportunity above, please note that the ODNI will also be at UTSA's Alvarez SSC the next day, April 6, for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ODNI's National Counterterrorism Center – Information Session",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Thursday, April 6, 2023 | 10 – 1 p.m. | Alvarez Student Success Center | Business Building Room 2.01.08"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Alvarez Student Success Center invite you to a private session with the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ODNI's National Counterterrorism Center – Information Session",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Learn about their job opportunities and receive feedback on your resume and interview tips from professionals. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open to all UTSA Majors | ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "RSVP : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/conta.cc\/3TFzkFb"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPlease see the attached flyer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a4c32b90-efc8-40c1-b17b-53b52edb06df",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9956947c-b6d3-445c-9d58-0c9d08229739",
+        "type": "message",
+        "text": "Wow, this is fantastic, Xander and Aditya (and Aidan), and all in 24 hours! Impressive!! It would be great if you could continue to implement the features you described, such as WPA-2 password cracking. Congratulations!",
+        "user": "U04GV2EK7UP",
+        "ts": "1679930216.069659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mk7dM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, this is fantastic, Xander and Aditya (and Aidan), and all in 24 hours! Impressive!! It would be great if you could continue to implement the features you described, such as WPA-2 password cracking. Congratulations!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679929452.808499",
+        "parent_user_id": "U04JWGYC9JT"
+    },
+    {
+        "client_msg_id": "4f34a001-b9c9-46dc-95af-66ad6044a75b",
+        "type": "message",
+        "text": "We were invited to a Drone competition in October to teach high schools about cyber security through drones, so we are going to finish this to demonstrate later. It was an amazing experience.",
+        "user": "U04JWGYC9JT",
+        "ts": "1679930598.032299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We were invited to a Drone competition in October to teach high schools about cyber security through drones, so we are going to finish this to demonstrate later. It was an amazing experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679929452.808499",
+        "parent_user_id": "U04JWGYC9JT"
+    },
+    {
+        "client_msg_id": "73b000db-ff26-4fe8-84ab-14a6b5674a05",
+        "type": "message",
+        "text": "What a wonderful next opportunity for you, and for the high school students. Awesome!! Thanks very much for sharing this with all of us :slightly_smiling_face:.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679930944.332699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGxhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What a wonderful next opportunity for you, and for the high school students. Awesome!! Thanks very much for sharing this with all of us "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679929452.808499",
+        "parent_user_id": "U04JWGYC9JT"
+    }
+]

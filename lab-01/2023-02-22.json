@@ -1,0 +1,653 @@
+[
+    {
+        "type": "message",
+        "text": "All the steps I did minus Device &gt; Optical Drive &gt; Remove device",
+        "files": [
+            {
+                "id": "F04QHNENN5C",
+                "created": 1677054372,
+                "timestamp": 1677054372,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04M0K3S5HD",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 22871,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QHNENN5C\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QHNENN5C\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QHNENN5C-15ba236a6e\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QHNENN5C-15ba236a6e\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QHNENN5C-15ba236a6e\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QHNENN5C-15ba236a6e\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 441,
+                "original_h": 248,
+                "thumb_tiny": "AwAaADCiD\/OlOM43D8qRf6inEnngdPWmUMJ98\/hRk09iSDkD86YRj0\/OgAyaCSaSigBy9Pxp\/O78KYvT8aHJDcGgBxxnnGfehsZ421HRQAp7dPwpKKKAP\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04M0K3S5HD\/F04QHNENN5C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QHNENN5C-b319582c03",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04M0K3S5HD",
+        "display_as_bot": false,
+        "ts": "1677054405.043649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FbxE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All the steps I did minus Device > Optical Drive > Remove device"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "189102e2-5d47-41de-bbeb-06627177a711",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04KMHZ46GM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04MLBLPMR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2de132a6-4771-45d4-aa15-9b448e5f163d",
+        "type": "message",
+        "text": "Try taking screenshots from your host machine using the Snipping Tool (as outlined in Lab 00).",
+        "user": "U04GV2EK7UP",
+        "ts": "1677057125.199739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/NVJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try taking screenshots from your host machine using the Snipping Tool (as outlined in Lab 00)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677036871.803849",
+        "parent_user_id": "U04MCFDK11T"
+    },
+    {
+        "client_msg_id": "557afb16-5dcf-4569-bedd-4f9f5521df90",
+        "type": "message",
+        "text": "Yes. You do not have to collaborate, but you do need to list something in your section indicating whether you did or not.",
+        "user": "U04GV2EK7UP",
+        "ts": "1677057235.413489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ow9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. You do not have to collaborate, but you do need to list something in your section indicating whether you did or not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677044404.015569",
+        "parent_user_id": "U04L7M890E4"
+    },
+    {
+        "type": "message",
+        "text": "I hit the windows button on my keyboard and then searched up task manager. I then clicked performance and then CPU. Listed near the bottom left was Virtualization which was already enabled.",
+        "files": [
+            {
+                "id": "F04QS0NGBL5",
+                "created": 1677100415,
+                "timestamp": 1677100415,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04P11Z1MK2",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 39867,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QS0NGBL5\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QS0NGBL5\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QS0NGBL5-57fac15fb2\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QS0NGBL5-57fac15fb2\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QS0NGBL5-57fac15fb2\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QS0NGBL5-57fac15fb2\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 361,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QS0NGBL5-57fac15fb2\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 702,
+                "original_h": 528,
+                "thumb_tiny": "AwAkADC+c44HPvQoJPIpxHtSgYFACAeooGR0A\/OnUUAJk+goyfSlooAaenr7Uo\/GlooATJo59qb1GMjNLgj0xQAvUUDNJztzThyBQA0sd2KTcaD9+kFADxyKWkXpS0AFFFFAH\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04P11Z1MK2\/F04QS0NGBL5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QS0NGBL5-d7cfbc5e58",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04P11Z1MK2",
+        "display_as_bot": false,
+        "ts": "1677100420.856369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k2e==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hit the windows button on my keyboard and then searched up task manager. I then clicked performance and then CPU. Listed near the bottom left was Virtualization which was already enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "80ecd305-8375-41ce-9b6c-aa874cd64467"
+    },
+    {
+        "type": "message",
+        "text": "VirtualBox Guest Additions software is installed, but I can't enable the Shared Clipboard, and Drag’n Drop support from the virtual machine settings “Storage” tab. The tabs are missing from the top of the machine.\n\nHere is what it should look like",
+        "files": [
+            {
+                "id": "F04QVBB4T1R",
+                "created": 1677107018,
+                "timestamp": 1677107018,
+                "name": "RG.PNG",
+                "title": "RG.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L4KYU5A7",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 97616,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QVBB4T1R\/rg.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QVBB4T1R\/download\/rg.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 187,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 250,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 375,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 499,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVBB4T1R-8a27e007fb\/rg_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 533,
+                "original_w": 1115,
+                "original_h": 580,
+                "thumb_tiny": "AwAYADCe+uBbsmU35B74qt\/aK\/8APAf99U7WPvRfQ\/0rOoGbkRWRFfaPmGcVLtT+6Kgt2Agj6\/dHapt49\/ypiKc94sMzR+SDjvmn2l2J5igiCcZzmq91bSy3DOi5U4xzTrCJ4bwq4wdmetIZPf2r3JTYQNuc5qp\/Zk395P1rXooEVES5RFQLEQox1NO\/0r+7F+ZqzRQBX23J6iMfif8ACkjhlF15r7cbduAas0UAf\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L4KYU5A7\/F04QVBB4T1R\/rg.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QVBB4T1R-5ab3d778e2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L4KYU5A7",
+        "display_as_bot": false,
+        "ts": "1677107104.791169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VirtualBox Guest Additions software is installed, but I can't enable the Shared Clipboard, and Drag’n Drop support from the virtual machine settings “Storage” tab. The tabs are missing from the top of the machine.\n\nHere is what it should look like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "49db3c44-8d01-4fdc-a11e-cdc407d44741"
+    },
+    {
+        "type": "message",
+        "text": "This is what I have my tabs are missing",
+        "files": [
+            {
+                "id": "F04QVF2J17U",
+                "created": 1677107134,
+                "timestamp": 1677107134,
+                "name": "Enabling the bidirectional shared clipboard_Lab01.PNG",
+                "title": "Enabling the bidirectional shared clipboard_Lab01.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L4KYU5A7",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 639813,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QVF2J17U\/enabling_the_bidirectional_shared_clipboard_lab01.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QVF2J17U\/download\/enabling_the_bidirectional_shared_clipboard_lab01.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 449,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 499,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 599,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QVF2J17U-9bc5c856f0\/enabling_the_bidirectional_shared_clipboard_lab01_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 639,
+                "original_w": 1309,
+                "original_h": 817,
+                "thumb_tiny": "AwAdADBtxcTxyuFkwA2MY9qj+2XH\/PU\/kKdef65xn+P19vSoBwaZSRL9ruP+ep\/IUfbLj\/nofyFMUn\/9dIRg0WKsh\/2y5\/56n8hT472YsN0hIB5GBzUO2kCc5FAcpYu1zM5yfv8ATHHT1qHFXJrcvcM2\/GTnGPamG35A3dfagUbWK\/aj8KnFtnPz\/pTvsv8At\/pQVdFfGakiH7xfqKlFt\/t\/pT0gwynd0PpUsLo\/\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L4KYU5A7\/F04QVF2J17U\/enabling_the_bidirectional_shared_clipboard_lab01.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QVF2J17U-2b6eb42f3a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L4KYU5A7",
+        "display_as_bot": false,
+        "ts": "1677107140.074929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7WTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is what I have my tabs are missing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04L4KYU5A7",
+            "ts": "1677107160.000000"
+        },
+        "client_msg_id": "345fe3c2-6ee1-444b-9bea-aa63294f4059",
+        "thread_ts": "1677107140.074929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677112520.623989",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04L4KYU5A7"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1677112478.730839"
+            },
+            {
+                "user": "U04L4KYU5A7",
+                "ts": "1677112520.623989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a221cb97-5ec2-4cef-9c01-132bf7eb360c",
+        "type": "message",
+        "text": "Hi <@U04L4KYU5A7> You might find this link helpful: <https:\/\/askubuntu.com\/questions\/90318\/virtualbox-doesnt-have-devices-menu>",
+        "user": "U04KKRC0ZRA",
+        "ts": "1677112478.730839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L4KYU5A7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You might find this link helpful: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/askubuntu.com\/questions\/90318\/virtualbox-doesnt-have-devices-menu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/askubuntu.com\/questions\/90318\/virtualbox-doesnt-have-devices-menu",
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/askubuntu\/Img\/apple-touch-icon.png?v=e16e1315edd6",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/askubuntu\/Img\/apple-touch-icon@2.png?v=c492c9229955",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1,
+                "original_url": "https:\/\/askubuntu.com\/questions\/90318\/virtualbox-doesnt-have-devices-menu",
+                "fallback": "Ask Ubuntu: VirtualBox doesn't have Devices menu",
+                "text": "I want to install \"Guest Addition\" for my virtual Windows 7 but I don't see Devices menu. Why?",
+                "title": "VirtualBox doesn't have Devices menu",
+                "title_link": "https:\/\/askubuntu.com\/questions\/90318\/virtualbox-doesnt-have-devices-menu",
+                "service_name": "Ask Ubuntu"
+            }
+        ],
+        "thread_ts": "1677107140.074929",
+        "parent_user_id": "U04L4KYU5A7",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85d66110-b380-47c3-8f42-3de50137d5cf",
+        "type": "message",
+        "text": "Thanks <@U04KKRC0ZRA>",
+        "user": "U04L4KYU5A7",
+        "ts": "1677112520.623989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lipi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "aabec8c57ae9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4670279652535_aabec8c57ae9cddfd292_72.jpg",
+            "first_name": "Armando",
+            "real_name": "Armando Sifuentes",
+            "display_name": "Armando Sifuentes",
+            "team": "T04HC2CMNJ0",
+            "name": "armando.sifuentes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677107140.074929",
+        "parent_user_id": "U04L4KYU5A7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74fbf2c2-b058-40f2-9365-00f78f0520e1",
+        "type": "message",
+        "text": "I verified my BIOS by searching for the Task Manager then going into the performance tab and locating the CPU box.",
+        "user": "U04KWBZE1D3",
+        "ts": "1677119294.154729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ClR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified my BIOS by searching for the Task Manager then going into the performance tab and locating the CPU box."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c1e5ff7151a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4679248787683_c1e5ff7151a92d0654b2_72.jpg",
+            "first_name": "Ameer",
+            "real_name": "Ameer Nahas",
+            "display_name": "Ameer Nahas",
+            "team": "T04HC2CMNJ0",
+            "name": "ameer.nahas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04QT5696SH",
+                "created": 1677119294,
+                "timestamp": 1677119294,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KWBZE1D3",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 59899,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QT5696SH\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QT5696SH\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 320,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 426,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 639,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QT5696SH-97beb9481b\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 710,
+                "original_w": 830,
+                "original_h": 737,
+                "thumb_tiny": "AwAqADC\/nHJwKduye1IyjH+NAUDsOvagBQSemPzpQfXH50YowPSgAyPUUcUYFGBQAN09aD0\/Gg9OuKTsM+tADqKb69KUH1xQAtNpRR2oAD045pPwpcUYoAMH2pcD0pKKAADFAGAaKD0oA\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KWBZE1D3\/F04QT5696SH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QT5696SH-fd8614570b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KWBZE1D3",
+        "display_as_bot": false,
+        "ts": "1677119297.568719",
+        "client_msg_id": "be57838b-07fc-4858-b703-e2f3a7114e41"
+    }
+]

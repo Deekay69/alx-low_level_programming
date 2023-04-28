@@ -1,0 +1,132 @@
+[
+    {
+        "type": "message",
+        "text": "When searching git commands, I found that if you type the command git --help, a list summarizing Git commands and what they do is output to the terminal.  I discovered this after reading that you can use the command git –help in the Windows command prompt to see the list. So, I tested the command git --help in Unbuntu and it worked. I thought this command was helpful, so I wanted to share.\n\n <https:\/\/blog.testproject.io\/2021\/03\/22\/git-commands-every-sdet-should-know\/#:~:text=Git%20commands%20are%20a%20distributed,source%20codes%20during%20software%20development>.",
+        "files": [
+            {
+                "id": "F04TMPD43DF",
+                "created": 1678401314,
+                "timestamp": 1678401314,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KKRC0ZRA",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 148277,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TMPD43DF\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TMPD43DF\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 314,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 418,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 628,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TMPD43DF-d664f77072\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 697,
+                "thumb_800_h": 800,
+                "original_w": 726,
+                "original_h": 833,
+                "thumb_tiny": "AwAwACmiDk07j2pPwNGPr+VMoAR3Ioyp64o\/Okb6\/pQAHb2zTaX8aSgB46r09qXn0pP7tLz6frQAcmk28UMDj\/69MoAUjFJRRQA\/n5eDxS59jRjpz0o59aADJ7imk574\/Cnc56\/pSbvf9KAG\/jSUufSigD\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KKRC0ZRA\/F04TMPD43DF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TMPD43DF-a76f1eb1a3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KKRC0ZRA",
+        "display_as_bot": false,
+        "ts": "1678402156.768919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When searching git commands, I found that if you type the command git --help, a list summarizing Git commands and what they do is output to the terminal.  I discovered this after reading that you can use the command git –help in the Windows command prompt to see the list. So, I tested the command git --help in Unbuntu and it worked. I thought this command was helpful, so I wanted to share.\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.testproject.io\/2021\/03\/22\/git-commands-every-sdet-should-know\/#:~:text=Git%20commands%20are%20a%20distributed,source%20codes%20during%20software%20development"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1243113f-d175-438f-8fb7-4fe6138e016a",
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.testproject.io\/2021\/03\/22\/git-commands-every-sdet-should-know\/#:~:text=Git%20commands%20are%20a%20distributed,source%20codes%20during%20software%20development",
+                "service_icon": "https:\/\/blog.testproject.io\/wp-content\/uploads\/2019\/09\/footer-logo.png",
+                "thumb_url": "https:\/\/blog.testproject.io\/wp-content\/uploads\/2021\/03\/22-03-2.jpg",
+                "thumb_width": 855,
+                "thumb_height": 528,
+                "ts": 1616393148,
+                "id": 1,
+                "original_url": "https:\/\/blog.testproject.io\/2021\/03\/22\/git-commands-every-sdet-should-know\/#:~:text=Git%20commands%20are%20a%20distributed,source%20codes%20during%20software%20development",
+                "fallback": "TestProject: 10 Common Git Commands Everyone Should Know - TestProject",
+                "text": "One of the most common tools used in version control is Git, so let's get to understand some of the most common Git commands.",
+                "title": "10 Common Git Commands Everyone Should Know - TestProject",
+                "title_link": "https:\/\/blog.testproject.io\/2021\/03\/22\/git-commands-every-sdet-should-know\/#:~:text=Git%20commands%20are%20a%20distributed,source%20codes%20during%20software%20development",
+                "service_name": "TestProject",
+                "fields": [
+                    {
+                        "value": "Andreea Draniceanu",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "5 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KDSDECLC",
+                    "U04LZVBDFP0",
+                    "U04KKA31SG2"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

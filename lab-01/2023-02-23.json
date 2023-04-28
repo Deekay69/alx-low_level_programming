@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "D0B74453-6F3F-4FA7-888B-9427FA5C395A",
+        "type": "message",
+        "text": "How to I check BIOS settings on MacBook Air?",
+        "user": "U04MFQYHWJY",
+        "ts": "1677183813.453539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkvY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to I check BIOS settings on MacBook Air?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a12eb2cc740a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4740164099921_a12eb2cc740a54705d48_72.png",
+            "first_name": "Marshall",
+            "real_name": "Marshall Brown",
+            "display_name": "Marshall Brown",
+            "team": "T04HC2CMNJ0",
+            "name": "marshall.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677183813.453539",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1677184867.354829",
+        "reply_users": [
+            "U04KDSDECLC",
+            "U04MFQYHWJY"
+        ],
+        "replies": [
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1677184255.339749"
+            },
+            {
+                "user": "U04MFQYHWJY",
+                "ts": "1677184383.131989"
+            },
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1677184635.314959"
+            },
+            {
+                "user": "U04MFQYHWJY",
+                "ts": "1677184867.354829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8b2c457b-faa7-4565-9802-7de665624bbd",
+        "type": "message",
+        "text": "Hey Marshall! Macs don't provide a way to check your BIOS settings, but virtualization is enabled for most macs so you don't have to check it.",
+        "user": "U04KDSDECLC",
+        "ts": "1677184255.339749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Marshall! Macs don't provide a way to check your BIOS settings, but virtualization is enabled for most macs so you don't have to check it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677183813.453539",
+        "parent_user_id": "U04MFQYHWJY"
+    },
+    {
+        "client_msg_id": "7B103D6C-8F44-4AB5-9D52-DE1CD4B26B9C",
+        "type": "message",
+        "text": "Okay thank you, what should I put for step one then?",
+        "user": "U04MFQYHWJY",
+        "ts": "1677184383.131989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/dIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay thank you, what should I put for step one then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a12eb2cc740a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4740164099921_a12eb2cc740a54705d48_72.png",
+            "first_name": "Marshall",
+            "real_name": "Marshall Brown",
+            "display_name": "Marshall Brown",
+            "team": "T04HC2CMNJ0",
+            "name": "marshall.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677183813.453539",
+        "parent_user_id": "U04MFQYHWJY"
+    },
+    {
+        "client_msg_id": "2c5641a6-dbec-4da0-864b-a65292173110",
+        "type": "message",
+        "text": "You would explain why you don't have to check your BIOS settings, and how you know virtualization is enabled.",
+        "user": "U04KDSDECLC",
+        "ts": "1677184635.314959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9Ip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You would explain why you don't have to check your BIOS settings, and how you know virtualization is enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677183813.453539",
+        "parent_user_id": "U04MFQYHWJY"
+    },
+    {
+        "client_msg_id": "CE5C83CD-C2F2-48E8-8CEE-F42F5D98B704",
+        "type": "message",
+        "text": "Thank you",
+        "user": "U04MFQYHWJY",
+        "ts": "1677184867.354829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Af8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a12eb2cc740a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4740164099921_a12eb2cc740a54705d48_72.png",
+            "first_name": "Marshall",
+            "real_name": "Marshall Brown",
+            "display_name": "Marshall Brown",
+            "team": "T04HC2CMNJ0",
+            "name": "marshall.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677183813.453539",
+        "parent_user_id": "U04MFQYHWJY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KDSDECLC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

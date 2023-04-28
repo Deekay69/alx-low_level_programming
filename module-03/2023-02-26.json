@@ -1,0 +1,218 @@
+[
+    {
+        "client_msg_id": "8B4E9892-7C59-4E5B-8201-AD404DDDBE0D",
+        "type": "message",
+        "text": "Hey everyone, \nMy name (Mercy) in ASCII converted in decimal is 77 101 114 99 121 and in hex form is 4D 65 72 63 79. ",
+        "user": "U04LFF8BL2Z",
+        "ts": "1677401421.353289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, \nMy name (Mercy) in ASCII converted in decimal is 77 101 114 99 121 and in hex form is 4D 65 72 63 79. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f46d07fd78f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4683937727655_f46d07fd78f4bc2e116b_72.jpg",
+            "first_name": "Mercy",
+            "real_name": "Mercy Babalola",
+            "display_name": "Mercy Babalola",
+            "team": "T04HC2CMNJ0",
+            "name": "mercy.babalola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6d3c8a0-1a35-4d40-b413-decce3bb0907",
+        "type": "message",
+        "text": "Hello everyone,\nThe following are the conversions from my first name (Sara) to coding in ASCII:\nBinary: 1010011 1100001 1110010 1100001\nHexadecimal: 53 61 72 61\nDecimal: 83 97 114 97",
+        "user": "U04KKRC0ZRA",
+        "ts": "1677420836.049639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WhA+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\nThe following are the conversions from my first name (Sara) to coding in ASCII:\nBinary: 1010011 1100001 1110010 1100001\nHexadecimal: 53 61 72 61\nDecimal: 83 97 114 97"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22d57d54-19f4-4abf-98e0-c57db3b31a15",
+        "type": "message",
+        "text": "Good evening everyone,\nThese conversions are from my first name (David) by using ASCII:\nBinary: 1000100 1000001 1010110 1001001 1000100\nHexadecimal: 44 41 56 49 44\nDecimal: 68 65 86 73 68",
+        "user": "U04KHN8U3FC",
+        "ts": "1677467589.982589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good evening everyone,\nThese conversions are from my first name (David) by using ASCII:\nBinary: 1000100 1000001 1010110 1001001 1000100\nHexadecimal: 44 41 56 49 44\nDecimal: 68 65 86 73 68"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12c0e0fb-9220-4307-85bd-fbec49f72e9d",
+        "type": "message",
+        "text": "Conversions using my name (Joel). Binary: 01001010 01001111 01000101 01001100. Hexadecimal: 4A 4F 45 4C. Decimal: 74 79 69 76.",
+        "user": "U04K4P9URDM",
+        "ts": "1677468679.594759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nZxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conversions using my name (Joel). Binary: 01001010 01001111 01000101 01001100. Hexadecimal: 4A 4F 45 4C. Decimal: 74 79 69 76."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

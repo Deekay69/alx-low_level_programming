@@ -1,0 +1,581 @@
+[
+    {
+        "client_msg_id": "d090d713-5533-4704-8c78-67635f97d0c3",
+        "type": "message",
+        "text": "Hey everyone! Hope your weekend was great! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1674489517.061619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ZBbg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! Hope your weekend was great! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04L7V1MBK2",
+                    "U04K42C14HM",
+                    "U04KHN8U3FC",
+                    "U04LFPZJAFN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da0a155f-4ef3-45d7-be02-252b33d88a7b",
+        "type": "message",
+        "text": "when will quizzes be available for each module?",
+        "user": "U04KEJUNAJG",
+        "ts": "1674494095.918289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when will quizzes be available for each module?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674494095.918289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674497995.766469",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674497995.766469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674497995.766469"
+    },
+    {
+        "client_msg_id": "a62a2940-920a-4924-82f5-da55f2c39f00",
+        "type": "message",
+        "text": "<@U04KEJUNAJG>: Quizzes are available two weeks before the due date.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674497995.766469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bfci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KEJUNAJG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Quizzes are available two weeks before the due date."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674494095.918289",
+        "parent_user_id": "U04KEJUNAJG",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04KEJUNAJG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KHN8U3FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "917e55bd-db42-423e-873a-54b26851c915",
+        "type": "message",
+        "text": "i was wondering if anyone has set up ubuntu i have the virtual box but nt ubuntu",
+        "user": "U04LJKF5YEM",
+        "ts": "1674506712.059499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2Jhh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i was wondering if anyone has set up ubuntu i have the virtual box but nt ubuntu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g0c1fb5e23e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0c1fb5e23e39f3fa937c4f0e0cad4a6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Giuseppe",
+            "real_name": "Giuseppe Achi",
+            "display_name": "Giuseppe Achi",
+            "team": "T04HC2CMNJ0",
+            "name": "giuseppe.achi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506712.059499",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674510885.313989",
+        "reply_users": [
+            "U04LVTS3QAC",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04LVTS3QAC",
+                "ts": "1674509145.538369"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674510885.313989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674510885.313989"
+    },
+    {
+        "client_msg_id": "75548A85-591D-4121-83BB-409340E170A3",
+        "type": "message",
+        "text": "I recently made my laptop an unbutu machine ",
+        "user": "U04KE3VL2JH",
+        "ts": "1674506766.547809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recently made my laptop an unbutu machine "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g629ef3949e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/629ef3949e347890c15edb89eaa563e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jackson",
+            "real_name": "Jackson Moore",
+            "display_name": "Jackson Moore",
+            "team": "T04HC2CMNJ0",
+            "name": "jackson.moore",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506766.547809",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1674511295.942589",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KE3VL2JH"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674510951.461319"
+            },
+            {
+                "user": "U04KE3VL2JH",
+                "ts": "1674511002.846169"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674511206.257189"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674511295.942589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674511295.942589"
+    },
+    {
+        "client_msg_id": "f569555c-d43a-457b-9df1-9cd697ef89f0",
+        "type": "message",
+        "text": "Hey Giuseppe, <https:\/\/ubuntu.com\/tutorials\/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview|click here for instructions from Ubuntu's website> on setting it up via VirtualBox!",
+        "user": "U04LVTS3QAC",
+        "ts": "1674509145.538369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykoKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Giuseppe, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ubuntu.com\/tutorials\/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview",
+                                "text": "click here for instructions from Ubuntu's website"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on setting it up via VirtualBox!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a6a696db6cb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4671856761559_a6a696db6cb668dcf471_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Smith",
+            "display_name": "Brandon Smith",
+            "team": "T04HC2CMNJ0",
+            "name": "brandon.smith7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ubuntu.com\/tutorials\/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview",
+                "image_url": "https:\/\/assets.ubuntu.com\/v1\/ebdfffbf-Aubergine_suru_background.png",
+                "image_width": 915,
+                "image_height": 250,
+                "image_bytes": 4435,
+                "service_icon": "https:\/\/assets.ubuntu.com\/v1\/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png",
+                "id": 1,
+                "original_url": "https:\/\/ubuntu.com\/tutorials\/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview",
+                "fallback": "Ubuntu: How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | Ubuntu",
+                "text": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+                "title": "How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | Ubuntu",
+                "title_link": "https:\/\/ubuntu.com\/tutorials\/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview",
+                "service_name": "Ubuntu"
+            }
+        ],
+        "thread_ts": "1674506712.059499",
+        "parent_user_id": "U04LJKF5YEM",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ec2c48d-a646-4b0b-87c3-f0be8aae6f03",
+        "type": "message",
+        "text": "Also, the Lab 01 instructions go through this installation process; in fact, that is the purpose of Lab 01 :slightly_smiling_face:.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674510885.313989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rAoNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, the Lab 01 instructions go through this installation process; in fact, that is the purpose of Lab 01 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506712.059499",
+        "parent_user_id": "U04LJKF5YEM"
+    },
+    {
+        "client_msg_id": "784fa96a-ec1c-457b-86fc-e0d15e9886b4",
+        "type": "message",
+        "text": "Hi Jackson: Your primary operating system is Ubuntu on your laptop. That's cool! You may need to virtualize Windows at some point if you don't have another Windows machine.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674510951.461319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Jackson: Your primary operating system is Ubuntu on your laptop. That's cool! You may need to virtualize Windows at some point if you don't have another Windows machine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506766.547809",
+        "parent_user_id": "U04KE3VL2JH"
+    },
+    {
+        "client_msg_id": "A84CBF39-A92A-43A3-88D8-A3730E94C9F8",
+        "type": "message",
+        "text": "I do have a windows desktop as well ",
+        "user": "U04KE3VL2JH",
+        "ts": "1674511002.846169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1puVo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do have a windows desktop as well "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g629ef3949e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/629ef3949e347890c15edb89eaa563e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jackson",
+            "real_name": "Jackson Moore",
+            "display_name": "Jackson Moore",
+            "team": "T04HC2CMNJ0",
+            "name": "jackson.moore",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506766.547809",
+        "parent_user_id": "U04KE3VL2JH"
+    },
+    {
+        "client_msg_id": "f70e8982-f3e5-4ba7-89f3-b6539b343295",
+        "type": "message",
+        "text": "Excellent!",
+        "user": "U04GV2EK7UP",
+        "ts": "1674511206.257189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "793",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506766.547809",
+        "parent_user_id": "U04KE3VL2JH"
+    },
+    {
+        "client_msg_id": "5f5f47cf-5747-4f45-88dd-1921fd86f4b9",
+        "type": "message",
+        "text": "So...you want to have the experience of virtualizing regardless. Can you email your instructor? If that's me, then email me, but if Prof. Collazo or Anderson, please email them.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674511295.942589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So...you want to have the experience of virtualizing regardless. Can you email your instructor? If that's me, then email me, but if Prof. Collazo or Anderson, please email them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674506766.547809",
+        "parent_user_id": "U04KE3VL2JH"
+    }
+]

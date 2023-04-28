@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "92A11474-B328-451F-80ED-944EC6892041",
+        "type": "message",
+        "text": "I’d we want to make an recording for part 2 can we upload to YouTube as an alternative to panopto?",
+        "user": "U04MCR8J0JD",
+        "ts": "1680484263.357269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we want to make an recording for part 2 can we upload to YouTube as an alternative to panopto?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "1255692576f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4707621623766_1255692576f7aef0d103_72.png",
+            "first_name": "Grant",
+            "real_name": "Grant Friar",
+            "display_name": "Grant Friar",
+            "team": "T04HC2CMNJ0",
+            "name": "grant.friar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680484263.357269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680485136.622859",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680485136.622859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680485136.622859"
+    },
+    {
+        "client_msg_id": "1B602417-A94D-42F5-A97F-6036B245EB15",
+        "type": "message",
+        "text": "Grant: Yes, you can upload to YouTube and provide a link.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680485136.622859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csubo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grant: Yes, you can upload to YouTube and provide a link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680484263.357269",
+        "parent_user_id": "U04MCR8J0JD"
+    }
+]

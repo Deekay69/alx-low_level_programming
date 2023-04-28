@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "755D6CE4-B0D5-4427-B8BB-04A02D1271B5",
+        "type": "message",
+        "text": "This was very helpful thank you <@U04KC5TB3TR> ",
+        "user": "U04LP6YKHJ8",
+        "ts": "1675796131.274259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJ+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was very helpful thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KC5TB3TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "9deec8a70bae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4724473213184_9deec8a70baecdad976c_72.png",
+            "first_name": "Joe",
+            "real_name": "Joe Longoria",
+            "display_name": "Joe L",
+            "team": "T04HC2CMNJ0",
+            "name": "joe.longoria2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KC5TB3TR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "6644c028-4fec-4f08-a768-8cf8719e243b",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04PY45ETRS",
+        "ts": "1676523953.312359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uSW8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "1a6666cff29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-15\/4814198061604_1a6666cff29c06ae1904_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Torres",
+            "display_name": "Julio Torres",
+            "team": "T04HC2CMNJ0",
+            "name": "julio.torres2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673205912.456889",
+        "parent_user_id": "U04GV2EK7UP"
+    }
+]

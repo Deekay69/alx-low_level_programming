@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "0D261AA1-53D7-4E24-A010-A61E6796ABCD",
+        "type": "message",
+        "text": "There is no valid reason to be using VirtualBox when VMWare, which is FAR superior , is included with your tuition.   If your Professor suggested that you get your water manually from the river in buckets that you carry instead of using the pipes  to get your water for drinking, bathing and flushing the toiled, would you do that to?  If you have any intention of being  effective and useful in the world of Cybersecurity and Technology you are going to need to develop the ability to think for yourselves  and make informed decisions.  Matching wits with criminals and enemy combatants in cyberspace  will require  that you manage your time wisely.  This means using the best tools that you can get access to.   Use VMWare.\n",
+        "user": "U04MZKVG04D",
+        "ts": "1678096509.964209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3EUp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no valid reason to be using VirtualBox when VMWare, which is FAR superior , is included with your tuition.   If your Professor suggested that you get your water manually from the river in buckets that you carry instead of using the pipes  to get your water for drinking, bathing and flushing the toiled, would you do that to?  If you have any intention of being  effective and useful in the world of Cybersecurity and Technology you are going to need to develop the ability to think for yourselves  and make informed decisions.  Matching wits with criminals and enemy combatants in cyberspace  will require  that you manage your time wisely.  This means using the best tools that you can get access to.   Use VMWare.\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c0f4cb1e4104",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-04\/4774309917248_c0f4cb1e4104b3c8ea2f_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Marks",
+            "display_name": "Jace",
+            "team": "T04HC2CMNJ0",
+            "name": "jason.marks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678096509.964209",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1678206705.390669",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04MZKVG04D",
+            "U04JYA33E9Z",
+            "U04JVCE8GA1"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678110565.343309"
+            },
+            {
+                "user": "U04MZKVG04D",
+                "ts": "1678164033.243949"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1678206376.833819"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678206705.390669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678227751.896109"
+    },
+    {
+        "client_msg_id": "c6ff4d78-6419-4fc6-9da1-6377779a8280",
+        "type": "message",
+        "text": "Hi Jason: Thank you for this post! This is a very useful opportunity to clarify our choices. The reasons we use VirtualBox in this class are 1) to familiarize yourself with <https:\/\/itsfoss.com\/what-is-foss\/|FOSS> as a general concept, 2) to familiarize yourself with VirtualBox ahead of time, for when you are no longer at school and may not have complimentary access to VMWare, and 3) to allow you to get started right away as the VMWare licensing is sometimes not activated by the college until a few weeks into the semester. I might suggest that you need to learn to use both. (As a side note, having had to use a non-piped water system in the past, I would not advocate for doing so by any means, but it was an immensely valuable experience that I will never forget, and one that continues to inform my decisions. Learning to do things manually is not necessarily a bad thing, even it is not your long-term MO.) Thanks again for starting this important dialogue.",
+        "user": "U04GV2EK7UP",
+        "ts": "1678110565.343309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Jason: Thank you for this post! This is a very useful opportunity to clarify our choices. The reasons we use VirtualBox in this class are 1) to familiarize yourself with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/itsfoss.com\/what-is-foss\/",
+                                "text": "FOSS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as a general concept, 2) to familiarize yourself with VirtualBox ahead of time, for when you are no longer at school and may not have complimentary access to VMWare, and 3) to allow you to get started right away as the VMWare licensing is sometimes not activated by the college until a few weeks into the semester. I might suggest that you need to learn to use both. (As a side note, having had to use a non-piped water system in the past, I would not advocate for doing so by any means, but it was an immensely valuable experience that I will never forget, and one that continues to inform my decisions. Learning to do things manually is not necessarily a bad thing, even it is not your long-term MO.) Thanks again for starting this important dialogue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1678112188.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/itsfoss.com\/content\/images\/wordpress\/2020\/09\/what-is-foss.png",
+                "image_width": 800,
+                "image_height": 450,
+                "image_bytes": 27574,
+                "from_url": "https:\/\/itsfoss.com\/what-is-foss\/",
+                "service_icon": "https:\/\/itsfoss.com\/content\/images\/size\/w256h256\/2022\/12\/android-chrome-192x192.png",
+                "ts": 1601110800,
+                "id": 1,
+                "original_url": "https:\/\/itsfoss.com\/what-is-foss\/",
+                "fallback": "It's FOSS: What is FOSS? What is Open Source? Are They the Same Thing?",
+                "text": "In this part of Linux jargon buster, learn about the FOSS principles. Learn what is FOSS, what is open source and why you should care about it.",
+                "title": "What is FOSS? What is Open Source? Are They the Same Thing?",
+                "title_link": "https:\/\/itsfoss.com\/what-is-foss\/",
+                "service_name": "It's FOSS",
+                "fields": [
+                    {
+                        "value": "Abhishek Prakash",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "Jargon Buster",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1678096509.964209",
+        "parent_user_id": "U04MZKVG04D"
+    },
+    {
+        "client_msg_id": "4DBACF5F-59C1-4705-8B13-64F1C1B5ADD7",
+        "type": "message",
+        "text": "I am very familiar with Virtual Box and all the other Free and Open Source Sofrware out there and I dont think you are clear about the severe threats that we are currently facing.  As a cybersecurity professional with valuable skills there will never be a time that being able to afford $100-$300 dollars per year on professional software will be an issue.  Every conglomerate and government agency, our hospital systems, transportation  infrastructure and all forms of commerce and supply chains for food and goods are under constant threat and yes this includes our access to clean fresh water. So unless you are desperate to live  without access to all of these things I strongly suggest you do absolutely every last thing in your power to prepare every student right now to succeed in the most advanced environment possible.  The time to marvel at the skills necessary to grow the peanut is in the rearview mirror, just make the peanut butter and jelly sandwich and put it in the lunchbox  and lets get to work while there is still electricity available to us so we can access the internet and have careers at all.  We are running out of time. ",
+        "user": "U04MZKVG04D",
+        "ts": "1678164033.243949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am very familiar with Virtual Box and all the other Free and Open Source Sofrware out there and I dont think you are clear about the severe threats that we are currently facing.  As a cybersecurity professional with valuable skills there will never be a time that being able to afford $100-$300 dollars per year on professional software will be an issue.  Every conglomerate and government agency, our hospital systems, transportation  infrastructure and all forms of commerce and supply chains for food and goods are under constant threat and yes this includes our access to clean fresh water. So unless you are desperate to live  without access to all of these things I strongly suggest you do absolutely every last thing in your power to prepare every student right now to succeed in the most advanced environment possible.  The time to marvel at the skills necessary to grow the peanut is in the rearview mirror, just make the peanut butter and jelly sandwich and put it in the lunchbox  and lets get to work while there is still electricity available to us so we can access the internet and have careers at all.  We are running out of time. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c0f4cb1e4104",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-04\/4774309917248_c0f4cb1e4104b3c8ea2f_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Marks",
+            "display_name": "Jace",
+            "team": "T04HC2CMNJ0",
+            "name": "jason.marks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678096509.964209",
+        "parent_user_id": "U04MZKVG04D"
+    }
+]

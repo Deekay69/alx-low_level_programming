@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "3c637c17-9fad-437b-9402-7b0187039552",
+        "type": "message",
+        "text": "Hello! I enabled bidirectional clipboard and drag and drop sharing, although this does not always work when it comes to screenshots. I have taken some screenshots and got them onto the host machine although I think this was by luck because I cannot consistently do this. I went through and ran sudo apt install dkms and reran sudo .\/VBoxLinuxAdditions.run , and the terminal response was that it was then building the kernels, which is what happened in your video walkthrough as well. I was wondering if there was a set way of getting a screenshot from the VM to the host as that is the only part of the lab that I have not completed. Thank you!",
+        "user": "U04KEJUNAJG",
+        "ts": "1674457993.363769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I enabled bidirectional clipboard and drag and drop sharing, although this does not always work when it comes to screenshots. I have taken some screenshots and got them onto the host machine although I think this was by luck because I cannot consistently do this. I went through and ran sudo apt install dkms and reran sudo .\/VBoxLinuxAdditions.run , and the terminal response was that it was then building the kernels, which is what happened in your video walkthrough as well. I was wondering if there was a set way of getting a screenshot from the VM to the host as that is the only part of the lab that I have not completed. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674457993.363769",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1674489808.986299",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KEJUNAJG"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674489660.206869"
+            },
+            {
+                "user": "U04KEJUNAJG",
+                "ts": "1674489716.455719"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674489808.986299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674489808.986299"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "2D3E65D5-22CC-4C60-AB60-D037F3EE41BD",
+        "type": "message",
+        "text": "I’m sorry does anyone know why people are posting their ping commands in the module 01 section? Is this part of the assignment\/lab? I didn’t see it anywhere in the instructions. ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675636034.374049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry does anyone know why people are posting their ping commands in the module 01 section? Is this part of the assignment\/lab? I didn’t see it anywhere in the instructions. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675636034.374049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675636299.831689",
+        "reply_users": [
+            "U04L288QDJ4",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1675636185.355039"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675636299.831689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "91849b32-e248-426d-83f0-27ecdb232f43",
+        "type": "message",
+        "text": "It's in the slideshow notes.",
+        "user": "U04L288QDJ4",
+        "ts": "1675636185.355039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's in the slideshow notes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675636034.374049",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "0D6917E5-662E-40FB-87CD-657FE03E0C7F",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U04KC5TB3TR",
+        "ts": "1675636299.831689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=am",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675636034.374049",
+        "parent_user_id": "U04KC5TB3TR"
+    }
+]

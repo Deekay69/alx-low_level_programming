@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "3a00d1d2-b175-47e0-b2e3-283ce6bdaaa3",
+        "type": "message",
+        "text": "Hello!\nThese are the conversions for my first name (Manuel) using ASCII:\nBinary: 01001101 01100001 01101110 01110101 01100101 01101100\nHexadecimal: 4D 61 6E 75 65 6C\nDecimal: 77 97 110 117 101 108",
+        "user": "U04KSUAPWTX",
+        "ts": "1677533163.851309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2p2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\nThese are the conversions for my first name (Manuel) using ASCII:\nBinary: 01001101 01100001 01101110 01110101 01100101 01101100\nHexadecimal: 4D 61 6E 75 65 6C\nDecimal: 77 97 110 117 101 108"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gca620be0cb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca620be0cb9df371f08d086090b30502.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Salas",
+            "display_name": "Manuel Salas",
+            "team": "T04HC2CMNJ0",
+            "name": "manuel.salas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cd72e0a-cb13-48da-a8b0-cf4b95b1cea8",
+        "type": "message",
+        "text": "Hi all: On Question #8 of the *Primitives and Operators* section (_Describe the three major categories of operators_), the answer is on Slide #14. Someone asked me to clarify this question, and I was initially confused myself (!), so wanted to share with everyone :slightly_smiling_face:.",
+        "user": "U04GV2EK7UP",
+        "ts": "1677545943.191069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lekj+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: On Question #8 of the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Primitives and Operators",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " section ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "Describe the three major categories of operators",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "), the answer is on Slide #14. Someone asked me to clarify this question, and I was initially confused myself (!), so wanted to share with everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04JYA33E9Z",
+                    "U04KAPRTGDV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D8DAD303-5896-448B-A1B7-A4A1BD3FAD80",
+        "type": "message",
+        "text": "I thought it was on slide 15 when it talked about 3 operators named: Unary, Binary, and Ternary.",
+        "user": "U04KHN8U3FC",
+        "ts": "1677554274.446249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5XPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought it was on slide 15 when it talked about 3 operators named: Unary, Binary, and Ternary."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554274.446249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677554353.543849",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677554353.543849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677554353.543849"
+    },
+    {
+        "client_msg_id": "3294ae9a-25f8-4299-8a03-f5f5685ed29e",
+        "type": "message",
+        "text": "Well, the slide footer says #14 but yes, if you count the title slide, it's #15. In other words, you have the right slide in mind!",
+        "user": "U04GV2EK7UP",
+        "ts": "1677554353.543849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkcgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, the slide footer says #14 but yes, if you count the title slide, it's #15. In other words, you have the right slide in mind!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1677554367.000000"
+        },
+        "thread_ts": "1677554274.446249",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KHN8U3FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "695c825f-3d55-40fe-b841-c54b731c7466",
+        "type": "message",
+        "text": "My Name Using ASCII (River):\nBinary: 1010010 1101001 1110110 1100101 1110010\nHexadecimal: 52 69 76 65 72\nDecimal: 82 105 118 101 114",
+        "user": "U04KKA31SG2",
+        "ts": "1677556085.977479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My Name Using ASCII (River):\nBinary: 1010010 1101001 1110110 1100101 1110010\nHexadecimal: 52 69 76 65 72\nDecimal: 82 105 118 101 114"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ac5a579d4409",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4650816344295_ac5a579d4409c6e2eb7d_72.jpg",
+            "first_name": "River",
+            "real_name": "River Dowling",
+            "display_name": "River Dowling",
+            "team": "T04HC2CMNJ0",
+            "name": "river.dowling",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04LY71MCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

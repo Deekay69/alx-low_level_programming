@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "9d8cdd5f-2a72-4981-9382-1c6314ca817f",
+        "type": "message",
+        "text": "I'm confused on the participation portion of the course. I do not see a \"Participate!\" section on slack?",
+        "user": "U04LS98VCMV",
+        "ts": "1681330586.233879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ymxrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm confused on the participation portion of the course. I do not see a \"Participate!\" section on slack?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a809199547e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4733494970529_a809199547e8322f8060_72.png",
+            "first_name": "Blakely",
+            "real_name": "Blakely Luis",
+            "display_name": "Blakely Luis",
+            "team": "T04HC2CMNJ0",
+            "name": "blakelyluis2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681330586.233879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1681331531.621539",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1681331531.621539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1681331531.621539"
+    },
+    {
+        "client_msg_id": "27F6AF64-431C-449C-A180-B8F2861FC52D",
+        "type": "message",
+        "text": "Hi Blakey: There is not a participate section on Slack. You are asked to post a tip in the most relevant section to that tip. ",
+        "user": "U04GV2EK7UP",
+        "ts": "1681331531.621539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZvO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Blakey: There is not a participate section on Slack. You are asked to post a tip in the most relevant section to that tip. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681330586.233879",
+        "parent_user_id": "U04LS98VCMV"
+    }
+]

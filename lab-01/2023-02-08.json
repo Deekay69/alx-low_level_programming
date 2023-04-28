@@ -1,0 +1,656 @@
+[
+    {
+        "type": "message",
+        "text": "Is there an existing license key for utsa students? Or do we do we choose the 30 day trial option",
+        "files": [
+            {
+                "id": "F04NPG44UAX",
+                "created": 1675877869,
+                "timestamp": 1675877869,
+                "name": "Screen Shot 2023-02-08 at 11.37.08 AM.png",
+                "title": "Screen Shot 2023-02-08 at 11.37.08 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KC5TB3TR",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 119665,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04NPG44UAX\/screen_shot_2023-02-08_at_11.37.08_am.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04NPG44UAX\/download\/screen_shot_2023-02-08_at_11.37.08_am.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 227,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 302,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 453,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 504,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 604,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NPG44UAX-a3c2da2bdc\/screen_shot_2023-02-08_at_11.37.08_am_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 645,
+                "original_w": 1366,
+                "original_h": 860,
+                "thumb_tiny": "AwAeADCoCmOVP4UAxg\/dJ+tMpV69aAByCxKjA7CkqTB9R\/31Tec4yPzoAbRS7fcUlABSg4Oc0YGOpz9KSgB+8\/3v0FJnJzk5+lNooAXd6H9KSijjFAH\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KC5TB3TR\/F04NPG44UAX\/screen_shot_2023-02-08_at_11.37.08_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04NPG44UAX-d52e6f3263",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KC5TB3TR",
+        "display_as_bot": false,
+        "ts": "1675877916.471299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Gse",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there an existing license key for utsa students? Or do we do we choose the 30 day trial option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FB6C9146-9B0F-47F1-B562-AACDC1BB7B7D",
+        "thread_ts": "1675877916.471299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675880926.219799",
+        "reply_users": [
+            "U04KDSDECLC",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1675878475.880149"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675880926.219799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "43b3890c-90da-4102-a4d8-4bc16d80aa04",
+        "type": "message",
+        "text": "Hey Daija! You can get a license key by following the instructions provided in the attached pdf file under the *OPTIONAL | VMWare* item in the *Lab 01 | Virtualizing tab.* ",
+        "user": "U04KDSDECLC",
+        "ts": "1675878475.880149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47mYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Daija! You can get a license key by following the instructions provided in the attached pdf file under the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "OPTIONAL | VMWare",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " item in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lab 01 | Virtualizing tab. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KDSDECLC",
+            "ts": "1675878989.000000"
+        },
+        "thread_ts": "1675877916.471299",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KC5TB3TR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c59a53d-fab4-4fff-aa54-b73330c4037c",
+        "type": "message",
+        "text": "If windows 11 has a Linux subsystem, isn't that easier to use than a virtual machine?",
+        "user": "U04L288QDJ4",
+        "ts": "1675880058.943979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If windows 11 has a Linux subsystem, isn't that easier to use than a virtual machine?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675880058.943979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675880152.306599",
+        "reply_users": [
+            "U04JWGYC9JT"
+        ],
+        "replies": [
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1675880152.306599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7a95b6a1-b057-4eae-80a9-c7563084285d",
+        "type": "message",
+        "text": "It would depend on what you want to do, but for full system testing virtual machines are better contained whereas windows subsystem works directly with your host operating system. So things like security researching where you are purposefully installing viruses on virtual machines to deconstruct them wouldn't work in the sybsystem.",
+        "user": "U04JWGYC9JT",
+        "ts": "1675880152.306599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sh=ZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would depend on what you want to do, but for full system testing virtual machines are better contained whereas windows subsystem works directly with your host operating system. So things like security researching where you are purposefully installing viruses on virtual machines to deconstruct them wouldn't work in the sybsystem."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675880058.943979",
+        "parent_user_id": "U04L288QDJ4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L288QDJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14DBF525-AEAC-405B-A9BC-A7970D1D17BB",
+        "type": "message",
+        "text": "Thank you! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675880926.219799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AhOlt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675877916.471299",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KDSDECLC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Would we choose Linux since we are downloading Ubuntu or do we choose the operating system that we currently have? ",
+        "files": [
+            {
+                "id": "F04N9E99LVD",
+                "created": 1675881016,
+                "timestamp": 1675881016,
+                "name": "Image 2-8-23 at 12.20 PM.jpg",
+                "title": "Image 2-8-23 at 12.20 PM",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KC5TB3TR",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 75640,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N9E99LVD\/image_2-8-23_at_12.20_pm.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N9E99LVD\/download\/image_2-8-23_at_12.20_pm.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 303,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 403,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 605,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 672,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 807,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N9E99LVD-739a557f0c\/image_2-8-23_at_12.20_pm_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 861,
+                "original_w": 1266,
+                "original_h": 1064,
+                "thumb_tiny": "AwAoADCjkmlAB6nFIAT0GaUqeMKaAF2r\/eo2r\/epApz92gg9duBQAEAdDmm0tJQA5AC2DSkL2I\/AUyloAeoUryuTTfl9D+dOX7tMp3ELlfQ\/nSHGBiig9BRcYoUnoR+dIRg44oFBpAGT60daKKAFKEDqPzoKEDOV\/Oig9KYj\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KC5TB3TR\/F04N9E99LVD\/image_2-8-23_at_12.20_pm.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N9E99LVD-b4e1b7eda9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KC5TB3TR",
+        "display_as_bot": false,
+        "ts": "1675881052.948549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4Xgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would we choose Linux since we are downloading Ubuntu or do we choose the operating system that we currently have? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "694E8169-923A-4AEE-8D7B-171846E8F72D",
+        "thread_ts": "1675881052.948549",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675881427.914769",
+        "reply_users": [
+            "U04KDSDECLC",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1675881360.403599"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675881427.914769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KC5TB3TR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d46b0ef-56d7-4621-9b05-7a5fdf2024e2",
+        "type": "message",
+        "text": "It is asking to select the OS to be used for that virtual machine, so you would choose Linux.",
+        "user": "U04KDSDECLC",
+        "ts": "1675881360.403599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is asking to select the OS to be used for that virtual machine, so you would choose Linux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675881052.948549",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KC5TB3TR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8B13E919-4593-43A4-8777-EEE33DCE5F95",
+        "type": "message",
+        "text": "Thank you !!!!!!",
+        "user": "U04KC5TB3TR",
+        "ts": "1675881427.914769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2+I6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you !!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675881052.948549",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "2195e5b5-8489-46bd-8666-a4a41ed7a91b",
+        "type": "message",
+        "text": "Question can I post my lab paper here for someone to proofread in directs to make sure I didn't miss any steps?",
+        "user": "U04M8TJKPQE",
+        "ts": "1675888102.350799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhsjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question can I post my lab paper here for someone to proofread in directs to make sure I didn't miss any steps?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g93ec5e46c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/93ec5e46c9e3812c31121ee1eb563f8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Mauricio",
+            "real_name": "Mauricio Mamawal",
+            "display_name": "Mauricio Mamawal",
+            "team": "T04HC2CMNJ0",
+            "name": "mauricio.mamawal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675888102.350799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675888254.377269",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675888254.377269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675888254.377269"
+    },
+    {
+        "client_msg_id": "746CBF8D-6B85-4298-A5ED-A37B2488944B",
+        "type": "message",
+        "text": "Hi <@U04M8TJKPQE>: You may visit an instructor or tutor’s Zoom hours and ask them privately to review your work. Thanks for asking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1675888254.377269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Kx0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M8TJKPQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": You may visit an instructor or tutor’s Zoom hours and ask them privately to review your work. Thanks for asking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675888102.350799",
+        "parent_user_id": "U04M8TJKPQE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

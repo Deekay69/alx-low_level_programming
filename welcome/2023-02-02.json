@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "1293ECEA-B3C6-4CA9-8429-0CE68CB3961B",
+        "type": "message",
+        "text": "Guys,\nAs stated in the announcement by the professor, please do not post your tips here. They only need to go into the report. Professor Mitra, asked everyone who posted their tip here to delete it, so that we can conserve memory for this slack channel. ",
+        "user": "U04M8MADT4Y",
+        "ts": "1675369080.416429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eptd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys,\nAs stated in the announcement by the professor, please do not post your tips here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " They only need to go into the report"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Professor Mitra, asked everyone who posted their tip here to delete it, so that we can conserve memory for this slack channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675369080.416429",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1675646348.275469",
+        "reply_users": [
+            "U04KXTRJ4TU",
+            "U04M8MADT4Y",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KXTRJ4TU",
+                "ts": "1675642124.220029"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1675643459.707779"
+            },
+            {
+                "user": "U04KXTRJ4TU",
+                "ts": "1675645990.533979"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1675646184.751119"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675646348.275469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675646348.275469",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U04K42C14HM",
+                    "U04KMTVDCQ4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04KSDYV8DQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

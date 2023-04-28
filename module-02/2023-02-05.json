@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "193B8DD1-1BC2-4138-907B-414DBAEBC7E1",
+        "type": "message",
+        "text": "Hello ! I am currently on Module 02 and there’s one question on the quiz that’s confusing me. There is a question that asks what Browning keeps running on his computer to catch password or payment gateway of the scammer. After watching the video the first time then looking throughout the video again to answer the question on the worksheet I thought it was command prompt but I got it wrong so I watched the video again and still couldn’t get the answer? I’m just wondering if there’s something I’m missing or if I’m looking at the wrong thing and assisting would be helpful thank you! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675636284.701309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! I am currently on Module 02 and there’s one question on the quiz that’s confusing me. There is a question that asks what Browning keeps running on his computer to catch password or payment gateway of the scammer. After watching the video the first time then looking throughout the video again to answer the question on the worksheet I thought it was command prompt but I got it wrong so I watched the video again and still couldn’t get the answer? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just wondering if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " something "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " missing or if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking at the wrong thing and assisting would be helpful thank you! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A0125082-C19C-402D-AE52-371A51214BE5",
+        "type": "message",
+        "text": "<@U04KC5TB3TR> you’re looking at the wrong thing, it’s a program ",
+        "user": "U04L7V1MBK2",
+        "ts": "1675636422.468729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qt4ZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KC5TB3TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking at the wrong thing, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a program "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

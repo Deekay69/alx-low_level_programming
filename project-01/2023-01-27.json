@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "96fad9e5-828c-40a8-85b4-fbf3bf907c1a",
+        "type": "message",
+        "text": "Hey Kenny! Yes! Feel free to share your thoughts on your chosen episode. You can also share things that you have learnt from your chosen podcast episode.",
+        "user": "U04KCMLDMPE",
+        "ts": "1674832367.454419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Kenny! Yes! Feel free to share your thoughts on your chosen episode. You can also share things that you have learnt from your chosen podcast episode."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KCMLDMPE",
+            "ts": "1674832558.000000"
+        },
+        "thread_ts": "1674789818.397629",
+        "parent_user_id": "U04KB1Z9EKD"
+    }
+]

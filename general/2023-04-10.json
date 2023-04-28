@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "8e63fb83-93cd-47e5-85b7-41a800be234c",
+        "type": "message",
+        "text": "Hey everyone! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1681138806.457219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QrXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C4B31409-A846-4262-88F8-5ECCC8C4878A",
+        "type": "message",
+        "text": "Hi everyone I’ll be available today on zoom and slack today from 12-4PM here is the zoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09>",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1681146070.743809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4UYP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone I’ll be available today on zoom and slack today from 12-4PM here is the zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "419BC3ED-8894-4FC4-B8DE-9CD5EB2A2DCB",
+        "type": "message",
+        "text": "I will be staying a hour longer today :) here is my zoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09>",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1681160576.725119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be staying a hour longer today :) here is my zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

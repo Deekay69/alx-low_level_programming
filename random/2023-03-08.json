@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "8328F560-9D72-4F1D-AE41-7D8F4B98B92A",
+        "type": "message",
+        "text": "Anyone know if the Comptia certifications have to be renewed after a certain time ? Or you have to get a recertification ? ",
+        "user": "U04L7V1MBK2",
+        "ts": "1678326011.145749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MV5qt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone know if the Comptia certifications have to be renewed after a certain time ? Or you have to get a recertification ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5909ff37-51ea-44da-bc82-1f639c4227d2",
+        "type": "message",
+        "text": "3 years is the common certification time. If you get a higher level cert it does renew all your lower certs.",
+        "user": "U04JWGYC9JT",
+        "ts": "1678326089.216509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3 years is the common certification time. If you get a higher level cert it does renew all your lower certs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a2a2e59-6208-4c56-9091-dccea760fda8",
+        "type": "message",
+        "text": "So getting your sec+ will renew your net or a+",
+        "user": "U04JWGYC9JT",
+        "ts": "1678326100.484469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So getting your sec+ will renew your net or a+"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7V1MBK2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3fdad9d-d80e-44ee-8b4d-6fe1110a6af6",
+        "type": "message",
+        "text": "You can also do continuing education programs to renew without retesting.",
+        "user": "U04JWGYC9JT",
+        "ts": "1678326128.320899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXZ5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also do continuing education programs to renew without retesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A4416CE0-23A6-4D48-B8B5-BE706791EB4D",
+        "type": "message",
+        "text": "Anyone know if it’s actually worth it? And if employers look for it ? ",
+        "user": "U04L7V1MBK2",
+        "ts": "1678326189.288989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone know if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " actually worth it? And if employers look for it ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9430ec8-b19c-48df-9fc7-a82fa1883d48",
+        "type": "message",
+        "text": "It depends. I know some it professionals like seeing them, but they don't haveto be current. It's alot about do you know the knowledge and it's a good way to prove you do. I have my Net+ and an expired A+ and had my schedule permit they would've been the deciding factor on my first IT job but my schedule didn't meet their needs. The sec+ and higher are good certs especially if you know your stuff they can get you a job.",
+        "user": "U04JWGYC9JT",
+        "ts": "1678328484.801249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It depends. I know some it professionals like seeing them, but they don't haveto be current. It's alot about do you know the knowledge and it's a good way to prove you do. I have my Net+ and an expired A+ and had my schedule permit they would've been the deciding factor on my first IT job but my schedule didn't meet their needs. The sec+ and higher are good certs especially if you know your stuff they can get you a job."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7V1MBK2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

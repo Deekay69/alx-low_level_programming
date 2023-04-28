@@ -1,0 +1,355 @@
+[
+    {
+        "client_msg_id": "dc744626-fe5d-4a1a-9f28-459d293f0c5f",
+        "type": "message",
+        "text": "Many of you probably listened to the podcasts through your mobile devices as I did. The Malicious Life podcast doesn't list episode numbers in their titles on some of the apps. I was able to find the episode numbers directly on their website <http:\/\/malicious.life|malicious.life>. I know that was part of the requirements for the discussion threads and wanted to give everyone a heads up.",
+        "user": "U04LZA876MN",
+        "ts": "1676386466.467379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8cmi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Many of you probably listened to the podcasts through your mobile devices as I did. The Malicious Life podcast doesn't list episode numbers in their titles on some of the apps. I was able to find the episode numbers directly on their website malicious.life. I know that was part of the requirements for the discussion threads and wanted to give everyone a heads up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d9492a2b905f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4702405104385_d9492a2b905f8f8f9239_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Politron",
+            "display_name": "Jose Politron",
+            "team": "T04HC2CMNJ0",
+            "name": "jose.politron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04JYA33E9Z",
+                    "U04LKH5DBFS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04LKH5DBFS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04LKH5DBFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5582d502-c1b5-4486-bc9b-9eae7fdcab0e",
+        "type": "message",
+        "text": "is there a way to change the title on our discussion posts? I can't figure it out :confused:",
+        "user": "U04LY71MCQ2",
+        "ts": "1676400275.020789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a way to change the title on our discussion posts? I can't figure it out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676400275.020789",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1676400562.930009",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04GV2EK7UP",
+            "U04LY71MCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676400342.514279"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676400407.818989"
+            },
+            {
+                "user": "U04LY71MCQ2",
+                "ts": "1676400562.930009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676400562.930009"
+    },
+    {
+        "client_msg_id": "dcf600ca-c1dd-46cf-b4b4-2bb16241af06",
+        "type": "message",
+        "text": "Hi <@U04LY71MCQ2> I do not believe that there is a way to change the title to discussion posts.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676400342.514279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8xmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04LY71MCQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I do not believe that there is a way to change the title to discussion posts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676400275.020789",
+        "parent_user_id": "U04LY71MCQ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LY71MCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d19bbe7e-9073-48c7-86c3-e41e56d6d96f",
+        "type": "message",
+        "text": "Sara is correct. You can reply to your post and change the title, though, I think, and then copy in the text of your post again.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676400407.818989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sara is correct. You can reply to your post and change the title, though, I think, and then copy in the text of your post again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676400275.020789",
+        "parent_user_id": "U04LY71MCQ2"
+    },
+    {
+        "client_msg_id": "cc040a43-cdb1-47a8-83fb-cd7984303860",
+        "type": "message",
+        "text": "I will do that, thank you! <@U04KKRC0ZRA> <@U04GV2EK7UP>",
+        "user": "U04LY71MCQ2",
+        "ts": "1676400562.930009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will do that, thank you! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676400275.020789",
+        "parent_user_id": "U04LY71MCQ2",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0C69BA9B-327C-4A67-AB91-824C3EFAC2AF",
+        "type": "message",
+        "text": ".",
+        "user": "U04KHN8U3FC",
+        "ts": "1676436493.764659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qzTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KHN8U3FC",
+            "ts": "1676437066.000000"
+        }
+    }
+]

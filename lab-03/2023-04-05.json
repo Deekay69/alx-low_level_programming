@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "cef10cd9-66c6-41c0-8455-83210fb48e89",
+        "type": "message",
+        "text": "I'm confused about how you should run the code in the nono. Does anyone know how?",
+        "user": "U04KX6YLXJS",
+        "ts": "1680744742.394769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm confused about how you should run the code in the nono. Does anyone know how?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "b6c384104a28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4689401327221_b6c384104a2809c73b47_72.jpg",
+            "first_name": "Cristan",
+            "real_name": "Cristan Rivera",
+            "display_name": "Cristan Rivera",
+            "team": "T04HC2CMNJ0",
+            "name": "cristan.rivera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680744742.394769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680760539.127969",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KWBZE1D3"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680746222.018049"
+            },
+            {
+                "user": "U04KWBZE1D3",
+                "ts": "1680760539.127969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680760539.127969"
+    },
+    {
+        "client_msg_id": "ee18abfb-a9c8-47a0-8709-98b6104c1939",
+        "type": "message",
+        "text": "Hi Cristan: You execute the file outside of the editor, at the command line. I recommend watching the video all the way through to get a full sense of the editing and execution process.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680746222.018049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Cristan: You execute the file outside of the editor, at the command line. I recommend watching the video all the way through to get a full sense of the editing and execution process."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680744742.394769",
+        "parent_user_id": "U04KX6YLXJS"
+    },
+    {
+        "client_msg_id": "7f866841-71dd-403e-9e36-cdc565315395",
+        "type": "message",
+        "text": "When you watch the video she has it shows her like doing everything inside the nono and than getting out and than you run it outside of the whole nono thing",
+        "user": "U04KWBZE1D3",
+        "ts": "1680760539.127969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HfmnA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you watch the video she has it shows her like doing everything inside the nono and than getting out and than you run it outside of the whole nono thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c1e5ff7151a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4679248787683_c1e5ff7151a92d0654b2_72.jpg",
+            "first_name": "Ameer",
+            "real_name": "Ameer Nahas",
+            "display_name": "Ameer Nahas",
+            "team": "T04HC2CMNJ0",
+            "name": "ameer.nahas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680744742.394769",
+        "parent_user_id": "U04KX6YLXJS"
+    }
+]

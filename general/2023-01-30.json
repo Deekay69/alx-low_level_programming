@@ -1,0 +1,299 @@
+[
+    {
+        "client_msg_id": "eea51b2c-1ce4-49aa-9035-c4c3984bd94d",
+        "type": "message",
+        "text": "Happy Monday everyone! I’ll be available on Slack\/Zoom today from 9:30 AM to 11:30 AM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1675092596.859699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Monday everyone! I’ll be available on Slack\/Zoom today from 9:30 AM to 11:30 AM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01b698ca-6ff7-4c03-a8ad-0b27e304a1f7",
+        "type": "message",
+        "text": "Would you add me to the mac channel please?",
+        "user": "U04L1QX8HN0",
+        "ts": "1675101928.053279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGjwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you add me to the mac channel please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "84bcbff81f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720443213586_84bcbff81f3ad63c20cc_72.jpg",
+            "first_name": "Alonzo",
+            "real_name": "Alonzo Terrell",
+            "display_name": "Alonzo Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "alonzo.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a419260-404c-48e7-b65f-8b4fa87d49cd",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> I would like to be added aswell. Thank you!",
+        "user": "U04LY71B937",
+        "ts": "1675104047.713459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjG0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I would like to be added aswell. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2863c1fcd23",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2863c1fcd23efb8a86e0fbaca900500c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "John",
+            "real_name": "John Graham",
+            "display_name": "John Graham",
+            "team": "T04HC2CMNJ0",
+            "name": "john.graham2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a7e4d27-422c-4961-b68e-39a11f838792",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04M92TC78C",
+        "ts": "1675106157.358569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ce354cbeb0ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720624498610_ce354cbeb0ae356c48df_72.png",
+            "first_name": "Edward",
+            "real_name": "Edward Lopez",
+            "display_name": "Edward Lopez",
+            "team": "T04HC2CMNJ0",
+            "name": "lopezedward2571",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b45c2814-9d33-4412-bbb9-db2b6bb4c206",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04M5MJ8XRT",
+        "ts": "1675135095.283829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Urk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g279ee0f815b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/279ee0f815b09fb1c18ae6fd0e089d91.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Rychy",
+            "real_name": "Rychy Valenzuela",
+            "display_name": "Rychy Valenzuela",
+            "team": "T04HC2CMNJ0",
+            "name": "rychy.valenzuela",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1C496F2F-D94B-4572-BC24-197BF481924D",
+        "type": "message",
+        "text": "Hope everyone is staying safe and warm. ",
+        "user": "U04M8MADT4Y",
+        "ts": "1675140782.326199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qo\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ope everyone is staying safe and warm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04LHGC3S1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "70c8d05a-ff9a-4123-9db9-81de17380d59",
+        "type": "message",
+        "text": "If you liked the movie Ocean's Eleven, or are otherwise interested in high stakes robberies - you might enjoy the report below: _The Perfect Heist: Recipes from Around the World_ by Lafleur, Purvis, Roesler, and Westland.\nThis is an actual, academic look at the methods and characteristics of \"high-value heists of cash, gold, gems, artwork, and other valuables\" which was done by some of my coworkers when I worked at Sandia National Labs. While a few of the thefts are \"only\" a million dollars or so, the largest one examined was the Millennium Dome Raid - which was a staggering $849 million in today's dollars!\n<https:\/\/www.osti.gov\/servlets\/purl\/1154957>",
+        "user": "U04JYA33E9Z",
+        "ts": "1674659232.630459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wj9c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you liked the movie Ocean's Eleven, or are otherwise interested in high stakes robberies - you might enjoy the report below: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The Perfect Heist: Recipes from Around the World ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "by Lafleur, Purvis, Roesler, and Westland.\nThis is an actual, academic look at the methods and characteristics of \"high-value heists of cash, gold, gems, artwork, and other valuables\" which was done by some of my coworkers when I worked at Sandia National Labs. While a few of the thefts are \"only\" a million dollars or so, the largest one examined was the Millennium Dome Raid - which was a staggering $849 million in today's dollars!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.osti.gov\/servlets\/purl\/1154957"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

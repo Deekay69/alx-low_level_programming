@@ -1,0 +1,502 @@
+[
+    {
+        "client_msg_id": "6562413d-c087-4af8-af9f-bbb106a47b01",
+        "type": "message",
+        "text": "I'm unable to sign into my UTSA share drive thru the link provided, Any help?",
+        "user": "U04LTUDMSSU",
+        "ts": "1680622900.366529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D45N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm unable to sign into my UTSA share drive thru the link provided, Any help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f9e6c934354d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4669793739399_f9e6c934354dcba2c0a3_72.jpg",
+            "first_name": "Eden",
+            "real_name": "Eden Olguin",
+            "display_name": "Eden Olguin",
+            "team": "T04HC2CMNJ0",
+            "name": "eden.olguin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04LTUDMSSU",
+            "ts": "1680622939.000000"
+        },
+        "thread_ts": "1680622900.366529",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680628552.512889",
+        "reply_users": [
+            "U04LTUDMSSU",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04LTUDMSSU",
+                "ts": "1680623353.707619"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680628552.512889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680628552.512889"
+    },
+    {
+        "client_msg_id": "4eb470c4-9a74-4ede-b79b-6b492b86cb94",
+        "type": "message",
+        "text": "The Link in the PDF file at the bottom of the paragraph  1003-Disscussion-Project-02. pdf works see attached link: <https:\/\/utsa.blackboard.com\/bbcswebdav\/pid-8487457-dt-content-rid-119489410_1\/xid-119489410_1>",
+        "user": "U04LTUDMSSU",
+        "ts": "1680623353.707619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=9hn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Link in the PDF file at the bottom of the paragraph  1003-Disscussion-Project-02. pdf works see attached link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.blackboard.com\/bbcswebdav\/pid-8487457-dt-content-rid-119489410_1\/xid-119489410_1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f9e6c934354d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4669793739399_f9e6c934354dcba2c0a3_72.jpg",
+            "first_name": "Eden",
+            "real_name": "Eden Olguin",
+            "display_name": "Eden Olguin",
+            "team": "T04HC2CMNJ0",
+            "name": "eden.olguin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680622900.366529",
+        "parent_user_id": "U04LTUDMSSU"
+    },
+    {
+        "type": "message",
+        "text": "Hi Eden: Great question! The link is a reference, not the actual OneDrive location. For that please go to <http:\/\/my.utsa.edu|my.utsa.edu> and click on the *Office 365 Portal\/OneDrive* link.",
+        "files": [
+            {
+                "id": "F051SEGENAW",
+                "created": 1680628536,
+                "timestamp": 1680628536,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 5847,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051SEGENAW\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051SEGENAW\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051SEGENAW-7135585b23\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051SEGENAW-7135585b23\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051SEGENAW-7135585b23\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 55,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051SEGENAW-7135585b23\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 414,
+                "original_h": 63,
+                "thumb_tiny": "AwAHADDTNN+b2p1JQAnze1Hze1LRQAnze1KM98UUtAH\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F051SEGENAW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F051SEGENAW-d3dd101399",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1680628552.512889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46Iy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Eden: Great question! The link is a reference, not the actual OneDrive location. For that please go to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/my.utsa.edu",
+                                "text": "my.utsa.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and click on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Office 365 Portal\/OneDrive ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "914fc2ee-46df-4f6e-b1a4-b24946771437",
+        "thread_ts": "1680622900.366529",
+        "parent_user_id": "U04LTUDMSSU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LTUDMSSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4e3b587-a300-4fdd-aaa5-0a640a619caf",
+        "type": "message",
+        "text": "My PSA file in the UTSA OneDrive location looks very different (less formal) than the one I created in my computer, is this just my personal setting in OneDrive?  or  can it be modified  to look as intended?  any help?",
+        "user": "U04LTUDMSSU",
+        "ts": "1680633251.805549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DbGbc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My PSA file in the UTSA OneDrive location looks very different (less formal) than the one I created in my computer, is this just my personal setting in OneDrive?  or  can it be modified  to look as intended?  any help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f9e6c934354d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4669793739399_f9e6c934354dcba2c0a3_72.jpg",
+            "first_name": "Eden",
+            "real_name": "Eden Olguin",
+            "display_name": "Eden Olguin",
+            "team": "T04HC2CMNJ0",
+            "name": "eden.olguin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633251.805549",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1680702463.019959",
+        "reply_users": [
+            "U04JYA33E9Z",
+            "U04LTUDMSSU"
+        ],
+        "replies": [
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1680633722.467589"
+            },
+            {
+                "user": "U04LTUDMSSU",
+                "ts": "1680702457.041499"
+            },
+            {
+                "user": "U04LTUDMSSU",
+                "ts": "1680702463.019959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8af4dedb-647e-428a-8dbc-8c0634e195f6",
+        "type": "message",
+        "text": "A Word document may look different online than on your own system.\nIf you upload a PDF it should appear the same in both places.",
+        "user": "U04JYA33E9Z",
+        "ts": "1680633722.467589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Word document may look different online than on your own system.\nIf you upload a PDF it should appear the same in both places."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633251.805549",
+        "parent_user_id": "U04LTUDMSSU",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04LTUDMSSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77ea2997-f9ca-4c84-b2d8-fd016ff1154d",
+        "type": "message",
+        "text": "On Part 2 of Module 5 I don't understand what to do on question number 2. \"2. Find and include FOSS (free and open-source) images on sites such as Pixabay, Unsplash, and Pexels.\"\n\nOr we don't so anything on this part. I have already got my link and shared it from UTSA OneDrive.",
+        "user": "U04LLU98PDE",
+        "ts": "1680645615.602879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TrG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On Part 2 of Module 5 I don't understand what to do on question number 2. \"2. Find and include FOSS (free and open-source) images on sites such as Pixabay, Unsplash, and Pexels.\"\n\nOr we don't so anything on this part. I have already got my link and shared it from UTSA OneDrive."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "18a8f2b578a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4701064644784_18a8f2b578a295d401ab_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike A Ledesma",
+            "display_name": "Mike A Ledesma",
+            "team": "T04HC2CMNJ0",
+            "name": "mike.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680645615.602879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680645998.182479",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04LLU98PDE"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1680645715.428419"
+            },
+            {
+                "user": "U04LLU98PDE",
+                "ts": "1680645998.182479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4f00710b-2da8-484f-bcfb-c446d233b914",
+        "type": "message",
+        "text": "Hi <@U04LLU98PDE> Those instructions are just saying that you should include images from open source sites in your PSA.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1680645715.428419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x9x2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04LLU98PDE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Those instructions are just saying that you should include images from open source sites in your PSA."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680645615.602879",
+        "parent_user_id": "U04LLU98PDE",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1448f4cf-78a6-44a7-a9b4-6b85f7d45064",
+        "type": "message",
+        "text": "Ok I understand. I hand done that already. Thank you.",
+        "user": "U04LLU98PDE",
+        "ts": "1680645998.182479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=EhZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I understand. I hand done that already. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "18a8f2b578a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4701064644784_18a8f2b578a295d401ab_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike A Ledesma",
+            "display_name": "Mike A Ledesma",
+            "team": "T04HC2CMNJ0",
+            "name": "mike.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680645615.602879",
+        "parent_user_id": "U04LLU98PDE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

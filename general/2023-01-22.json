@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "ba9481fb-3b8c-4a1b-b87a-7082d5ccf0a9",
+        "type": "message",
+        "text": "Sara,\nThank you for asking the question and thank you, Rita, for answering. I thought I needed clarification as well.",
+        "user": "U04KT059SHL",
+        "ts": "1674410030.931359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sara,\nThank you for asking the question and thank you, Rita, for answering. I thought I needed clarification as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "1e95b7d67072",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4676669017301_1e95b7d67072ee98fd6e_72.png",
+            "first_name": "Anela",
+            "real_name": "Anela Ahmetovic",
+            "display_name": "Anela Ahmetovic",
+            "team": "T04HC2CMNJ0",
+            "name": "anela.ahmetovic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KHN8U3FC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

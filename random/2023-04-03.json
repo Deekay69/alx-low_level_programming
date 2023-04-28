@@ -1,0 +1,283 @@
+[
+    {
+        "client_msg_id": "82c5c572-3e7d-451d-8d84-0a8d74c4a18f",
+        "type": "message",
+        "text": "Something that I have been using lately when I do not understand a topic is asking a chat AI to help me synthesize the ideas, my bot of choice is chat gpt. I have found it does a good job expanding on topics that I have more questions on. However I do not just take the AI's word for it, it can be wrong sometimes, but I will take this information and use it to do more research on the topic. Besides this It does a great job a writing work email and letter of recommendation for my students. It also saves me hours writing lesson plans that none of my admin will ever look at, but I digress.",
+        "user": "U04L7E54R41",
+        "ts": "1680538994.242679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something that I have been using lately when I do not understand a topic is asking a chat AI to help me synthesize the ideas, my bot of choice is chat gpt. I have found it does a good job expanding on topics that I have more questions on. However I do not just take the AI's word for it, it can be wrong sometimes, but I will take this information and use it to do more research on the topic. Besides this It does a great job a writing work email and letter of recommendation for my students. It also saves me hours writing lesson plans that none of my admin will ever look at, but I digress."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6025be49bbb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4674850489843_6025be49bbb1d6025d26_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Gardner",
+            "display_name": "Joshua Gardner",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.gardner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680538994.242679",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1680542091.520509",
+        "reply_users": [
+            "U04L7E54R41",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04L7E54R41",
+                "ts": "1680539067.667849"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680539488.830359"
+            },
+            {
+                "user": "U04L7E54R41",
+                "ts": "1680542091.520509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680542091.520509"
+    },
+    {
+        "client_msg_id": "0d16e763-c948-4c27-8dba-2217df53ac24",
+        "type": "message",
+        "text": "*I do not condone using the AI to answer any sort of questions on assignments, labs or test.* But it is a great tool to help with understanding.",
+        "user": "U04L7E54R41",
+        "ts": "1680539067.667849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oysb\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not condone using the AI to answer any sort of questions on assignments, labs or test. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "But it is a great tool to help with understanding."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6025be49bbb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4674850489843_6025be49bbb1d6025d26_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Gardner",
+            "display_name": "Joshua Gardner",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.gardner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680538994.242679",
+        "parent_user_id": "U04L7E54R41",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68EA0F1D-7B77-44F3-B35F-8EED19D60BA0",
+        "type": "message",
+        "text": "Thanks for starting a dialogue on this and for sharing your thoughts, Joshua! We will address how to use generative AI wisely in the last lab. I agree that it can be beneficial in saving time on boilerplate tasks as an initial step. The key, as you noted, is to follow up with some additional research, verification (with reliable sources), editing, and citing. I look forward to further discussions on this important and interesting topic!!",
+        "user": "U04GV2EK7UP",
+        "ts": "1680539488.830359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJgT7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for starting a dialogue on this and for sharing your thoughts, Joshua! We will address how to use generative AI wisely in the last lab. I agree that it can be beneficial in saving time on boilerplate tasks as an initial step. The key, as you noted, is to follow up with some additional research, verification (with reliable sources), editing, and citing. I look forward to further discussions on this important and interesting topic!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680538994.242679",
+        "parent_user_id": "U04L7E54R41",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04L7E54R41"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "922fe169-3df3-46f9-b4ac-60da07e15023",
+        "type": "message",
+        "text": "I do my best to stress this to my students and make sure they understand when it is appropriate to use. I am looking forward to seeing another perspective on it.",
+        "user": "U04L7E54R41",
+        "ts": "1680542091.520509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2Oz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do my best to stress this to my students and make sure they understand when it is appropriate to use. I am looking forward to seeing another perspective on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6025be49bbb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4674850489843_6025be49bbb1d6025d26_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Gardner",
+            "display_name": "Joshua Gardner",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.gardner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680538994.242679",
+        "parent_user_id": "U04L7E54R41",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77aecb28-4218-4fac-8ec4-ffe0590b6a4b",
+        "type": "message",
+        "text": "I met with Professor Collazo on Zoom and we discussed some information that was located in the \"Explore More!\" tab in Blackboard. I learned about <http:\/\/Sans.org|Sans.org> which is a website that offers training for Cyber Security job roles. I found out about the \"NICE Cybersecurity Workforce Framework\" which is a website that provides additional information about a specific cybersecurity job. It provides information about the abilities, skills, and knowledge required for a cybersecurity job role.",
+        "user": "U04LLRXMG9M",
+        "ts": "1680570899.086379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3SK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I met with Professor Collazo on Zoom and we discussed some information that was located in the \"Explore More!\" tab in Blackboard. I learned about "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Sans.org",
+                                "text": "Sans.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is a website that offers training for Cyber Security job roles. I found out about the \"NICE Cybersecurity Workforce Framework\" which is a website that provides additional information about a specific cybersecurity job. It provides information about the abilities, skills, and knowledge required for a cybersecurity job role."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g5db8afb8f87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5db8afb8f8792f17a493ca06267fdac4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Francis",
+            "real_name": "Francis Yamoah",
+            "display_name": "Francis Yamoah",
+            "team": "T04HC2CMNJ0",
+            "name": "francis.yamoah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04L7E54R41"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

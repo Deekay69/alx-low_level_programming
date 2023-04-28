@@ -1,0 +1,557 @@
+[
+    {
+        "client_msg_id": "e4340d50-398d-4e26-9dab-301242055f36",
+        "type": "message",
+        "text": "I had one but bought a new computer for this program. I am now feeling so lost with this new computer because I'm more familiar with the macs. Everything feels so much harder right now than before.",
+        "user": "U04KQQJLLG3",
+        "ts": "1674752341.323889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nhx=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had one but bought a new computer for this program. I am now feeling so lost with this new computer because I'm more familiar with the macs. Everything feels so much harder right now than before."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g59ad5c55204",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/59ad5c55204a8a6117237e5fb97ece93.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Terrell",
+            "display_name": "Emma Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674673067.587739",
+        "parent_user_id": "U04KZMSE24X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04M5CEPJA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57c21904-96a1-496e-9b54-d724c032e57c",
+        "type": "message",
+        "text": "I have both but would like access to the private channel just in case. I bought a new computer so I had what I needed but now I am feeling very overwhelmed trying to learn this new computer system and do everything that I need to get done.",
+        "user": "U04KQQJLLG3",
+        "ts": "1674752431.663959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YF2gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have both but would like access to the private channel just in case. I bought a new computer so I had what I needed but now I am feeling very overwhelmed trying to learn this new computer system and do everything that I need to get done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g59ad5c55204",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/59ad5c55204a8a6117237e5fb97ece93.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Terrell",
+            "display_name": "Emma Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a9547a5-de31-4f92-a044-0c23791e7ac7",
+        "type": "message",
+        "text": "Happy Thursday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1674754183.652179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mkgwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Thursday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcd5653a-3e6b-43da-8b9b-be875c30861f",
+        "type": "message",
+        "text": "Hi <@U04KQQJLLG3>: I did add you, but just note that this class is an ideal and safe place to get familiar with your Windows system. It would be better to go ahead and work through Lab 01 and later on your Windows machine. If you want to complete Lab 00 on your Mac, please go ahead, and document the specs for both machines. Okay?",
+        "user": "U04GV2EK7UP",
+        "ts": "1674755986.948359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aREz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KQQJLLG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": I did add you, but just note that this class is an ideal and safe place to get familiar with your Windows system. It would be better to go ahead and work through Lab 01 and later on your Windows machine. If you want to complete Lab 00 on your Mac, please go ahead, and document the specs for both machines. Okay?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP"
+    },
+    {
+        "client_msg_id": "81d9a3ec-a0d8-47f9-8e47-470b892ab745",
+        "type": "message",
+        "text": "Thank you. I'm attempting it on my windows as I write this. I think that I was just really overwhelmed when I first messaged you, but I'm sure I'll be okay. I'm getting more comfortable as I have had a little time to mess with this computer. I just got this yesterday and haven't had time to really sit down and play around with it until about 2 hours ago. I've always had apple computers so it's just taking a bit for me to get used to it. Thank you though for your response!",
+        "user": "U04KQQJLLG3",
+        "ts": "1674756290.731699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+h6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you. I'm attempting it on my windows as I write this. I think that I was just really overwhelmed when I first messaged you, but I'm sure I'll be okay. I'm getting more comfortable as I have had a little time to mess with this computer. I just got this yesterday and haven't had time to really sit down and play around with it until about 2 hours ago. I've always had apple computers so it's just taking a bit for me to get used to it. Thank you though for your response!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g59ad5c55204",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/59ad5c55204a8a6117237e5fb97ece93.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Terrell",
+            "display_name": "Emma Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "right-facing_fist::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09736c9d-e34d-4f48-a6f0-db7bcb262d9f",
+        "type": "message",
+        "text": "Hello everyone ! I'll be available today from 2 PM to 5 PM, so please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1674763297.121379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone ! I'll be available today from 2 PM to 5 PM, so please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "115afed0-c79b-483a-996c-f5dde7eeb9c3",
+        "type": "message",
+        "text": "Does anyone know how to delete a discussion post ?",
+        "user": "U04KC5TB3TR",
+        "ts": "1674780531.647749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTl2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know how to delete a discussion post ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674780531.647749",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1674780766.744459",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1674780648.575519"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1674780758.479749"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1674780766.744459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8d85fce7-38a3-47be-88c5-9caa72eb4547",
+        "type": "message",
+        "text": "Hi <@U04KC5TB3TR> I do not believe that there is a way to delete a discussion post in Blackboard.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1674780648.575519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KC5TB3TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I do not believe that there is a way to delete a discussion post in Blackboard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674780531.647749",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "a3d2e477-2b62-40ca-a1bf-050bfbf7439b",
+        "type": "message",
+        "text": "oh no :cry:",
+        "user": "U04KC5TB3TR",
+        "ts": "1674780758.479749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jwvu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh no "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674780531.647749",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "19b02dbd-5351-46c7-bd22-68c3265d923f",
+        "type": "message",
+        "text": "thank you for responding",
+        "user": "U04KC5TB3TR",
+        "ts": "1674780766.744459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you for responding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674780531.647749",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "771E83D4-6B24-4E0C-8B99-2050FAD78E47",
+        "type": "message",
+        "text": "I have a macbook computer and the course is still easy to work with.",
+        "user": "U04LFF8BL2Z",
+        "ts": "1674782794.863069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5R665",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a macbook computer and the course is still easy to work with."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f46d07fd78f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4683937727655_f46d07fd78f4bc2e116b_72.jpg",
+            "first_name": "Mercy",
+            "real_name": "Mercy Babalola",
+            "display_name": "Mercy Babalola",
+            "team": "T04HC2CMNJ0",
+            "name": "mercy.babalola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674673067.587739",
+        "parent_user_id": "U04KZMSE24X"
+    }
+]

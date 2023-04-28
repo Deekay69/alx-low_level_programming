@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04UK7031QA",
+                "created": 1679085685,
+                "timestamp": 1679085685,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L288QDJ4",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 339896,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UK7031QA\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UK7031QA\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 259,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 345,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 517,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UK7031QA-ebd807df59\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 575,
+                "thumb_800_h": 800,
+                "original_w": 649,
+                "original_h": 903,
+                "thumb_tiny": "AwAwACLTppcduaa7ZIC\/iaQ\/XPagB+\/2NOByKj9OAcdqQEj7vBFAySikyPWjI9aBDfL2jCnim5J7nP0qao34Oe1AxAfX8\/SkJ6UoHPGPyoxk8daAD5+2cUfP71JRQFxaKQkY4OKTDf3\/ANKBAEA9fzpwAHSm4Y\/xY\/ClGR1bNABRRRQB\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L288QDJ4\/F04UK7031QA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UK7031QA-bb52b6d33b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L288QDJ4",
+        "display_as_bot": false,
+        "ts": "1679085790.536309",
+        "client_msg_id": "3b44804d-2784-4979-9dd9-3b17f37a1e1d",
+        "thread_ts": "1679085790.536309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679356072.291399",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679356072.291399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679356072.291399",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04LLU98PDE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "f1c6598d-14e4-4f19-ba35-96f8e094ab1e",
+        "type": "message",
+        "text": "Is it possible to edit a post? It appears that I made a formatting mistake.",
+        "user": "U04KZFVR030",
+        "ts": "1675142051.379909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it possible to edit a post? It appears that I made a formatting mistake."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gcd85cbfab67",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd85cbfab67984401876b65807b72a83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Christian",
+            "real_name": "Christian Albright",
+            "display_name": "Christian Albright",
+            "team": "T04HC2CMNJ0",
+            "name": "christian.albright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675142051.379909",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1675180345.635729",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KZFVR030",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1675170981.720389"
+            },
+            {
+                "user": "U04KZFVR030",
+                "ts": "1675180108.290919"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675180345.635729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675180345.635729"
+    }
+]

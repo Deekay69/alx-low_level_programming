@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "f7862d20-dcfa-408b-a71e-8c61433f6430",
+        "type": "message",
+        "text": "<https:\/\/getcertifiedgetahead.com\/> this is also a really good resource to study for sec +",
+        "user": "U04KKA31SG2",
+        "ts": "1676512199.135899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getcertifiedgetahead.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is also a really good resource to study for sec +"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ac5a579d4409",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4650816344295_ac5a579d4409c6e2eb7d_72.jpg",
+            "first_name": "River",
+            "real_name": "River Dowling",
+            "display_name": "River Dowling",
+            "team": "T04HC2CMNJ0",
+            "name": "river.dowling",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/getcertifiedgetahead.com\/wp-content\/uploads\/2013\/07\/get-cert-header-300x75.jpg",
+                "image_width": 300,
+                "image_height": 75,
+                "image_bytes": 5045,
+                "from_url": "https:\/\/getcertifiedgetahead.com\/",
+                "service_icon": "https:\/\/getcertifiedgetahead.com\/wp-content\/uploads\/2013\/07\/favicon2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/getcertifiedgetahead.com\/",
+                "fallback": "Get Certified Get Ahead: Are You Ready to Get Certified? - Get Certified Get Ahead",
+                "text": "Information on the CompTIA A+, Network+, and Security+ certifications to help people get certified and get ahead in their careers",
+                "title": "Are You Ready to Get Certified? - Get Certified Get Ahead",
+                "title_link": "https:\/\/getcertifiedgetahead.com\/",
+                "service_name": "Get Certified Get Ahead",
+                "fields": [
+                    {
+                        "value": "2 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1676512199.135899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678133504.920709",
+        "reply_users": [
+            "U04LY71MCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U04LY71MCQ2",
+                "ts": "1678133504.920709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KMTVDCQ4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

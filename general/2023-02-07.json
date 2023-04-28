@@ -1,0 +1,454 @@
+[
+    {
+        "client_msg_id": "17eac51a-51eb-407f-b9ac-02f0aba915c2",
+        "type": "message",
+        "text": "Happy Tuesday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1675790991.645859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HAwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Tuesday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3890d4c1-906b-4625-b6f2-5b491ea27dee",
+        "type": "message",
+        "text": "Hello everyone! I'll be available today from 2 PM to 5 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1675800042.037449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o93J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! I'll be available today from 2 PM to 5 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04KHN8U3FC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d4f1b8f-33db-4451-b194-1208f1f988c4",
+        "type": "message",
+        "text": "<https:\/\/www.leveleffect.com\/cyber-defense-quiz> hi everyone I thought this quiz could be fun for those who might be curious about cyber fields that fit them. One tip I can share is that if  you do want to provide your info just use <mailto:Noemail@mail.com|Noemail@mail.com> and <tel:2105555555|210-555-5555> for contact information, this works on most websites and I use it to avoid having to unsubscribe from email\/texts lists later.",
+        "user": "U04LY71MCQ2",
+        "ts": "1675801148.133259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvAkx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.leveleffect.com\/cyber-defense-quiz"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hi everyone I thought this quiz could be fun for those who might be curious about cyber fields that fit them. One tip I can share is that if  you do want to provide your info just use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:Noemail@mail.com",
+                                "text": "Noemail@mail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:2105555555",
+                                "text": "210-555-5555"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for contact information, this works on most websites and I use it to avoid having to unsubscribe from email\/texts lists later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.leveleffect.com\/cyber-defense-quiz",
+                "image_url": "https:\/\/www.leveleffect.com\/hubfs\/FeaturedImage_Site%20%281%29.png#keepProtocol",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 760229,
+                "service_icon": "https:\/\/www.leveleffect.com\/hubfs\/Web%20Media\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.leveleffect.com\/cyber-defense-quiz",
+                "fallback": "Cyber Career Quiz | Level Effect",
+                "text": "There are tons of different career paths in cybersecurity. Find out which one might be the best fit for you by taking our Cyber Career Quiz.",
+                "title": "Cyber Career Quiz | Level Effect",
+                "title_link": "https:\/\/www.leveleffect.com\/cyber-defense-quiz",
+                "service_name": "leveleffect.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KDSDECLC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac14af97-b6f5-4bbd-8046-a47787f8efa5",
+        "type": "message",
+        "text": "Hello, everyone. Can anyone tell me where to find the \"Discussion Board\" for tonight's assignment? I don't see it on Blackboard. Are we supposed to post that here?",
+        "user": "U04L5H05V8W",
+        "ts": "1675828514.908779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, everyone. Can anyone tell me where to find the \"Discussion Board\" for tonight's assignment? I don't see it on Blackboard. Are we supposed to post that here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "9568c85a150a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4685633641190_9568c85a150a90a98923_72.jpg",
+            "first_name": "Preston",
+            "real_name": "Preston",
+            "display_name": "Preston",
+            "team": "T04HC2CMNJ0",
+            "name": "preston.longhurst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675828514.908779",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1675830493.598239",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04L5H05V8W"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1675829967.541519"
+            },
+            {
+                "user": "U04L5H05V8W",
+                "ts": "1675830395.772009"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1675830493.598239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d861996b-ecdf-4024-8929-101ff10f5230",
+        "type": "message",
+        "text": "Hi <@U04L5H05V8W> In Module 01, you get to the discussion post by pressing on the the orange *<https:\/\/utsa.blackboard.com\/webapps\/blackboard\/content\/launchLink.jsp?course_id=_241524_1&amp;content_id=_8533908_1&amp;mode=view|Discussion Project 01 | Cybersecurity Podcast Review | Part 01>* link.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675829967.541519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zcojr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L5H05V8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In Module 01, you get to the discussion post by pressing on the the orange "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.blackboard.com\/webapps\/blackboard\/content\/launchLink.jsp?course_id=_241524_1&content_id=_8533908_1&mode=view",
+                                "text": "Discussion Project 01 | Cybersecurity Podcast Review | Part 01",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675828514.908779",
+        "parent_user_id": "U04L5H05V8W",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04M0K3S5HD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04M0K3S5HD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04L5H05V8W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5390f983-bb75-4850-b9a6-1deaa6eb7cfb",
+        "type": "message",
+        "text": "Thank you! By the time I realized it, it seemed so easy. I was looking for a link in the left-hand side menu. I appreciate the response.",
+        "user": "U04L5H05V8W",
+        "ts": "1675830395.772009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3Qq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! By the time I realized it, it seemed so easy. I was looking for a link in the left-hand side menu. I appreciate the response."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "9568c85a150a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4685633641190_9568c85a150a90a98923_72.jpg",
+            "first_name": "Preston",
+            "real_name": "Preston",
+            "display_name": "Preston",
+            "team": "T04HC2CMNJ0",
+            "name": "preston.longhurst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675828514.908779",
+        "parent_user_id": "U04L5H05V8W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e2c2fbb-c647-42a2-87c0-bee6c85f7d00",
+        "type": "message",
+        "text": "No problem <@U04L5H05V8W>. I'm glad you were able to figure it out.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675830493.598239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W05Yy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No problem "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L5H05V8W"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I'm glad you were able to figure it out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675828514.908779",
+        "parent_user_id": "U04L5H05V8W"
+    }
+]

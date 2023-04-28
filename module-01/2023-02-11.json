@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "text": "Ping, Ping, Ping!",
+        "files": [
+            {
+                "id": "F04P6TQ5P6W",
+                "created": 1676160125,
+                "timestamp": 1676160125,
+                "name": "Ping, Ping, Ping!.png",
+                "title": "Ping, Ping, Ping!.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04K4P9URDM",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 134138,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04P6TQ5P6W\/ping__ping__ping_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04P6TQ5P6W\/download\/ping__ping__ping_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 533,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04P6TQ5P6W-0ad1082e08\/ping__ping__ping__1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 683,
+                "original_w": 1693,
+                "original_h": 1129,
+                "thumb_tiny": "AwAgADChg+9AU570vPWlBPtQA35vWkyw7inc\/wCRTT1J4oAMn1o3H1pKSgCTb2o20Z4zn9aP+BfrQAbfemnGcZPFO\/H9aafrQAnHrRSUUAf\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04K4P9URDM\/F04P6TQ5P6W\/ping__ping__ping_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04P6TQ5P6W-a0e8846aba",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04K4P9URDM",
+        "display_as_bot": false,
+        "ts": "1676160141.904769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping, Ping, Ping!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b41c5a1e-a84b-4ce3-8897-8b511edcfffd"
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "client_msg_id": "0125f208-9f71-4141-8e5a-cbe762e21130",
+        "type": "message",
+        "text": "For the module quiz with questions that have a text box, Do you click on next to save your answer or do you have to \"save-submit\" (forgot the wording) before going to the next question?",
+        "user": "U04KXUSD00Z",
+        "ts": "1674606786.810559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8qAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the module quiz with questions that have a text box, Do you click on next to save your answer or do you have to \"save-submit\" (forgot the wording) before going to the next question?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "513524075859",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4669071757845_5135240758592f53845d_72.jpg",
+            "first_name": "Jesse",
+            "real_name": "Jesse Flores",
+            "display_name": "Jesse Flores",
+            "team": "T04HC2CMNJ0",
+            "name": "jesus.flores3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1675107244.286389",
+        "reply_users": [
+            "U04KEJUNAJG",
+            "U04KXUSD00Z",
+            "U04GV2EK7UP",
+            "U04KS2EFYR1"
+        ],
+        "replies": [
+            {
+                "user": "U04KEJUNAJG",
+                "ts": "1674606831.265469"
+            },
+            {
+                "user": "U04KXUSD00Z",
+                "ts": "1674606867.055949"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674607465.824309"
+            },
+            {
+                "user": "U04KXUSD00Z",
+                "ts": "1674607573.133549"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674607610.430609"
+            },
+            {
+                "user": "U04KS2EFYR1",
+                "ts": "1675107244.286389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675107244.286389"
+    },
+    {
+        "client_msg_id": "61B17387-FE57-4E05-82B3-8F927B034D29",
+        "type": "message",
+        "text": "nah it automatically saves your answers",
+        "user": "U04KEJUNAJG",
+        "ts": "1674606831.265469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Imk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ah it automatically saves your answers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    },
+    {
+        "client_msg_id": "0345d203-5a13-4de7-9865-78d90a61c767",
+        "type": "message",
+        "text": "Odd, I noticed my answers did not save once Quiz was fully submitted. Using preferred browser as well, Chrome.",
+        "user": "U04KXUSD00Z",
+        "ts": "1674606867.055949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Odd, I noticed my answers did not save once Quiz was fully submitted. Using preferred browser as well, Chrome."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "513524075859",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4669071757845_5135240758592f53845d_72.jpg",
+            "first_name": "Jesse",
+            "real_name": "Jesse Flores",
+            "display_name": "Jesse Flores",
+            "team": "T04HC2CMNJ0",
+            "name": "jesus.flores3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KXUSD00Z",
+            "ts": "1674607007.000000"
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    },
+    {
+        "client_msg_id": "9cdab116-6b37-4cb1-9cc6-038f0f0d44b9",
+        "type": "message",
+        "text": "On the first question, Jesse, sometimes, it takes varying amounts of seconds for the \"save\" to automatically show up, in my experience. When in doubt, you can save the answer manually. On the second comment, do you mean that you received no points for your attempt? I would recommend contacting your professor to check on this.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674607465.824309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AtX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On the first question, Jesse, sometimes, it takes varying amounts of seconds for the \"save\" to automatically show up, in my experience. When in doubt, you can save the answer manually. On the second comment, do you mean that you received no points for your attempt? I would recommend contacting your professor to check on this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    },
+    {
+        "client_msg_id": "5587b525-9912-421e-970c-ff7ad5911b9c",
+        "type": "message",
+        "text": "Correct points were not given for the sections with free-form text submission. When I received my submission, I did not see my text answers listed and points for those questions showed zero. I will do that, thank you.",
+        "user": "U04KXUSD00Z",
+        "ts": "1674607573.133549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct points were not given for the sections with free-form text submission. When I received my submission, I did not see my text answers listed and points for those questions showed zero. I will do that, thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "513524075859",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4669071757845_5135240758592f53845d_72.jpg",
+            "first_name": "Jesse",
+            "real_name": "Jesse Flores",
+            "display_name": "Jesse Flores",
+            "team": "T04HC2CMNJ0",
+            "name": "jesus.flores3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    },
+    {
+        "client_msg_id": "ae54bad3-988c-404a-a272-6f75a78fdd07",
+        "type": "message",
+        "text": "I see, thanks for the clarification.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674607610.430609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PvAyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see, thanks for the clarification."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    }
+]

@@ -1,0 +1,397 @@
+[
+    {
+        "type": "message",
+        "text": "Yes Ma'am, got it. Apperciate you.",
+        "user": "U04KAKV7N7L",
+        "ts": "1676568062.969759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7oU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes Ma'am, got it. Apperciate you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2b5b3259cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2b5b3259cf2728dfd5f9d109b606ac14.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Serge",
+            "real_name": "Serge Shirvanian",
+            "display_name": "SERGE SHIRVANIAN",
+            "team": "T04HC2CMNJ0",
+            "name": "serge.shirvanian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676515575.739529",
+        "parent_user_id": "U04KAKV7N7L",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi all: On step #7 (Guest Additions), you may receive a message like the screenshot below. <https:\/\/linuxrise.com\/install-ubuntu-virtualbox|These instructions> (under the Guest Additions section) contain the commands needed to install these modules. They are different than my alternative instructions in the lab file (which should work too, but if they don't...).",
+        "files": [
+            {
+                "id": "F04Q1BKTE4S",
+                "created": 1676586367,
+                "timestamp": 1676586367,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 250657,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q1BKTE4S\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q1BKTE4S\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 41,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 54,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 81,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 90,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 108,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q1BKTE4S-9842bbcfc8\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 115,
+                "original_w": 1429,
+                "original_h": 161,
+                "thumb_tiny": "AwAFADCp2pOi5xS9jSH7n4Uyhu\/2o3+1NooAcXz1ApuR6frRSUDP\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04Q1BKTE4S\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04Q1BKTE4S-ac56e1476b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1676586475.347429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Mg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: On step #7 (Guest Additions), you may receive a message like the screenshot below. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/linuxrise.com\/install-ubuntu-virtualbox",
+                                "text": "These instructions"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (under the Guest Additions section) contain the commands needed to install these modules. They are different than my alternative instructions in the lab file (which should work too, but if they don't...)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1676586625.000000"
+        },
+        "client_msg_id": "39c0dcc0-f6b0-4729-935f-03f060c78db6",
+        "attachments": [
+            {
+                "image_url": "https:\/\/linuxrise.com\/wp-content\/uploads\/2023\/01\/how_to_ubuntu_virtualbox_install.jpg",
+                "image_width": 768,
+                "image_height": 432,
+                "image_bytes": 45245,
+                "from_url": "https:\/\/linuxrise.com\/install-ubuntu-virtualbox",
+                "service_icon": "https:\/\/linuxrise.com\/wp-content\/uploads\/2023\/01\/cropped-iconident-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/linuxrise.com\/install-ubuntu-virtualbox",
+                "fallback": "LinuxRise: Install Linux Ubuntu on Virtualbox 2023 Easy Guide!",
+                "text": "Easily install Ubuntu on VirtualBox with our illustrated guide. Follow the step-by-step instructions and pictures.",
+                "title": "Install Linux Ubuntu on Virtualbox 2023 Easy Guide!",
+                "title_link": "https:\/\/linuxrise.com\/install-ubuntu-virtualbox",
+                "service_name": "LinuxRise",
+                "fields": [
+                    {
+                        "value": "adminRise",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KDSDECLC",
+                    "U04KLBCHHD5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1D973A2C-3346-4CB3-B309-19D3CBB42B42",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> I don’t believe I’ve been added to the chat for those using Mac. May I please be added as well?",
+        "user": "U04LP6YKHJ8",
+        "ts": "1676605520.495909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7di",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t believe"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " been added to the chat for those using Mac"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " May I please be added as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "9deec8a70bae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4724473213184_9deec8a70baecdad976c_72.png",
+            "first_name": "Joe",
+            "real_name": "Joe Longoria",
+            "display_name": "Joe L",
+            "team": "T04HC2CMNJ0",
+            "name": "joe.longoria2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Im wondering in the main menu (The VirtualBox Manager) I'm only supposed to have one System correct?",
+        "files": [
+            {
+                "id": "F04Q3559XNE",
+                "created": 1676620637,
+                "timestamp": 1676620637,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KWBZE1D3",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 16707,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q3559XNE\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q3559XNE\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 159,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 212,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 318,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q3559XNE-6658eb268a\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 353,
+                "thumb_800_h": 800,
+                "original_w": 380,
+                "original_h": 861,
+                "thumb_tiny": "AwAwABW+GHTIxS7h6imeSnvS+WvvT0FqO3j1FG8eopvlr70eWPejQNR9FFFIYUUUUAFFFFABRRRQB\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KWBZE1D3\/F04Q3559XNE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04Q3559XNE-83e731dd13",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KWBZE1D3",
+        "display_as_bot": false,
+        "ts": "1676620641.758899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zODl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im wondering in the main menu (The VirtualBox Manager) I'm only supposed to have one System correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5bf01eda-f2ad-40c0-ac7f-78d3aafb63bf",
+        "thread_ts": "1676620641.758899",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1676657413.819069",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KWBZE1D3",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676637252.252069"
+            },
+            {
+                "user": "U04KWBZE1D3",
+                "ts": "1676657193.402769"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676657413.819069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676657413.819069"
+    },
+    {
+        "client_msg_id": "6ccd775a-63d4-422b-87ff-741b78cbc91a",
+        "type": "message",
+        "text": "^ like this correct?",
+        "user": "U04KWBZE1D3",
+        "ts": "1676620652.318329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ like this correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c1e5ff7151a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4679248787683_c1e5ff7151a92d0654b2_72.jpg",
+            "first_name": "Ameer",
+            "real_name": "Ameer Nahas",
+            "display_name": "Ameer Nahas",
+            "team": "T04HC2CMNJ0",
+            "name": "ameer.nahas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

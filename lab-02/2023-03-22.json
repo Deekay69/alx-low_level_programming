@@ -1,0 +1,352 @@
+[
+    {
+        "type": "message",
+        "text": "Jackson,\nPlease see the Tips for Lab 02 for a possible fix.",
+        "files": [
+            {
+                "id": "F04V9PR7ZAQ",
+                "created": 1679507198,
+                "timestamp": 1679507198,
+                "name": "lab02_tips_step06.png",
+                "title": "lab02_tips_step06.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04JYA33E9Z",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 42278,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04V9PR7ZAQ\/lab02_tips_step06.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04V9PR7ZAQ\/download\/lab02_tips_step06.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 82,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 109,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 163,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 181,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 218,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9PR7ZAQ-9fefff1afe\/lab02_tips_step06_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 232,
+                "original_w": 1261,
+                "original_h": 286,
+                "thumb_tiny": "AwAKADC+3FADHv8ArSPSL0oAdhv8ml+b\/JpMn1oyfWgBwzR+FNyfWlWgD\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04JYA33E9Z\/F04V9PR7ZAQ\/lab02_tips_step06.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04V9PR7ZAQ-0ff36bddef",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04JYA33E9Z",
+        "display_as_bot": false,
+        "ts": "1679507200.696269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jackson,\nPlease see the Tips for Lab 02 for a possible fix."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "86ef9556-d1b9-4040-9f0e-af3420a8e6bf",
+        "thread_ts": "1679458287.559659",
+        "parent_user_id": "U04MQNA0Q0Z"
+    },
+    {
+        "client_msg_id": "4054F1D8-AB4C-4708-8C32-C0E17481C83D",
+        "type": "message",
+        "text": "Same^",
+        "user": "U04MDNM89L3",
+        "ts": "1679524447.229889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0894b8785f05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4727769466547_0894b8785f05554f7747_72.jpg",
+            "first_name": "Tomi",
+            "real_name": "Tomi Adewuyi",
+            "display_name": "TOMIADEWUYI",
+            "team": "T04HC2CMNJ0",
+            "name": "tomi.adewuyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2469CD54-4117-41A8-BFD7-08AA13CF977C",
+        "type": "message",
+        "text": "I still can’t get it done because that step ",
+        "user": "U04MDNM89L3",
+        "ts": "1679524474.631609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0RAR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get it done because that step "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0894b8785f05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4727769466547_0894b8785f05554f7747_72.jpg",
+            "first_name": "Tomi",
+            "real_name": "Tomi Adewuyi",
+            "display_name": "TOMIADEWUYI",
+            "team": "T04HC2CMNJ0",
+            "name": "tomi.adewuyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679524474.631609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679525087.237839",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679525087.237839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679525087.237839"
+    },
+    {
+        "client_msg_id": "1A6E109C-277C-4EFA-878E-896BF8834F55",
+        "type": "message",
+        "text": "I hit a roadblock",
+        "user": "U04MDNM89L3",
+        "ts": "1679524483.675189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isLjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hit a roadblock"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0894b8785f05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4727769466547_0894b8785f05554f7747_72.jpg",
+            "first_name": "Tomi",
+            "real_name": "Tomi Adewuyi",
+            "display_name": "TOMIADEWUYI",
+            "team": "T04HC2CMNJ0",
+            "name": "tomi.adewuyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8faf2570-c363-4bd7-a3c6-9c3005bd87ad",
+        "type": "message",
+        "text": "Hi: Can you post a screenshot of your error and describe what you've done to date?",
+        "user": "U04GV2EK7UP",
+        "ts": "1679525087.237839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi: Can you post a screenshot of your error and describe what you've done to date?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679524474.631609",
+        "parent_user_id": "U04MDNM89L3"
+    },
+    {
+        "type": "message",
+        "text": "I can’t move on need help ",
+        "files": [
+            {
+                "id": "F04UVGAQX7H",
+                "created": 1679547794,
+                "timestamp": 1679547794,
+                "name": "IMG_0934.jpg",
+                "title": "IMG_0934",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04M0P2DW94",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 2381616,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UVGAQX7H\/img_0934.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UVGAQX7H\/download\/img_0934.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UVGAQX7H-a8e6b56646\/img_0934_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSz5ig8stHmp\/fX86qTjErfWosH1oA0RKn99fzp3mJ\/fX86zMmgE\/5NAGpvT+8v50b0\/vL+dZwY4\/8Ar0bv85oAuPCjsWI5NNNtH7iniVD\/ABCl3KehH50ARfZU\/vGk+xr2c\/lUwp1AFcWgH8f6Uv2Uf3v0qeigDLx7mjnsxpkjbTjvTBL60tRk4Zx0anCaUdCfzqEOD0NOzRcLE4upAOQTS\/a3\/umq++jf9aQH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04M0P2DW94\/F04UVGAQX7H\/img_0934.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UVGAQX7H-27b14c4bdc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04M0P2DW94",
+        "display_as_bot": false,
+        "ts": "1679547808.869449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qt2\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " move on need help "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F0CC4A3C-E975-4230-881A-8D91F6DBA23B"
+    }
+]

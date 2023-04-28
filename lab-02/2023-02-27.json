@@ -1,0 +1,260 @@
+[
+    {
+        "client_msg_id": "f701ba2f-8d02-41dd-a3e1-b180cfe1ab36",
+        "type": "message",
+        "text": "Just FYI about students setting up a GitHub account. I was able to setup without having to verify my student documents such as a UTSA card. It directed me to the verify documents screen and I did not go thru this part of the setup. I do not think its required for a GitHub account. Just to make sure, I logged out and logged back in to my account. My best guess is, the verifying students documents was optional. Just make sure to go thru the setup steps carefully.",
+        "user": "U04L09GTVBK",
+        "ts": "1677512673.234969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDRAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just FYI about students setting up a GitHub account. I was able to setup without having to verify my student documents such as a UTSA card. It directed me to the verify documents screen and I did not go thru this part of the setup. I do not think its required for a GitHub account. Just to make sure, I logged out and logged back in to my account. My best guess is, the verifying students documents was optional. Just make sure to go thru the setup steps carefully."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gb23cb6a973d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23cb6a973da3dd04d61ed8a6077fe8b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Tony",
+            "real_name": "Tony Koppen",
+            "display_name": "Tony Koppen",
+            "team": "T04HC2CMNJ0",
+            "name": "tony.koppen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfc4a42e-e6ee-41a5-b2ae-05ea9bf3c6f9",
+        "type": "message",
+        "text": "I believe the verification of your identity is necessary to get the free github premium you get through the school, but im not 100%",
+        "user": "U04JWGYC9JT",
+        "ts": "1677513725.787639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sCpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe the verification of your identity is necessary to get the free github premium you get through the school, but im not 100%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e7b8d25-818f-4a4d-a01d-347ed66920d5",
+        "type": "message",
+        "text": "<@U04L09GTVBK> and <@U04JWGYC9JT> are both correct. We recommend that you create a student GitHub account to take advantage of the educational benefits, but it is not required for this class. The verification with your student ID is only required if you sign up for a student account.\n\n*Important side note:* Whatever you decide to do, please make sure you use the same email for your GitHub account and your git configuration in your virtual machine, as the email is part of the key you use to sync the two.",
+        "user": "U04GV2EK7UP",
+        "ts": "1677518039.319349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yKa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04L09GTVBK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are both correct. We recommend that you create a student GitHub account to take advantage of the educational benefits, but it is not required for this class. The verification with your student ID is only required if you sign up for a student account.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Important side note:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Whatever you decide to do, please make sure you use the same email for your GitHub account and your git configuration in your virtual machine, as the email is part of the key you use to sync the two."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e1e5e91b-bac1-49bf-b1f3-4c8ec5e59d67",
+        "type": "message",
+        "text": "<https:\/\/education.github.com\/students|https:\/\/education.github.com\/students> this has an overview of all the benefits of signing up with github education.\nFree Github Premium\nAccess to paid services and IDEs\nAnd Training access it's a solid deal",
+        "user": "U04JWGYC9JT",
+        "ts": "1677518450.497539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99L3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/education.github.com\/students",
+                                "text": "https:\/\/education.github.com\/students"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this has an overview of all the benefits of signing up with github education.\nFree Github Premium\nAccess to paid services and IDEs\nAnd Training access it's a solid deal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/education.github.com\/students",
+                "service_icon": "https:\/\/education.github.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/education.github.com\/students",
+                "fallback": "GitHub Education: Discounted and free plans are available for educational use",
+                "text": "Teach and learn better, together. Learn to ship software like a pro.",
+                "title": "Discounted and free plans are available for educational use",
+                "title_link": "https:\/\/education.github.com\/students",
+                "service_name": "GitHub Education"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0783fa49-f041-4b10-ab6d-6a531e944235",
+        "type": "message",
+        "text": "All you need to do is send a picture of your utsa ID and that will get you the access",
+        "user": "U04JWGYC9JT",
+        "ts": "1677518469.377939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All you need to do is send a picture of your utsa ID and that will get you the access"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

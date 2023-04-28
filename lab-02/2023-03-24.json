@@ -1,0 +1,246 @@
+[
+    {
+        "client_msg_id": "4921b995-bad6-41b9-a244-e72939e69521",
+        "type": "message",
+        "text": "Hi Arthur, Please see Aditya's comment here: <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSH8E2Q5\/p1679420258642399?thread_ts=1679419895.749139&amp;cid=C04JSH8E2Q5> (i.e., you need a capitol letter \"C\" for that option.)",
+        "user": "U04GV2EK7UP",
+        "ts": "1679653719.246919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vpu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Arthur, Please see Aditya's comment here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSH8E2Q5\/p1679420258642399?thread_ts=1679419895.749139&cid=C04JSH8E2Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (i.e., you need a capitol letter \"C\" for that option.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1679653767.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSH8E2Q5\/p1679420258642399?thread_ts=1679419895.749139&amp;cid=C04JSH8E2Q5",
+                "ts": "1679420258.642399",
+                "author_id": "U04KCMLDMPE",
+                "channel_id": "C04JSH8E2Q5",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "lab-02",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04JSH8E2Q5",
+                        "ts": "1679420258.642399",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "cen8F",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey Robert! Make sure to add a space between \"-C\" and the text before it (ed25519) as \"-C\" is a flag."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JSH8E2Q5\/p1679420258642399?thread_ts=1679419895.749139&amp;cid=C04JSH8E2Q5",
+                "fallback": "[March 21st, 2023 10:37 AM] aditya.dindi: Hey Robert! Make sure to add a space between \"-C\" and the text before it (ed25519) as \"-C\" is a flag.",
+                "text": "Hey Robert! Make sure to add a space between \"-C\" and the text before it (ed25519) as \"-C\" is a flag.",
+                "author_name": "Aditya Dindi",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04KCMLDMPE",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-48.png",
+                "author_subname": "Aditya Dindi",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "From a thread in #lab-02"
+            }
+        ],
+        "thread_ts": "1679631581.227529",
+        "parent_user_id": "U04LC3JHZPH"
+    },
+    {
+        "client_msg_id": "09516f28-c4a9-47b5-a8da-26436e98e195",
+        "type": "message",
+        "text": "Hello, if my computer turned off and my virtual machine closed, is there any way to recover what I had on my terminal? Or would I have to write the commands all over again? I was all the way through step breakpoint 4.",
+        "user": "U04KJJ8QD6Y",
+        "ts": "1679667525.113309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, if my computer turned off and my virtual machine closed, is there any way to recover what I had on my terminal? Or would I have to write the commands all over again? I was all the way through step breakpoint 4."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f77689d434dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4694155800402_f77689d434dda9990c62_72.jpg",
+            "first_name": "Amayrany",
+            "real_name": "Amayrany Escalante",
+            "display_name": "Amayrany Escalante",
+            "team": "T04HC2CMNJ0",
+            "name": "amayrany.escalante",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679667525.113309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679667895.055459",
+        "reply_users": [
+            "U04KCMLDMPE"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1679667895.055459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d080bbc8-12e5-4556-ae2c-42ef45e2b157",
+        "type": "message",
+        "text": "Hey Amayrany. it would depend on the virtual machine that you are using, some virtual machines have the ability to save and restore a machines state, which would mean you could continue working after turning the virtual machine back on. But some virtual machine lose progress if they are shut down. Ubuntu on VirtualBox might save your progress, if you see an option that says restore virtual machine state, make sure to choose that.",
+        "user": "U04KCMLDMPE",
+        "ts": "1679667895.055459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE=n5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Amayrany. it would depend on the virtual machine that you are using, some virtual machines have the ability to save and restore a machines state, which would mean you could continue working after turning the virtual machine back on. But some virtual machine lose progress if they are shut down. Ubuntu on VirtualBox might save your progress, if you see an option that says restore virtual machine state, make sure to choose that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679667525.113309",
+        "parent_user_id": "U04KJJ8QD6Y",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6cf8d2b7-9898-4692-8363-5cc48f4dd1ec",
+        "type": "message",
+        "text": "Sorry for the late response, thank you for helping out!!!!",
+        "user": "U04M166K0EP",
+        "ts": "1679720558.668779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Publ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for the late response, thank you for helping out!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "84c5316c2aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-29\/4739021848896_84c5316c2aaed3cee4e7_72.jpg",
+            "first_name": "Rose",
+            "real_name": "Rose Njoku",
+            "display_name": "Rose Njoku",
+            "team": "T04HC2CMNJ0",
+            "name": "rose.njoku",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679442156.935689",
+        "parent_user_id": "U04M166K0EP"
+    }
+]

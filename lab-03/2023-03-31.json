@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "381EE987-265C-4AC6-8F0E-B552F1DB3EA1",
+        "type": "message",
+        "text": "Hello! If there’s no error messages when we execute our code but there is no output, does that mean it executed correctly? Or is there supposed to be output when we execute it in interactive mode? ",
+        "user": "U04KC5TB3TR",
+        "ts": "1680278323.772389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lVg9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! If there’s no error messages when we execute our code but there is no output, does that mean it executed correctly? Or is there supposed to be output when we execute it in interactive mode? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680278323.772389",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680278555.248629",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1680278468.694659"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1680278555.248629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "224bbc6f-8f22-4eb2-a6bd-cb1b2fbd6e3d",
+        "type": "message",
+        "text": "Hey Daija, Great question! Yes, if there is no output it means that the command executed successfully and is correct. People usually say \"No news is good news in Linux\"",
+        "user": "U04KCMLDMPE",
+        "ts": "1680278468.694659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Daija, Great question! Yes, if there is no output it means that the command executed successfully and is correct. People usually say \"No news is good news in Linux\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680278323.772389",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7E54R41",
+                    "U04KWBZE1D3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01D2B152-8BA4-4112-B085-EFB128788FAB",
+        "type": "message",
+        "text": "Okay Thank you so much for the help! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1680278555.248629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay Thank you so much for the help! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680278323.772389",
+        "parent_user_id": "U04KC5TB3TR"
+    }
+]

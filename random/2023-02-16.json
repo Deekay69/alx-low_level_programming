@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "19ca2ba1-05ed-4d9b-b99d-2a00d5f3e1b6",
+        "type": "message",
+        "text": "*Announcement from the Online Cyber Security Alliance student organization:*\n\nAnyone who is free tonight at 7 PM is welcome to join a talk by Supervisory Special Agent (SSA) Steven J. Lampo. Lampo oversees the Russian National Security squad at the FBI Pittsburgh Field Office. The squad’s work encompasses both cyber and traditional counterintelligence threats coming from Russia.\n\n*Presentation Summary*\n_Last year, as Russia massed troops on the Ukrainian border, the Russian military was quietly establishing a foothold into US computing infrastructure. The firewall routers that were designed to protect our networks were being compromised by a foreign adversary. This presentation details the FBI’s operation to understand this threat, and to ultimately dismantle Russia’s efforts to undermine our networks._\n\nPlease <https:\/\/utsa.zoom.us\/j\/92692483540?pwd=c3NVL3ptRitMRU1YdmRuZENyc3NBZz09|join here> (7 PM-8 PM)!\n\n_Note: Media recordings are prohibited for this presentation._",
+        "user": "U04GV2EK7UP",
+        "ts": "1676581975.515399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOEg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Announcement from the Online Cyber Security Alliance student organization:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnyone who is free tonight at 7 PM is welcome to join a talk by Supervisory Special Agent (SSA) Steven J. Lampo. Lampo oversees the Russian National Security squad at the FBI Pittsburgh Field Office. The squad’s work encompasses both cyber and traditional counterintelligence threats coming from Russia.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Presentation Summary",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Last year, as Russia massed troops on the Ukrainian border, the Russian military was quietly establishing a foothold into US computing infrastructure. The firewall routers that were designed to protect our networks were being compromised by a foreign adversary. This presentation details the FBI’s operation to understand this threat, and to ultimately dismantle Russia’s efforts to undermine our networks.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/92692483540?pwd=c3NVL3ptRitMRU1YdmRuZENyc3NBZz09",
+                                "text": "join here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (7 PM-8 PM)!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Note: Media recordings are prohibited for this presentation.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04LY71MCQ2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "8f50a20e-5491-4723-8c2f-c61f5a2a8abb",
+        "type": "message",
+        "text": "So I have to complete a paper based on a survey in another class. If anyone would like to participate in it I would very much appreciate it. Attached is the link to the survey. It's only 10 questions. <https:\/\/www.surveymonkey.com\/r\/SPVTR69>",
+        "user": "U04KS2EFYR1",
+        "ts": "1675822241.749379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I have to complete a paper based on a survey in another class. If anyone would like to participate in it I would very much appreciate it. Attached is the link to the survey. It's only 10 questions. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.surveymonkey.com\/r\/SPVTR69"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g50961e72c10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50961e72c10f4931ad17b00956eef92d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Esgar",
+            "real_name": "Esgar Castro",
+            "display_name": "Castro",
+            "team": "T04HC2CMNJ0",
+            "name": "esgar.castro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KS2EFYR1",
+            "ts": "1675822329.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/SPVTR69",
+                "service_icon": "https:\/\/www.surveymonkey.com\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.surveymonkey.com\/r\/SPVTR69",
+                "fallback": "SurveyMonkey Powered Online Survey",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "title": "SurveyMonkey Powered Online Survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/SPVTR69",
+                "service_name": "surveymonkey.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

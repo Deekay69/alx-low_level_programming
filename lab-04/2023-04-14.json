@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "7daa6bf4-4dd8-4481-bdb3-bea2a99c99dc",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> Are opening the Lab 04 this coming Monday 4\/17 or the following Monday on 4\/24? I was reading your announcement I am not sure which Monday.",
+        "user": "U04L09GTVBK",
+        "ts": "1681518477.045279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are opening the Lab 04 this coming Monday 4\/17 or the following Monday on 4\/24? I was reading your announcement I am not sure which Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gb23cb6a973d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23cb6a973da3dd04d61ed8a6077fe8b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Tony",
+            "real_name": "Tony Koppen",
+            "display_name": "Tony Koppen",
+            "team": "T04HC2CMNJ0",
+            "name": "tony.koppen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681518477.045279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1681520437.807189",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04L09GTVBK"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1681519147.699109"
+            },
+            {
+                "user": "U04L09GTVBK",
+                "ts": "1681520437.807189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1681520437.807189"
+    },
+    {
+        "client_msg_id": "21B9F909-3114-490D-B899-870D2100717C",
+        "type": "message",
+        "text": "Hi Tony: I plan to load it Monday 4\/17.",
+        "user": "U04GV2EK7UP",
+        "ts": "1681519147.699109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wpl6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Tony: I plan to load it Monday 4\/17."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681518477.045279",
+        "parent_user_id": "U04L09GTVBK"
+    },
+    {
+        "client_msg_id": "cd8b75eb-5f7b-49b1-9718-e1d666c9b853",
+        "type": "message",
+        "text": "Thanks for the quick response.",
+        "user": "U04L09GTVBK",
+        "ts": "1681520437.807189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v6I7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the quick response."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gb23cb6a973d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23cb6a973da3dd04d61ed8a6077fe8b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Tony",
+            "real_name": "Tony Koppen",
+            "display_name": "Tony Koppen",
+            "team": "T04HC2CMNJ0",
+            "name": "tony.koppen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681518477.045279",
+        "parent_user_id": "U04L09GTVBK",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

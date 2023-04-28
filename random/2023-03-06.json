@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "6ff9966a-0e94-42a7-835e-afdaea355b0f",
+        "type": "message",
+        "text": "Thank you for sharing this! I was just looking at codefinity but this looks good too!",
+        "user": "U04LY71MCQ2",
+        "ts": "1678133504.920709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DeHye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing this! I was just looking at codefinity but this looks good too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676512199.135899",
+        "parent_user_id": "U04KKA31SG2"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "e5a6af70-6f5d-43fb-8e4d-906a294df6af",
+        "type": "message",
+        "text": "Hello everyone,\n\nFor the PSA, where do we cite our references? Do we cite them in the discussion post with the link to the PSA, or on the PSA?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1680122598.707459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\n\nFor the PSA, where do we cite our references? Do we cite them in the discussion post with the link to the PSA, or on the PSA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8072b4a6-e14f-42a3-9a7f-d535bf189dee",
+        "type": "message",
+        "text": "Hi Sara: Great question! The PSA is more like a flyer (or video, optionally) so I would cite references in the discussion post. If there is one reference post on a site that users could go to to download more info, you *could* create a QR code to that site on the PSA. Thanks for asking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1680123076.616189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Df6X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sara: Great question! The PSA is more like a flyer (or video, optionally) so I would cite references in the discussion post. If there is one reference post on a site that users could go to to download more info, you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "could",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " create a QR code to that site on the PSA. Thanks for asking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

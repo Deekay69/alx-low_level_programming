@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "9532845e-6c95-41a6-8c45-719826d26e74",
+        "type": "message",
+        "text": "Hi David: You may need to re-establish your connection as you have different origins created on the same repository. \"Origin\" is not a keyword, so you could, in fact, call it anything (although a real word is preferable), but you must be consistent. Try removing the origin(s) and resetting using one of the commands in Steps 5 and 6 listed in the \"Tips for Lab 02\" section in the Lab 02 folder. The fact that we have tips there indicate that mistypes are a very common issue! If all else fails, just start over with new repos (on GitHub and git, with different names). You have no content in these repos other than a README, so starting over is a relatively painless task.",
+        "user": "U04GV2EK7UP",
+        "ts": "1678716427.557579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxLmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi David: You may need to re-establish your connection as you have different origins created on the same repository. \"Origin\" is not a keyword, so you could, in fact, call it anything (although a real word is preferable), but you must be consistent. Try removing the origin(s) and resetting using one of the commands in Steps 5 and 6 listed in the \"Tips for Lab 02\" section in the Lab 02 folder. The fact that we have tips there indicate that mistypes are a very common issue! If all else fails, just start over with new repos (on GitHub and git, with different names). You have no content in these repos other than a README, so starting over is a relatively painless task."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "513FFB4C-626C-4272-A5A3-83478A812905",
+        "type": "message",
+        "text": "<@U04KHN8U3FC> sorry David for not responding again last night. I went to bed. :pensive: ",
+        "user": "U04JVCE8GA1",
+        "ts": "1678717217.783989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KHN8U3FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry David for not responding again last night"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I went to bed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pensive",
+                                "unicode": "1f614"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "zzz",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04KHN8U3FC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aaabe207-0b4d-4f1b-a619-51795264011f",
+        "type": "message",
+        "text": "Sleep is a very important activity for all of us!",
+        "user": "U04GV2EK7UP",
+        "ts": "1678717324.595189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sleep is a very important activity for all of us!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KHN8U3FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "482B5B4F-9851-4E14-B0EB-23739DED01AF",
+        "type": "message",
+        "text": "Thanks for the advice and I have to type in git remote rm orgin to remove the wrong typo.",
+        "user": "U04KHN8U3FC",
+        "ts": "1678731044.865379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67B=7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the advice and I have to type in git remote rm orgin to remove the wrong typo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "type": "message",
+        "text": "How do I go back where I typed to my list of commands when I’m at this part. I typed nano README.md to get to this section because I was following the video step by step.",
+        "files": [
+            {
+                "id": "F04THUGT53Q",
+                "created": 1678732312,
+                "timestamp": 1678732312,
+                "name": "IMG_8918.jpg",
+                "title": "IMG_8918",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KHN8U3FC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 488270,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04THUGT53Q\/img_8918.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04THUGT53Q\/download\/img_8918.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 209,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 278,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 417,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 463,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 556,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04THUGT53Q-0ff1fb5f31\/img_8918_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 593,
+                "original_w": 2950,
+                "original_h": 1709,
+                "thumb_tiny": "AwAbADBm4jgs1IXx\/E35CkY\/MaYze9A7D\/MHcn\/vkUeYv+UFRZpKYWJC6\/7P\/fsU0uv+z\/37FMNNNILExbJzTakCggcdqXYvp2oC5DRmpti46dqCi88DtTHcgpDU7Ivp\/FUTKAucd6QH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHN8U3FC\/F04THUGT53Q\/img_8918.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04THUGT53Q-e5d67d29b7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KHN8U3FC",
+        "display_as_bot": false,
+        "ts": "1678732320.893069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXM0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do I go back where I typed to my list of commands when I’m at this part. I typed nano README.md to get to this section because I was following the video step by step."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04KHN8U3FC",
+            "ts": "1678732560.000000"
+        },
+        "client_msg_id": "C75065E8-F4C3-49C0-A9AB-E8794DE35911",
+        "thread_ts": "1678732320.893069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678732823.280309",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678732823.280309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678732823.280309"
+    },
+    {
+        "client_msg_id": "408ca5c4-3408-4502-9770-141a3509fef4",
+        "type": "message",
+        "text": "Hi David: I assume you forked my repo and then cloned it? Then you would open up the README file in that cloned git folder if you wanted to edit it. The other option is to edit it on the GitHub repo itself, without cloning, since it is just a README file. That's probably the best path, so that you can see your markup changes without pushing your cloned version back up.  There are multiple approaches, and you are welcome to experiment with any, and document which approach you took.",
+        "user": "U04GV2EK7UP",
+        "ts": "1678732823.280309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi David: I assume you forked my repo and then cloned it? Then you would open up the README file in that cloned git folder if you wanted to edit it. The other option is to edit it on the GitHub repo itself, without cloning, since it is just a README file. That's probably the best path, so that you can see your markup changes without pushing your cloned version back up.  There are multiple approaches, and you are welcome to experiment with any, and document which approach you took."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678732320.893069",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KHN8U3FC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

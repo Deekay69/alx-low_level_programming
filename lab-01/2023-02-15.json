@@ -1,0 +1,308 @@
+[
+    {
+        "client_msg_id": "201b1620-6a1f-45ee-a798-a814af08d7a6",
+        "type": "message",
+        "text": "In the instructions for Breakpoint #5, it says to \"Include a screenshot of the VirtualBox storage display with the secondary disk icon displayed with your loaded disk file.\" Would this be a screenshot of the Storage settings, the storage section in the Oracle VM VirtualBox Manager, or something else?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676472252.804739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uYI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the instructions for Breakpoint #5, it says to \"Include a screenshot of the VirtualBox storage display with the secondary disk icon displayed with your loaded disk file.\" Would this be a screenshot of the Storage settings, the storage section in the Oracle VM VirtualBox Manager, or something else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676472252.804739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676478151.816719",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676473935.297909"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676478151.816719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676478151.816719"
+    },
+    {
+        "client_msg_id": "8d470fc0-c01a-49a5-98f1-e4351a175c03",
+        "type": "message",
+        "text": "Hi <@U04KKRC0ZRA>: Figure 6 in the instructions file shows the type of screenshot needed, namely, the VBox Storage Settings, with the disc file displayed. Thanks for checking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1676473935.297909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Figure 6 in the instructions file shows the type of screenshot needed, namely, the VBox Storage Settings, with the disc file displayed. Thanks for checking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676472252.804739",
+        "parent_user_id": "U04KKRC0ZRA",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6089c4a1-e871-45dd-8b17-f1b6c8ef1d59",
+        "type": "message",
+        "text": "Thank you <@U04GV2EK7UP> :grin:",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676478151.816719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obzLa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676472252.804739",
+        "parent_user_id": "U04KKRC0ZRA"
+    },
+    {
+        "client_msg_id": "2f8a4cb8-05e8-49f6-b71f-9dc97ec1d06a",
+        "type": "message",
+        "text": "the commands: ls-a and ls-al did not work for me but ls-all did work, is this ok?",
+        "user": "U04KAKV7N7L",
+        "ts": "1676515575.739529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Smt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the commands: ls-a and ls-al did not work for me but ls-all did work, is this ok?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2b5b3259cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2b5b3259cf2728dfd5f9d109b606ac14.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Serge",
+            "real_name": "Serge Shirvanian",
+            "display_name": "SERGE SHIRVANIAN",
+            "team": "T04HC2CMNJ0",
+            "name": "serge.shirvanian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676515575.739529",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676568062.969759",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KAKV7N7L"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676518394.235239"
+            },
+            {
+                "user": "U04KAKV7N7L",
+                "ts": "1676568062.969759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676568062.969759"
+    },
+    {
+        "client_msg_id": "a2887aac-ac73-4092-ae55-d9698e0ac5df",
+        "type": "message",
+        "text": "Hi Serge: Commands are recognized by the shell as commands when they are followed by a space. So you need a space after each command, such as \"ls\". Might that be the issue?",
+        "user": "U04GV2EK7UP",
+        "ts": "1676518394.235239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Serge: Commands are recognized by the shell as commands when they are followed by a space. So you need a space after each command, such as \"ls\". Might that be the issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676515575.739529",
+        "parent_user_id": "U04KAKV7N7L"
+    },
+    {
+        "client_msg_id": "fb37a053-c42d-466c-be51-f2c3453bb4b4",
+        "type": "message",
+        "text": "I verified my BIOS settings by opening my settings and searched for \"Task Manager\", I then clicked on CPU and located \"Virtualization\" which verified that it was enabled.",
+        "user": "U04K9V1MEUD",
+        "ts": "1676526139.506739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05Ch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified my BIOS settings by opening my settings and searched for \"Task Manager\", I then clicked on CPU and located \"Virtualization\" which verified that it was enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a98fcc60241d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4685000287285_a98fcc60241dd01fc994_72.png",
+            "first_name": "Vicente",
+            "real_name": "Vicente De La Cerda",
+            "display_name": "Vicente De La Cerda",
+            "team": "T04HC2CMNJ0",
+            "name": "vicente.delacerda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

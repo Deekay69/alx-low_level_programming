@@ -1,0 +1,434 @@
+[
+    {
+        "client_msg_id": "8bb20a0d-4321-4286-a61f-e36e51a07100",
+        "type": "message",
+        "text": "The instructions themselves explain a lot, as they walk through the lab step by step. The video may also be helpful.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675246376.373399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yg9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The instructions themselves explain a lot, as they walk through the lab step by step. The video may also be helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675224070.707549",
+        "parent_user_id": "U04MFQG4QM9"
+    },
+    {
+        "client_msg_id": "897093ae-f5a6-4102-bb47-dd1d44089bd0",
+        "type": "message",
+        "text": "You may need to be logged into your Microsoft account and\/or be using your Microsoft Office 365 version of Word (<https:\/\/www.howtogeek.com\/691520\/what-is-microsoft-editor-and-how-do-i-use-it\/>). You can run a standard spell check\/grammar check instead if you can't access the Editor by pressing F7.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675247017.994979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You may need to be logged into your Microsoft account and\/or be using your Microsoft Office 365 version of Word ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.howtogeek.com\/691520\/what-is-microsoft-editor-and-how-do-i-use-it\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). You can run a standard spell check\/grammar check instead if you can't access the Editor by pressing F7."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.howtogeek.com\/691520\/what-is-microsoft-editor-and-how-do-i-use-it\/",
+                "image_url": "https:\/\/www.howtogeek.com\/wp-content\/uploads\/2019\/04\/office365-1.png?height=200p&trim=2,2,2,2",
+                "image_width": 546,
+                "image_height": 250,
+                "image_bytes": 43741,
+                "service_icon": "https:\/\/www.howtogeek.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.howtogeek.com\/691520\/what-is-microsoft-editor-and-how-do-i-use-it\/",
+                "fallback": "How-To Geek: What Is Microsoft Editor, and How Do I Use It?",
+                "text": "Microsoft Editor is an AI-powered intelligent writing assistant available for Word, Outlook, and as a browser extension. Microsoft Editor, available in over 20 languages, aims to make you a better writer. Here’s a brief look at how to use it.",
+                "title": "What Is Microsoft Editor, and How Do I Use It?",
+                "title_link": "https:\/\/www.howtogeek.com\/691520\/what-is-microsoft-editor-and-how-do-i-use-it\/",
+                "service_name": "How-To Geek"
+            }
+        ],
+        "thread_ts": "1675228276.513919",
+        "parent_user_id": "U04MFQG4QM9"
+    },
+    {
+        "client_msg_id": "99920a2b-c18d-43d6-b2ea-c5a94045781e",
+        "type": "message",
+        "text": "Happy Wednesday everyone! I'll be available today from 10 AM to 1 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1675267206.782929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Wednesday everyone! I'll be available today from 10 AM to 1 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63CD7793-5585-4C23-82BB-91E5BEF73DB0",
+        "type": "message",
+        "text": "Are you going to have another zoom meeting tomorrow or later in the day by chance ",
+        "user": "U04MB00LANM",
+        "ts": "1675276880.210929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erftB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you going to have another zoom meeting tomorrow or later in the day by chance "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675276880.210929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675277770.767949",
+        "reply_users": [
+            "U04KDSDECLC",
+            "U04MB00LANM"
+        ],
+        "replies": [
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1675277696.712749"
+            },
+            {
+                "user": "U04MB00LANM",
+                "ts": "1675277770.767949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83e0b2e7-9dbc-44f4-b41d-03f073f78e52",
+        "type": "message",
+        "text": "Hello Caylen! I won't be on later today, but I know Professor Rita has student hours today from 5:00 PM to 6:00 PM. I will be available tomorrow from 2-5 PM. The other tutor, Aditya, will also be on tomorrow earlier in the day. You can check when we will be available on the class Blackboard page under the \"Your Tutors\" tab.",
+        "user": "U04KDSDECLC",
+        "ts": "1675277696.712749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ky6X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Caylen! I won't be on later today, but I know Professor Rita has student hours today from 5:00 PM to 6:00 PM. I will be available tomorrow from 2-5 PM. The other tutor, Aditya, will also be on tomorrow earlier in the day. You can check when we will be available on the class Blackboard page under the \"Your Tutors\" tab."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675276880.210929",
+        "parent_user_id": "U04MB00LANM",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "821F6700-BD56-478C-A04E-1FD418CE7307",
+        "type": "message",
+        "text": "Ok thanks :pray::skin-tone-5:  ",
+        "user": "U04MB00LANM",
+        "ts": "1675277770.767949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fe",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675276880.210929",
+        "parent_user_id": "U04MB00LANM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KDSDECLC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Had no idea that they were doing this. Just got an email about a job opportunity through the school that didn’t seem right. ",
+        "files": [
+            {
+                "id": "F04MEJPHTFY",
+                "created": 1675282253,
+                "timestamp": 1675282253,
+                "name": "IMG_1760.jpg",
+                "title": "IMG_1760",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04M8MADT4Y",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 100996,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MEJPHTFY\/img_1760.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MEJPHTFY\/download\/img_1760.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 196,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 261,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 391,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1472,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 522,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MEJPHTFY-5751094ae4\/img_1760_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 557,
+                "thumb_1024_h": 1024,
+                "original_w": 1018,
+                "original_h": 1873,
+                "thumb_tiny": "AwAwABqh2pKcBxyTTaAClpKWgBRwtEaeZIqZAycZNA+7T7eSOJizoWP8JHagCf8As9h1YEe1ViEBOGJH0qw982TtBx7nmq3HpQAo6UynAcdabQAUtJS0Af\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04M8MADT4Y\/F04MEJPHTFY\/img_1760.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04MEJPHTFY-ef75d2c76e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04M8MADT4Y",
+        "display_as_bot": false,
+        "ts": "1675282258.575809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fz7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Had no idea that they were doing this. Just got an email about a job opportunity through the school that didn’t seem right. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "720B3F37-952D-4984-83FC-1053CD5BCF7F",
+        "thread_ts": "1675282258.575809",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675368978.389379",
+        "reply_users": [
+            "U04LJKF5YEM",
+            "U04M8MADT4Y"
+        ],
+        "replies": [
+            {
+                "user": "U04LJKF5YEM",
+                "ts": "1675365694.609699"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1675368978.389379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

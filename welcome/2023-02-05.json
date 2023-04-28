@@ -1,0 +1,380 @@
+[
+    {
+        "client_msg_id": "2d15c1af-09ca-49ad-a5bd-f30c6ddc2eac",
+        "type": "message",
+        "text": "Will do, but where did you see this? I can't find the announcement anywhere",
+        "user": "U04KXTRJ4TU",
+        "ts": "1675642124.220029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFwQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do, but where did you see this? I can't find the announcement anywhere"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "68113667892d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733268084979_68113667892d9aff9ffc_72.png",
+            "first_name": "John",
+            "real_name": "John Hernden",
+            "display_name": "John Hernden",
+            "team": "T04HC2CMNJ0",
+            "name": "john.hernden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675369080.416429",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "client_msg_id": "8B368622-00E9-4178-A500-1991D39C83EC",
+        "type": "message",
+        "text": "Hey <@U04KXTRJ4TU>, it was sent through the school e-mail on Outlook and it’s also on Blackboard. Under the course page, on the left hand-side, there is a section called announcements. ",
+        "user": "U04M8MADT4Y",
+        "ts": "1675643459.707779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Inle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KXTRJ4TU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was sent through the school e-mail on Outlook and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s also"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Blackboard. Under the course page, on the left hand-side, there is a section called announcements"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675369080.416429",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "type": "message",
+        "text": "sorry for the reply again, but I think I might be missing something, which part of the announcement? I only see the one posted on the 1st",
+        "files": [
+            {
+                "id": "F04N7JRTM60",
+                "created": 1675645983,
+                "timestamp": 1675645983,
+                "name": "image_2023-02-05_191303343.png",
+                "title": "image_2023-02-05_191303343.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KXTRJ4TU",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 105600,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N7JRTM60\/image_2023-02-05_191303343.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N7JRTM60\/download\/image_2023-02-05_191303343.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 209,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 278,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 418,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 464,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 557,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N7JRTM60-881dffadc0\/image_2023-02-05_191303343_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 594,
+                "original_w": 1353,
+                "original_h": 785,
+                "thumb_tiny": "AwAbADDQ\/D9KUfQU3kE4xRk+ooAfk0ZNIMnuKAD6igBcmjn2peKMUAMB9\/0pefU\/lTsCigBvPqfyo\/E\/lTqKAG8\/5FKD9fypaKAP\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KXTRJ4TU\/F04N7JRTM60\/image_2023-02-05_191303343.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N7JRTM60-43ca868653",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KXTRJ4TU",
+        "display_as_bot": false,
+        "ts": "1675645990.533979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry for the reply again, but I think I might be missing something, which part of the announcement? I only see the one posted on the 1st"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b4b29645-2b17-4207-a757-73d65d420382",
+        "thread_ts": "1675369080.416429",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "type": "message",
+        "text": "I think it was only sent to students in <@U04GV2EK7UP> ‘s class. Attached is from previously mentioned announcement. ",
+        "files": [
+            {
+                "id": "F04MQJSR83Z",
+                "created": 1675646120,
+                "timestamp": 1675646120,
+                "name": "IMG_1766.jpg",
+                "title": "IMG_1766",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04M8MADT4Y",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 117186,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MQJSR83Z\/img_1766.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MQJSR83Z\/download\/img_1766.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 253,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 337,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 506,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 562,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 674,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MQJSR83Z-773355ea56\/img_1766_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 719,
+                "original_w": 1170,
+                "original_h": 822,
+                "thumb_tiny": "AwAhADDRccUzHTj9DUtMYc\/\/AFjQAbD7frRsPtj8abj2\/Q0Y9v0NAC7D7frT1GM5xUePb9DSqvPH6g0ASUxvvf8A1jT6Y4y3Tt6GgBuOen\/jppce3\/jpoA7Af+Oml2H\/AGfyoAbj2\/Q05cA5wc\/Q0eX9P1pQpBB4\/KgB1FFFABRRRQAUUUUAf\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04M8MADT4Y\/F04MQJSR83Z\/img_1766.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04MQJSR83Z-4e592bf3fc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04M8MADT4Y",
+        "display_as_bot": false,
+        "ts": "1675646184.751119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cdg0c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it was only sent to students in "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ‘s class"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Attached is from previously mentioned announcement"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5FE27507-EB1C-4DF7-A2AC-2C0A654CA046",
+        "thread_ts": "1675369080.416429",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "client_msg_id": "03fbd880-df49-4706-8645-655428e19bb5",
+        "type": "message",
+        "text": "Thanks, <@U04M8MADT4Y>! <@U04KXTRJ4TU>: Don't worry about this too much; I'll clean the channel up after we're done with Lab 00. :-)",
+        "user": "U04GV2EK7UP",
+        "ts": "1675646348.275469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M8MADT4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KXTRJ4TU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Don't worry about this too much; I'll clean the channel up after we're done with Lab 00. :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1675646362.000000"
+        },
+        "thread_ts": "1675369080.416429",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U04KXTRJ4TU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

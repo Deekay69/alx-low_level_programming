@@ -1,0 +1,414 @@
+[
+    {
+        "client_msg_id": "7a2870b5-7984-44a5-93d8-ab404f25b64a",
+        "type": "message",
+        "text": "Happy Thursday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1678383025.269069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HY1e1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Thursday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc9be6d2-1e80-456e-b22d-07f84163293f",
+        "type": "message",
+        "text": "is there a channel for people with a mac?",
+        "user": "U04SWD4MPJS",
+        "ts": "1678389915.800919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1A4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a channel for people with a mac?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "2c3d8cfc2fc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-08\/4933700735153_2c3d8cfc2fc5a632fed3_72.png",
+            "first_name": "ashley",
+            "real_name": "ashley williams",
+            "display_name": "ashley williams",
+            "team": "T04HC2CMNJ0",
+            "name": "ashley.williams3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04SWD4MPJS",
+            "ts": "1678390027.000000"
+        },
+        "thread_ts": "1678389915.800919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1678391663.363429",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04SWD4MPJS"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678390752.424519"
+            },
+            {
+                "user": "U04SWD4MPJS",
+                "ts": "1678391663.363429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "326944e8-1105-422a-a3e7-a1155f3725f0",
+        "type": "message",
+        "text": "Hi <@U04SWD4MPJS> Yes, there is a private channel for students with a Mac. This Slack thread has more information: <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04HZ9F1UTA\/p1674674757259479>",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678390752.424519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04SWD4MPJS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, there is a private channel for students with a Mac. This Slack thread has more information: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04HZ9F1UTA\/p1674674757259479"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04HZ9F1UTA\/p1674674757259479",
+                "ts": "1674674757.259479",
+                "author_id": "U04GV2EK7UP",
+                "channel_id": "C04HZ9F1UTA",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04HZ9F1UTA",
+                        "ts": "1674674757.259479",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "3YaZf",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "A Windows computer is assumed for this class and degree program. However, topping off of William's important question, please thumbs up on my post if you have a Mac, and we will add you to a "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C04JVFN7EHZ"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " channel to troubleshoot your work with each other while you consider your options."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04HZ9F1UTA\/p1674674757259479",
+                "fallback": "[January 25th, 2023 11:25 AM] rita.mitra: A Windows computer is assumed for this class and degree program. However, topping off of William's important question, please thumbs up on my post if you have a Mac, and we will add you to a <#C04JVFN7EHZ|> channel to troubleshoot your work with each other while you consider your options.",
+                "text": "A Windows computer is assumed for this class and degree program. However, topping off of William's important question, please thumbs up on my post if you have a Mac, and we will add you to a <#C04JVFN7EHZ|> channel to troubleshoot your work with each other while you consider your options.",
+                "author_name": "Rita Mitra",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04GV2EK7UP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_48.png",
+                "author_subname": "Rita Mitra",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #general"
+            }
+        ],
+        "thread_ts": "1678389915.800919",
+        "parent_user_id": "U04SWD4MPJS",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25532e4c-096d-49d4-ba2c-8a9b5323bf4a",
+        "type": "message",
+        "text": "Can I be added please",
+        "user": "U04SWD4MPJS",
+        "ts": "1678391638.529039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I be added please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "2c3d8cfc2fc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-08\/4933700735153_2c3d8cfc2fc5a632fed3_72.png",
+            "first_name": "ashley",
+            "real_name": "ashley williams",
+            "display_name": "ashley williams",
+            "team": "T04HC2CMNJ0",
+            "name": "ashley.williams3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP"
+    },
+    {
+        "client_msg_id": "d6303498-28d7-445a-811e-956be914c3cb",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U04SWD4MPJS",
+        "ts": "1678391663.363429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3GaD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "2c3d8cfc2fc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-08\/4933700735153_2c3d8cfc2fc5a632fed3_72.png",
+            "first_name": "ashley",
+            "real_name": "ashley williams",
+            "display_name": "ashley williams",
+            "team": "T04HC2CMNJ0",
+            "name": "ashley.williams3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678389915.800919",
+        "parent_user_id": "U04SWD4MPJS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b35f689-5fc8-4abe-a2e6-4254ae0547ec",
+        "type": "message",
+        "text": "Hello everyone! I'll be available today from 2 PM to 5 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1678392025.821829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9UP64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! I'll be available today from 2 PM to 5 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19e65f5f-216b-4a15-8861-468d347d681e",
+        "type": "message",
+        "text": "Done!",
+        "user": "U04GV2EK7UP",
+        "ts": "1678395419.801109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP"
+    }
+]

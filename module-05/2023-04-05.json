@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "a1ad552d-bd77-48d8-b3e1-89a24c58f1ae",
+        "type": "message",
+        "text": "Sir,",
+        "user": "U04LTUDMSSU",
+        "ts": "1680702457.041499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sir,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f9e6c934354d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4669793739399_f9e6c934354dcba2c0a3_72.jpg",
+            "first_name": "Eden",
+            "real_name": "Eden Olguin",
+            "display_name": "Eden Olguin",
+            "team": "T04HC2CMNJ0",
+            "name": "eden.olguin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633251.805549",
+        "parent_user_id": "U04LTUDMSSU"
+    },
+    {
+        "client_msg_id": "a10f1122-d54d-4579-bdc5-fdec239a940d",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U04LTUDMSSU",
+        "ts": "1680702463.019959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bKnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f9e6c934354d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4669793739399_f9e6c934354dcba2c0a3_72.jpg",
+            "first_name": "Eden",
+            "real_name": "Eden Olguin",
+            "display_name": "Eden Olguin",
+            "team": "T04HC2CMNJ0",
+            "name": "eden.olguin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633251.805549",
+        "parent_user_id": "U04LTUDMSSU"
+    }
+]

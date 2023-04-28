@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "text": "Hi everyone! I am stuck on step 6. It cannot read from the repo.",
+        "files": [
+            {
+                "id": "F04U06JCBV0",
+                "created": 1678858537,
+                "timestamp": 1678858537,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 152445,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U06JCBV0\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U06JCBV0\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 155,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 207,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 310,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 345,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 414,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U06JCBV0-07467f3aaf\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 441,
+                "original_w": 1107,
+                "original_h": 477,
+                "thumb_tiny": "AwAUADClxRgUufek4NMoOBSfl+VLx60n4igBPypV+8PrSflSqfmH1oAk2+5pNo96fSUCG7Btzk9aTaKefufjSUDG7RSqo3D60tA+8PrQB\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04U06JCBV0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04U06JCBV0-721672084a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L7DALXDH",
+        "display_as_bot": false,
+        "ts": "1678858608.664909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I am stuck on step 6. It cannot read from the repo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04L7DALXDH",
+            "ts": "1678858737.000000"
+        },
+        "client_msg_id": "b857980e-1833-4d22-b85a-4a57f63779cc",
+        "thread_ts": "1678858608.664909",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1678967394.610249",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04GV2EK7UP",
+            "U04L7DALXDH"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678881375.819359"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678890723.021889"
+            },
+            {
+                "user": "U04L7DALXDH",
+                "ts": "1678939534.458549"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678967394.610249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678967394.610249"
+    }
+]

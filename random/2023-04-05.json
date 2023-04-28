@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "529a75b5-01a3-45f9-95c3-ee72dd03e7a1",
+        "type": "message",
+        "text": "*Opportunity with T-Shirt and Lunch!*\nThe college marketing department is looking for students and faculty to participate in a series of photo shoots for ISCS on the afternoon of Tuesday, April 11. Our biggest needs are more students to fill NPB 1.236 from 1-1:50 p.m. and a handful of students for a smaller hands-on session in NPB 2.152.\n\nPlease sign up at this link if you can help!\n<https:\/\/business.utsa.edu\/spring-2023-photo-shoot\/>\nThey will provide a branded college t-shirt and lunch on Tuesday for all participants!!",
+        "user": "U04GV2EK7UP",
+        "ts": "1680703542.404599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Opportunity with T-Shirt and Lunch!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe college marketing department is looking for students and faculty to participate in a series of photo shoots for ISCS on the afternoon of Tuesday, April 11. Our biggest needs are more students to fill NPB 1.236 from 1-1:50 p.m. and a handful of students for a smaller hands-on session in NPB 2.152.\n\nPlease sign up at this link if you can help!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/business.utsa.edu\/spring-2023-photo-shoot\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThey will provide a branded college t-shirt and lunch on Tuesday for all participants!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/business.utsa.edu\/spring-2023-photo-shoot\/",
+                "service_icon": "https:\/\/business.utsa.edu\/wp-content\/uploads\/2017\/10\/cropped-Rowdy_favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/business.utsa.edu\/spring-2023-photo-shoot\/",
+                "fallback": "UTSA Business: Spring 2023 Photo Shoot Sign-Up - UTSA Business",
+                "title": "Spring 2023 Photo Shoot Sign-Up - UTSA Business",
+                "title_link": "https:\/\/business.utsa.edu\/spring-2023-photo-shoot\/",
+                "service_name": "UTSA Business",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LDFJAJNM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7978202F-EC40-4B80-A410-00F07EDE123F",
+        "type": "message",
+        "text": "Anyone else going downtown to the NCTC and ODNI meeting? ",
+        "user": "U04KE3VL2JH",
+        "ts": "1680712715.610269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4LJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone else going downtown to the NCTC and ODNI meeting? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g629ef3949e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/629ef3949e347890c15edb89eaa563e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jackson",
+            "real_name": "Jackson Moore",
+            "display_name": "Jackson Moore",
+            "team": "T04HC2CMNJ0",
+            "name": "jackson.moore",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

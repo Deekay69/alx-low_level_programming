@@ -1,0 +1,457 @@
+[
+    {
+        "type": "message",
+        "text": "Hi all: Dr. Nicole Beebe, the ISCS department chair, is holding an information session on March 6 on the newish (Fall 2022) Cyber Analytics degree at UTSA and welcomes anyone who is interested to join. Also, if you *are* already a cyber analytics student, you may want to join to find out recent news and to possibly meet some of your cohort! A degree info sheet is also attached.\n\nTopic: UTSA I Session: Focus on Applied Cyber Analytics Degree\nTime: Mar 6, 2023 12:00 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n<https:\/\/utsa.zoom.us\/j\/93811605650?pwd=enFka05wMERKd1FqLysvV1Z2cFU3Zz09>\n\nMeeting ID: 938 1160 5650\nPasscode: 79140274\nOne tap mobile\n<tel:+13462487799|+13462487799>,,93811605650#,,,,*79140274# US (Houston)\n<tel:+12532050468|+12532050468>,,93811605650#,,,,*79140274# US",
+        "files": [
+            {
+                "id": "F04RJ8B3WN9",
+                "created": 1677587033,
+                "timestamp": 1677587033,
+                "name": "AppCyberAnalytics-Degree-Info.pdf",
+                "title": "AppCyberAnalytics-Degree-Info.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 239350,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RJ8B3WN9\/appcyberanalytics-degree-info.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RJ8B3WN9\/download\/appcyberanalytics-degree-info.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RJ8B3WN9-c253209e63\/appcyberanalytics-degree-info_thumb_pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04RJ8B3WN9\/appcyberanalytics-degree-info.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RJ8B3WN9-6ed721854c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1677587052.417269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZ8v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: Dr. Nicole Beebe, the ISCS department chair, is holding an information session on March 6 on the newish (Fall 2022) Cyber Analytics degree at UTSA and welcomes anyone who is interested to join. Also, if you *are* already a cyber analytics student, you may want to join to find out recent news and to possibly meet some of your cohort! A degree info sheet is also attached.\n\nTopic: UTSA I Session: Focus on Applied Cyber Analytics Degree\nTime: Mar 6, 2023 12:00 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/93811605650?pwd=enFka05wMERKd1FqLysvV1Z2cFU3Zz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 938 1160 5650\nPasscode: 79140274\nOne tap mobile\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13462487799",
+                                "text": "+13462487799"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",,93811605650#,,,,*79140274# US (Houston)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+12532050468",
+                                "text": "+12532050468"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",,93811605650#,,,,*79140274# US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5fd9bb5f-c70c-4ca3-9ffd-8c81bdc02815",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9092814-a213-4753-81ad-fa6650a8a0c8",
+        "type": "message",
+        "text": "Hey everyone! When I originally started my degree in Cybersecurity, I didn't know what I was going into, and what I should be doing while I pursue the degree. I've done a ton of research and I've made a video of the list of things that I think help me while I aspire to be a Cybersecurity Professional. I hope it helps you in your careers too! <https:\/\/youtu.be\/2NA7C97UNjo>",
+        "user": "U04KCMLDMPE",
+        "ts": "1677606620.665929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! When I originally started my degree in Cybersecurity, I didn't know what I was going into, and what I should be doing while I pursue the degree. I've done a ton of research and I've made a video of the list of things that I think help me while I aspire to be a Cybersecurity Professional. I hope it helps you in your careers too! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/2NA7C97UNjo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/2NA7C97UNjo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2NA7C97UNjo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2NA7C97UNjo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"What I am doing as a Cybersecurity College Student\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/2NA7C97UNjo",
+                "fallback": "YouTube Video: What I am doing as a Cybersecurity College Student",
+                "title": "What I am doing as a Cybersecurity College Student",
+                "title_link": "https:\/\/youtu.be\/2NA7C97UNjo",
+                "author_name": "Pyrus",
+                "author_link": "https:\/\/www.youtube.com\/@pyrus369",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JWGYC9JT",
+                    "U04KHAY0UM9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C27BB332-60F4-406A-AF26-3AE4C550D8FB",
+        "type": "message",
+        "text": "Hey Everyone!\nI am an Academic Peer Coach here at UTSA.\nWe are currently looking to hire more APCs more the next semester. If you are interested please let me know!",
+        "user": "U04MCFDK11T",
+        "ts": "1677624273.301129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone!\nI am an Academic Peer Coach here at UTSA.\nWe are currently looking to hire more APCs more the next semester. If you are interested please let me know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "743ecbca6c95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4731992511908_743ecbca6c95a3c56b42_72.png",
+            "first_name": "Ananya",
+            "real_name": "Ananya Thomas",
+            "display_name": "Ananya Thomas",
+            "team": "T04HC2CMNJ0",
+            "name": "ananya.thomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04SEUCS68Y",
+                "created": 1677624285,
+                "timestamp": 1677624285,
+                "name": "48869BBA-4C7B-4CAB-8E32-6D3AC96A9873.png",
+                "title": "48869BBA-4C7B-4CAB-8E32-6D3AC96A9873",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04MCFDK11T",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 402162,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04SEUCS68Y\/48869bba-4c7b-4cab-8e32-6d3ac96a9873.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04SEUCS68Y\/download\/48869bba-4c7b-4cab-8e32-6d3ac96a9873.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SEUCS68Y-7fbd288b45\/48869bba-4c7b-4cab-8e32-6d3ac96a9873_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADBLi4MLABQcjvUP25v7i0X\/AN9PpVWnSpQcE2ipSaZa+3N\/cWnx3bucbVAqlRV+xh2Fzs0FuxnkKQOvOOasjDRhlBwec1jVesmJBBJwB07VnUpqMW0OMncLoIZV8zoFz+tV3WPbhCM5xnP61Jf\/AH0+lQxeXz5nqMVVNe4mEt7EhWHDYIPpzSbYfMYEgLkY5pT5GBjH60YgzwR1754qr+ofcJth6ZAz0Of51Pa7BKfLPG3P61TbbtGOvNWLD77\/AEqaq9xu4Reo++UkKecAfhVKthwJIyjE81XNqA3BUgdOKmnUjGKTCUXcz6KuPaO7Z3im\/YW\/vrWntodxcjKtWrD77\/Sj7C399amt7cwsSWByO1RVqwcGkxxi0z\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MCFDK11T\/F04SEUCS68Y\/48869bba-4c7b-4cab-8e32-6d3ac96a9873.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04SEUCS68Y-c39c533b22",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04RNA39ETX",
+                "created": 1677624285,
+                "timestamp": 1677624285,
+                "name": "75FD6035-141C-4848-824C-4BE158477116.png",
+                "title": "75FD6035-141C-4848-824C-4BE158477116",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04MCFDK11T",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 476026,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RNA39ETX\/75fd6035-141c-4848-824c-4be158477116.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RNA39ETX\/download\/75fd6035-141c-4848-824c-4be158477116.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RNA39ETX-baf1b10a7a\/75fd6035-141c-4848-824c-4be158477116_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADBtxcPFIFUAjGeRUP2yX+6v5U67bbODz93scVCG3HgNn\/eopwi4ptFtu+5J9sl\/ur+VPjupXbBCgfSocn0b\/vqmOQexz7nNX7OD6E8z7l1bsbskKQOvOOasjDRhlBwec1jVds2J4JPTgdqipTUYtocZO5Hff64f7tQx5yf8BU19\/rh\/u1DGMk8Z\/DNaU\/4aFL4hWDdlGPcCjD9lH5CnYP8Ad\/8AHRTTHk9G\/IVVwG7z6L+VT2J\/fH\/dqAxsCeDj3qex\/wBcf92pq25HYI7jr4ZYY7Dmq8fU8Z\/DNasiiWIoxH5VVNng8hePQ9aiE0o2Y2ncr4x\/D\/45TGUA85GfarElo7NkFAKb9ik9V\/OqVSHcXK+xXwv94\/lVix\/1x\/3aPsUnqv51LbW7xSFmIxjHFTUqRcGkxxi7n\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MCFDK11T\/F04RNA39ETX\/75fd6035-141c-4848-824c-4be158477116.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RNA39ETX-e765e94e54",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04RR87762E",
+                "created": 1677624285,
+                "timestamp": 1677624285,
+                "name": "956909E8-9E19-4C2F-958F-4ED56E8A5DDF.png",
+                "title": "956909E8-9E19-4C2F-958F-4ED56E8A5DDF",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04MCFDK11T",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 473978,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RR87762E\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RR87762E\/download\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RR87762E-4f998b077b\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADBlzcPFIFUAjGeai+2yei\/lS3jFZxg9VqFWZv4gPwop04uCbRTk7kv22T+6v5U+O6kdsYUAe1QFnP8AGPy\/+tTNv+0P1q\/Zw7C5mXluxuyQpA6845qyMNGGUHB5zWOwwcZzVyzYngk9OB2qKlOMY3Q4ydyO+\/1w\/wB2oY+Aef1NTX3+uH+7UUZ4PzY\/HFaU\/wCGhP4hW56Ng\/U035v+en6mnMfR8f8AAjSfN\/z1\/U1SEIUJ5LA+5zU1j\/rj\/u1AxPQtkfWp7H\/XH\/dqanwMcdx98pJBwcAfhVaM4z2\/HFargSRlGJ5qubXDfwkDpxWcKkVGzG4u9ypn1b\/x+jhupB+rVNJaSu2cr+dN+xSeq\/nV+0h3Cz7FdsZ4GPxqxY\/64\/7tH2KT1X86ltrd4pCzEYxjipqVIODSYRi7n\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MCFDK11T\/F04RR87762E\/956909e8-9e19-4c2f-958f-4ed56e8a5ddf.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RR87762E-a919a85895",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04MCFDK11T",
+        "ts": "1677624289.251069",
+        "client_msg_id": "C8368CD9-82B4-42A1-BBE9-05A1566A7586"
+    },
+    {
+        "client_msg_id": "9792EF9C-1239-496E-93B9-9909AF01E51E",
+        "type": "message",
+        "text": "The link to apply is:\n<https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU|https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU>",
+        "user": "U04MCFDK11T",
+        "ts": "1677624322.117969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The link to apply is:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU",
+                                "text": "https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "743ecbca6c95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4731992511908_743ecbca6c95a3c56b42_72.png",
+            "first_name": "Ananya",
+            "real_name": "Ananya Thomas",
+            "display_name": "Ananya Thomas",
+            "team": "T04HC2CMNJ0",
+            "name": "ananya.thomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU",
+                "service_icon": "https:\/\/utsa.az1.qualtrics.com\/brand-management\/apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU",
+                "fallback": "Academic Peer Coach Application | UTSA",
+                "text": "Qualtrics sophisticated online survey software solutions make creating online surveys easy. Learn more about Research Suite and get a free account today.",
+                "title": "Academic Peer Coach Application | UTSA",
+                "title_link": "https:\/\/utsa.az1.qualtrics.com\/jfe\/form\/SV_25HTMxc3TwvOUQu?fbclid=PAAabgoJOnhAvh8x-0mRUh3StiRVUW3Do9b5REnytJRP49oHpICK8RbYe8tAU",
+                "service_name": "utsa.az1.qualtrics.com"
+            }
+        ]
+    }
+]

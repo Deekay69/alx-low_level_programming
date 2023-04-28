@@ -1,0 +1,1162 @@
+[
+    {
+        "client_msg_id": "6b144164-771d-4c8e-9468-4b63540bb3e2",
+        "type": "message",
+        "text": "Hi <@U04L7DALXDH>, After <mailto:git@github.com|git@github.com>, try using a semicolon (:) instead of a backslash (\/).",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678881375.819359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kq\/zx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L7DALXDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", After "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:git@github.com",
+                                "text": "git@github.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", try using a semicolon (:) instead of a backslash (\/)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1678887965.000000"
+        },
+        "thread_ts": "1678858608.664909",
+        "parent_user_id": "U04L7DALXDH",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E09540DE-BB0E-4B49-9305-09422674FCB9",
+        "type": "message",
+        "text": "To counteract any prior errors, you will likely need to remove or reset your link (see commands in the tips).",
+        "user": "U04GV2EK7UP",
+        "ts": "1678890723.021889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To counteract any prior errors, you will likely need to remove or reset your link (see commands in the tips)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1678890736.000000"
+        },
+        "thread_ts": "1678858608.664909",
+        "parent_user_id": "U04L7DALXDH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7DALXDH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2D16676A-0B20-4DA0-8CAC-6810CF73A8E7",
+        "type": "message",
+        "text": "Hello! The lab walkthrough doesn’t seem to be working for me there is no sound. ",
+        "user": "U04KC5TB3TR",
+        "ts": "1678900501.088989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLykF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! The lab walkthrough doesn’t seem to be working for me there is no sound. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678900501.088989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678900592.528329",
+        "reply_users": [
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1678900592.528329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7DALXDH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D38302B-59D2-48E8-8C1E-DE5063FE21F9",
+        "type": "message",
+        "text": "I opened the lab walkthrough video in panopto and now there’s sound! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1678900592.528329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHcx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I opened the lab walkthrough video in panopto and now there’s sound! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678900501.088989",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey everyone! for Step 6 I was simply following the process and this prompt came up when using the \"git push -u origin main\" command. What do I do here?",
+        "files": [
+            {
+                "id": "F04UJ7273SM",
+                "created": 1678912591,
+                "timestamp": 1678912591,
+                "name": "Screenshot 2023-03-15 153458.png",
+                "title": "Screenshot 2023-03-15 153458.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LBN6DEKT",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 180060,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UJ7273SM\/screenshot_2023-03-15_153458.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UJ7273SM\/download\/screenshot_2023-03-15_153458.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 58,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 77,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 116,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 129,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 154,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UJ7273SM-165360ebb7\/screenshot_2023-03-15_153458_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 165,
+                "original_w": 1312,
+                "original_h": 211,
+                "thumb_tiny": "AwAHADCqV9BSYp46UlM0shu0+lIVPb+dPo7igLEex\/8AJpVRsjPT61L2ooHY\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LBN6DEKT\/F04UJ7273SM\/screenshot_2023-03-15_153458.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UJ7273SM-90473829cc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LBN6DEKT",
+        "display_as_bot": false,
+        "ts": "1678912607.614069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uI9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! for Step 6 I was simply following the process and this prompt came up when using the \"git push -u origin main\" command. What do I do here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c9f20bf8-370a-404e-801f-bb7446c48384",
+        "thread_ts": "1678912607.614069",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1678914631.983489",
+        "reply_users": [
+            "U04JYA33E9Z",
+            "U04LBN6DEKT",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1678913117.550059"
+            },
+            {
+                "user": "U04LBN6DEKT",
+                "ts": "1678913759.945229"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678914631.983489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e666aca6-6ffa-4fa8-990d-48e8377c33ec",
+        "type": "message",
+        "text": "This is asking if you should trust the public key that is being provided for <http:\/\/github.com|github.com> since you haven't seen it before.\nIf you aren't sure if you can trust the key, you can look it up online.\n<https:\/\/docs.github.com\/en\/authentication\/keeping-your-account-and-data-secure\/githubs-ssh-key-fingerprints>",
+        "user": "U04JYA33E9Z",
+        "ts": "1678913117.550059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQz1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is asking if you should trust the public key that is being provided for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.com",
+                                "text": "github.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " since you haven't seen it before.\nIf you aren't sure if you can trust the key, you can look it up online.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en\/authentication\/keeping-your-account-and-data-secure\/githubs-ssh-key-fingerprints"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678912607.614069",
+        "parent_user_id": "U04LBN6DEKT",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04LBN6DEKT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ecff973-4fd1-4a31-8a82-490ad9c85409",
+        "type": "message",
+        "text": "When you say \"readd the key in GitHub\" I don't completly understand. What would I have to do to do that?",
+        "user": "U04LBN6DEKT",
+        "ts": "1678913759.945229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you say \"readd the key in GitHub\" I don't completly understand. What would I have to do to do that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "08ce9bd9ca97",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4672537797686_08ce9bd9ca97d64cfe08_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan C. Vancuso",
+            "display_name": "Ethan C. Vancuso",
+            "team": "T04HC2CMNJ0",
+            "name": "ethan.vancuso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678912607.614069",
+        "parent_user_id": "U04LBN6DEKT"
+    },
+    {
+        "client_msg_id": "ff94c680-c230-4433-931e-b29077a463f0",
+        "type": "message",
+        "text": "Note: I decided to delete my replies upon realizing that they were irrelevant to the thread's question.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678914631.983489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note: I decided to delete my replies upon realizing that they were irrelevant to the thread's question."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678912607.614069",
+        "parent_user_id": "U04LBN6DEKT"
+    },
+    {
+        "client_msg_id": "45dab0e0-afdc-417d-bd6d-b0b9a042d365",
+        "type": "message",
+        "text": "Evening everyone! On step I didn't enter  ssh-keygen -t ed25519 -C “your email” correctly. How do I fix this?",
+        "user": "U04KHFE00F9",
+        "ts": "1678931969.971079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Evening everyone! On step I didn't enter  ssh-keygen -t ed25519 -C “your email” correctly. How do I fix this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "10a8a864b74b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4675131489125_10a8a864b74bb7e8783a_72.jpg",
+            "first_name": "Demetrius",
+            "real_name": "Demetrius Goudeau",
+            "display_name": "Demetrius Goudeau",
+            "team": "T04HC2CMNJ0",
+            "name": "demetrius.goudeau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678931969.971079",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1678938310.285449",
+        "reply_users": [
+            "U04KHFE00F9",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04KHFE00F9",
+                "ts": "1678932053.992019"
+            },
+            {
+                "user": "U04KHFE00F9",
+                "ts": "1678932096.504079"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678937583.568119"
+            },
+            {
+                "user": "U04KHFE00F9",
+                "ts": "1678938310.285449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04U6LA79TM",
+                "created": 1678932050,
+                "timestamp": 1678932050,
+                "name": "Screenshot 2023-03-15 help.png",
+                "title": "Screenshot 2023-03-15 help.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KHFE00F9",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 15161,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U6LA79TM\/screenshot_2023-03-15_help.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U6LA79TM\/download\/screenshot_2023-03-15_help.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 33,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 43,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 65,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 72,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 87,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U6LA79TM-a99192d37a\/screenshot_2023-03-15_help_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 93,
+                "original_w": 1138,
+                "original_h": 103,
+                "thumb_tiny": "AwAEADCi3DEUmaV\/vGm0ygpcn1pKKAFyfWjJ9aSigD\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHFE00F9\/F04U6LA79TM\/screenshot_2023-03-15_help.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04U6LA79TM-c2ad2c7cb8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KHFE00F9",
+        "display_as_bot": false,
+        "ts": "1678932053.992019",
+        "client_msg_id": "dffdc51f-7cda-4a25-8ffc-9d6958484769",
+        "thread_ts": "1678931969.971079",
+        "parent_user_id": "U04KHFE00F9"
+    },
+    {
+        "client_msg_id": "64f53044-c543-436b-a8ec-2a0a6c2c7eb9",
+        "type": "message",
+        "text": "This is Step #4 sorry...sleepy.",
+        "user": "U04KHFE00F9",
+        "ts": "1678932096.504079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VsU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is Step #4 sorry...sleepy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "10a8a864b74b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4675131489125_10a8a864b74bb7e8783a_72.jpg",
+            "first_name": "Demetrius",
+            "real_name": "Demetrius Goudeau",
+            "display_name": "Demetrius Goudeau",
+            "team": "T04HC2CMNJ0",
+            "name": "demetrius.goudeau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678931969.971079",
+        "parent_user_id": "U04KHFE00F9"
+    },
+    {
+        "client_msg_id": "2dd08fdb-1e7a-4f3f-9f66-64383e96b77e",
+        "type": "message",
+        "text": "hi <@U04KHFE00F9>, a similar situation happened to me on another step. I fixed it by closing the terminal and reentering the command when I opened the terminal again.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678937583.568119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1d0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KHFE00F9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a similar situation happened to me on another step. I fixed it by closing the terminal and reentering the command when I opened the terminal again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1678937637.000000"
+        },
+        "thread_ts": "1678931969.971079",
+        "parent_user_id": "U04KHFE00F9"
+    },
+    {
+        "client_msg_id": "ea021985-ad48-4f90-871f-955b7c226c18",
+        "type": "message",
+        "text": "Thanks <@U04KKRC0ZRA> I was able to figure it out! I appreciate your help.",
+        "user": "U04KHFE00F9",
+        "ts": "1678938310.285449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4s1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was able to figure it out! I appreciate your help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "10a8a864b74b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4675131489125_10a8a864b74bb7e8783a_72.jpg",
+            "first_name": "Demetrius",
+            "real_name": "Demetrius Goudeau",
+            "display_name": "Demetrius Goudeau",
+            "team": "T04HC2CMNJ0",
+            "name": "demetrius.goudeau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678931969.971079",
+        "parent_user_id": "U04KHFE00F9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I am still having the same issue <@U04GV2EK7UP> I started everything afresh. Please see the SSH URL I am using and let me know what may be the issue.",
+        "files": [
+            {
+                "id": "F04TSHUSFCP",
+                "created": 1678939391,
+                "timestamp": 1678939391,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 52180,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TSHUSFCP\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TSHUSFCP\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 76,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 102,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 153,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSHUSFCP-f620e934fd\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 170,
+                "original_w": 915,
+                "original_h": 194,
+                "thumb_tiny": "AwAKADCn+B\/Kj8P0paTA9KZQmf8AOKQkH1pwAz0oIGTxQAzj3pKkwPQUYHoKAP\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04TSHUSFCP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TSHUSFCP-99081430f5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04UKNPNS57",
+                "created": 1678939527,
+                "timestamp": 1678939527,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 36434,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UKNPNS57\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UKNPNS57\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 87,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 116,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 175,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 194,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 233,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UKNPNS57-0838b1f236\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 248,
+                "original_w": 1233,
+                "original_h": 299,
+                "thumb_tiny": "AwALADDQyM0Aj3\/KnYHpRtHpTEID9fypaNo9KNo9KQw\/CijApcCgD\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04UKNPNS57\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UKNPNS57-37fa2ad45b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L7DALXDH",
+        "ts": "1678939534.458549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am still having the same issue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I started everything afresh. Please see the SSH URL I am using and let me know what may be the issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04L7DALXDH",
+            "ts": "1678939605.000000"
+        },
+        "client_msg_id": "7385641e-3c2b-44ea-a085-25ced5fb1810",
+        "thread_ts": "1678858608.664909",
+        "parent_user_id": "U04L7DALXDH"
+    },
+    {
+        "type": "message",
+        "text": "Hi all, I am still stuck on step 6 since yesterday. It cannot read from the repo I set up.",
+        "files": [
+            {
+                "id": "F04TSJ55FV5",
+                "created": 1678939618,
+                "timestamp": 1678939618,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 36434,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TSJ55FV5\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TSJ55FV5\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 87,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 116,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 175,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 194,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 233,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TSJ55FV5-020fb26e7f\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 248,
+                "original_w": 1233,
+                "original_h": 299,
+                "thumb_tiny": "AwALADDQyM0Aj3\/KnYHpRtHpTEID9fypaNo9KNo9KQw\/CijApcCgD\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04TSJ55FV5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TSJ55FV5-00c37dcb03",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04UWQWJW56",
+                "created": 1678939771,
+                "timestamp": 1678939771,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 33155,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UWQWJW56\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UWQWJW56\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 61,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 81,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 122,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UWQWJW56-3dfeb67988\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 135,
+                "original_w": 821,
+                "original_h": 139,
+                "thumb_tiny": "AwAIADCnz\/kUn+elOoplDc+36UHcB9fanUHoKAGZb\/IpOfT9KkooA\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04UWQWJW56\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UWQWJW56-f7b1b165d0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L7DALXDH",
+        "ts": "1678939784.518179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4YV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I am still stuck on step 6 since yesterday. It cannot read from the repo I set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "348c0557-b6d2-40b3-9165-212c9e1b5dc6",
+        "thread_ts": "1678939784.518179",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1679440541.701339",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04L7DALXDH",
+            "U04L0KF40SW"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678943231.514199"
+            },
+            {
+                "user": "U04L7DALXDH",
+                "ts": "1679018984.345239"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679023526.616219"
+            },
+            {
+                "user": "U04L0KF40SW",
+                "ts": "1679430332.927969"
+            },
+            {
+                "user": "U04L7DALXDH",
+                "ts": "1679440541.701339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679440541.701339"
+    },
+    {
+        "client_msg_id": "eb28b720-b19e-4eb4-b890-25339ff28ac1",
+        "type": "message",
+        "text": "Mariana, did you find solution to the problem? I have restarted from scratch and still having the same issue at step 6.",
+        "user": "U04L7DALXDH",
+        "ts": "1678941598.820059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agsX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariana, did you find solution to the problem? I have restarted from scratch and still having the same issue at step 6."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gec6dd7b787e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ec6dd7b787e97445934ec5c13d245ada.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Yaa",
+            "real_name": "Yaa Rose",
+            "display_name": "Yaa Rose",
+            "team": "T04HC2CMNJ0",
+            "name": "yaa.rose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675562568.181989",
+        "parent_user_id": "U04KEJUNAJG"
+    },
+    {
+        "client_msg_id": "495739A6-BDFF-4B64-B468-4AF2B51B553B",
+        "type": "message",
+        "text": "It looks like you may have set this up as an https link rather than an ssh link (you need to select ssh on Github). ",
+        "user": "U04GV2EK7UP",
+        "ts": "1678943231.514199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9TO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like you may have set this up as an https link rather than an ssh link (you need to select ssh on Github). "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678939784.518179",
+        "parent_user_id": "U04L7DALXDH"
+    }
+]

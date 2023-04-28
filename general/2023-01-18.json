@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f09c2ce5-d1b9-44ea-88fd-c5eae68bc77c",
+        "type": "message",
+        "text": "Whew, made it!",
+        "user": "U04K4P9URDM",
+        "ts": "1674095675.075829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPhO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whew, made it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

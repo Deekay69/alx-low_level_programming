@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "cbb308aa-ae48-4885-b061-0d8ba77e316c",
+        "type": "message",
+        "text": "For part 2 of module 6, where do I have to upload my psa file?",
+        "user": "U04M1CWSQKS",
+        "ts": "1679947883.609129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCR9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For part 2 of module 6, where do I have to upload my psa file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gecffad32c17",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ecffad32c17920e3d09fcc3b6119fc4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Soohyun",
+            "real_name": "Soohyun Lee",
+            "display_name": "Soohyun Lee",
+            "team": "T04HC2CMNJ0",
+            "name": "soohyun.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679947883.609129",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1680019689.779279",
+        "reply_users": [
+            "U04M1CWSQKS",
+            "U04KMTVDCQ4"
+        ],
+        "replies": [
+            {
+                "user": "U04M1CWSQKS",
+                "ts": "1679948480.962039"
+            },
+            {
+                "user": "U04KMTVDCQ4",
+                "ts": "1679967795.798999"
+            },
+            {
+                "user": "U04KMTVDCQ4",
+                "ts": "1679967811.020409"
+            },
+            {
+                "user": "U04M1CWSQKS",
+                "ts": "1680019689.779279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "03781db1-61d5-4dac-97f4-af0412677671",
+        "type": "message",
+        "text": "Also, how can I see other peer's psa works?",
+        "user": "U04M1CWSQKS",
+        "ts": "1679948480.962039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RTHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, how can I see other peer's psa works?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gecffad32c17",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ecffad32c17920e3d09fcc3b6119fc4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Soohyun",
+            "real_name": "Soohyun Lee",
+            "display_name": "Soohyun Lee",
+            "team": "T04HC2CMNJ0",
+            "name": "soohyun.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679947883.609129",
+        "parent_user_id": "U04M1CWSQKS"
+    },
+    {
+        "client_msg_id": "7ee1ef07-9fbe-4dd8-90c5-0709dd9804ac",
+        "type": "message",
+        "text": "Part 2 isn't due until 4\/4 so our peers probably just haven't uploaded them yet. You can post your PSA on your UTSA OneDrive account. You'll then just post a link to it on your discussion post. Just make sure to change the privacy settings to \"Anyone with the link\"",
+        "user": "U04KMTVDCQ4",
+        "ts": "1679967795.798999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Part 2 isn't due until 4\/4 so our peers probably just haven't uploaded them yet. You can post your PSA on your UTSA OneDrive account. You'll then just post a link to it on your discussion post. Just make sure to change the privacy settings to \"Anyone with the link\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "3d03bd646003",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4678146951729_3d03bd646003bee695dd_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Moore",
+            "display_name": "Alex Moore",
+            "team": "T04HC2CMNJ0",
+            "name": "alex.moore",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679947883.609129",
+        "parent_user_id": "U04M1CWSQKS"
+    },
+    {
+        "client_msg_id": "74934348-0637-432b-aad3-c3abcb006224",
+        "type": "message",
+        "text": "You can access your OneDrive account from <https:\/\/support.microsoft.com\/en-us\/office\/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07>",
+        "user": "U04KMTVDCQ4",
+        "ts": "1679967811.020409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nU4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can access your OneDrive account from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/support.microsoft.com\/en-us\/office\/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "3d03bd646003",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4678146951729_3d03bd646003bee695dd_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Moore",
+            "display_name": "Alex Moore",
+            "team": "T04HC2CMNJ0",
+            "name": "alex.moore",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/support.microsoft.com\/en-us\/office\/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07",
+                "service_icon": "https:\/\/support.microsoft.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/support.microsoft.com\/en-us\/office\/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07",
+                "fallback": "Share OneDrive files and folders - Microsoft Support",
+                "text": "Use OneDrive as a cloud backup to share your files and folders with others. Learn how to control permissions, allow editing, or set expiration dates.",
+                "title": "Share OneDrive files and folders - Microsoft Support",
+                "title_link": "https:\/\/support.microsoft.com\/en-us\/office\/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07",
+                "service_name": "support.microsoft.com"
+            }
+        ],
+        "thread_ts": "1679947883.609129",
+        "parent_user_id": "U04M1CWSQKS"
+    }
+]

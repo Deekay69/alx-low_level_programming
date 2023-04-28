@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "7c347545-4f4d-4616-a9dd-567412cbe078",
+        "type": "message",
+        "text": "Hi all:  You have likely received this via email, but the deadline to apply to this H-E-B cybersecurity internship is *April 6*: <https:\/\/nam11.safelinks.protection.outlook.com\/?url=https%3A%2F%2Frecruiting-gateway-heb.icims.com%2Fjobs%2F46362%2Finternship---cyber-security%2Fjob%3Fmode%3Dview%26mobile%3Dfalse%26width%3D712%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D-360%26jun1offset%3D-300&amp;data=05%7C01%7Crita.mitra%40utsa.edu%7C6b89572e24d6437b980308db32097efc%7C3a228dfbc64744cb88357b20617fc906%7C0%7C0%7C638158788584716388%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=M5C77nUeAxI1f%2FtuZhJixfieCvVixh9DAoQrokD0LR4%3D&amp;reserved=0|Internship Opportunity - Cyber Security>.\nProgram Dates: May 22nd – July 28th\nProgram Format: In Person\/Hybrid\n• Competitively paid\n• Weekly Coffee Chats\n• Weekly Digital Tech Talks\n• Project work &amp; Presentations\n• An in-depth company overview \n• Leadership Development training\n• Exposure to Senior Leadership\n• Opportunity to explore career choices and apply your internship experiences to your future career\n",
+        "user": "U04GV2EK7UP",
+        "ts": "1680657198.980529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all:  You have likely received this via email, but the deadline to apply to this H-E-B cybersecurity internship is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "April 6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nam11.safelinks.protection.outlook.com\/?url=https%3A%2F%2Frecruiting-gateway-heb.icims.com%2Fjobs%2F46362%2Finternship---cyber-security%2Fjob%3Fmode%3Dview%26mobile%3Dfalse%26width%3D712%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D-360%26jun1offset%3D-300&data=05%7C01%7Crita.mitra%40utsa.edu%7C6b89572e24d6437b980308db32097efc%7C3a228dfbc64744cb88357b20617fc906%7C0%7C0%7C638158788584716388%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=M5C77nUeAxI1f%2FtuZhJixfieCvVixh9DAoQrokD0LR4%3D&reserved=0",
+                                "text": "Internship Opportunity - Cyber Security"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nProgram Dates: May 22nd – July 28th\nProgram Format: In Person\/Hybrid\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Competitively paid"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Weekly Coffee Chats"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Weekly Digital Tech Talks"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Project work & Presentations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "An in-depth company overview "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Leadership Development training"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exposure to Senior Leadership"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Opportunity to explore career choices and apply your internship experiences to your future career"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nam11.safelinks.protection.outlook.com\/?url=https%3A%2F%2Frecruiting-gateway-heb.icims.com%2Fjobs%2F46362%2Finternship---cyber-security%2Fjob%3Fmode%3Dview%26mobile%3Dfalse%26width%3D712%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D-360%26jun1offset%3D-300&data=05%7C01%7Crita.mitra%40utsa.edu%7C6b89572e24d6437b980308db32097efc%7C3a228dfbc64744cb88357b20617fc906%7C0%7C0%7C638158788584716388%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=M5C77nUeAxI1f%2FtuZhJixfieCvVixh9DAoQrokD0LR4%3D&reserved=0",
+                "service_icon": "https:\/\/recruiting-gateway-heb.icims.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nam11.safelinks.protection.outlook.com\/?url=https%3A%2F%2Frecruiting-gateway-heb.icims.com%2Fjobs%2F46362%2Finternship---cyber-security%2Fjob%3Fmode%3Dview%26mobile%3Dfalse%26width%3D712%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D-360%26jun1offset%3D-300&amp;data=05%7C01%7Crita.mitra%40utsa.edu%7C6b89572e24d6437b980308db32097efc%7C3a228dfbc64744cb88357b20617fc906%7C0%7C0%7C638158788584716388%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=M5C77nUeAxI1f%2FtuZhJixfieCvVixh9DAoQrokD0LR4%3D&amp;reserved=0",
+                "fallback": "Recruiting Gateway: Internship - Cyber Security in San Antonio, Texas | Careers at Corporate Recruiting-Corp",
+                "text": "H-E-B is one of the largest, independently owned food retailers in the nation operating over 420+ stores throughout Texas and Mexico, with annual sales generating over $34 billion. Described by industry experts as a daring innovator and smart competitor, H-E-B has led the way with creative new concepts, outstanding service and a commitment to diversity in our workforce, workplace and marketplace. H-E-B offers a wealth of career opportunities to our 145,000+ Partners (employees), competitive compensation and benefits program and comprehensive training that lead to successful careers.",
+                "title": "Internship - Cyber Security in San Antonio, Texas | Careers at Corporate Recruiting-Corp",
+                "title_link": "https:\/\/nam11.safelinks.protection.outlook.com\/?url=https%3A%2F%2Frecruiting-gateway-heb.icims.com%2Fjobs%2F46362%2Finternship---cyber-security%2Fjob%3Fmode%3Dview%26mobile%3Dfalse%26width%3D712%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D-360%26jun1offset%3D-300&data=05%7C01%7Crita.mitra%40utsa.edu%7C6b89572e24d6437b980308db32097efc%7C3a228dfbc64744cb88357b20617fc906%7C0%7C0%7C638158788584716388%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=M5C77nUeAxI1f%2FtuZhJixfieCvVixh9DAoQrokD0LR4%3D&reserved=0",
+                "service_name": "Recruiting Gateway"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04JWGYC9JT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33135018-8714-463c-95d0-7f4cc13a07ed",
+        "type": "message",
+        "text": "Random tip! <https:\/\/www.coursera.org\/professional-certificates\/google-it-automation> Google offers a certification for Python! I was able to get financial aid and get enrolled in the course for free! All you need to do for aid is send in a request and answer some questions (Ex. why?). I definitely recommend this if you're looking to learn a new language, or want to add a certification by Google in Python to your portfolio.",
+        "user": "U04MG1VV5SN",
+        "ts": "1680663592.805869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Random tip! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/professional-certificates\/google-it-automation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Google offers a certification for Python! I was able to get financial aid and get enrolled in the course for free! All you need to do for aid is send in a request and answer some questions (Ex. why?). I definitely recommend this if you're looking to learn a new language, or want to add a certification by Google in Python to your portfolio."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ba93eba31cb3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4729981939059_ba93eba31cb376909ffc_72.gif",
+            "first_name": "Arish",
+            "real_name": "Arish Bawani",
+            "display_name": "Arish Bawani",
+            "team": "T04HC2CMNJ0",
+            "name": "arish.bawani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04MG1VV5SN",
+            "ts": "1680663662.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-automation\/XDP~SPECIALIZATION!~google-it-automation.jpeg",
+                "image_width": 1772,
+                "image_height": 928,
+                "image_bytes": 164115,
+                "from_url": "https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-v2-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+                "fallback": "Coursera: Google IT Automation with Python",
+                "text": "Offered by Google. Learn in-demand skills like Python, Git, and IT automation to advance your career Enroll for free.",
+                "title": "Google IT Automation with Python",
+                "title_link": "https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+                "service_name": "Coursera"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

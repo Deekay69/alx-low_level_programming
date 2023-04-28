@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "d1aa1ebf-6a9c-4c71-886d-9c0deca0b1ba",
+        "type": "message",
+        "text": "Happy Friday All! If you're on campus around 11 AM, you may want to drop by Core4ce's session on how to communicate technical skills during interviews and grab a taco to boot! <https:\/\/utsa.campuslabs.com\/engage\/event\/8695342>",
+        "user": "U04GV2EK7UP",
+        "ts": "1675437481.712339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QfH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Friday All! If you're on campus around 11 AM, you may want to drop by Core4ce's session on how to communicate technical skills during interviews and grab a taco to boot! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.campuslabs.com\/engage\/event\/8695342"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/utsa.campuslabs.com\/engage\/event\/8695342",
+                "image_url": "https:\/\/se-images.campuslabs.com\/clink\/images\/cfa1d392-9439-47a2-957d-c77439817f3b34bad9fa-3f05-4367-96bf-dc004c30b45f.png?preset=med-w",
+                "image_width": 417,
+                "image_height": 250,
+                "image_bytes": 48174,
+                "service_icon": "https:\/\/utsa.campuslabs.com\/engage\/icons\/apple-touch-icon.png?v=zXryopmz8G",
+                "id": 1,
+                "original_url": "https:\/\/utsa.campuslabs.com\/engage\/event\/8695342",
+                "fallback": "Let's Taco 'Bout Your Technical Skills presented by Core4ce",
+                "text": "Discover unique opportunities at! Find and attend events, browse and join organizations, and showcase your involvement.",
+                "title": "Let's Taco 'Bout Your Technical Skills presented by Core4ce",
+                "title_link": "https:\/\/utsa.campuslabs.com\/engage\/event\/8695342",
+                "service_name": "utsa.campuslabs.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04KPRUQ78T",
+                    "U04M8TJKPQE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

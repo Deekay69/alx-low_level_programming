@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "0ae2fef2-a342-46a7-88f3-230bb68f1ac2",
+        "type": "message",
+        "text": "Good morning everyone.\nI just wanted to share a fairly elaborate phone scam that I got told about yesterday.\n\nThe attackers placed a phone call to someone's phone, with the caller ID showing that it was coming from the local police department. When the person answered the phone, they were told they had an outstanding warrant, and the police were tracking their phone through their cellular provider. In addition, they were told not to hang up since they would then be charged with obstruction of justice since they would consider it trying to \"evade the police.\"\n\nThe reason for the warrant was they had not shown up for jury duty. Then, a key thing, they said it had been mailed to their previous address. (i.e. - The attacker knew where they used to live, adding to the authority of the caller.) So, they were told that they had to go to a local business that the police department worked with (in this case they said Kroger was closest) and get a money order to cover the required bond. Otherwise, they would have to get arrested and taken to the police station until they paid it.\n\nAnother key item, the background noise for the attacker included radio traffic, and other sounds that you would expect from a police station. The caller (who claimed they were a police officer) even responded to a few radio calls that they \"received\" during the call.\n\nFortunately, after getting the money order for the bond, the person asked where to mail it - and the attacker said that they couldn't mail it, but had to read off the numbers ton the phone. This seemed strange enough that the person refused to read the number off - and the attacker had to give up.\n\nThey went to the police station to report the scam and got told that a lot of people had received that kind of call, and they were lucky they didn't give them the numbers or the money would be gone. (As some people found out.)\n\nSo, just remember - attackers can have information about you to make a scenario seem real, and they can go to elaborate lengths to make it seem like they are who they say they are. Also remember that the bad guys are smart, will learn from their failures, and will change how they do things to become better at fooling people. So, be skeptical, always double-check things, and proceed with caution.\n\nAlso, here's a bonus tactic: Never rush. You can always stop for a minute to think before doing something!",
+        "user": "U04JYA33E9Z",
+        "ts": "1676040029.730959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning everyone.\nI just wanted to share a fairly elaborate phone scam that I got told about yesterday.\n\nThe attackers placed a phone call to someone's phone, with the caller ID showing that it was coming from the local police department. When the person answered the phone, they were told they had an outstanding warrant, and the police were tracking their phone through their cellular provider. In addition, they were told not to hang up since they would then be charged with obstruction of justice since they would consider it trying to \"evade the police.\"\n\nThe reason for the warrant was they had not shown up for jury duty. Then, a key thing, they said it had been mailed to their previous address. (i.e. - The attacker knew where they used to live, adding to the authority of the caller.) So, they were told that they had to go to a local business that the police department worked with (in this case they said Kroger was closest) and get a money order to cover the required bond. Otherwise, they would have to get arrested and taken to the police station until they paid it.\n\nAnother key item, the background noise for the attacker included radio traffic, and other sounds that you would expect from a police station. The caller (who claimed they were a police officer) even responded to a few radio calls that they \"received\" during the call.\n\nFortunately, after getting the money order for the bond, the person asked where to mail it - and the attacker said that they couldn't mail it, but had to read off the numbers ton the phone. This seemed strange enough that the person refused to read the number off - and the attacker had to give up.\n\nThey went to the police station to report the scam and got told that a lot of people had received that kind of call, and they were lucky they didn't give them the numbers or the money would be gone. (As some people found out.)\n\nSo, just remember - attackers can have information about you to make a scenario seem real, and they can go to elaborate lengths to make it seem like they are who they say they are. Also remember that the bad guys are smart, will learn from their failures, and will change how they do things to become better at fooling people. So, be skeptical, always double-check things, and proceed with caution.\n\nAlso, here's a bonus tactic: Never rush. You can always stop for a minute to think before doing something!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KCMLDMPE",
+                    "U04MJ767GTE",
+                    "U04LDS1BNBB",
+                    "U04MF1EM1BL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43154885-80a1-4a03-9255-4e4f6631e961",
+        "type": "message",
+        "text": "Happy Friday everyone! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1676041265.252579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Friday everyone! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "673984a9-bf2a-4a9d-9960-dc1f8f6b89c3",
+        "type": "message",
+        "text": "Anybody know when Module 3 and up quizzes appear? I'm not seeing them anywhere and I can't locate anything about them in the syllabus.",
+        "user": "U04K42C14HM",
+        "ts": "1676058007.096449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8QFMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody know when Module 3 and up quizzes appear? I'm not seeing them anywhere and I can't locate anything about them in the syllabus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676058007.096449",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676058134.642799",
+        "reply_users": [
+            "U04KEJUNAJG",
+            "U04K42C14HM"
+        ],
+        "replies": [
+            {
+                "user": "U04KEJUNAJG",
+                "ts": "1676058029.440979"
+            },
+            {
+                "user": "U04K42C14HM",
+                "ts": "1676058134.642799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "06D27D49-7409-432A-A068-39E99C83E4C7",
+        "type": "message",
+        "text": "two weeks before due date",
+        "user": "U04KEJUNAJG",
+        "ts": "1676058029.440979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEzO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "two weeks before due date"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676058007.096449",
+        "parent_user_id": "U04K42C14HM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04K42C14HM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3560c725-2d54-4664-bf6f-5a0b0b5cfd37",
+        "type": "message",
+        "text": "Thank you! I'll just have to set a reminder for them two weeks in advance.",
+        "user": "U04K42C14HM",
+        "ts": "1676058134.642799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! I'll just have to set a reminder for them two weeks in advance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676058007.096449",
+        "parent_user_id": "U04K42C14HM"
+    }
+]

@@ -1,0 +1,433 @@
+[
+    {
+        "client_msg_id": "de95066a-a9b0-4e78-bc81-cb2240a88f82",
+        "type": "message",
+        "text": "You should be able to create the file and add it, and then commit again.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679146899.777379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ebh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should be able to create the file and add it, and then commit again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1679181341.000000"
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "e6304e6e-c4e3-4a37-8cd6-24f080c0571b",
+        "type": "message",
+        "text": "It looks like you need to change directories to Desktop (with the command *cd Desktop*). See bullet point #5.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679147069.046679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIRNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like you need to change directories to Desktop (with the command "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cd Desktop",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "). See bullet point #5."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679075379.403759",
+        "parent_user_id": "U04M166K0EP"
+    },
+    {
+        "client_msg_id": "408BDB13-377F-4EA5-B27A-688676B703F6",
+        "type": "message",
+        "text": "is it gonna be the same commands ?",
+        "user": "U04LFB0F276",
+        "ts": "1679147459.637579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6f\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it gonna be the same commands ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "0125BA45-F1D0-4A82-B4E9-BE6D8CB5A98D",
+        "type": "message",
+        "text": "Yes, in the same order preferably",
+        "user": "U04GV2EK7UP",
+        "ts": "1679153668.437269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVHGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, in the same order preferably"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "e1e70cb3-eb89-4186-8cbd-2478b9522e6b",
+        "type": "message",
+        "text": "How would i do that? im confused on were to start first.",
+        "user": "U04M166K0EP",
+        "ts": "1679174306.923849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How would i do that? im confused on were to start first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "84c5316c2aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-29\/4739021848896_84c5316c2aaed3cee4e7_72.jpg",
+            "first_name": "Rose",
+            "real_name": "Rose Njoku",
+            "display_name": "Rose Njoku",
+            "team": "T04HC2CMNJ0",
+            "name": "rose.njoku",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679075379.403759",
+        "parent_user_id": "U04M166K0EP"
+    },
+    {
+        "client_msg_id": "4EBC26B0-8438-4823-AA7C-5A67D163771D",
+        "type": "message",
+        "text": "You can work through the directions in the bullet points step by step at the terminal. ",
+        "user": "U04GV2EK7UP",
+        "ts": "1679174386.710309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can work through the directions in the bullet points step by step at the terminal. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679075379.403759",
+        "parent_user_id": "U04M166K0EP"
+    },
+    {
+        "client_msg_id": "B3D4F912-C78A-4A70-8064-DB6F9557D50D",
+        "type": "message",
+        "text": "sorry i’m still confused do you mind explaining further ? it says that the file already exists so should i name it something else ?",
+        "user": "U04LFB0F276",
+        "ts": "1679181264.292339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWIpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry "
+                            },
+                            {
+                                "type": "text",
+                                "text": "i’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still confused do you mind explaining further ? it says that the file already exists so should i name it something else ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "5AFC691B-C2E2-432A-8AB7-7274303B4D3B",
+        "type": "message",
+        "text": "but if i name it something else it won’t match my repository name",
+        "user": "U04LFB0F276",
+        "ts": "1679181401.373379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but if i name it something else it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " match my repository name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "42ea8253-a00a-4785-aa40-c55ec278c4c7",
+        "type": "message",
+        "text": "Oh, so you already have the README file created under your project-01 folder? Your first post indicates that you had not added it to your repo but your screenshot shows that command. So if you are referring to that file, you should be good to go.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679181506.949679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, so you already have the README file created under your project-01 folder? Your first post indicates that you had not added it to your repo but your screenshot shows that command. So if you are referring to that file, you should be good to go."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "F3712A62-9ADA-4723-AA13-62CC5725F962",
+        "type": "message",
+        "text": "okay thank you ! ",
+        "user": "U04LFB0F276",
+        "ts": "1679181751.725689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay thank you ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679118693.569959",
+        "parent_user_id": "U04LFB0F276"
+    }
+]

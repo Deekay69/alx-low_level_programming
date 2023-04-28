@@ -1,0 +1,364 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673963785.549389",
+        "user": "U04KASKBBC4",
+        "text": "<@U04KASKBBC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673969938.620209",
+        "user": "U04K91MUE9Z",
+        "text": "<@U04K91MUE9Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673978971.710939",
+        "user": "U04KCMLDMPE",
+        "text": "<@U04KCMLDMPE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673982823.940129",
+        "user": "U04KAKV7N7L",
+        "text": "<@U04KAKV7N7L> has joined the channel"
+    },
+    {
+        "client_msg_id": "2005d0a0-badf-4266-a48b-ba92f0e33e01",
+        "type": "message",
+        "text": "1. *Support* our peers and professor where applicable.\n",
+        "user": "U04KAKV7N7L",
+        "ts": "1673984345.708359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qV6\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Support ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "our peers and professor where applicable."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g2b5b3259cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2b5b3259cf2728dfd5f9d109b606ac14.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Serge",
+            "real_name": "Serge Shirvanian",
+            "display_name": "SERGE SHIRVANIAN",
+            "team": "T04HC2CMNJ0",
+            "name": "serge.shirvanian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673984345.708359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673992411.603589",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1673992411.603589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673992411.603589"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673987313.524169",
+        "user": "U04JWGYC9JT",
+        "text": "<@U04JWGYC9JT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Screen shot of my profile in 2023 spring simester, IS-1003 class.",
+        "files": [
+            {
+                "id": "F04L0QLEJNL",
+                "created": 1673987544,
+                "timestamp": 1673987544,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KAKV7N7L",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 36162,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L0QLEJNL\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L0QLEJNL\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 215,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 287,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0QLEJNL-facd1402c2\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 430,
+                "thumb_720_h": 720,
+                "original_w": 476,
+                "original_h": 797,
+                "thumb_tiny": "AwAwABynGPMkVSetWlsdwypY1Wt\/9en1rXi3qmCv05qlsQ73Mye3ESbgSTnHNV6v3wIjO4YJbNUKGOL01JI2Ebq6nkc8irB1GbPGz\/vmqvBHakx+FIomnu5J0CuFwDngVBRRSAfnHb9BTKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KAKV7N7L\/F04L0QLEJNL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L0QLEJNL-d7f36a68b3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KAKV7N7L",
+        "display_as_bot": false,
+        "ts": "1673987604.375469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUZWk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Screen shot of my profile in 2023 spring simester, IS-1003 class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "378d481a-682c-48e9-b553-cfc741340e8c",
+        "thread_ts": "1673987604.375469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673992312.862849",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1673992312.862849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673992312.862849"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673988021.261069",
+        "user": "U04KB1Z9EKD",
+        "text": "<@U04KB1Z9EKD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673990671.058209",
+        "user": "U04KDSDECLC",
+        "text": "<@U04KDSDECLC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673991497.647709",
+        "user": "U04KBBG47TM",
+        "text": "<@U04KBBG47TM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992152.680419",
+        "user": "U04JX0Q745V",
+        "text": "<@U04JX0Q745V> has joined the channel"
+    },
+    {
+        "client_msg_id": "67cb7a46-edaa-4125-a477-582945f82a6a",
+        "type": "message",
+        "text": "Hi Serge! This is great as a screenshot. I'm just noting that it will actually go into your lab-00 report that you submit in Blackboard. Thanks!",
+        "user": "U04GV2EK7UP",
+        "ts": "1673992312.862849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3z+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Serge! This is great as a screenshot. I'm just noting that it will actually go into your lab-00 report that you submit in Blackboard. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673987604.375469",
+        "parent_user_id": "U04KAKV7N7L"
+    },
+    {
+        "client_msg_id": "8d43ffd9-07a5-439b-bbc4-f5d225937cd1",
+        "type": "message",
+        "text": "A good guideline to choose, Serge! Just noting that this will also go into your Lab 00 report, which you will submit in Blackboard.",
+        "user": "U04GV2EK7UP",
+        "ts": "1673992411.603589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1kh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A good guideline to choose, Serge! Just noting that this will also go into your Lab 00 report, which you will submit in Blackboard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673984345.708359",
+        "parent_user_id": "U04KAKV7N7L",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992678.204279",
+        "user": "U04KBHXKQF4",
+        "text": "<@U04KBHXKQF4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673993044.496049",
+        "user": "U04L1A0LWPJ",
+        "text": "<@U04L1A0LWPJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673996735.791869",
+        "user": "U04KQGC6X4Z",
+        "text": "<@U04KQGC6X4Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001067.388819",
+        "user": "U04KEJUNAJG",
+        "text": "<@U04KEJUNAJG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001472.035729",
+        "user": "U04L1S6GGU8",
+        "text": "<@U04L1S6GGU8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674008512.602019",
+        "user": "U04KCGCUXH8",
+        "text": "<@U04KCGCUXH8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674009172.097619",
+        "user": "U04L288QDJ4",
+        "text": "<@U04L288QDJ4> has joined the channel"
+    }
+]

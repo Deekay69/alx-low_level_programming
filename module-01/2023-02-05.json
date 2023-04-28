@@ -1,0 +1,583 @@
+[
+    {
+        "type": "message",
+        "text": "Google vs Bing ping\nCommand window",
+        "files": [
+            {
+                "id": "F04N4HECRAP",
+                "created": 1675625256,
+                "timestamp": 1675625256,
+                "name": "command window.png",
+                "title": "command window.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L288QDJ4",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 138130,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N4HECRAP\/command_window.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N4HECRAP\/download\/command_window.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 301,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 402,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 603,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 670,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 804,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4HECRAP-38b5ade3f9\/command_window_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 857,
+                "original_w": 1548,
+                "original_h": 1296,
+                "thumb_tiny": "AwAoADCEX0\/r\/wCO0v26fHUf98iq3y+1Hy+1AE\/26YfxD\/vkUhv5+zD\/AL5FQ\/Lx0o+XPagCb7fcf3l\/75pPt0\/95f8Avmq5pKAJAeP\/AK9GeelGR7UZHt0oATcO4pCR2FOyvtQSOelADKSlpKAJAeP\/AK9JuGelMooAfuB6ikJHYU2igBaSiigD\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L288QDJ4\/F04N4HECRAP\/command_window.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N4HECRAP-6b45e9a9e7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L288QDJ4",
+        "display_as_bot": false,
+        "ts": "1675625286.725759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+B87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google vs Bing ping\nCommand window"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fb1fa248-0305-49bc-b2bf-d35f75387b64"
+    },
+    {
+        "client_msg_id": "d200577e-d280-4c0d-b6b7-cf38e10de95c",
+        "type": "message",
+        "text": "Command window\nping google and ping youtube",
+        "user": "U04LGAH0NTX",
+        "ts": "1675634254.375099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Command window\nping google and ping youtube"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ceed133466bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4724353734656_ceed133466bc694a8c50_72.jpg",
+            "first_name": "Jordan",
+            "real_name": "Jordan Valdez",
+            "display_name": "Jvaldez3",
+            "team": "T04HC2CMNJ0",
+            "name": "jordan.valdez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04NUGEQ6FJ",
+                "created": 1675634259,
+                "timestamp": 1675634259,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LGAH0NTX",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 64247,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04NUGEQ6FJ\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04NUGEQ6FJ\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NUGEQ6FJ-583fa69a3c\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NUGEQ6FJ-583fa69a3c\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NUGEQ6FJ-583fa69a3c\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 338,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NUGEQ6FJ-583fa69a3c\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 451,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04NUGEQ6FJ-583fa69a3c\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 652,
+                "original_h": 612,
+                "thumb_tiny": "AwAtADCiDx939KOv8P6UYHoOlLtGelADD15yPwpOPU08gY6DvQQNpOBQBHRS59hRn2FADgFI7UYHHSlx7\/pS7eev6UAJhfakIGO1Ltz3\/Sk2jGc9qAGnFJS8e9HHvQA\/k9\/0o59f0poOPX86M+maAH8+v6UnOOv6UzJ9aMn1oAMe4pKXr1pKAP\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LGAH0NTX\/F04NUGEQ6FJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04NUGEQ6FJ-9970d5c191",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LGAH0NTX",
+        "display_as_bot": false,
+        "ts": "1675634264.040969",
+        "client_msg_id": "5d982fad-d0fa-4f22-b159-c50c599b99c5"
+    },
+    {
+        "client_msg_id": "dcbc3999-ee98-4cac-9486-4de05337f926",
+        "type": "message",
+        "text": "2 questions.\n1) the only assignments due this week were the quiz and podcast report, correct?\n2) Is it required to post a ping screenshot as i do not see it mentioned anywhere?",
+        "user": "U04MCR8J0JD",
+        "ts": "1675656508.488289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCY=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2 questions.\n1) the only assignments due this week were the quiz and podcast report, correct?\n2) Is it required to post a ping screenshot as i do not see it mentioned anywhere?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "1255692576f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4707621623766_1255692576f7aef0d103_72.png",
+            "first_name": "Grant",
+            "real_name": "Grant Friar",
+            "display_name": "Grant Friar",
+            "team": "T04HC2CMNJ0",
+            "name": "grant.friar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04MCR8J0JD",
+            "ts": "1675656538.000000"
+        },
+        "thread_ts": "1675656508.488289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675657778.913499",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1675656961.812119"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675657778.913499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675657778.913499"
+    },
+    {
+        "client_msg_id": "74bac1a0-15fe-4d0c-afcc-a0cfd4e4a7b7",
+        "type": "message",
+        "text": "1) Yes\n2) No. I do not belive that the screenshot is graded, so it is not required. BTW, the screenshot instructions are in the slides.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675656961.812119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dzQEW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1) Yes\n2) No. I do not belive that the screenshot is graded, so it is not required. BTW, the screenshot instructions are in the slides."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1675657018.000000"
+        },
+        "thread_ts": "1675656508.488289",
+        "parent_user_id": "U04MCR8J0JD",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04ME79DU2C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04ME79DU2C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c639693-0c23-4a2c-a9d8-32a5cd751a2a",
+        "type": "message",
+        "text": "Thanks for answering these questions, <@U04KKRC0ZRA>!",
+        "user": "U04GV2EK7UP",
+        "ts": "1675657778.913499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for answering these questions, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675656508.488289",
+        "parent_user_id": "U04MCR8J0JD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "```Module 1 Ping exercise.```",
+        "files": [
+            {
+                "id": "F04MZ0AARE2",
+                "created": 1675657705,
+                "timestamp": 1675657705,
+                "name": "1003 PING Google.com.png",
+                "title": "1003 PING Google.com.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LCHN8Q0N",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 53541,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MZ0AARE2\/1003_ping_google.com.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04MZ0AARE2\/download\/1003_ping_google.com.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04MZ0AARE2-8f500dd8dc\/1003_ping_google.com_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1109,
+                "original_h": 624,
+                "thumb_tiny": "AwAbADCA3s4JAf8AQUhvJ\/8Anp+gqJup470nPpQBL9sm\/wCen6Ck+1z\/APPT\/wAdFRMfbFMoAsfbJ\/8Anp+gpPtk\/wDf\/QVBRQA5idx570lDfeP1pKAFpKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LCHN8Q0N\/F04MZ0AARE2\/1003_ping_google.com.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04MZ0AARE2-57d5bfb548",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LCHN8Q0N",
+        "display_as_bot": false,
+        "ts": "1675657946.526759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9w",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Module 1 Ping exercise."
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9ad5a5ed-99a3-44b3-a92a-e4bb08749155"
+    },
+    {
+        "type": "message",
+        "text": "Attached please find my results from using the ping command at the terminal.",
+        "files": [
+            {
+                "id": "F04N8CRFKE0",
+                "created": 1675665332,
+                "timestamp": 1675665332,
+                "name": "Ping Exercise.png",
+                "title": "Ping Exercise.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LDFJAJNM",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 75451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N8CRFKE0\/ping_exercise.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N8CRFKE0\/download\/ping_exercise.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 406,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 451,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 541,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N8CRFKE0-f649c03834\/ping_exercise_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 577,
+                "original_w": 1115,
+                "original_h": 628,
+                "thumb_tiny": "AwAbADBP7Sb\/AJ5D\/vqg6ke8Q\/OqfNJzQBc\/tI\/88R+dH9pn\/niP++qpMTjmmUAaH9pn\/niP++qP7T\/6Yj\/vqs+loAfx6UcdxRSUAIfYU2n9etJgUANpaXApcCgD\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LDFJAJNM\/F04N8CRFKE0\/ping_exercise.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N8CRFKE0-5cef1b9212",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LDFJAJNM",
+        "display_as_bot": false,
+        "ts": "1675665336.471079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attached please find my results from using the ping command at the terminal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "23f72dac-0d3b-4ab3-b8f2-8ffa6e9b6385"
+    },
+    {
+        "client_msg_id": "01d78c1b-cb2d-4754-9529-e187a039d7cf",
+        "type": "message",
+        "text": "SSH (port 22): Secures remote command-line login and remote command execution ◦\nFTP (port 21): Transfers files between computers using the File Transfer Protocol ◦\nSMTP (port 25): Sends email messages between servers ◦\nDNS (port 53): Translates domain names into IP addresses ◦\nRDP (port 3389): Allows users for remotely control another computer ◦\nTelnet (port 23): Remotely accesses and manages network devices, such as routers and switches ◦\nSQL (port 1433): Connects to a database server using SQL\n\nI extracted these ports and protocols from the slides from \"What is Cyber?\" slideshow presentation and found them confusing.\n\nI want to provide another explanation in case these were not clear enough.\nSSH (Secure Shell) operates on port 22 and has been primarily used as a replacement for Telnet as the de facto standard for remote configuration. It is also a popular method to provide secure communication tunnels for insecure protocols (meaning they are not encrypted and all the information transmitted is in clear text).\nFTP ( File Transfer Protocol) operates on ports 20 and 21 and is used to transfer files between devices while also allowing the management of files on remote systems (removing\/adding\/modifying).\nSMTP (Simple Mail Transfer Protocol) operates on port 25 and is used to send an email across a network, used both when you send an email to a mail server and when a mail server sends an email to another email server. (To retrieve that email a client will then use IMAP (port 143) or POP3 (port 110) to query the email server for the data)\nDNS (Domain Name System) operates on port 53 and is used to resolve FQDNs (Fully Qualified Domain Names e.g. <http:\/\/www.google.com>) i.e. this is why we can type a URL into a web browser and do not need to know the exact IP address of the web server we are requesting information from. \nRDP (Remote Desktop Protocol) operates on port 3389 and is used to remotely connect to another computer in a way that allows direct manipulation of the OS from your end as if you were sitting in front of the computer. (Unlike SSH and Telnet which only allow access through terminal emulation)\nSQL (Structured Query Langauge) operates on port 1433 and is used to communicate with a SQL server across a network. SQL is used for storing and processing information in a relational database.\n\nI hope these explanations help anyone who was confused by these ports and protocols.",
+        "user": "U04MB9BPJN4",
+        "ts": "1675667259.756899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SSH (port 22): Secures remote command-line login and remote command execution ◦\nFTP (port 21): Transfers files between computers using the File Transfer Protocol ◦\nSMTP (port 25): Sends email messages between servers ◦\nDNS (port 53): Translates domain names into IP addresses ◦\nRDP (port 3389): Allows users for remotely control another computer ◦\nTelnet (port 23): Remotely accesses and manages network devices, such as routers and switches ◦\nSQL (port 1433): Connects to a database server using SQL\n\nI extracted these ports and protocols from the slides from \"What is Cyber?\" slideshow presentation and found them confusing.\n\nI want to provide another explanation in case these were not clear enough.\nSSH (Secure Shell) operates on port 22 and has been primarily used as a replacement for Telnet as the de facto standard for remote configuration. It is also a popular method to provide secure communication tunnels for insecure protocols (meaning they are not encrypted and all the information transmitted is in clear text).\nFTP ( File Transfer Protocol) operates on ports 20 and 21 and is used to transfer files between devices while also allowing the management of files on remote systems (removing\/adding\/modifying).\nSMTP (Simple Mail Transfer Protocol) operates on port 25 and is used to send an email across a network, used both when you send an email to a mail server and when a mail server sends an email to another email server. (To retrieve that email a client will then use IMAP (port 143) or POP3 (port 110) to query the email server for the data)\nDNS (Domain Name System) operates on port 53 and is used to resolve FQDNs (Fully Qualified Domain Names e.g. http"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\/\/www.google.com) i.e. this is why we can type a URL into a web browser and do not need to know the exact IP address of the web server we are requesting information from. ",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRDP (Remote Desktop Protocol) operates on port 3389 and is used to remotely connect to another computer in a way that allows direct manipulation of the OS from your end as if you were sitting in front of the computer. (Unlike SSH and Telnet which only allow access through terminal emulation)\nSQL (Structured Query Langauge) operates on port 1433 and is used to communicate with a SQL server across a network. SQL is used for storing and processing information in a relational database.\n\nI hope these explanations help anyone who was confused by these ports and protocols."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0413b1a16192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4695038699990_0413b1a16192d1db3a72_72.jpg",
+            "first_name": "Erik",
+            "real_name": "Erik Hurtado",
+            "display_name": "Erik Hurtado",
+            "team": "T04HC2CMNJ0",
+            "name": "erik.hurtado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04LV2N1T4M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

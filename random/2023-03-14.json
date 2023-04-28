@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "2d5714c2-12f9-4e5e-9925-485045afd941",
+        "type": "message",
+        "text": "Hi all: If you have secured an internship this summer, I want to make sure you are aware of the Carlos Alvarez College of Business, ISCS academic has an internship credit program.\n\nNote this is NOT an application for an internship, this is where you apply for course credit for an internship you may already have or will have this summer and want the internship to count for academic credit.\n\nFriday, 12 May is the application deadline for the summer term. You may apply at:\n\n  <https:\/\/business.utsa.edu\/student-success\/academic-credit-internships\/>\n\n.",
+        "user": "U04JVCE8GA1",
+        "ts": "1678801327.130259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNkc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: If you have secured an internship this summer, I want to make sure you are aware of the Carlos Alvarez College of Business, ISCS academic has an internship credit program.\n\nNote this is NOT an application for an internship, this is where you apply for course credit for an internship you may already have or will have this summer and want the internship to count for academic credit.\n\nFriday, 12 May is the application deadline for the summer term. You may apply at:\n\n  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/business.utsa.edu\/student-success\/academic-credit-internships\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/business.utsa.edu\/wp-content\/uploads\/2018\/03\/DSC3263.jpg",
+                "image_width": 2208,
+                "image_height": 1474,
+                "image_bytes": 389747,
+                "from_url": "https:\/\/business.utsa.edu\/student-success\/academic-credit-internships\/",
+                "service_icon": "https:\/\/business.utsa.edu\/wp-content\/uploads\/2017\/10\/cropped-Rowdy_favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/business.utsa.edu\/student-success\/academic-credit-internships\/",
+                "fallback": "UTSA Business: Academic Credit Internships - UTSA Business",
+                "text": "In an academic internship, a student has the opportunity to earn a credit-bearing, career-related work experience.",
+                "title": "Academic Credit Internships - UTSA Business",
+                "title_link": "https:\/\/business.utsa.edu\/student-success\/academic-credit-internships\/",
+                "service_name": "UTSA Business",
+                "fields": [
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1678801327.130259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678890890.593279",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678890890.593279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678890890.593279"
+    }
+]

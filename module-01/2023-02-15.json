@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "5e7198bd-1c2a-41c0-89a2-0468ee8e14a6",
+        "type": "message",
+        "text": "I tried the path adjustment but it still doesnt allow a ping.  there are 3 different %systemroot%\\system32.  I moved each of them and I still cant ping.  I have the option to upgrade to windows 11, would that make a difference?",
+        "user": "U04LFPZJAFN",
+        "ts": "1676515924.632949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried the path adjustment but it still doesnt allow a ping.  there are 3 different %systemroot%\\system32.  I moved each of them and I still cant ping.  I have the option to upgrade to windows 11, would that make a difference?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "620ad28444da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4693436103378_620ad28444da715bc011_72.jpg",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey De Soto",
+            "display_name": "Jeffrey De Soto",
+            "team": "T04HC2CMNJ0",
+            "name": "jeffrey.desoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675815704.234999",
+        "parent_user_id": "U04LFPZJAFN"
+    }
+]

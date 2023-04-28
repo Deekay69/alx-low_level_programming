@@ -1,0 +1,951 @@
+[
+    {
+        "type": "message",
+        "text": "Hey Everyone, keep an eye out for phishing emails. I got this one last night.",
+        "files": [
+            {
+                "id": "F04RUP1CL4B",
+                "created": 1677679329,
+                "timestamp": 1677679329,
+                "name": "Screenshot_20230301_080114_Outlook.jpg",
+                "title": "Screenshot_20230301_080114_Outlook.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04JWGYC9JT",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 81770,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RUP1CL4B\/screenshot_20230301_080114_outlook.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RUP1CL4B\/download\/screenshot_20230301_080114_outlook.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 238,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 317,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 476,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1211,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 634,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RUP1CL4B-b51273dc3f\/screenshot_20230301_080114_outlook_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 676,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1635,
+                "thumb_tiny": "AwAwAB+hsYKCYxg9DzzSFSOqAfnSl2KhSeB0FJk0AJx\/dH60m007OaKAHqTgAFfxpGHHVeB2o2gqOMH15o2H1\/Q07gNop2z3\/Q00gjtSAkUfKKXHtx\/n3qPccY4\/KkoAlHTp+n\/16jYMOucUlFAH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04JWGYC9JT\/F04RUP1CL4B\/screenshot_20230301_080114_outlook.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RUP1CL4B-dad7382556",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04JWGYC9JT",
+        "display_as_bot": false,
+        "ts": "1677679332.074279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone, keep an eye out for phishing emails. I got this one last night."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d7b066b1-7234-424d-9349-820657cc009e",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3736FFF7-3D89-4C0F-B187-ED098FA35452",
+        "type": "message",
+        "text": "I got the same one ^",
+        "user": "U04L7V1MBK2",
+        "ts": "1677679402.941829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got the same one ^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thanks very much, <@U04JWGYC9JT>, for sharing this phishing message! This is an important action that we can all take to improve community security. Another is to report phishing emails. In fact the <https:\/\/www.utsa.edu\/techsolutions\/Cyber-Awareness\/I%20received%20a%20weird%20email.html|university encourages us> to do so. More on reporting later, but for now, you can go to the three dots at the top righthand column of your Inbox, and scroll down to *Protection\/Report Message\/Phishing*.",
+        "files": [
+            {
+                "id": "F04RS3R34N9",
+                "created": 1677680721,
+                "timestamp": 1677680721,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 349638,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RS3R34N9\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RS3R34N9\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 305,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 407,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 610,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 678,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 813,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RS3R34N9-4ace0fcac3\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 867,
+                "original_w": 1549,
+                "original_h": 1312,
+                "thumb_tiny": "AwAoADC+rFs5DDBxTufU00bvf9KkoAQfWloooAaeops3+ok\/3T\/KntTJh+4k\/wB0\/wAqAF2t24pcNjn+dOooAbg+\/wCdGD7\/AJ06igBvTr\/Omzf8e8n+6f5U9uops3+ok\/3T\/KgB+R60hIx1pj9aSgB34\/rSnBHWmHtSr0o3AVjtxTZTmCTnPyn+VOk7VG\/+ol\/3T\/Ks1J81hn\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04RS3R34N9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RS3R34N9-8dd5b62cd3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1677680781.996349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7l\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks very much, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", for sharing this phishing message! This is an important action that we can all take to improve community security. Another is to report phishing emails. In fact the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.utsa.edu\/techsolutions\/Cyber-Awareness\/I%20received%20a%20weird%20email.html",
+                                "text": "university encourages us"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to do so. More on reporting later, but for now, you can go to the three dots at the top righthand column of your Inbox, and scroll down to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Protection\/Report Message\/Phishing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "670f45a2-2927-4698-974e-249e7cf8529a",
+        "thread_ts": "1677680781.996349",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677681031.774959",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677681031.774959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677681031.774959",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56f3c827-ff95-438d-a571-7347094622d0",
+        "type": "message",
+        "text": "And to entice you even further, you will receive an interesting message back from the university upon reporting this one! :slightly_smiling_face:",
+        "user": "U04GV2EK7UP",
+        "ts": "1677681031.774959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ay8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And to entice you even further, you will receive an interesting message back from the university upon reporting this one! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677680781.996349",
+        "parent_user_id": "U04GV2EK7UP"
+    },
+    {
+        "client_msg_id": "aade65c1-1690-43d5-83db-d2fb20914ff8",
+        "type": "message",
+        "text": "There are a lot of unsavory people out there that wish to scam you and you family members into giving up their hard earned cash. They could also be after personal information like you SSN or address. phishing emails and more recently phishing texts. People will use big name brands like Netflix, Amazon, or pay pal; an example of one would be going along the lines like \"your account has suspicious activity click the link below to find out\" _*NEVER*_ click these links. If you receive a text or email saying there is something wrong with your account always go directly to websites or your account, or call a customer service representative they will let you know if the text was valid or not never click any link provided. Like Professor Mitra posted above there are various ways to report phishing scams. For text messages you can forward the text to 7726 (SPAM) this will help your provider identify and block spam messages. If you have any emails you can forward it to the Anti-Phishing Working Group at <mailto:reportphishing@apwg.org|reportphishing@apwg.org>. Below are two articles on the Federal Trade Commissions website.                                                           <https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-avoid-phishing-scams#report> <https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-report-spam-text-messages>",
+        "user": "U04MLHUREV6",
+        "ts": "1677685775.425069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9C8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a lot of unsavory people out there that wish to scam you and you family members into giving up their hard earned cash. They could also be after personal information like you SSN or address. phishing emails and more recently phishing texts. People will use big name brands like Netflix, Amazon, or pay pal; an example of one would be going along the lines like \"your account has suspicious activity click the link below to find out\" "
+                            },
+                            {
+                                "type": "text",
+                                "text": "NEVER",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " click these links. If you receive a text or email saying there is something wrong with your account always go directly to websites or your account, or call a customer service representative they will let you know if the text was valid or not never click any link provided. Like Professor Mitra posted above there are various ways to report phishing scams. For text messages you can forward the text to 7726 (SPAM) this will help your provider identify and block spam messages. If you have any emails you can forward it to the Anti-Phishing Working Group at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:reportphishing@apwg.org",
+                                "text": "reportphishing@apwg.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Below are two articles on the Federal Trade Commissions website.                                                           "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-avoid-phishing-scams#report"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-report-spam-text-messages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0bec47905aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4696393212455_0bec47905aae70c77c51_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Kyle Mekan",
+            "display_name": "Brandon Kyle Mekan",
+            "team": "T04HC2CMNJ0",
+            "name": "brandon.mekan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04MLHUREV6",
+            "ts": "1677685941.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-avoid-phishing-scams#report",
+                "ts": 1556909436,
+                "image_url": "https:\/\/consumer.ftc.gov\/themes\/custom\/cfg_uswds\/img\/ftc_social_share_default_en.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 54383,
+                "service_icon": "https:\/\/consumer.ftc.gov\/themes\/custom\/cfg_uswds\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-avoid-phishing-scams#report",
+                "fallback": "Consumer Advice: How to Recognize and Avoid Phishing Scams",
+                "text": "Scammers use email or text messages to trick you into giving them your personal and financial information.",
+                "title": "How to Recognize and Avoid Phishing Scams",
+                "title_link": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-avoid-phishing-scams#report",
+                "service_name": "Consumer Advice"
+            },
+            {
+                "from_url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-report-spam-text-messages",
+                "ts": 1582150502,
+                "image_url": "https:\/\/consumer.ftc.gov\/sites\/default\/files\/styles\/social_standard\/public\/consumer_ftc_gov\/images\/fedex_phishing_text_social_media_graphic_01142021.png?h=ec041e41&itok=9UNFUg1X",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 71430,
+                "service_icon": "https:\/\/consumer.ftc.gov\/themes\/custom\/cfg_uswds\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-report-spam-text-messages",
+                "fallback": "Consumer Advice: How to Recognize and Report Spam Text Messages",
+                "text": "If you have a cell phone, you probably use it dozens of times a day to text people you know.",
+                "title": "How to Recognize and Report Spam Text Messages",
+                "title_link": "https:\/\/consumer.ftc.gov\/articles\/how-recognize-and-report-spam-text-messages",
+                "service_name": "Consumer Advice"
+            }
+        ],
+        "thread_ts": "1677685775.425069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677762451.306879",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677762451.306879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677762451.306879",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here is what seems to be another I got this morning ",
+        "files": [
+            {
+                "id": "F04RP4CL24E",
+                "created": 1677686113,
+                "timestamp": 1677686113,
+                "name": "IMG_0282.jpg",
+                "title": "IMG_0282",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KE3VL2JH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 121712,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RP4CL24E\/img_0282.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RP4CL24E\/download\/img_0282.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 232,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 310,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 464,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1240,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 619,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RP4CL24E-b5a37d7b81\/img_0282_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 660,
+                "thumb_1024_h": 1024,
+                "original_w": 1170,
+                "original_h": 1814,
+                "thumb_tiny": "AwAwAB6hscBTtGCOKNrf3VoLEgAk4HSkoAGB7gCm7TTqKAHjIHDGky\/979aPmwKMt6UAJtPt+dIRilJPekPNADgMjvRx6n86iyaMmgCTj1P50HHao8mjJoA\/\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KE3VL2JH\/F04RP4CL24E\/img_0282.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RP4CL24E-4b035aea45",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KE3VL2JH",
+        "display_as_bot": false,
+        "ts": "1677686126.351319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Fos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is what seems to be another I got this morning "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "79C2CC07-2BDB-4E08-9450-69B7264809AA",
+        "thread_ts": "1677686126.351319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677686250.295409",
+        "reply_users": [
+            "U04JWGYC9JT"
+        ],
+        "replies": [
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1677686250.295409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "08b1cf4a-8523-4256-a9a9-023ec3e9c9fe",
+        "type": "message",
+        "text": "Idk extra dining dollars? Might be worth it. I can always get a new ssn... it's good the school is taking steps to educate students, lits of phishing emails lately. My moms work does a report like this once a quarter. Educating end users is a super important facet of good cubersecurity.",
+        "user": "U04JWGYC9JT",
+        "ts": "1677686250.295409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SWIKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk extra dining dollars? Might be worth it. I can always get a new ssn... it's good the school is taking steps to educate students, lits of phishing emails lately. My moms work does a report like this once a quarter. Educating end users is a super important facet of good cubersecurity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677686126.351319",
+        "parent_user_id": "U04KE3VL2JH"
+    },
+    {
+        "client_msg_id": "47160c4e-31a4-460b-8982-f58452d5eef1",
+        "type": "message",
+        "text": "What coding language would you recommend learning first?",
+        "user": "U04KWHFNNMV",
+        "ts": "1677688034.133199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+0b5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What coding language would you recommend learning first?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gd6d8eff1466",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6d8eff1466a322c7cc4eb75068c0aa9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jayden",
+            "real_name": "Jayden Lee",
+            "display_name": "Jayden Lee",
+            "team": "T04HC2CMNJ0",
+            "name": "jayden.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677688034.133199",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1677694585.459829",
+        "reply_users": [
+            "U04JWGYC9JT",
+            "U04KKRC0ZRA",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1677689383.334649"
+            },
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1677689404.075889"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1677689961.899039"
+            },
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1677690159.895719"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677694585.459829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677694585.459829",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KS2EFYR1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "def112f1-d91c-4e2d-aa85-7bacd53914e7",
+        "type": "message",
+        "text": "That's a difficult question due to the vast differences in purpose for languages. A solid easy first language is python, because of its versatility and simplicity in its syntax. It's also good for scripting which can be a necessity in cybersec.",
+        "user": "U04JWGYC9JT",
+        "ts": "1677689383.334649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYTM1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a difficult question due to the vast differences in purpose for languages. A solid easy first language is python, because of its versatility and simplicity in its syntax. It's also good for scripting which can be a necessity in cybersec."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677688034.133199",
+        "parent_user_id": "U04KWHFNNMV",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8941a537-df1b-4daa-b005-9fc81f593f38",
+        "type": "message",
+        "text": "Everyone holds different beliefs though",
+        "user": "U04JWGYC9JT",
+        "ts": "1677689404.075889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/RD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone holds different beliefs though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677688034.133199",
+        "parent_user_id": "U04KWHFNNMV"
+    },
+    {
+        "client_msg_id": "9f9443d8-63fa-487c-94dd-c455978d3b5b",
+        "type": "message",
+        "text": "Hi <@U04KWHFNNMV> I agree with <@U04JWGYC9JT> that Python is a good language to start with because it is easier to understand than most other languages. It was the first programming language I was introduced to and it me gave a foundation I used to better understand other languages. I would also recommend Java because it is also relatively easy to understand and provides good practice with object-oriented languages.\n\nP.S. I am no programming expert, I just appreciate how learning Python and Java gave me a great introduction into understanding how to program.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1677689961.899039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KWHFNNMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that Python is a good language to start with because it is easier to understand than most other languages. It was the first programming language I was introduced to and it me gave a foundation I used to better understand other languages. I would also recommend Java because it is also relatively easy to understand and provides good practice with object-oriented languages.\n\nP.S. I am no programming expert, I just appreciate how learning Python and Java gave me a great introduction into understanding how to program."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1677690217.000000"
+        },
+        "thread_ts": "1677688034.133199",
+        "parent_user_id": "U04KWHFNNMV",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ae2a8f9-0368-44ff-a628-034a7056fe01",
+        "type": "message",
+        "text": "Java was my first language and it gave me a really good grasp on OOP, and how to use classes correctly. It's syntaxes can be iffy sometimes but it's also relatively easy to use, and theirs lots of great resources online, I recommend the IntelliJ IDE if you go this route.",
+        "user": "U04JWGYC9JT",
+        "ts": "1677690159.895719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9hM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Java was my first language and it gave me a really good grasp on OOP, and how to use classes correctly. It's syntaxes can be iffy sometimes but it's also relatively easy to use, and theirs lots of great resources online, I recommend the IntelliJ IDE if you go this route."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677688034.133199",
+        "parent_user_id": "U04KWHFNNMV",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8236e7b0-1f74-4ebd-b56c-911b49f90281",
+        "type": "message",
+        "text": "Learning a more strictly typed and designed language first may be advantageous. You may want to start with Visual Studio Code as your IDE as it's easy to navigate:  <https:\/\/code.visualstudio.com\/>",
+        "user": "U04GV2EK7UP",
+        "ts": "1677694585.459829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wr7N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Learning a more strictly typed and designed language first may be advantageous. You may want to start with Visual Studio Code as your IDE as it's easy to navigate:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/code.visualstudio.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/code.visualstudio.com\/opengraphimg\/opengraph-home.png",
+                "image_width": 1012,
+                "image_height": 506,
+                "image_bytes": 129112,
+                "from_url": "https:\/\/code.visualstudio.com\/",
+                "service_icon": "https:\/\/code.visualstudio.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/code.visualstudio.com\/",
+                "fallback": "Visual Studio Code - Code Editing. Redefined",
+                "text": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
+                "title": "Visual Studio Code - Code Editing. Redefined",
+                "title_link": "https:\/\/code.visualstudio.com\/",
+                "service_name": "code.visualstudio.com"
+            }
+        ],
+        "thread_ts": "1677688034.133199",
+        "parent_user_id": "U04KWHFNNMV"
+    }
+]

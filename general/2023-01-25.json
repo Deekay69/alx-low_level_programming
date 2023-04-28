@@ -1,0 +1,645 @@
+[
+    {
+        "client_msg_id": "a9b527fb-37ae-476f-8b07-f76321ffba5f",
+        "type": "message",
+        "text": "Happy Wednesday everyone! I’ll be available on Slack\/Zoom today from 10 AM to 1 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1674662502.027459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b1CE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Wednesday everyone! I’ll be available on Slack\/Zoom today from 10 AM to 1 PM. Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04JVCE8GA1",
+                    "U04GV2EK7UP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2335cc7-1638-49f8-85fc-b18296762036",
+        "type": "message",
+        "text": "Hey, does anybody have a mac?",
+        "user": "U04KZMSE24X",
+        "ts": "1674673067.587739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bon1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, does anybody have a mac?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "3416f9d03970",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4718018985504_3416f9d0397060b706be_72.png",
+            "first_name": "William",
+            "real_name": "William Faniyi",
+            "display_name": "William Faniyi",
+            "team": "T04HC2CMNJ0",
+            "name": "william.faniyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674673067.587739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674782794.863069",
+        "reply_users": [
+            "U04KQQJLLG3",
+            "U04LFF8BL2Z"
+        ],
+        "replies": [
+            {
+                "user": "U04KQQJLLG3",
+                "ts": "1674752341.323889"
+            },
+            {
+                "user": "U04LFF8BL2Z",
+                "ts": "1674782794.863069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f16ec9ad-a3bd-4f2f-aa90-56383c027981",
+        "type": "message",
+        "text": "I think you need to have a windows computer... mac won't work for everything",
+        "user": "U04LJLH9883",
+        "ts": "1674674685.850699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you need to have a windows computer... mac won't work for everything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "9ac897290554",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4701282261108_9ac897290554849ac351_72.png",
+            "first_name": "Lauren",
+            "real_name": "Lauren Muzny",
+            "display_name": "Lauren Muzny",
+            "team": "T04HC2CMNJ0",
+            "name": "uae679",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "966b218a-6a8b-4453-b4c8-910d241d1166",
+        "type": "message",
+        "text": "A Windows computer is assumed for this class and degree program. However, topping off of William's important question, please thumbs up on my post if you have a Mac, and we will add you to a <#C04JVFN7EHZ|> channel to troubleshoot your work with each other while you consider your options.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674674757.259479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YaZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Windows computer is assumed for this class and degree program. However, topping off of William's important question, please thumbs up on my post if you have a Mac, and we will add you to a "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JVFN7EHZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel to troubleshoot your work with each other while you consider your options."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1678395419.801109",
+        "reply_users": [
+            "U04KQQJLLG3",
+            "U04GV2EK7UP",
+            "U04LFF8BL2Z",
+            "U04ML38CB08",
+            "U04L1QX8HN0",
+            "U04LY71B937",
+            "U04SWD4MPJS"
+        ],
+        "replies": [
+            {
+                "user": "U04KQQJLLG3",
+                "ts": "1674752431.663959"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674755986.948359"
+            },
+            {
+                "user": "U04KQQJLLG3",
+                "ts": "1674756290.731699"
+            },
+            {
+                "user": "U04LFF8BL2Z",
+                "ts": "1674837878.878719"
+            },
+            {
+                "user": "U04ML38CB08",
+                "ts": "1674856287.012349"
+            },
+            {
+                "user": "U04L1QX8HN0",
+                "ts": "1675101928.053279"
+            },
+            {
+                "user": "U04LY71B937",
+                "ts": "1675104047.713459"
+            },
+            {
+                "user": "U04SWD4MPJS",
+                "ts": "1678391638.529039"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678395419.801109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678395419.801109",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KCGR3C4E",
+                    "U04LCGB043G",
+                    "U04LCGQ1Z3Q",
+                    "U04L7M890E4",
+                    "U04K4D9UPBR",
+                    "U04L5FFLJ4F",
+                    "U04LL8TA1J6",
+                    "U04KRRA32Q3",
+                    "U04KQQJLLG3",
+                    "U04KC5TB3TR",
+                    "U04LC3JHZPH",
+                    "U04ML38CB08",
+                    "U04LYK62QCB",
+                    "U04M2GSF80L",
+                    "U04LKHYSABH",
+                    "U04METHPCTB",
+                    "U04L1QX8HN0",
+                    "U04LY71B937",
+                    "U04LZSU5KKQ",
+                    "U04KRH3KXTM",
+                    "U04M8RR2UHH",
+                    "U04MBDKADC4",
+                    "U04MDJKGUQJ",
+                    "U04M7N82YT0",
+                    "U04LKPR4741",
+                    "U04LP6YKHJ8",
+                    "U04N5KR8N72",
+                    "U04LDS1BNBB",
+                    "U04SWD4MPJS"
+                ],
+                "count": 29
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U04LFF8BL2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d46ddb3-bc00-4454-b704-7101338eb4f8",
+        "type": "message",
+        "text": "Tip for the class: don’t feel as though you can’t ask Professor Collazo for advice, help, or any other questions regarding this class. She is open to discussing any matters with students!",
+        "user": "U04L7M890E4",
+        "ts": "1674679425.340469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5BGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tip for the class: don’t feel as though you can’t ask Professor Collazo for advice, help, or any other questions regarding this class. She is open to discussing any matters with students!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "4d4a92abb1ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4666508865524_4d4a92abb1efc7d48d5d_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Ortiz",
+            "display_name": "Alex Ortiz",
+            "team": "T04HC2CMNJ0",
+            "name": "alexandria.ortiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7E54R41",
+                    "U04MT8LGAU9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04LY71MCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2D4B3FAB-D0A7-4F5E-8C03-EE665DFF2577",
+        "type": "message",
+        "text": "Does anyone know where I can find out about our University’s Cybersecurity Club?",
+        "user": "U04M8MADT4Y",
+        "ts": "1674692350.489239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know where I can find out about our University’s Cybersecurity Club?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674692350.489239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674695043.528289",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04M8MADT4Y"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674694789.623309"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1674695043.528289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674695043.528289",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04M5CEPJA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5084e2c5-a5ef-43ec-bcc8-41796d57190c",
+        "type": "message",
+        "text": "Hi <@U04M8MADT4Y>: There is more than one cybersecurity club on campus. This site lists all of the organizations in our college: <https:\/\/business.utsa.edu\/student-success\/student-organizations\/>. The cyber-related ones include the CompTIA Student Chapter, the Computer Security Association, Online Cyber Security Alliance, and Women in Cybersecurity at UTSA. You can click on those links to find out more about the organization and how to join! We'll post these in Blackboard under FAQs soon too. Thanks for asking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1674694789.623309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "avJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M8MADT4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": There is more than one cybersecurity club on campus. This site lists all of the organizations in our college: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/business.utsa.edu\/student-success\/student-organizations\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The cyber-related ones include the CompTIA Student Chapter, the Computer Security Association, Online Cyber Security Alliance, and Women in Cybersecurity at UTSA. You can click on those links to find out more about the organization and how to join! We'll post these in Blackboard under FAQs soon too. Thanks for asking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/business.utsa.edu\/student-success\/student-organizations\/",
+                "service_icon": "https:\/\/business.utsa.edu\/wp-content\/uploads\/2017\/10\/cropped-Rowdy_favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/business.utsa.edu\/student-success\/student-organizations\/",
+                "fallback": "UTSA Business: Student Organizations - UTSA Business",
+                "text": "The UTSA Carlos Alvarez College of Business has numerous student organizations available for you to participate in.",
+                "title": "Student Organizations - UTSA Business",
+                "title_link": "https:\/\/business.utsa.edu\/student-success\/student-organizations\/",
+                "service_name": "UTSA Business",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1674692350.489239",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "client_msg_id": "B331D6F3-804A-4410-BE5C-B4085A6890B6",
+        "type": "message",
+        "text": "Thank you very much for the clarification <@U04GV2EK7UP> !",
+        "user": "U04M8MADT4Y",
+        "ts": "1674695043.528289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fhVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much for the clarification "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674692350.489239",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06E336B5-B250-4F1E-912F-EBB4FD2D2D6B",
+        "type": "message",
+        "text": "Just to follow-up on the previous comment. Followed the links provided by Professor Mitra, joined\/applied for the CompTIA Student Chapter and Computer Security Association. I would encourage anyone else interested to follow those links and also look at their respective Discord’s for more information on how to join and the verification process. :white_check_mark: ",
+        "user": "U04M8MADT4Y",
+        "ts": "1674699934.394299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lw\/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to follow-up on the previous comment. Followed the links provided by Professor Mitra, joined\/applied for the CompTIA Student Chapter and Computer Security Association"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I would encourage anyone else interested to follow those links and also look at their respective Discord’s for more information on how to join and the verification process"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JVCE8GA1",
+                    "U04LKPR4741"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

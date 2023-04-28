@@ -1,0 +1,1382 @@
+[
+    {
+        "type": "message",
+        "text": "Here is a screenshot of my slack profile.",
+        "files": [
+            {
+                "id": "F04L2SJV7DG",
+                "created": 1674476675,
+                "timestamp": 1674476675,
+                "name": "slack profile screenshot.png",
+                "title": "slack profile screenshot.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LFE5H3LZ",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 23241,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L2SJV7DG\/slack_profile_screenshot.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L2SJV7DG\/download\/slack_profile_screenshot.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L2SJV7DG-f916910cec\/slack_profile_screenshot_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L2SJV7DG-f916910cec\/slack_profile_screenshot_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L2SJV7DG-f916910cec\/slack_profile_screenshot_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 273,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L2SJV7DG-f916910cec\/slack_profile_screenshot_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 363,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L2SJV7DG-f916910cec\/slack_profile_screenshot_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 396,
+                "original_h": 523,
+                "thumb_tiny": "AwAwACTQfagLnPHvUf2pP7rU+4\/1LfSq1ugeT5ugGcUATfak\/utTo51kbaAQfekmiQxkgAEDORUFt\/rh9DQBdooooAjuP9S30qvDHJkOvy+5qw7IwKk\/XilDqTgH9KAI5EldcZXHt3qKBSs+GGDg1cxTSuXDdxQA6igHPSigBp69\/wAjRn3P5Ggj2\/WgD2x+NACg\/wCcUtISewzS0AFFFFAH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LFE5H3LZ\/F04L2SJV7DG\/slack_profile_screenshot.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L2SJV7DG-5bc1602209",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LFE5H3LZ",
+        "display_as_bot": false,
+        "ts": "1674476691.203239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a screenshot of my slack profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "79a90fb0-208c-4a2f-89a3-0d86cfdf4b4f"
+    },
+    {
+        "client_msg_id": "5ba42674-df18-48fd-83e3-035d45a1c3ce",
+        "type": "message",
+        "text": "For each breakpoint we should provide a summary of what we did or the purpose?",
+        "user": "U04KSUAPWTX",
+        "ts": "1674497529.933429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Afut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For each breakpoint we should provide a summary of what we did or the purpose?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gca620be0cb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca620be0cb9df371f08d086090b30502.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Salas",
+            "display_name": "Manuel Salas",
+            "team": "T04HC2CMNJ0",
+            "name": "manuel.salas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674497529.933429",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1674498192.462819",
+        "reply_users": [
+            "U04KEJUNAJG",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KEJUNAJG",
+                "ts": "1674497631.592159"
+            },
+            {
+                "user": "U04KEJUNAJG",
+                "ts": "1674497666.614199"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674498192.462819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674498192.462819"
+    },
+    {
+        "client_msg_id": "30f1916d-fd8c-4db1-80e1-dc01b36bdc9e",
+        "type": "message",
+        "text": "for some breakpoints there is no need to describe what you did especially in lab-00, it's just getting acquainted to the process of completing a lab, but in lab-01 for example you'll need to provide descriptions at the different breakpoints along with the screenshot and the caption",
+        "user": "U04KEJUNAJG",
+        "ts": "1674497631.592159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f557F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for some breakpoints there is no need to describe what you did especially in lab-00, it's just getting acquainted to the process of completing a lab, but in lab-01 for example you'll need to provide descriptions at the different breakpoints along with the screenshot and the caption"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674497529.933429",
+        "parent_user_id": "U04KSUAPWTX"
+    },
+    {
+        "client_msg_id": "bc14874d-e507-429d-9f9e-93bec9ed2920",
+        "type": "message",
+        "text": "lab-01 will also be more specific with what it's asking for since its the first curriculum lab",
+        "user": "U04KEJUNAJG",
+        "ts": "1674497666.614199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FvQZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lab-01 will also be more specific with what it's asking for since its the first curriculum lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674497529.933429",
+        "parent_user_id": "U04KSUAPWTX"
+    },
+    {
+        "client_msg_id": "d75d26a4-0412-4874-8947-362e4d12429d",
+        "type": "message",
+        "text": "Yes, Lab 01 will be more specific, as Nathanael mentioned. Just note that Lab 00 is practice for the other labs, so be sure and include some written text for each screenshot, and above each screenshot, to get into the habit of doing so.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674498192.462819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, Lab 01 will be more specific, as Nathanael mentioned. Just note that Lab 00 is practice for the other labs, so be sure and include some written text for each screenshot, and above each screenshot, to get into the habit of doing so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1674498203.000000"
+        },
+        "thread_ts": "1674497529.933429",
+        "parent_user_id": "U04KSUAPWTX"
+    },
+    {
+        "type": "message",
+        "text": "Hey guys this is my profile, I wish you all a great semester!",
+        "files": [
+            {
+                "id": "F04L5J8HDCJ",
+                "created": 1674502314,
+                "timestamp": 1674502314,
+                "name": "slack screensjot.png",
+                "title": "slack screensjot.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KQUEQTAT",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 548628,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L5J8HDCJ\/slack_screensjot.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L5J8HDCJ\/download\/slack_screensjot.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 233,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 311,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 467,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 519,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 622,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L5J8HDCJ-b5a1e7724c\/slack_screensjot_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 664,
+                "thumb_1024_h": 1024,
+                "original_w": 752,
+                "original_h": 1160,
+                "thumb_tiny": "AwAwAB+gVGM7h9KTFSRAZORwBVxYlfBG0D0xzQBn4p2flI4wfarJURsVOD3BxVeT75xQA+3UM5BPGKs2zphQeSpIyKrQMqsd\/Qj0p6FInJVzg9sGn0EtGTXAGRtwMVTkGHPerT3COACQAOwFVZCGckdKS2H1FDNjq2B70m9v7zfnQD9PypCfp+VMBKKXAx1pKQH\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KQUEQTAT\/F04L5J8HDCJ\/slack_screensjot.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L5J8HDCJ-8d061c10bd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KQUEQTAT",
+        "display_as_bot": false,
+        "ts": "1674502367.984539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OdK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys this is my profile, I wish you all a great semester!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "338e6e23-67db-4433-a049-938091793cf4"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1674504774.700399",
+        "thread_ts": "1674504774.700399",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674504918.911459",
+        "reply_users": [
+            "U04K42C14HM"
+        ],
+        "replies": [
+            {
+                "user": "U04K42C14HM",
+                "ts": "1674504918.911459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "79e1f769-83ca-41a2-a2e2-000cbf9f7ffb",
+        "type": "message",
+        "text": "Blackboard.\n<https:\/\/utsa.blackboard.com\/webapps\/assignment\/uploadAssignment?content_id=_8390028_1&amp;course_id=_241522_1&amp;group_id=&amp;mode=view>",
+        "user": "U04K42C14HM",
+        "ts": "1674504918.911459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHpLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blackboard.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.blackboard.com\/webapps\/assignment\/uploadAssignment?content_id=_8390028_1&course_id=_241522_1&group_id=&mode=view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674504774.700399",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "f4114f8c-ae7b-413e-8ce5-8b8898a41643",
+        "type": "message",
+        "text": "For Breakpoint 04, do you want us to also list the hard drive space we have on our PC? For the specifications it lists that we may need 100GB or more of free space.",
+        "user": "U04K42C14HM",
+        "ts": "1674505030.326569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "42KN+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For Breakpoint 04, do you want us to also list the hard drive space we have on our PC? For the specifications it lists that we may need 100GB or more of free space."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674505030.326569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674510805.227099",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674510805.227099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674510805.227099"
+    },
+    {
+        "client_msg_id": "c22d933b-694e-46b4-8fad-df40ec78d766",
+        "type": "message",
+        "text": "Hi Joshua: Great question! We did not ask for hard drive space. But this is an important point. For this class, we did not stipulate hard drive space, but sometimes, folks do run out of space when installing software, and need to move some of their files to another location. It's good to be aware of your hard drive space, and just as importantly, how much free space you currently have. You need 25 GB for the virtual machine installation in Lab 01, for example.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674510805.227099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8pS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Joshua: Great question! We did not ask for hard drive space. But this is an important point. For this class, we did not stipulate hard drive space, but sometimes, folks do run out of space when installing software, and need to move some of their files to another location. It's good to be aware of your hard drive space, and just as importantly, how much free space you currently have. You need 25 GB for the virtual machine installation in Lab 01, for example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674505030.326569",
+        "parent_user_id": "U04K42C14HM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04K42C14HM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "A Screenshot of my Slack profile! Hope everyone is having a great day!",
+        "files": [
+            {
+                "id": "F04KZQ48HE2",
+                "created": 1674510997,
+                "timestamp": 1674510997,
+                "name": "Screenshot (1).png",
+                "title": "Screenshot (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KHKZCJDV",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 57821,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KZQ48HE2\/screenshot__1_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KZQ48HE2\/download\/screenshot__1_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 218,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 291,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 436,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZQ48HE2-f34eff4ff3\/screenshot__1__800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 484,
+                "thumb_800_h": 800,
+                "original_w": 575,
+                "original_h": 950,
+                "thumb_tiny": "AwAwAB3S285yfpTJJUjOG6+gqQ1UuY8vuDL9CcUEybS0LKsrqGXkU7FRQLsjxkHvxUtA1sRyt8pCMobpyelVfIYn7yE\/71XP4v8A69LuHt+dAnFMqxwSo4YY9+at5oooGlYQj6\/nQBSEcnr+dA49aBign0xS0A0UAf\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHKZCJDV\/F04KZQ48HE2\/screenshot__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04KZQ48HE2-f985ff6fa0",
+                "alt_txt": "Slack Profile Screenshot",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KHKZCJDV",
+        "display_as_bot": false,
+        "ts": "1674511051.915539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Screenshot of my Slack profile! Hope everyone is having a great day!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9b70bba3-f3db-475f-9eb4-d22944c32a4a"
+    },
+    {
+        "type": "message",
+        "text": "Here's a screenshot of my Slack profile. Look forward to working with everyone!",
+        "files": [
+            {
+                "id": "F04LK4JLJ01",
+                "created": 1674512224,
+                "timestamp": 1674512224,
+                "name": "Slack Profile.png",
+                "title": "Slack Profile.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L6C14UHG",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 20955,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LK4JLJ01\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LK4JLJ01\/download\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LK4JLJ01-87f7b06d87\/slack_profile_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LK4JLJ01-87f7b06d87\/slack_profile_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LK4JLJ01-87f7b06d87\/slack_profile_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 249,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LK4JLJ01-87f7b06d87\/slack_profile_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 332,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LK4JLJ01-87f7b06d87\/slack_profile_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 379,
+                "original_h": 548,
+                "thumb_tiny": "AwAwACHSxg53H6UuaDVe5lZMBeCe9NK4m7K5YzRVW2mZmKsc8ZBq0KGrAndXCiiikMDVWeSJvlOSR3FTSHcrKCwPrtNQLa7uj\/muKqNupEr7IIJIUP8AECe5q0ORVb7Gf7\/6VPEhiTaTnnjiiVugRutGPoooqSxuOf8A61O59aaR7ClA9hmgBaKTnPtS0AFFJRQB\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6C14UHG\/F04LK4JLJ01\/slack_profile.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LK4JLJ01-94c73e45c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L6C14UHG",
+        "display_as_bot": false,
+        "ts": "1674512278.132249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v08l2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a screenshot of my Slack profile. Look forward to working with everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3fcc2920-ccf9-4e5b-80c3-1974e131ee5d"
+    },
+    {
+        "type": "message",
+        "text": "HEY GUYS! here is my screenshot of my profile!",
+        "files": [
+            {
+                "id": "F04KZTK0DDL",
+                "created": 1674512386,
+                "timestamp": 1674512386,
+                "name": "SLACK PROFILE PICTURE.png",
+                "title": "SLACK PROFILE PICTURE.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LBTRNFT3",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 793882,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KZTK0DDL\/slack_profile_picture.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KZTK0DDL\/download\/slack_profile_picture.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 246,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 328,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 492,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1170,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 656,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KZTK0DDL-33fb839a03\/slack_profile_picture_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 700,
+                "thumb_1024_h": 1024,
+                "original_w": 979,
+                "original_h": 1432,
+                "thumb_tiny": "AwAwACCgVGM7gfakxUkQBfnpirIVFH3AT6UAUsU4HAPTkY6VcZVKf6sKR7VVlxv4GKACL7\/4VaU4y3SqsZG\/5jgVKZFORuoAsNhwce1U5hiQjOasLLGufnB6VXnYNKSpyKAE3ttGCRikLFurE0D8KQ\/h+FACUUuOOv4UlAH\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LBTRNFT3\/F04KZTK0DDL\/slack_profile_picture.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04KZTK0DDL-7419af92fa",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LBTRNFT3",
+        "display_as_bot": false,
+        "ts": "1674512428.827659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byJ7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEY GUYS! here is my screenshot of my profile!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "89c53a32-cdeb-4ef7-95f0-ecfc9a586836"
+    },
+    {
+        "client_msg_id": "a372a1d1-cdaf-4478-afe4-965df514bbd5",
+        "type": "message",
+        "text": "Hello, so on the lab template just to be clear is a reference. I need to start with a blank sheet and follow the pdf instructions and transfer the break point to the word doc. is how I am understanding this.",
+        "user": "U04L4KYU5A7",
+        "ts": "1674515303.137269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilo+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, so on the lab template just to be clear is a reference. I need to start with a blank sheet and follow the pdf instructions and transfer the break point to the word doc. is how I am understanding this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "aabec8c57ae9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4670279652535_aabec8c57ae9cddfd292_72.jpg",
+            "first_name": "Armando",
+            "real_name": "Armando Sifuentes",
+            "display_name": "Armando Sifuentes",
+            "team": "T04HC2CMNJ0",
+            "name": "armando.sifuentes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674249876.792289",
+        "parent_user_id": "U04L3P6AAGH"
+    },
+    {
+        "client_msg_id": "f54562f5-0ae3-49f6-a3c0-1a14367a4ada",
+        "type": "message",
+        "text": "<@U04L4KYU5A7> Yes, you are using the template as a reference for the format of the lab. However, it might be easier to save a copy of the template to edit than to start  in a new document.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1674515498.958839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jdGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04L4KYU5A7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, you are using the template as a reference for the format of the lab. However, it might be easier to save a copy of the template to edit than to start  in a new document."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674249876.792289",
+        "parent_user_id": "U04L3P6AAGH",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12b1c08e-3627-4c4d-9015-6e3db98cff1c",
+        "type": "message",
+        "text": "<@U04KKRC0ZRA>, thanks for clarifying that for me and it makes perfect sense to make a copy.",
+        "user": "U04L4KYU5A7",
+        "ts": "1674515677.461159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0N0Oz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks for clarifying that for me and it makes perfect sense to make a copy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "aabec8c57ae9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4670279652535_aabec8c57ae9cddfd292_72.jpg",
+            "first_name": "Armando",
+            "real_name": "Armando Sifuentes",
+            "display_name": "Armando Sifuentes",
+            "team": "T04HC2CMNJ0",
+            "name": "armando.sifuentes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674249876.792289",
+        "parent_user_id": "U04L3P6AAGH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hello everyone! Here is a picture of my Slack profile.",
+        "files": [
+            {
+                "id": "F04LWKL7G5N",
+                "created": 1674519353,
+                "timestamp": 1674519353,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L6LX8TFV",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 35655,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LWKL7G5N\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LWKL7G5N\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWKL7G5N-1e26c20397\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWKL7G5N-1e26c20397\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWKL7G5N-1e26c20397\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 205,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWKL7G5N-1e26c20397\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 273,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWKL7G5N-1e26c20397\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 393,
+                "original_h": 690,
+                "thumb_tiny": "AwAwABu5cTC2AYLu3HHWoVvnYErASB1INGpf6tPrS2s8S26gsFK9RVW0JvqLDe+bKqeXjPfNW6y7dg18GUYBYkCtSiSsNMhmRJWTcVKqckZp4KjhSv0FLxmlA+lSMiaBTMkgADA8+9TUUUANJHqfypRyKT86UfU0ALj3oHSiigD\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6LX8TFV\/F04LWKL7G5N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LWKL7G5N-3e54e166a3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L6LX8TFV",
+        "display_as_bot": false,
+        "ts": "1674519358.536619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0f8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! Here is a picture of my Slack profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "13c5db33-3909-4ab8-a363-aebefe953b32"
+    },
+    {
+        "client_msg_id": "64e418ea-fd15-435e-9e94-689ae4bd5ffe",
+        "type": "message",
+        "text": "If our computer meets all the requirements on the Alvarez Technology page, do we still write out when to address the differences?",
+        "user": "U04KUGYNGJJ",
+        "ts": "1674521588.216879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If our computer meets all the requirements on the Alvarez Technology page, do we still write out when to address the differences?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g603fc4df3f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/603fc4df3f8bbd25080bb9b7a4f86700.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Josie",
+            "real_name": "Josie DeLaVega",
+            "display_name": "Josie DeLaVega",
+            "team": "T04HC2CMNJ0",
+            "name": "josie.delavega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674521588.216879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674524755.230749",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KUGYNGJJ"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674521791.390539"
+            },
+            {
+                "user": "U04KUGYNGJJ",
+                "ts": "1674524755.230749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674524755.230749"
+    },
+    {
+        "client_msg_id": "c77a96e5-7c8f-4556-91fe-400b4ced977b",
+        "type": "message",
+        "text": "Hi Josie: If your specs are exactly the same, you would state as much. If your specs *exceed* the requirements, then yes, I would note the differences as well. Good question!",
+        "user": "U04GV2EK7UP",
+        "ts": "1674521791.390539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Josie: If your specs are exactly the same, you would state as much. If your specs "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exceed",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the requirements, then yes, I would note the differences as well. Good question!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674521588.216879",
+        "parent_user_id": "U04KUGYNGJJ"
+    },
+    {
+        "type": "message",
+        "text": "Hey everyone! This is my Slack profile!:slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F04KSGAAR7Z",
+                "created": 1674521802,
+                "timestamp": 1674521802,
+                "name": "2023-01-23.png",
+                "title": "2023-01-23.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L6TCKKFU",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 45475,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KSGAAR7Z\/2023-01-23.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04KSGAAR7Z\/download\/2023-01-23.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 260,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 346,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 520,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04KSGAAR7Z-7aa47c3e7c\/2023-01-23_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 577,
+                "thumb_800_h": 800,
+                "original_w": 599,
+                "original_h": 830,
+                "thumb_tiny": "AwAwACK+8agFsAADsoqH7RD\/AM8v0FWJP9U\/0NUbYAzDd6cUmy4pWuyb7RD\/AM8v0FPieKViojA4zyBSzgGFt3YcVBZ\/60\/7tK7uFk1ct+Wn9xfyo8tP7i\/lTqKogbJ\/qn+hqrFbEgM5I9AKsuT02ggj1o+b+4P++qTRSdiN4A4wXf8AE0y3jMc5B\/u8GrIHHIwfrRjnIHNFg5ugtFFFMkQ9f\/rUnHp+lKxA4JxTQy54bOfegB44opCM+tB4HNAC0UUUAf\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6TCKKFU\/F04KSGAAR7Z\/2023-01-23.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04KSGAAR7Z-61b2d5fe82",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L6TCKKFU",
+        "display_as_bot": false,
+        "ts": "1674521836.035509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! This is my Slack profile!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cd83575a-c629-4055-a01d-8f6713f777af"
+    },
+    {
+        "type": "message",
+        "text": "Hello everyone! This is a picture of my Slack profile!",
+        "files": [
+            {
+                "id": "F04LWPH0XHN",
+                "created": 1674522002,
+                "timestamp": 1674522002,
+                "name": "2023-01-23.jpg",
+                "title": "2023-01-23.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KSG1PJ5D",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 26384,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LWPH0XHN\/2023-01-23.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LWPH0XHN\/download\/2023-01-23.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWPH0XHN-8afa66d232\/2023-01-23_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWPH0XHN-8afa66d232\/2023-01-23_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWPH0XHN-8afa66d232\/2023-01-23_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 223,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWPH0XHN-8afa66d232\/2023-01-23_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 297,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LWPH0XHN-8afa66d232\/2023-01-23_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 392,
+                "original_h": 634,
+                "thumb_tiny": "AwAwAB2rDG07bBtGBnOKm+wP\/fX9abYf68\/7tasWNvvUNvmsh2VjL+wv\/fX9aq1tyY3HFYlEW3e4NFrThm4I\/wBmtUIorCDDH3VpCcnPT6VXKr3Fc3XQbSRWDRk+tFCSQXHA8Y4\/OkOPb8KUYx0X9aQ9eAPwpgBHuKKSloA\/\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KSG1PJ5D\/F04LWPH0XHN\/2023-01-23.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LWPH0XHN-376a95e76c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KSG1PJ5D",
+        "display_as_bot": false,
+        "ts": "1674522015.652819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! This is a picture of my Slack profile!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "52200dfa-b4f8-4116-be7b-a4d93054ee56"
+    },
+    {
+        "client_msg_id": "b6ebc1d0-a3fa-414d-8ecd-62a0c3e00c89",
+        "type": "message",
+        "text": "thank you!",
+        "user": "U04KUGYNGJJ",
+        "ts": "1674524755.230749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpAMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g603fc4df3f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/603fc4df3f8bbd25080bb9b7a4f86700.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Josie",
+            "real_name": "Josie DeLaVega",
+            "display_name": "Josie DeLaVega",
+            "team": "T04HC2CMNJ0",
+            "name": "josie.delavega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674521588.216879",
+        "parent_user_id": "U04KUGYNGJJ"
+    },
+    {
+        "type": "message",
+        "text": "Hello everyone! I'm not sure why my screenshot came out super bright!",
+        "files": [
+            {
+                "id": "F04L0M3ACQN",
+                "created": 1674526904,
+                "timestamp": 1674526904,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L0J8L52S",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 122707,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L0M3ACQN\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04L0M3ACQN\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0M3ACQN-458cc689ab\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0M3ACQN-458cc689ab\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0M3ACQN-458cc689ab\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 235,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0M3ACQN-458cc689ab\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 313,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04L0M3ACQN-458cc689ab\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 317,
+                "original_h": 486,
+                "thumb_tiny": "AwAwAB+O1iSSMllyc1ZW1hP\/ACzX9aowzPGhC4x15FWLqQ744g5UHkkUrMYC0VpCBxyeDyBTL6FItmwYznNRmXyH\/cvkA9TzmpL1y8ULH+IE0AQRKWBAGTUt7tEiAgE4ycccelNhlaJCFZOeeeopJmMzBmaMEDHFMQ0hZpgsKbc9iamugVihU\/wgjNV1YxuGU5Ip80zTAbtvHpQBGPqKM0oPH3sUEnPDZpgNopSB6\/pSUgP\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L0J8L52S\/F04L0M3ACQN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04L0M3ACQN-6de14ea09e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L0J8L52S",
+        "display_as_bot": false,
+        "ts": "1674526923.883289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQkfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! I'm not sure why my screenshot came out super bright!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7df1dca5-ff49-42df-ba9d-0a2958b58574"
+    },
+    {
+        "client_msg_id": "f0bdcc53-b5a1-4310-8196-6d461b813142",
+        "type": "message",
+        "text": "The spelling errors on editor are only for the reference url link and company name, Ookla for the speed test, do I select to ignore it or add to dictionary?",
+        "user": "U04KUGYNGJJ",
+        "ts": "1674531114.065339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6lHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The spelling errors on editor are only for the reference url link and company name, Ookla for the speed test, do I select to ignore it or add to dictionary?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g603fc4df3f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/603fc4df3f8bbd25080bb9b7a4f86700.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Josie",
+            "real_name": "Josie DeLaVega",
+            "display_name": "Josie DeLaVega",
+            "team": "T04HC2CMNJ0",
+            "name": "josie.delavega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KUGYNGJJ",
+            "ts": "1674531663.000000"
+        },
+        "thread_ts": "1674531114.065339",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674602563.332679",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KUGYNGJJ"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674566900.628269"
+            },
+            {
+                "user": "U04KUGYNGJJ",
+                "ts": "1674602563.332679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674602563.332679"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "01121052-08f6-4b68-87d3-5b1daa079efe",
+        "type": "message",
+        "text": "Here's my tip that I just found out and thought I'd share with you all. If you get an unwanted spam text message, copy the message and forward it to 7726 (SPAM). This helps your wireless provider spot and block similar messages in the future.\n\nP.s. We should have a tip channel so these are all in one place.",
+        "user": "U04K42C14HM",
+        "ts": "1676062596.441159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NXgmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's my tip that I just found out and thought I'd share with you all. If you get an unwanted spam text message, copy the message and forward it to 7726 (SPAM). This helps your wireless provider spot and block similar messages in the future.\n\nP.s. We should have a tip channel so these are all in one place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04K42C14HM",
+            "ts": "1676062652.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04KMTVDCQ4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

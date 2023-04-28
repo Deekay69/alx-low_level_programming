@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "b20ab42a-8d2e-4cf5-962c-fa6c40ab1aa1",
+        "type": "message",
+        "text": "Study tip: If you are looking to study for the CompTIA Sec+ SY0-601, or just want some additional information about some of the concepts covered in this course, check out Professor Messer on Youtube. I am going to attempt Sec+ plus towards the end of this semester and have found his videos to be quite helpful. Here is a link to the Sec+ training he offers (free): <https:\/\/www.youtube.com\/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8>",
+        "user": "U04KAHHNJ1M",
+        "ts": "1676235662.391389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Study tip: If you are looking to study for the CompTIA Sec+ SY0-601, or just want some additional information about some of the concepts covered in this course, check out Professor Messer on Youtube. I am going to attempt Sec+ plus towards the end of this semester and have found his videos to be quite helpful. Here is a link to the Sec+ training he offers (free): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ge40ab1eb2ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e40ab1eb2ac1c0f7961cda817eae8199.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Wood",
+            "display_name": "Seth Wood",
+            "team": "T04HC2CMNJ0",
+            "name": "seth.wood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9NE33fpQuw8\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCiodkZb0fPLQD7E-lUwAsKtjlgDA&days_since_epoch=19400",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/5191a190\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8",
+                "fallback": "YouTube: CompTIA Security+ SY0-601 Training Course",
+                "text": "This is the official playlist of my SY0-601 Security+ Training Course. Every minute of every course video is available in this playlist.",
+                "title": "CompTIA Security+ SY0-601 Training Course",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8",
+                "service_name": "YouTube"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7V1MBK2",
+                    "U04JYA33E9Z",
+                    "U04K4P9URDM",
+                    "U04KMTVDCQ4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U04L7E54R41"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ebb0029-c960-4f17-b920-3ce230b54777",
+        "type": "message",
+        "text": "I am a Sec+ certified and I can guarantee that you will pass if you watch those... Just merge onto those on a daily basis and look for reference over the internet for specifics that you may not understand. Professor Messer is one of the many best great source out there... Good luck to you! :+1:",
+        "user": "U04K4P9URDM",
+        "ts": "1676236022.038749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am a Sec+ certified and I can guarantee that you will pass if you watch those... Just merge onto those on a daily basis and look for reference over the internet for specifics that you may not understand. Professor Messer is one of the many best great source out there... Good luck to you! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L7E54R41",
+                    "U04KMTVDCQ4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8FAD4BEF-2623-4A1E-BAAB-EED9FA02714C",
+        "type": "message",
+        "text": "How is the test formulated? And is it timed ",
+        "user": "U04L7V1MBK2",
+        "ts": "1676236071.931559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How is the test formulated? And is it timed "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04K4P9URDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81f664d9-084f-4628-b0c6-891587a23044",
+        "type": "message",
+        "text": "Thanks Joel. I've been covering a few videos per day and working in sections from the CompTIA Sec+ app. I'm fairly confident I'll be ready before too long.",
+        "user": "U04KAHHNJ1M",
+        "ts": "1676236144.030089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9KH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Joel. I've been covering a few videos per day and working in sections from the CompTIA Sec+ app. I'm fairly confident I'll be ready before too long."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ge40ab1eb2ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e40ab1eb2ac1c0f7961cda817eae8199.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Wood",
+            "display_name": "Seth Wood",
+            "team": "T04HC2CMNJ0",
+            "name": "seth.wood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04K4P9URDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34f96d62-4b9d-4dbf-a57d-af4c61ec5233",
+        "type": "message",
+        "text": "80 questions.. and it is timed... 1 1\/2 hr...",
+        "user": "U04K4P9URDM",
+        "ts": "1676236149.189019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MbtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "80 questions.. and it is timed... 1 1\/2 hr..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KAHHNJ1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

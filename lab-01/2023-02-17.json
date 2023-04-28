@@ -1,0 +1,883 @@
+[
+    {
+        "client_msg_id": "cc53b00c-0d11-43cc-81f6-f3954fa5ddb7",
+        "type": "message",
+        "text": "Yes, I believe that you are only supposed to have one System.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676637252.252069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I believe that you are only supposed to have one System."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676620641.758899",
+        "parent_user_id": "U04KWBZE1D3"
+    },
+    {
+        "client_msg_id": "7a2eaa2f-893e-411b-bcb3-83c34a17393e",
+        "type": "message",
+        "text": "I was wondering if any one knows how to make the VirtualBox window that our virtual machine is running in bigger. I looked online and all I found was how to make it full screen which makes it bigger but I don't want it that big. Thanks in advance if you are able to help out!!",
+        "user": "U04MLHUREV6",
+        "ts": "1676646233.988449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was wondering if any one knows how to make the VirtualBox window that our virtual machine is running in bigger. I looked online and all I found was how to make it full screen which makes it bigger but I don't want it that big. Thanks in advance if you are able to help out!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0bec47905aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4696393212455_0bec47905aae70c77c51_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Kyle Mekan",
+            "display_name": "Brandon Kyle Mekan",
+            "team": "T04HC2CMNJ0",
+            "name": "brandon.mekan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676646233.988449",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676648179.873979",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04MLHUREV6"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1676646527.037599"
+            },
+            {
+                "user": "U04MLHUREV6",
+                "ts": "1676648179.873979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a8fc450f-d6d6-4d31-b467-f4e284213bcb",
+        "type": "message",
+        "text": "Hey Brandon! I found this article online which can help, as per the instructions you can also adjust the screen size. <https:\/\/www.nakivo.com\/blog\/make-virtualbox-full-screen\/>",
+        "user": "U04KCMLDMPE",
+        "ts": "1676646527.037599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1+nX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Brandon! I found this article online which can help, as per the instructions you can also adjust the screen size. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nakivo.com\/blog\/make-virtualbox-full-screen\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.nakivo.com\/blog\/wp-content\/uploads\/2019\/07\/How-to-make-VirtualBox-full-screen.png",
+                "image_width": 1154,
+                "image_height": 649,
+                "image_bytes": 84980,
+                "from_url": "https:\/\/www.nakivo.com\/blog\/make-virtualbox-full-screen\/",
+                "service_icon": "https:\/\/www.nakivo.com\/favicon.ico",
+                "ts": 1670671741,
+                "id": 1,
+                "original_url": "https:\/\/www.nakivo.com\/blog\/make-virtualbox-full-screen\/",
+                "fallback": "Official NAKIVO Blog: Make VirtualBox Full Screen for Windows, macOS, Linux",
+                "text": "Working in a guest OS using low resolution is not comfortable. Read this blog post to learn how to make VirtualBox full screen for Windows, macOS, Linux.",
+                "title": "Make VirtualBox Full Screen for Windows, macOS, Linux",
+                "title_link": "https:\/\/www.nakivo.com\/blog\/make-virtualbox-full-screen\/",
+                "service_name": "Official NAKIVO Blog",
+                "fields": [
+                    {
+                        "value": "Michael Bose",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "10 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1676646233.988449",
+        "parent_user_id": "U04MLHUREV6",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3573e533-1145-4157-a19c-fbdae00d6de2",
+        "type": "message",
+        "text": "I didn't realize that it will resize itself when you drag to make it bigger after you complete step 7 I thought you had to do something special. Thanks for the speedy reply!!",
+        "user": "U04MLHUREV6",
+        "ts": "1676648179.873979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't realize that it will resize itself when you drag to make it bigger after you complete step 7 I thought you had to do something special. Thanks for the speedy reply!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0bec47905aae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4696393212455_0bec47905aae70c77c51_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Kyle Mekan",
+            "display_name": "Brandon Kyle Mekan",
+            "team": "T04HC2CMNJ0",
+            "name": "brandon.mekan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676646233.988449",
+        "parent_user_id": "U04MLHUREV6",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e17a7e2c-1a9e-4666-a213-eef627dd75a8",
+        "type": "message",
+        "text": "I verified by BIOS settings by searching Task Manager and finding performance and opening the CPU tab to make sure that Virtualization was enabled.",
+        "user": "U04KL98EXC6",
+        "ts": "1676653890.030379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified by BIOS settings by searching Task Manager and finding performance and opening the CPU tab to make sure that Virtualization was enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "36c594de3370",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4685571605697_36c594de33708f9b4bfa_72.jpg",
+            "first_name": "Jordan",
+            "real_name": "Jordan deBonoPaula",
+            "display_name": "Jordan deBonoPaula",
+            "team": "T04HC2CMNJ0",
+            "name": "jordan.debonopaula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "99dfc92a-551a-4956-a83d-fb2d538599a1",
+        "type": "message",
+        "text": "sounds good, was making sure if I was only supposed to have 1",
+        "user": "U04KWBZE1D3",
+        "ts": "1676657193.402769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fb0tz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds good, was making sure if I was only supposed to have 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c1e5ff7151a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4679248787683_c1e5ff7151a92d0654b2_72.jpg",
+            "first_name": "Ameer",
+            "real_name": "Ameer Nahas",
+            "display_name": "Ameer Nahas",
+            "team": "T04HC2CMNJ0",
+            "name": "ameer.nahas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676620641.758899",
+        "parent_user_id": "U04KWBZE1D3"
+    },
+    {
+        "client_msg_id": "b8c32128-2124-4356-b30b-fc249afb4d1c",
+        "type": "message",
+        "text": "Hi Ameer: Yes, you are only implementing one virtual machine for this class. But you may have several others by the time you take more classes. :slightly_smiling_face:",
+        "user": "U04GV2EK7UP",
+        "ts": "1676657413.819069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bo+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ameer: Yes, you are only implementing one virtual machine for this class. But you may have several others by the time you take more classes. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676620641.758899",
+        "parent_user_id": "U04KWBZE1D3"
+    },
+    {
+        "type": "message",
+        "text": "For me to be able to verify if my machine (host) was ready for me to set up a guest machine, I searched \"Task Manager\" in the search bar. Task Manager app appeared, and from there I went into the performance tab which showed me if my CPU was enabled for virtualization.",
+        "files": [
+            {
+                "id": "F04QWBC3YBS",
+                "created": 1676659806,
+                "timestamp": 1676659806,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L6TSL2GK",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 62519,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QWBC3YBS\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QWBC3YBS\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 317,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 422,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 633,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QWBC3YBS-026aa5aae9\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 704,
+                "original_w": 822,
+                "original_h": 723,
+                "thumb_tiny": "AwAqADC+eBk\/ypQ3bIoKjHb8aVVHoPwoAN2e44pQfUijFLigBMj1FGR6ilooAaenrThTT064pR9aADNGaT16UoPrigBc0maQfWlFAC4BpAAOlLgelGB6UANwfbFLgegpaKAEAxQoxS0UAf\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6TSL2GK\/F04QWBC3YBS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QWBC3YBS-6b8b3017e4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L6TSL2GK",
+        "display_as_bot": false,
+        "ts": "1676660254.583059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/RH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For me to be able to verify if my machine (host) was ready for me to set up a guest machine, I searched \"Task Manager\" in the search bar. Task Manager app appeared, and from there I went into the performance tab which showed me if my CPU was enabled for virtualization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "45e3175e-d5d0-450f-b5fa-a328c351f0b9"
+    },
+    {
+        "client_msg_id": "E47C3192-3854-4E24-9496-AB61265F9211",
+        "type": "message",
+        "text": "Is anyone else having trouble trying to screenshot their full screen Linux machine? I am on Windows 11 and can’t seem to screenshot unless i am clicked off of the virtual machine.",
+        "user": "U04KPDMMGHL",
+        "ts": "1676673006.606109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Irn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone else having trouble trying to screenshot their full screen Linux machine? I am on Windows 11 and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seem to screenshot unless i am clicked off of the virtual machine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gaf5ca40e6c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/af5ca40e6c39a6f8288cfd90adfb8b57.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Kyle",
+            "real_name": "Kyle Kotara",
+            "display_name": "Kyle Kotara",
+            "team": "T04HC2CMNJ0",
+            "name": "kyle.kotara2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673006.606109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676673543.970749",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KPDMMGHL"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676673191.586839"
+            },
+            {
+                "user": "U04KPDMMGHL",
+                "ts": "1676673543.970749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "70FE913C-0E6F-45F7-AC4D-06278EEC28DE",
+        "type": "message",
+        "text": "Yes",
+        "user": "U04KPDMMGHL",
+        "ts": "1676673103.261349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ew7cv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gaf5ca40e6c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/af5ca40e6c39a6f8288cfd90adfb8b57.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Kyle",
+            "real_name": "Kyle Kotara",
+            "display_name": "Kyle Kotara",
+            "team": "T04HC2CMNJ0",
+            "name": "kyle.kotara2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "903ef5f6-247e-4063-a736-ce4a2afad93b",
+        "type": "message",
+        "text": "Try using the snipping tool. When using the virtual machine, your keyboard may not register in the host machine.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676673191.586839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try using the snipping tool. When using the virtual machine, your keyboard may not register in the host machine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673006.606109",
+        "parent_user_id": "U04KPDMMGHL",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "310C961C-D96E-477C-9D04-6AC41F94127E",
+        "type": "message",
+        "text": "Okay that worked. Thank you!",
+        "user": "U04KPDMMGHL",
+        "ts": "1676673543.970749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZ4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay that worked. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gaf5ca40e6c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/af5ca40e6c39a6f8288cfd90adfb8b57.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Kyle",
+            "real_name": "Kyle Kotara",
+            "display_name": "Kyle Kotara",
+            "team": "T04HC2CMNJ0",
+            "name": "kyle.kotara2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673006.606109",
+        "parent_user_id": "U04KPDMMGHL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "340587e4-cb64-4acc-923c-50b3d64aedc3",
+        "type": "message",
+        "text": "I'm currently on Step 3 and have downloaded VirtualBox but am having issues with the OS. Precaution 3 says to import through VirtualBox instead of downloading....but I'd have to download Ubuntu in order to have a file to import correct?",
+        "user": "U04KCLBBHDF",
+        "ts": "1676673796.711129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E63Gk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm currently on Step 3 and have downloaded VirtualBox but am having issues with the OS. Precaution 3 says to import through VirtualBox instead of downloading....but I'd have to download Ubuntu in order to have a file to import correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e90f1eb0c974",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-15\/4645941237331_e90f1eb0c97477c8d7fe_72.png",
+            "first_name": "Lauren",
+            "real_name": "Lauren Mahnke",
+            "display_name": "Lauren Mahnke",
+            "team": "T04HC2CMNJ0",
+            "name": "lauren.mahnke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673796.711129",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1677042715.539689",
+        "reply_users": [
+            "U04KCLBBHDF",
+            "U04GV2EK7UP",
+            "U04M1P4M6R1"
+        ],
+        "replies": [
+            {
+                "user": "U04KCLBBHDF",
+                "ts": "1676674604.381329"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676677704.381919"
+            },
+            {
+                "user": "U04KCLBBHDF",
+                "ts": "1676743757.825249"
+            },
+            {
+                "user": "U04M1P4M6R1",
+                "ts": "1677042715.539689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677042715.539689"
+    },
+    {
+        "client_msg_id": "c8668ae9-27e1-41b6-a3e5-cecff25f0acf",
+        "type": "message",
+        "text": "To download or not to download....that is the question! :joy:",
+        "user": "U04KCLBBHDF",
+        "ts": "1676674604.381329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/gDnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To download or not to download....that is the question! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e90f1eb0c974",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-15\/4645941237331_e90f1eb0c97477c8d7fe_72.png",
+            "first_name": "Lauren",
+            "real_name": "Lauren Mahnke",
+            "display_name": "Lauren Mahnke",
+            "team": "T04HC2CMNJ0",
+            "name": "lauren.mahnke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673796.711129",
+        "parent_user_id": "U04KCLBBHDF",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d3620d3-d69c-4c97-9cca-e2adfe45a02d",
+        "type": "message",
+        "text": "Yes, you do need to download the file first. But you do not want to execute the file on your physical (host) machine. You will select the downloaded file *only* from within VirtualBox.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676677704.381919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you do need to download the file first. But you do not want to execute the file on your physical (host) machine. You will select the downloaded file "
+                            },
+                            {
+                                "type": "text",
+                                "text": "only",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from within VirtualBox."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676673796.711129",
+        "parent_user_id": "U04KCLBBHDF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KCLBBHDF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I was able to find my enabled virtualizing status by using my windows tasks manager in the performance tab.",
+        "files": [
+            {
+                "id": "F04QXTCLP6C",
+                "created": 1676686609,
+                "timestamp": 1676686609,
+                "name": "2023-02-17 (3).png",
+                "title": "2023-02-17 (3).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 16088,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QXTCLP6C\/2023-02-17__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QXTCLP6C\/download\/2023-02-17__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QXTCLP6C-d9f9b3ddd2\/2023-02-17__3__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QXTCLP6C-d9f9b3ddd2\/2023-02-17__3__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QXTCLP6C-d9f9b3ddd2\/2023-02-17__3__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 156,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QXTCLP6C-d9f9b3ddd2\/2023-02-17__3__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 209,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QXTCLP6C-d9f9b3ddd2\/2023-02-17__3__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 582,
+                "original_h": 253,
+                "thumb_tiny": "AwAUADDQ5zx+tO\/KmHr\/AJ\/wpVx36\/SgBSDg9KTLDsPypzfdNNCk84Gf8+1AACx7D8qdj6ULnuaWgCIn5jUifdFRn7xp6fcFACt901GOTjtUj\/dNRr96gCWiiigD\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04QXTCLP6C\/2023-02-17__3_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QXTCLP6C-1e9f9c68ee",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676686623.335179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was able to find my enabled virtualizing status by using my windows tasks manager in the performance tab."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ebd0b921-1355-4ae9-8b97-f059f60d426b"
+    }
+]

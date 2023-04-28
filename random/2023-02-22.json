@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "3f071e9e-1da6-4b2e-bf49-cefbc28fbae5",
+        "type": "message",
+        "text": "I am not sure how well known this tip is, but I just found out that clicking 'Windows' + arrow keys allows you to move around, full-size, minimize, and lock windows in different areas of the monitor. This came in really handy for me when I needed multiple tabs open at the same time.",
+        "user": "U04KAPRTGDV",
+        "ts": "1677129932.231649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure how well known this tip is, but I just found out that clicking 'Windows' + arrow keys allows you to move around, full-size, minimize, and lock windows in different areas of the monitor. This came in really handy for me when I needed multiple tabs open at the same time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gea51126cbd9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea51126cbd92256a46bfb3de5e52f0ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Kim",
+            "display_name": "Jennifer Kim",
+            "team": "T04HC2CMNJ0",
+            "name": "jennifer.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KSUAPWTX",
+                    "U04M20JS7D0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

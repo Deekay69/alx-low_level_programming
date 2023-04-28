@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673712861.725329",
+        "user": "U04JVCE8GA1",
+        "text": "<@U04JVCE8GA1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673717673.058919",
+        "user": "U04JYA33E9Z",
+        "text": "<@U04JYA33E9Z> has joined the channel"
+    }
+]

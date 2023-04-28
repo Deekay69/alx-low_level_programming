@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "text": "Hi all: Happy Friday! The attached flyer in an invitation to meet *Core4CE* on *Thursday, March 30*, for a lunch chat. In addition, they will be conducting *on-site interviews* on *Friday, March 31*. You can register on Handshake. Here’s a preview of the Handshake description: <https:\/\/utsa.joinhandshake.com\/jobs\/7631332\/share_preview>. Please sign up for an interview if you feel you meet the requirements!  Here is an overview of Core4CE's work: <https:\/\/www.core4ce.com\/our-work\/>.",
+        "files": [
+            {
+                "id": "F0507JU0CF6",
+                "created": 1679663685,
+                "timestamp": 1679663685,
+                "name": "Meet and Eat with Core4ce - Mar 30.pdf",
+                "title": "Meet and Eat with Core4ce - Mar 30.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 113236,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F0507JU0CF6\/meet_and_eat_with_core4ce_-_mar_30.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F0507JU0CF6\/download\/meet_and_eat_with_core4ce_-_mar_30.pdf?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F0507JU0CF6-43bcde9516\/meet_and_eat_with_core4ce_-_mar_30_thumb_pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F0507JU0CF6\/meet_and_eat_with_core4ce_-_mar_30.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F0507JU0CF6-3356310c39",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1679663715.032579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7x2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: Happy Friday! The attached flyer in an invitation to meet "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Core4CE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thursday, March 30",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", for a lunch chat. In addition, they will be conducting "
+                            },
+                            {
+                                "type": "text",
+                                "text": "on-site interviews",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Friday, March 31",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". You can register on Handshake. Here’s a preview of the Handshake description: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.joinhandshake.com\/jobs\/7631332\/share_preview"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please sign up for an interview if you feel you meet the requirements!  Here is an overview of Core4CE's work: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.core4ce.com\/our-work\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a3ab69e7-ea64-4933-affc-8ec0070f66fc",
+        "attachments": [
+            {
+                "from_url": "https:\/\/utsa.joinhandshake.com\/jobs\/7631332\/share_preview",
+                "thumb_url": "https:\/\/handshake-production-cdn.joinhandshake.com\/static_assets\/default_institution_1.png",
+                "thumb_width": 60,
+                "thumb_height": 59,
+                "id": 1,
+                "original_url": "https:\/\/utsa.joinhandshake.com\/jobs\/7631332\/share_preview",
+                "fallback": "Handshake: Cybersecurity Intern | Handshake",
+                "text": "The Intern students will gain real-world work experience in their academic field. During the summer months, interns will engage in two challenging projects. The first is developing a framework to stand up a Center of Excellence. The second involves a research project regarding the future of...",
+                "title": "Cybersecurity Intern | Handshake",
+                "title_link": "https:\/\/utsa.joinhandshake.com\/jobs\/7631332\/share_preview",
+                "service_name": "Handshake"
+            }
+        ]
+    }
+]

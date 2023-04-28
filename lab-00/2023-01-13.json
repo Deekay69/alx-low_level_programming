@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673631516.072279",
+        "user": "U04GV2EK7UP",
+        "text": "<@U04GV2EK7UP> has joined the channel",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L0KXP63G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

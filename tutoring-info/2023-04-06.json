@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "C726A2D5-EA61-4568-992A-566CEB7D69BB",
+        "type": "message",
+        "text": "Hi everyone! :) I will be having new tutoring hours and days for the remaining of the semester.\nZoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09>\nMonday: 12-4 PM (Zoom\/Slack)\nTuesday: 6-8 PM (the HUB BB 3.02.26\/Zoom\/Slack)\nSaturday: 3-6 PM (Zoom\/Slack)",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1680819322.332229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5DR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! :) I will be having new tutoring hours and days for the remaining of the semester.\nZoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMonday: 12-4 PM (Zoom\/Slack)\nTuesday: 6-8 PM (the HUB BB 3.02.26\/Zoom\/Slack)\nSaturday: 3-6 PM (Zoom\/Slack)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

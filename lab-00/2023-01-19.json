@@ -1,0 +1,374 @@
+[
+    {
+        "client_msg_id": "cda74428-37c9-490b-80c4-e72ea264af73",
+        "type": "message",
+        "text": "Hi David-Jeremiah: For the Introduction, provide a brief two to three sentence introduction to what the lab covers, in your mind. For each step in the lab instructions, you will provide the information in the breakpoint associated with it. This header is simply meant as a placeholder for that process, and you can substitute the relevant step number and title.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674127431.867469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi David-Jeremiah: For the Introduction, provide a brief two to three sentence introduction to what the lab covers, in your mind. For each step in the lab instructions, you will provide the information in the breakpoint associated with it. This header is simply meant as a placeholder for that process, and you can substitute the relevant step number and title."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674096809.227689",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KHN8U3FC",
+                    "U04MS21RZQR",
+                    "U04M8TJKPQE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "133644ff-4e5c-438b-89a0-8a71f24c3945",
+        "type": "message",
+        "text": "5. Be *specific* in your post with the issue, error messages, and solutions you’ve already tried.",
+        "user": "U04L7M890E4",
+        "ts": "1674153696.491889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5. Be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "specific",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in your post with the issue, error messages, and solutions you’ve already tried."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "4d4a92abb1ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4666508865524_4d4a92abb1efc7d48d5d_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Ortiz",
+            "display_name": "Alex Ortiz",
+            "team": "T04HC2CMNJ0",
+            "name": "alexandria.ortiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ED1692CB-2484-4097-9843-9FA2B6BF68F0",
+        "type": "message",
+        "text": "Is there a lab we can follow? So I can get an idea as to how to formulate this? I’m still kind of lost ",
+        "user": "U04L7V1MBK2",
+        "ts": "1674153938.241459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8LH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a lab we can follow? So I can get an idea as to how to formulate this? I’m still kind of lost "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674153938.241459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674181311.562129",
+        "reply_users": [
+            "U04L7M890E4",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04L7M890E4",
+                "ts": "1674154146.502859"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1674181311.562129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674181311.562129"
+    },
+    {
+        "client_msg_id": "4e6c2cbd-31a8-4d0e-9c75-b378a2621554",
+        "type": "message",
+        "text": "Do you mean like an example? She sent out an email this morning and linked a refurbished lab sheet. I’ve been a little lost too. Lab 00 is due on the 31st though, so i was going to attend the Zoom meeting on Monday.",
+        "user": "U04L7M890E4",
+        "ts": "1674154146.502859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICSQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you mean like an example? She sent out an email this morning and linked a refurbished lab sheet. I’ve been a little lost too. Lab 00 is due on the 31st though, so i was going to attend the Zoom meeting on Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "4d4a92abb1ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4666508865524_4d4a92abb1efc7d48d5d_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Ortiz",
+            "display_name": "Alex Ortiz",
+            "team": "T04HC2CMNJ0",
+            "name": "alexandria.ortiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674153938.241459",
+        "parent_user_id": "U04L7V1MBK2"
+    },
+    {
+        "client_msg_id": "acbc917b-2480-494f-a729-bf81aa8fd6fa",
+        "type": "message",
+        "text": "8. Respond to those who have attempted to assist you with a “*thank you*” :pray:.",
+        "user": "U04L441HZ8R",
+        "ts": "1674171325.134159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uRyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8. Respond to those who have attempted to assist you with a “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "thank you",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "510ccaca70fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4671454699491_510ccaca70fb88bd035a_72.jpg",
+            "first_name": "Gabriella",
+            "real_name": "Gabriella Gomez",
+            "display_name": "Gabriella Gomez",
+            "team": "T04HC2CMNJ0",
+            "name": "gabriella.gomez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04L7E54R41",
+                    "U04LBC31GTC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "052a306d-4761-48c9-85e0-81eacf56416d",
+        "type": "message",
+        "text": "Hi Mariana: I recommend that you use the actual instructions as a template, as they walk through the steps one by one. And then simply write up the breakpoints in the Process section of the template that is provided. On other words, your final lab report will actually look similar to the lab instructions, except that it will include your work, not mine :slightly_smiling_face:.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674181311.562129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=dz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mariana: I recommend that you use the actual instructions as a template, as they walk through the steps one by one. And then simply write up the breakpoints in the Process section of the template that is provided. On other words, your final lab report will actually look similar to the lab instructions, except that it will include your work, not mine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674153938.241459",
+        "parent_user_id": "U04L7V1MBK2",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKA31SG2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45ce17dc-dcec-456c-85da-38b8e396f6cc",
+        "type": "message",
+        "text": "Lots of great posts here! Just a note that you'll need to include your chosen guidelines and your Slack profile within your lab report as well.",
+        "user": "U04GV2EK7UP",
+        "ts": "1674181349.535859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lots of great posts here! Just a note that you'll need to include your chosen guidelines and your Slack profile within your lab report as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04L7M890E4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

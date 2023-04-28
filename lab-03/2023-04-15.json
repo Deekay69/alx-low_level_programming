@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "eba9ba40-6882-4fb4-b419-cfd94ff8168a",
+        "type": "message",
+        "text": "When using nano you will need to navigate using the arrow keys. If that doesn't help feel free to reach out and we can try to figure it out.",
+        "user": "U04KPRUQ78T",
+        "ts": "1681598925.694379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JnZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When using nano you will need to navigate using the arrow keys. If that doesn't help feel free to reach out and we can try to figure it out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g514ffa83e89",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/514ffa83e89ef78e087e70aea337b7ff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Benavidez",
+            "display_name": "Jose Benavidez",
+            "team": "T04HC2CMNJ0",
+            "name": "jose.benavidez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681433701.103679",
+        "parent_user_id": "U04LHTWAT1U",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe0023ab-86c8-482e-8d1c-525f2077aba4",
+        "type": "message",
+        "text": "Nano functions a lot like a .txt file, but a little harder to navigate like Jose mentioned :)",
+        "user": "U04KSDYV8DQ",
+        "ts": "1681600552.048429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nano functions a lot like a .txt file, but a little harder to navigate like Jose mentioned :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681433701.103679",
+        "parent_user_id": "U04LHTWAT1U"
+    }
+]

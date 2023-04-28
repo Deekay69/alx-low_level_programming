@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "45fb4f2c-b6cf-4916-b23b-942f210c8160",
+        "type": "message",
+        "text": "<https:\/\/www.iqcomputing.com\/support\/articles\/ping-not-recognized-on-windows-10\/> Try following these directions and this may solve your issue <@U04LFPZJAFN>",
+        "user": "U04MB9BPJN4",
+        "ts": "1675919252.270459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.iqcomputing.com\/support\/articles\/ping-not-recognized-on-windows-10\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Try following these directions and this may solve your issue "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04LFPZJAFN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "0413b1a16192",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4695038699990_0413b1a16192d1db3a72_72.jpg",
+            "first_name": "Erik",
+            "real_name": "Erik Hurtado",
+            "display_name": "Erik Hurtado",
+            "team": "T04HC2CMNJ0",
+            "name": "erik.hurtado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.iqcomputing.com\/support\/articles\/ping-not-recognized-on-windows-10\/",
+                "service_icon": "https:\/\/www.iqcomputing.com\/wp-content\/uploads\/files\/2016\/cropped-favicon-flat-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.iqcomputing.com\/support\/articles\/ping-not-recognized-on-windows-10\/",
+                "fallback": "IQComputing: Ping Not Recognized on Windows 10 - IQComputing",
+                "text": "If you happen to run into a scenario when using the ping utility in which a normal DOS command prompt results in either of the following errors, there’s a fix for that! ‘ping’ is not recognized as an internal or external command operable program or batch file ‘ipconfig’ is not recognized as an internal or […]",
+                "title": "Ping Not Recognized on Windows 10 - IQComputing",
+                "title_link": "https:\/\/www.iqcomputing.com\/support\/articles\/ping-not-recognized-on-windows-10\/",
+                "service_name": "IQComputing",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1675815704.234999",
+        "parent_user_id": "U04LFPZJAFN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LFPZJAFN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

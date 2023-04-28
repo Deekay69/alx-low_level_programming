@@ -1,0 +1,191 @@
+[
+    {
+        "client_msg_id": "32a4d574-dff2-4c77-bd85-074a354114fb",
+        "type": "message",
+        "text": "The instructions say to include the number and title associated with our podcast episode in the subject heading of our post. I chose a podcast from the Darknet Diaries. Is the number we are supposed to include the podcast ID, ID, Episode number, or something else?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675031969.674739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The instructions say to include the number and title associated with our podcast episode in the subject heading of our post. I chose a podcast from the Darknet Diaries. Is the number we are supposed to include the podcast ID, ID, Episode number, or something else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675031969.674739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675034629.932959",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675034542.678919"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1675034629.932959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675034629.932959"
+    },
+    {
+        "client_msg_id": "48306516-36f5-4aa8-ae76-240e700bed9f",
+        "type": "message",
+        "text": "Hi <@U04KKRC0ZRA>: The podcast and the episode number and title in the subject heading would be great, as is *Darknet Diaries: Episode 131 \"Welcome to Video\"*. Thanks for asking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1675034542.678919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xz9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": The podcast and the episode number and title in the subject heading would be great, as is"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Darknet Diaries: Episode 131 \"Welcome to Video\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thanks for asking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675031969.674739",
+        "parent_user_id": "U04KKRC0ZRA",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b34af7dd-4b24-48c1-8f49-ba80d7177ece",
+        "type": "message",
+        "text": "Thank you <@U04GV2EK7UP> for the clarification. :grin:",
+        "user": "U04KKRC0ZRA",
+        "ts": "1675034629.932959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the clarification. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675031969.674739",
+        "parent_user_id": "U04KKRC0ZRA",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

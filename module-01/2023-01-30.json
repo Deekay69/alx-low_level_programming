@@ -1,0 +1,594 @@
+[
+    {
+        "client_msg_id": "41b2045a-3092-44d5-88ad-108f997b62e4",
+        "type": "message",
+        "text": "Yeah I always manually save my answers just to be safe.",
+        "user": "U04KS2EFYR1",
+        "ts": "1675107244.286389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5xBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I always manually save my answers just to be safe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g50961e72c10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50961e72c10f4931ad17b00956eef92d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Esgar",
+            "real_name": "Esgar Castro",
+            "display_name": "Castro",
+            "team": "T04HC2CMNJ0",
+            "name": "esgar.castro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674606786.810559",
+        "parent_user_id": "U04KXUSD00Z"
+    },
+    {
+        "client_msg_id": "882e5433-0b7d-4430-86b4-22b7d39c2492",
+        "type": "message",
+        "text": "An IP address is assigned in order for data to have a destination when sent over, correct? So my iPhone is assigned an IP by AT&amp;T for messages and other data to move. Also sites have an IP so that the computer can direct to sites like googles network? I am kind of confused about IP addresses so does my understanding look correct?",
+        "user": "U04KSUAPWTX",
+        "ts": "1675126152.933009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bv9bo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An IP address is assigned in order for data to have a destination when sent over, correct? So my iPhone is assigned an IP by AT&T for messages and other data to move. Also sites have an IP so that the computer can direct to sites like googles network? I am kind of confused about IP addresses so does my understanding look correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gca620be0cb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca620be0cb9df371f08d086090b30502.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Salas",
+            "display_name": "Manuel Salas",
+            "team": "T04HC2CMNJ0",
+            "name": "manuel.salas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1675132067.696009",
+        "reply_users": [
+            "U04JWGYC9JT",
+            "U04GV2EK7UP",
+            "U04KSUAPWTX",
+            "U04K4P9URDM"
+        ],
+        "replies": [
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1675126344.378989"
+            },
+            {
+                "user": "U04JWGYC9JT",
+                "ts": "1675126449.523499"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675126596.158169"
+            },
+            {
+                "user": "U04KSUAPWTX",
+                "ts": "1675126658.817299"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675126760.577419"
+            },
+            {
+                "user": "U04K4P9URDM",
+                "ts": "1675129706.569149"
+            },
+            {
+                "user": "U04K4P9URDM",
+                "ts": "1675129718.432929"
+            },
+            {
+                "user": "U04KSUAPWTX",
+                "ts": "1675132067.696009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675132067.696009"
+    },
+    {
+        "client_msg_id": "22caefc8-4868-4e99-85d7-442ba0b36196",
+        "type": "message",
+        "text": "Think of an IP Address like your house address. The Internet is UPS. And every website has a house address aswell.",
+        "user": "U04JWGYC9JT",
+        "ts": "1675126344.378989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1BGCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Think of an IP Address like your house address. The Internet is UPS. And every website has a house address aswell."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KSUAPWTX",
+                    "U04JYA33E9Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f695e89-9f72-4ceb-a428-f2127f75cd0a",
+        "type": "message",
+        "text": "If that makes any sense.",
+        "user": "U04JWGYC9JT",
+        "ts": "1675126449.523499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Bm=N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If that makes any sense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX"
+    },
+    {
+        "client_msg_id": "571b0131-d0c0-4dcc-8ee9-d85abab7ac88",
+        "type": "message",
+        "text": "Hi <@U04KSUAPWTX>: Yes, that's essentially correct! And thanks for your example, <@U04JWGYC9JT>! An IP address (IP standing for Internet Protocol) is a label assigned to each device to identify, locate, and transfer data from\/to that device on a network. Each IP address, in IPv4, consists of four numbers, with four octets (each octet is a number from 0-255) separated by a dot.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675126596.158169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KSUAPWTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Yes, that's essentially correct! And thanks for your example, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! An IP address (IP standing for Internet Protocol) is a label assigned to each device to identify, locate, and transfer data from\/to that device on a network. Each IP address, in IPv4, consists of four numbers, with four octets (each octet is a number from 0-255) separated by a dot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1675126941.000000"
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KSUAPWTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77cfe548-6a22-4194-b2fc-cb0ffda8e601",
+        "type": "message",
+        "text": "Thank you so much <@U04JWGYC9JT> and <@U04GV2EK7UP>.",
+        "user": "U04KSUAPWTX",
+        "ts": "1675126658.817299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JWGYC9JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gca620be0cb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca620be0cb9df371f08d086090b30502.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Salas",
+            "display_name": "Manuel Salas",
+            "team": "T04HC2CMNJ0",
+            "name": "manuel.salas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdd51787-d823-4cc6-8c50-205741d87988",
+        "type": "message",
+        "text": "As an easy exercise, you can find your public-facing IP address (IPv4 and IPv6) by entering <https:\/\/www.whatismyip.com\/> into your browser.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675126760.577419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUxgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As an easy exercise, you can find your public-facing IP address (IPv4 and IPv6) by entering "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.whatismyip.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " into your browser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.whatismyip.com\/",
+                "service_icon": "https:\/\/www.whatismyip.com\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.whatismyip.com\/",
+                "fallback": "WhatIsMyIP.com®: What Is My IP? Shows Your Public IP Address - IPv4 - IPv6",
+                "text": "See the IP address assigned to your device. Show my IP city, state, and country. What Is An IP Address? IPv4, IPv6, public IP explained.",
+                "title": "What Is My IP? Shows Your Public IP Address - IPv4 - IPv6",
+                "title_link": "https:\/\/www.whatismyip.com\/",
+                "service_name": "WhatIsMyIP.com®",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX"
+    },
+    {
+        "client_msg_id": "b5366d4e-6e9b-4b65-b45f-d4565949d752",
+        "type": "message",
+        "text": "<@U04KSUAPWTX> Check this video.. I think it goes too deep into IP Address, but at least it will give some foundation. Don't mean to confuse you more with this video, but as for me I follow this guy on Youtube and he is awesome in many ways... Check it out but if you feel is confusing you more, please discard the video.",
+        "user": "U04K4P9URDM",
+        "ts": "1675129706.569149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6WfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KSUAPWTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Check this video.. I think it goes too deep into IP Address, but at least it will give some foundation. Don't mean to confuse you more with this video, but as for me I follow this guy on Youtube and he is awesome in many ways... Check it out but if you feel is confusing you more, please discard the video."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KSUAPWTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b16556ba-aafd-4348-a687-47983d7994e7",
+        "type": "message",
+        "text": "<@U04KSUAPWTX> <https:\/\/www.youtube.com\/watch?v=5WfiTHiU4x8>",
+        "user": "U04K4P9URDM",
+        "ts": "1675129718.432929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KSUAPWTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5WfiTHiU4x8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ebe8daf2269b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4667815351828_ebe8daf2269b499f3b97_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Barbosa Perez",
+            "display_name": "Joel Barbosa Perez",
+            "team": "T04HC2CMNJ0",
+            "name": "joel.barbosaperez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5WfiTHiU4x8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5WfiTHiU4x8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5WfiTHiU4x8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"what is an IP Address? \/\/ You SUCK at Subnetting \/\/ EP 1\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5WfiTHiU4x8",
+                "fallback": "YouTube Video: what is an IP Address? \/\/ You SUCK at Subnetting \/\/ EP 1",
+                "title": "what is an IP Address? \/\/ You SUCK at Subnetting \/\/ EP 1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5WfiTHiU4x8",
+                "author_name": "NetworkChuck",
+                "author_link": "https:\/\/www.youtube.com\/@NetworkChuck",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KSUAPWTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b210d350-6768-4832-9418-4b2acc826fe8",
+        "type": "message",
+        "text": "Thank you <@U04K4P9URDM>",
+        "user": "U04KSUAPWTX",
+        "ts": "1675132067.696009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhgHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04K4P9URDM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gca620be0cb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca620be0cb9df371f08d086090b30502.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Salas",
+            "display_name": "Manuel Salas",
+            "team": "T04HC2CMNJ0",
+            "name": "manuel.salas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675126152.933009",
+        "parent_user_id": "U04KSUAPWTX"
+    }
+]

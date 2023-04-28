@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "C57ED74B-67BB-4CBF-B5C4-D2A06392747B",
+        "type": "message",
+        "text": "Currently working on the PSA however I’m concerned I may not have the right idea. Is it one page, with a couple hundred words and maybe a big picture in the middle to attract attention? I just don’t want to get a bad grade but submitting the wrong idea.",
+        "user": "U04K9S07JRM",
+        "ts": "1680218729.505029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Currently working on the PSA however "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " concerned I may not have the right idea. Is it one page, with a couple hundred words and maybe a big picture in the middle to attract attention? I just "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to get a bad grade but submitting the wrong idea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gd10808a2d09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d10808a2d093de0ba01beba82b322e5a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Ramon",
+            "real_name": "Ramon Aguinaga",
+            "display_name": "Ramon Aguinaga",
+            "team": "T04HC2CMNJ0",
+            "name": "ramon.aguinaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680218729.505029",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680219571.966869",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04K9S07JRM"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1680219487.636789"
+            },
+            {
+                "user": "U04K9S07JRM",
+                "ts": "1680219571.966869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1132f541-8fdc-4ec8-9270-08502254e87d",
+        "type": "message",
+        "text": "This thread might help <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&amp;cid=C04JVJH1R34|https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&amp;cid=C04JVJH1R34>",
+        "user": "U04KKRC0ZRA",
+        "ts": "1680219487.636789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UHQK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This thread might help "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&cid=C04JVJH1R34",
+                                "text": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&cid=C04JVJH1R34"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&amp;cid=C04JVJH1R34",
+                "ts": "1677722100.020999",
+                "author_id": "U04LBN6DEKT",
+                "channel_id": "C04JVJH1R34",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "module-05",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04JVJH1R34",
+                        "ts": "1677722100.020999",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "wDs",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "For the PSA, is there any examples that I could view to gain a better understanding of what a one-page PSA would look like, and gain an visual idea for myself?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVJH1R34\/p1677722100020999?thread_ts=1677722100.020999&amp;cid=C04JVJH1R34",
+                "fallback": "[March 1st, 2023 5:55 PM] ethan.vancuso: For the PSA, is there any examples that I could view to gain a better understanding of what a one-page PSA would look like, and gain an visual idea for myself?",
+                "text": "For the PSA, is there any examples that I could view to gain a better understanding of what a one-page PSA would look like, and gain an visual idea for myself?",
+                "author_name": "Ethan C. Vancuso",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04LBN6DEKT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-01-21\/4672537797686_08ce9bd9ca97d64cfe08_48.jpg",
+                "author_subname": "Ethan C. Vancuso",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #module-05"
+            }
+        ],
+        "thread_ts": "1680218729.505029",
+        "parent_user_id": "U04K9S07JRM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04K9S07JRM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17E2E3C9-9E6B-4FBC-A525-5689633E6419",
+        "type": "message",
+        "text": "Very much helped, and exactly what I was thinking thank you so much!",
+        "user": "U04K9S07JRM",
+        "ts": "1680219571.966869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DeD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very much helped, and exactly what I was thinking thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gd10808a2d09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d10808a2d093de0ba01beba82b322e5a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Ramon",
+            "real_name": "Ramon Aguinaga",
+            "display_name": "Ramon Aguinaga",
+            "team": "T04HC2CMNJ0",
+            "name": "ramon.aguinaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680218729.505029",
+        "parent_user_id": "U04K9S07JRM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

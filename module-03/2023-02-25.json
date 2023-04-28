@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "5a4759df-7001-4a57-ac03-617ffabebdca",
+        "type": "message",
+        "text": "Hi all: Since there is no activity on this channel as of yet, I am confirming that Module 03 is on the agenda this week! In this module, you'll look at how data is represented in binary, hex, octal, decimal, and ASCII, and also review basic data types (characters, integers, floats, etc.) and operators (+, -, *, &amp;&amp;, ||, etc.).\n\nHere is a cheat sheet that helps you check your conversions between decimal, binary, octal, and hex: <https:\/\/www.eecis.udel.edu\/~amer\/CISC651\/ASCII-Conversion-Chart.pdf|Decimal - Binary - Octal - Hex – ASCII Conversion Chart>.\n\nFor example, my first name in ASCII (Rita), converted to decimal, is 82 105 116 97, and converted to hex, is 52 69 74 61. Please free to provide your conversions on this channel as well!",
+        "user": "U04GV2EK7UP",
+        "ts": "1677348551.561319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: Since there is no activity on this channel as of yet, I am confirming that Module 03 is on the agenda this week! In this module, you'll look at how data is represented in binary, hex, octal, decimal, and ASCII, and also review basic data types (characters, integers, floats, etc.) and operators (+, -, *, &&, ||, etc.).\n\nHere is a cheat sheet that helps you check your conversions between decimal, binary, octal, and hex: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eecis.udel.edu\/~amer\/CISC651\/ASCII-Conversion-Chart.pdf",
+                                "text": "Decimal - Binary - Octal - Hex – ASCII Conversion Chart"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nFor example, my first name in ASCII (Rita), converted to decimal, is 82 105 116 97, and converted to hex, is 52 69 74 61. Please free to provide your conversions on this channel as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LY71MCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

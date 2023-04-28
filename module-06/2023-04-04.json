@@ -1,0 +1,339 @@
+[
+    {
+        "client_msg_id": "081cde90-d174-4a5c-8781-a3aa241c2300",
+        "type": "message",
+        "text": "Has anyone figured out how the upload works because the one-file doesn't work for me and I cant figure out the other option",
+        "user": "U04M4CUNWR2",
+        "ts": "1680633587.011489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Y2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone figured out how the upload works because the one-file doesn't work for me and I cant figure out the other option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g126115595a3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/126115595a337e4548114b618916d425.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Weston",
+            "real_name": "Weston Mckenzie",
+            "display_name": "Weston Mckenzie",
+            "team": "T04HC2CMNJ0",
+            "name": "weston.mckenzie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633587.011489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680636902.721309",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680636902.721309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680636902.721309"
+    },
+    {
+        "client_msg_id": "e02ad91a-64bf-4df0-a51d-32f4243dccaa",
+        "type": "message",
+        "text": "Hi Weston: Are you referring to OneDrive? Please click on *Upload* on the OneDrive page, then *Files,* and then a dialog box will open for you to upload your file.",
+        "user": "U04GV2EK7UP",
+        "ts": "1680636902.721309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NeqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Weston: Are you referring to OneDrive? Please click on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Upload",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the OneDrive page, then "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Files,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then a dialog box will open for you to upload your file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680633587.011489",
+        "parent_user_id": "U04M4CUNWR2"
+    },
+    {
+        "type": "message",
+        "text": "Hi all: To share your uploaded file with others, there are about three steps. First, select \"Share\" from the three dots in the middle column of your file column.\n\nThen, select *People in University t...t San Antonio*, *View*, and *Block Download*. Then copy the link. This is the link you will place in Blackboard, as a reply to your own initial post. You can say something like: Here is my PSA: &lt;link&gt;.",
+        "files": [
+            {
+                "id": "F051CQHE423",
+                "created": 1680636941,
+                "timestamp": 1680636941,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 7219,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051CQHE423\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051CQHE423\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 211,
+                "thumb_360_h": 141,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051CQHE423-90b6412764\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 211,
+                "original_h": 141,
+                "thumb_tiny": "AwAgADDRwfWlpaKAEopT044pAGzy2fwoAKKWigAzRmkxRtoAMg0Dj1pCuOnekx7frQA\/NGaZg+lOGaAP\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F051CQHE423\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F051CQHE423-ca32a0ed74",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F051VR2QT3N",
+                "created": 1680637073,
+                "timestamp": 1680637073,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 56948,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051VR2QT3N\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F051VR2QT3N\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 300,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 400,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F051VR2QT3N-d2f31d1b94\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 600,
+                "thumb_720_h": 720,
+                "original_w": 602,
+                "original_h": 723,
+                "thumb_tiny": "AwAwACfRw2e2PpSgHPJB\/CkwMn7tKMDpigBaKMj1ooAZL\/qjVWrMxHlsMjtVbI9aALZwe36UYHp+lBAJ5HTpSjjtQAYHpS4oooAjm\/1bVWq1N\/qmqr+FAFtgP8ilBo3L6j86Ny+o\/OiwC0jsEUsc4HoKbI52Hyypbtk0yN5MnzCmMcYNAhZGDQkjP5VXqxKwMR5H51X\/ABoGf\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F051VR2QT3N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F051VR2QT3N-dcfeabbf9e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "ts": "1680637179.098149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fWWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: To share your uploaded file with others, there are about three steps. First, select \"Share\" from the three dots in the middle column of your file column.\n\nThen, select "
+                            },
+                            {
+                                "type": "text",
+                                "text": "People in University t...t San Antonio",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "View",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Block Download",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Then copy the link. This is the link you will place in Blackboard, as a reply to your own initial post. You can say something like: Here is my PSA: <link>."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c92ad016-a277-45b0-8255-4d0be9bcdc6a",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04LY71MCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41FD1845-FF80-4E84-BB97-9642F032E2AD",
+        "type": "message",
+        "text": "Professor is there a way to delete a second thread because my first link didn’t show my PSA properly? If not I post a quote that stated it’s the wrong one and make a third thread for the correct link to my PSA.",
+        "user": "U04KHN8U3FC",
+        "ts": "1680675164.023529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eibl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Professor is there a way to delete a second thread because my first link "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " show my PSA properly? If not I post a quote that stated "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the wrong one and make a third thread for the correct link to my PSA."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680675164.023529",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680693981.008949",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1680693981.008949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680693981.008949"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "70CF8D36-9BC5-42B8-8F42-4569D149D9ED",
+        "type": "message",
+        "text": "For part 2 of module 6, can I post my PSA as a pdf file? ",
+        "user": "U04L7V1MBK2",
+        "ts": "1677775250.558709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ogqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For part 2 of module 6, can I post my PSA as a pdf file? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677775250.558709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677775502.675349",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677775502.675349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677775502.675349"
+    },
+    {
+        "client_msg_id": "50320315-386d-411f-9553-6950f5dbd0cf",
+        "type": "message",
+        "text": "A PDF is the appropriate file type, but we'd like you to practice providing \"read\" access through your OneDrive folder as part of the learning objective of this exercise. This is a common way to share files, and it also makes it easy for you to modify the file as needed and keep the same link. In addition, if someone posts a video or some other format, the link will still give the reviewer access. We won't have to deal with multiple file formats within Blackboard. I realize that this is a long answer (!) but want to explain why we are asking you to load your file this way.",
+        "user": "U04GV2EK7UP",
+        "ts": "1677775502.675349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cp9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A PDF is the appropriate file type, but we'd like you to practice providing \"read\" access through your OneDrive folder as part of the learning objective of this exercise. This is a common way to share files, and it also makes it easy for you to modify the file as needed and keep the same link. In addition, if someone posts a video or some other format, the link will still give the reviewer access. We won't have to deal with multiple file formats within Blackboard. I realize that this is a long answer (!) but want to explain why we are asking you to load your file this way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677775250.558709",
+        "parent_user_id": "U04L7V1MBK2"
+    }
+]

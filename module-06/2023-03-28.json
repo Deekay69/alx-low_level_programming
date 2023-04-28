@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "d3c18b6f-7abb-498c-abf2-db6b7bac1998",
+        "type": "message",
+        "text": "Thank you so much!!",
+        "user": "U04M1CWSQKS",
+        "ts": "1680019689.779279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gecffad32c17",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ecffad32c17920e3d09fcc3b6119fc4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Soohyun",
+            "real_name": "Soohyun Lee",
+            "display_name": "Soohyun Lee",
+            "team": "T04HC2CMNJ0",
+            "name": "soohyun.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679947883.609129",
+        "parent_user_id": "U04M1CWSQKS"
+    }
+]

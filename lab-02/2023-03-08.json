@@ -1,0 +1,314 @@
+[
+    {
+        "type": "message",
+        "text": "Question, I think I may have done something wrong under step 4.\nI'm at the part after we enter our SSH key to github, where we're suggested to pull the SSH link from our remote repo. I cannot find anywhere on github where it looks like the snip in our pdf. When I go into my repo on github it looks like the second image attached. Did I possibly mess up somewhere or will pulling the SSH link from here still work?",
+        "files": [
+            {
+                "id": "F04T2E3MV1A",
+                "created": 1678295696,
+                "timestamp": 1678295696,
+                "name": "Screenshot 2023-03-08 at 11-14-24 Lab-02_Versioning.pdf.png",
+                "title": "Screenshot 2023-03-08 at 11-14-24 Lab-02_Versioning.pdf.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04K42C14HM",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 26883,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04T2E3MV1A\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04T2E3MV1A\/download\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T2E3MV1A-7bd08a7fb8\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T2E3MV1A-7bd08a7fb8\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T2E3MV1A-7bd08a7fb8\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 259,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T2E3MV1A-7bd08a7fb8\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 379,
+                "original_h": 273,
+                "thumb_tiny": "AwAiADDTpCcD1ozg0cHpmgABOemKTcc\/dp1IR70AQySyK5Cx5HrTopJHYh02gDrUm33NAoFYDx3xSZ6fNSn60ceooGJn\/aFLuHqKPxFHHtQAuRRnPSk49qXigAwM9KTA9BS0UAJgegowPQUtFACYHoKMD0FLRQB\/\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04K42C14HM\/F04T2E3MV1A\/screenshot_2023-03-08_at_11-14-24_lab-02_versioning.pdf.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04T2E3MV1A-68c0bab44d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04SZSBQJ83",
+                "created": 1678295753,
+                "timestamp": 1678295753,
+                "name": "Screenshot 2023-03-08 at 11-15-39 Joshua-Baca_project-02.png",
+                "title": "Screenshot 2023-03-08 at 11-15-39 Joshua-Baca_project-02.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04K42C14HM",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 94443,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04SZSBQJ83\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04SZSBQJ83\/download\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 177,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 236,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 354,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 393,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 472,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04SZSBQJ83-0966a78864\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 504,
+                "original_w": 1718,
+                "original_h": 845,
+                "thumb_tiny": "AwAXADDPBpdo9abT\/wADTATaPWkxSn8aSgQuPekzRSUDCnZ+tNooAX86OaO1BoATNFFFAH\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04K42C14HM\/F04SZSBQJ83\/screenshot_2023-03-08_at_11-15-39_joshua-baca_project-02.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04SZSBQJ83-ea3ad9f540",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04K42C14HM",
+        "ts": "1678295826.641629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdZ6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question, I think I may have done something wrong under step 4.\nI'm at the part after we enter our SSH key to github, where we're suggested to pull the SSH link from our remote repo. I cannot find anywhere on github where it looks like the snip in our pdf. When I go into my repo on github it looks like the second image attached. Did I possibly mess up somewhere or will pulling the SSH link from here still work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7b2aa198-503d-4f5c-a18d-9801b4f4bdda",
+        "thread_ts": "1678295826.641629",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1678296999.708639",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KDSDECLC",
+            "U04K42C14HM"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678295980.785189"
+            },
+            {
+                "user": "U04KDSDECLC",
+                "ts": "1678296903.897559"
+            },
+            {
+                "user": "U04K42C14HM",
+                "ts": "1678296999.708639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "51c613b3-433a-478a-a2b4-426a9870209e",
+        "type": "message",
+        "text": "Hi <@U04K42C14HM> So far, I do not believe that you messed up. GitHub probably just updated since the instructions were made. Trying watching the video instructions because they are more recent and look more like the screenshot you have on the right.  What you are looking for starts at about minute 20 in the video instructions.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678295980.785189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04K42C14HM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " So far, I do not believe that you messed up. GitHub probably just updated since the instructions were made. Trying watching the video instructions because they are more recent and look more like the screenshot you have on the right.  What you are looking for starts at about minute 20 in the video instructions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1678296276.000000"
+        },
+        "thread_ts": "1678295826.641629",
+        "parent_user_id": "U04K42C14HM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04K42C14HM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d742194-7686-4f94-937c-abd025e3a793",
+        "type": "message",
+        "text": "Hey Joshua! It seems the reason your screen appears different is because you have a new repo with no code or content in it, which is why you don't have the green code button like the example from the instructions. Yet, you should be able to get the SSH link from this screen either way and it should work.",
+        "user": "U04KDSDECLC",
+        "ts": "1678296903.897559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bEY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Joshua! It seems the reason your screen appears different is because you have a new repo with no code or content in it, which is why you don't have the green code button like the example from the instructions. Yet, you should be able to get the SSH link from this screen either way and it should work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678295826.641629",
+        "parent_user_id": "U04K42C14HM",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04K42C14HM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c94546b-3324-43e1-b801-c7ce6777d1d3",
+        "type": "message",
+        "text": "Thank you! I was thinking it was possibly an update on the website, just didn't want to move forward without any confirmation.",
+        "user": "U04K42C14HM",
+        "ts": "1678296999.708639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2xy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! I was thinking it was possibly an update on the website, just didn't want to move forward without any confirmation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678295826.641629",
+        "parent_user_id": "U04K42C14HM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA",
+                    "U04KDSDECLC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

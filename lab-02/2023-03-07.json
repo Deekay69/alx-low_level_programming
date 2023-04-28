@@ -1,0 +1,375 @@
+[
+    {
+        "type": "message",
+        "text": "Anybody know how to fix this issue on the Blackboard? I've been getting this message since yesterday.",
+        "files": [
+            {
+                "id": "F04T6D8H29X",
+                "created": 1678215138,
+                "timestamp": 1678215138,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KAPRTGDV",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 422956,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04T6D8H29X\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04T6D8H29X\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 135,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 179,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 269,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 299,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 359,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04T6D8H29X-4c1c7cf4c0\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 383,
+                "original_w": 2842,
+                "original_h": 1062,
+                "thumb_tiny": "AwARADDQkJGMUisSaz9TZhcLtLgbP4fqapF5T\/FJQB0A+tLTIv8AUpn+6KfQAUEZGKKKACiiigAooooAKKKKAP\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KAPRTGDV\/F04T6D8H29X\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04T6D8H29X-e10a0a7649",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KAPRTGDV",
+        "display_as_bot": false,
+        "ts": "1678215152.228309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Gw=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody know how to fix this issue on the Blackboard? I've been getting this message since yesterday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ef38f64f-40b0-4f4d-9bbd-7b935cea15de",
+        "thread_ts": "1678215152.228309",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1678217560.205529",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04GV2EK7UP",
+            "U04KAPRTGDV"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1678215374.682789"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678216158.465469"
+            },
+            {
+                "user": "U04KAPRTGDV",
+                "ts": "1678217516.398239"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678217560.205529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678217560.205529"
+    },
+    {
+        "client_msg_id": "fad3bcf6-6630-42e5-b9ec-3c31a611adb4",
+        "type": "message",
+        "text": "Hey Jennifer! Did you try clicking request access? You could also logout of blackboard and try logging back in and check if it works. If is still does not work, feel free to hop into a peer mentor's zoom session and we can help you!",
+        "user": "U04KCMLDMPE",
+        "ts": "1678215374.682789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jennifer! Did you try clicking request access? You could also logout of blackboard and try logging back in and check if it works. If is still does not work, feel free to hop into a peer mentor's zoom session and we can help you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678215152.228309",
+        "parent_user_id": "U04KAPRTGDV"
+    },
+    {
+        "client_msg_id": "469e3fb5-efd8-445b-9c76-d60ea107b37d",
+        "type": "message",
+        "text": "Hi Jennifer and Aditya: I re-added access for Section 002. Can you try accessing it again?",
+        "user": "U04GV2EK7UP",
+        "ts": "1678216158.465469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yC41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Jennifer and Aditya: I re-added access for Section 002. Can you try accessing it again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678215152.228309",
+        "parent_user_id": "U04KAPRTGDV"
+    },
+    {
+        "client_msg_id": "93ecced3-14ca-4a7e-b8a2-321dc2766544",
+        "type": "message",
+        "text": "Its working now! Thank you so much Dr Mitra and Aditya. I really appreciate it!",
+        "user": "U04KAPRTGDV",
+        "ts": "1678217516.398239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its working now! Thank you so much Dr Mitra and Aditya. I really appreciate it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gea51126cbd9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea51126cbd92256a46bfb3de5e52f0ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jennifer",
+            "real_name": "Jennifer Kim",
+            "display_name": "Jennifer Kim",
+            "team": "T04HC2CMNJ0",
+            "name": "jennifer.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678215152.228309",
+        "parent_user_id": "U04KAPRTGDV"
+    },
+    {
+        "client_msg_id": "0804cf93-9eef-4510-b7f2-ce486bd51ca9",
+        "type": "message",
+        "text": "Thanks very much for pointing out the issue, <@U04KAPRTGDV>! I believe I had it set incorrectly.",
+        "user": "U04GV2EK7UP",
+        "ts": "1678217560.205529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CTdEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks very much for pointing out the issue, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KAPRTGDV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I believe I had it set incorrectly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678215152.228309",
+        "parent_user_id": "U04KAPRTGDV"
+    },
+    {
+        "client_msg_id": "5d6ee903-75e9-4c41-af9a-4d36a320fe7b",
+        "type": "message",
+        "text": "Do I use the github account I already have or set up a new one?",
+        "user": "U04L288QDJ4",
+        "ts": "1678233761.993239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUf7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do I use the github account I already have or set up a new one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678233761.993239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678233795.044919",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678233795.044919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678233795.044919"
+    },
+    {
+        "client_msg_id": "281e4e18-4558-4b01-b5e6-efb866499bb9",
+        "type": "message",
+        "text": "Hi Alyssa: You can use the account you already have. Thanks for asking!",
+        "user": "U04GV2EK7UP",
+        "ts": "1678233795.044919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRgVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alyssa: You can use the account you already have. Thanks for asking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678233761.993239",
+        "parent_user_id": "U04L288QDJ4"
+    }
+]

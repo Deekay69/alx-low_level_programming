@@ -1,0 +1,309 @@
+[
+    {
+        "type": "message",
+        "text": "Here is my profile.",
+        "files": [
+            {
+                "id": "F04N4796EGP",
+                "created": 1675815825,
+                "timestamp": 1675815825,
+                "name": "slack profile.png",
+                "title": "slack profile.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LFPZJAFN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 234592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N4796EGP\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N4796EGP\/download\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 197,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 263,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 395,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N4796EGP-5256415601\/slack_profile_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 439,
+                "thumb_800_h": 800,
+                "original_w": 511,
+                "original_h": 932,
+                "thumb_tiny": "AwAwABrRPy88k\/WopLlIsb+M1LI2xc1Rum3OCPSgaVy6km8AgcEZBpplIJGBxTbX5YUXv1pG+8frQIfMA42nPBz0qF7XzBwcY9qsnr0pRQBFHB5bA7s4GKa33j9asVXb7x+tADzNHn78Z\/4FSiaLHMif99CsVWCjBjU+5oLj\/nklAG150XaRP++hSb4D1eP\/AL6FYeMjoKQ8HnrQB\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LFPZJAFN\/F04N4796EGP\/slack_profile.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N4796EGP-fbba14e2b6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LFPZJAFN",
+        "display_as_bot": false,
+        "ts": "1675815854.657079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ev86h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is my profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c79b2f41-a218-4802-8430-510b4857b15b"
+    },
+    {
+        "client_msg_id": "27fbf0ba-7d23-484f-b3ab-fe64ef0bef03",
+        "type": "message",
+        "text": "I was just looking over my grades for this course and my LAB 00 assignment is missing entirely from the gradebook. It is also missing from the submitted section within the grades tab. I have an email confirming submission on January 30th. Is anyone else having this issue?",
+        "user": "U04KAHHNJ1M",
+        "ts": "1675819730.477539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was just looking over my grades for this course and my LAB 00 assignment is missing entirely from the gradebook. It is also missing from the submitted section within the grades tab. I have an email confirming submission on January 30th. Is anyone else having this issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ge40ab1eb2ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e40ab1eb2ac1c0f7961cda817eae8199.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Wood",
+            "display_name": "Seth Wood",
+            "team": "T04HC2CMNJ0",
+            "name": "seth.wood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675819730.477539",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1675874538.948949",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KAHHNJ1M",
+            "U04JVCE8GA1",
+            "U04L4KYU5A7"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675820222.921279"
+            },
+            {
+                "user": "U04KAHHNJ1M",
+                "ts": "1675821111.497589"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1675834309.351399"
+            },
+            {
+                "user": "U04L4KYU5A7",
+                "ts": "1675874538.948949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675874538.948949"
+    },
+    {
+        "client_msg_id": "743255f7-acf6-478d-b2fc-251cf81c4377",
+        "type": "message",
+        "text": "Hi <@U04KAHHNJ1M>: Please contact your instructor directly via email about any grade-related issues. They will be able to address your concern.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675820222.921279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KAHHNJ1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Please contact your instructor directly via email about any grade-related issues. They will be able to address your concern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675819730.477539",
+        "parent_user_id": "U04KAHHNJ1M"
+    },
+    {
+        "client_msg_id": "b1a22b6d-a24b-4024-9820-3205040329ef",
+        "type": "message",
+        "text": "Thanks Rita.",
+        "user": "U04KAHHNJ1M",
+        "ts": "1675821111.497589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Rita."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ge40ab1eb2ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e40ab1eb2ac1c0f7961cda817eae8199.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Wood",
+            "display_name": "Seth Wood",
+            "team": "T04HC2CMNJ0",
+            "name": "seth.wood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675819730.477539",
+        "parent_user_id": "U04KAHHNJ1M",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "830FF4B9-524B-49B6-ABA1-CC8BF1811205",
+        "type": "message",
+        "text": "Hi <@U04KAHHNJ1M> , if you are in Section 004, ON1 or ON2, the grades are hidden as my TA and I are currently grading your reports. :)",
+        "user": "U04JVCE8GA1",
+        "ts": "1675834309.351399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0T1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KAHHNJ1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , if you are in Section 004, ON1 or ON2, the grades are hidden as my TA and I are currently grading your reports. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JVCE8GA1",
+            "ts": "1675834346.000000"
+        },
+        "thread_ts": "1675819730.477539",
+        "parent_user_id": "U04KAHHNJ1M"
+    }
+]

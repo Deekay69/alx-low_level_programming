@@ -1,0 +1,3911 @@
+[
+    {
+        "client_msg_id": "e6f3a402-3ce0-4624-95b9-fbbcd061ffff",
+        "type": "message",
+        "text": "Hi <@U04M215CPFV> In my case, VirtualBox said it needed a Python program, but I was able to ignore it and download it normally. But if your error is preventing it from downloading, it may be something different.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676816255.301639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M215CPFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In my case, VirtualBox said it needed a Python program, but I was able to ignore it and download it normally. But if your error is preventing it from downloading, it may be something different."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1676816269.000000"
+        },
+        "thread_ts": "1676784678.984109",
+        "parent_user_id": "U04M215CPFV"
+    },
+    {
+        "client_msg_id": "145abd1c-f312-46f2-9241-74840f176378",
+        "type": "message",
+        "text": "Random Question, why is it important to make sure that on the BIOS setting that virtualization is enabled? Is that so we can house a guest machine inside the host? If it were disabled, then we wouldn't be able to? I'm just trying to have a better understanding. Thanks!",
+        "user": "U04KQQJLLG3",
+        "ts": "1676816812.929439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Random Question, why is it important to make sure that on the BIOS setting that virtualization is enabled? Is that so we can house a guest machine inside the host? If it were disabled, then we wouldn't be able to? I'm just trying to have a better understanding. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g59ad5c55204",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/59ad5c55204a8a6117237e5fb97ece93.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Terrell",
+            "display_name": "Emma Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676816812.929439",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1676818912.974899",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04KQQJLLG3"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676818620.233799"
+            },
+            {
+                "user": "U04KQQJLLG3",
+                "ts": "1676818684.079659"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676818912.974899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676818912.974899"
+    },
+    {
+        "client_msg_id": "8efdb95d-4ed9-47b6-96fa-ce30c4fcdce0",
+        "type": "message",
+        "text": "Hi <@U04L1A0LWPJ> To update my system, I used the command _sudo apt-get update &amp;&amp; sudo apt-get upgrade._ Maybe this command might work for you. I got this command from <https:\/\/swiftsilentdeadly.com\/vms-part-2-installing-and-updating-ubuntu-in-virtualbox\/>",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676816878.200839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5T\/Jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L1A0LWPJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " To update my system, I used the command "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sudo apt-get update && sudo apt-get upgrade.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Maybe this command might work for you. I got this command from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/swiftsilentdeadly.com\/vms-part-2-installing-and-updating-ubuntu-in-virtualbox\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1676816906.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/swiftsilentdeadly.com\/vms-part-2-installing-and-updating-ubuntu-in-virtualbox\/",
+                "ts": 1571130001,
+                "image_url": "https:\/\/secureservercdn.net\/198.71.233.129\/igj.1b2.myftpupload.com\/wp-content\/uploads\/2019\/10\/Virtual-Machine-0.png?time=1637319713",
+                "image_width": 2874,
+                "image_height": 1610,
+                "image_bytes": 523817,
+                "service_icon": "https:\/\/swiftsilentdeadly.com\/wp-content\/uploads\/2021\/12\/cropped-Swift-Silent-Deadly-Trainign-Logo-Black-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/swiftsilentdeadly.com\/vms-part-2-installing-and-updating-ubuntu-in-virtualbox\/",
+                "fallback": "Swift | Silent | Deadly: VMs Part 2: Installing and Updating Ubuntu in VirtualBox - Swift | Silent | Deadly",
+                "text": "In the first part of this series I discussed how to create a virtual machine using VirtualBox and Ubuntu. Today we are going to execute several steps to get Ubuntu installed, updated, and make it just a bit more functional. I we will finish by discussing how to shut down a virtual machine. Part I ... Read More",
+                "title": "VMs Part 2: Installing and Updating Ubuntu in VirtualBox - Swift | Silent | Deadly",
+                "title_link": "https:\/\/swiftsilentdeadly.com\/vms-part-2-installing-and-updating-ubuntu-in-virtualbox\/",
+                "service_name": "Swift | Silent | Deadly",
+                "fields": [
+                    {
+                        "value": "Justin",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1676773241.949769",
+        "parent_user_id": "U04L1A0LWPJ"
+    },
+    {
+        "client_msg_id": "b2b2032b-80b3-4663-8269-d8a4f211aedf",
+        "type": "message",
+        "text": "Hi <@U04L092G2NN> You may find this link helpful: 6 Ways to Fix VirtualBox Result Code: E_FAIL (0x80004005) Error in Windows (<http:\/\/helpdeskgeek.com|helpdeskgeek.com><https:\/\/helpdeskgeek.com\/help-desk\/6-ways-to-fix-virtualbox-result-code-e_fail-0x80004005-error-in-windows\/#:~:text=VirtualBox%20may%20also%20display%20the%20E_FAIL%20%280x80004005%29%20error,has%20the%20same%20effect%20as%20shutting%20it%20down.|)>. I would recommend that you check that virtualization is enabled, update virtualbox, or redownload virtualbox first before doing some of the more complicated solutions.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676817541.739529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L092G2NN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You may find this link helpful: 6 Ways to Fix VirtualBox Result Code: E_FAIL (0x80004005) Error in Windows ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/helpdeskgeek.com",
+                                "text": "helpdeskgeek.com"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/helpdeskgeek.com\/help-desk\/6-ways-to-fix-virtualbox-result-code-e_fail-0x80004005-error-in-windows\/#:~:text=VirtualBox%20may%20also%20display%20the%20E_FAIL%20%280x80004005%29%20error,has%20the%20same%20effect%20as%20shutting%20it%20down.",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I would recommend that you check that virtualization is enabled, update virtualbox, or redownload virtualbox first before doing some of the more complicated solutions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/helpdeskgeek.com\/wp-content\/pictures\/2022\/08\/01-fix-virtual-box-result-code-0x80004005-error.jpg",
+                "image_width": 1200,
+                "image_height": 701,
+                "image_bytes": 44588,
+                "from_url": "https:\/\/helpdeskgeek.com\/help-desk\/6-ways-to-fix-virtualbox-result-code-e_fail-0x80004005-error-in-windows\/#:~:text=VirtualBox%20may%20also%20display%20the%20E_FAIL%20%280x80004005%29%20error,has%20the%20same%20effect%20as%20shutting%20it%20down.",
+                "service_icon": "https:\/\/helpdeskgeek.com\/wp-content\/themes\/hdg\/images\/favicon.ico",
+                "ts": 1661983200,
+                "id": 1,
+                "original_url": "https:\/\/helpdeskgeek.com\/help-desk\/6-ways-to-fix-virtualbox-result-code-e_fail-0x80004005-error-in-windows\/#:~:text=VirtualBox%20may%20also%20display%20the%20E_FAIL%20%280x80004005%29%20error,has%20the%20same%20effect%20as%20shutting%20it%20down.",
+                "fallback": "Help Desk Geek: 6 Ways to Fix VirtualBox Result Code: E_FAIL (0x80004005) Error in Windows",
+                "text": "VirtualBox displays the “E_FAIL (0x80004005)” error code when it can’t open a virtual machine session. The error could be due to problems with the VirtualBox app, configuration files, or hardware-related [...]",
+                "title": "6 Ways to Fix VirtualBox Result Code: E_FAIL (0x80004005) Error in Windows",
+                "title_link": "https:\/\/helpdeskgeek.com\/help-desk\/6-ways-to-fix-virtualbox-result-code-e_fail-0x80004005-error-in-windows\/#:~:text=VirtualBox%20may%20also%20display%20the%20E_FAIL%20%280x80004005%29%20error,has%20the%20same%20effect%20as%20shutting%20it%20down.",
+                "service_name": "Help Desk Geek"
+            }
+        ],
+        "thread_ts": "1676770479.871459",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "42f38f2e-c90c-4f6d-943a-09a1d2d639d2",
+        "type": "message",
+        "text": "Thanks so much, Sara! In addition to the techniques here, I would recommend deleting your Ubuntu machine (right-click, Remove, Delete All Files). and then searching for the VirtualBox VM folders on your computer (through the search bar). Delete all Ubuntu folders. Reinstall Ubuntu. Also, going forward, don't save state when powering off your Ubuntu machine. Power off instead.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676818297.890539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much, Sara! In addition to the techniques here, I would recommend deleting your Ubuntu machine (right-click, Remove, Delete All Files). and then searching for the VirtualBox VM folders on your computer (through the search bar). Delete all Ubuntu folders. Reinstall Ubuntu. Also, going forward, don't save state when powering off your Ubuntu machine. Power off instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676770479.871459",
+        "parent_user_id": "U04L092G2NN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "564bd956-85f4-4ab0-9141-1cdd02da388e",
+        "type": "message",
+        "text": "You can grab the runtime file and download it...Microsoft doesn't allow it to be distributed with other other packages, apparently. See <https:\/\/www.debugpoint.com\/virtualbox-needs-microsoft-visual-c\/|here>.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676818431.370539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8GW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can grab the runtime file and download it...Microsoft doesn't allow it to be distributed with other other packages, apparently. See "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.debugpoint.com\/virtualbox-needs-microsoft-visual-c\/",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.debugpoint.com\/virtualbox-needs-microsoft-visual-c\/",
+                "ts": 1673706008,
+                "image_url": "https:\/\/www.debugpoint.com\/wp-content\/uploads\/2023\/01\/vcvbox1.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 59154,
+                "service_icon": "https:\/\/www.debugpoint.com\/wp-content\/uploads\/2021\/07\/cropped-drawing2-site-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.debugpoint.com\/virtualbox-needs-microsoft-visual-c\/",
+                "fallback": "DebugPoint.com: [Fixed] VirtualBox Needs Microsoft Visual C++ 2019 Redistributable Package",
+                "text": "A quick tutorial to show you how to fix the error \"VirtualBox Needs Microsoft Visual C++ 2019 Redistributable Package\".",
+                "title": "[Fixed] VirtualBox Needs Microsoft Visual C++ 2019 Redistributable Package",
+                "title_link": "https:\/\/www.debugpoint.com\/virtualbox-needs-microsoft-visual-c\/",
+                "service_name": "DebugPoint.com"
+            }
+        ],
+        "thread_ts": "1676784678.984109",
+        "parent_user_id": "U04M215CPFV"
+    },
+    {
+        "client_msg_id": "b1a3de39-6419-4bbe-a2bb-6d336cb9b9b1",
+        "type": "message",
+        "text": "Yes,  your hardware needs to have virtualization enabled for you to virtualize in order for your virtual machine to access your underlying physical hardware.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676818620.233799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lc=i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes,  your hardware needs to have virtualization enabled for you to virtualize in order for your virtual machine to access your underlying physical hardware."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676816812.929439",
+        "parent_user_id": "U04KQQJLLG3"
+    },
+    {
+        "client_msg_id": "7506e474-7ca7-4edf-bf41-6f8c307c4696",
+        "type": "message",
+        "text": "That's what I thought and wanted to explain that in my paper but I didn't want to be wrong. Thank you",
+        "user": "U04KQQJLLG3",
+        "ts": "1676818684.079659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I thought and wanted to explain that in my paper but I didn't want to be wrong. Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g59ad5c55204",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/59ad5c55204a8a6117237e5fb97ece93.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Terrell",
+            "display_name": "Emma Terrell",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.terrell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676816812.929439",
+        "parent_user_id": "U04KQQJLLG3"
+    },
+    {
+        "client_msg_id": "57c86b6a-44b0-4b75-b229-49fe0d983c2c",
+        "type": "message",
+        "text": "I would recommend taking the risk to be wrong and struggle with the verbiage. There are many ways to state the \"right\" answer. :slightly_smiling_face:",
+        "user": "U04GV2EK7UP",
+        "ts": "1676818912.974899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wF0N=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would recommend taking the risk to be wrong and struggle with the verbiage. There are many ways to state the \"right\" answer. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676816812.929439",
+        "parent_user_id": "U04KQQJLLG3"
+    },
+    {
+        "client_msg_id": "8e840b69-bf4e-40b0-afda-5fd6ffdca9d1",
+        "type": "message",
+        "text": "Thank you for your help I will try these solutions.",
+        "user": "U04L092G2NN",
+        "ts": "1676821537.733069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HIXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your help I will try these solutions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676770479.871459",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "56419EB0-1003-48DE-B58C-83AEE77DC01D",
+        "type": "message",
+        "text": "Im having a problem installing my guest additions. Did anyone else have problems with this part? ",
+        "user": "U04MLUB2WJC",
+        "ts": "1676824534.406439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4IcBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im having a problem installing my guest additions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Did anyone else have problems with this part? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7e91d71093cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4726208703041_7e91d71093cb74978056_72.jpg",
+            "first_name": "Zachary",
+            "real_name": "Zachary H.S. Dierkhising",
+            "display_name": "Zachary Dierkhising",
+            "team": "T04HC2CMNJ0",
+            "name": "zachary.dierkhising",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "I put in what she said to but it isn’t working for me",
+        "files": [
+            {
+                "id": "F04Q7HJK669",
+                "created": 1676824549,
+                "timestamp": 1676824549,
+                "name": "IMG_7191.jpg",
+                "title": "IMG_7191",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04MLUB2WJC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 1142028,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q7HJK669\/img_7191.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q7HJK669\/download\/img_7191.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7HJK669-98c26a0858\/img_7191_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS9HKhQZYZpJpFMZwwJquEHoKdsB\/hFAELZPvimljg1P5S\/3aQwR\/3KmxVzPKtnoaTa3oavGCP+7+tHkR\/3f1piJJJDGDjHIqL7S3+zRdNgD6VUzmmItfa29FppvG9FqqSR3pMigZpQsZY9xwOak21DbnECfSpN1IRXu+VHPTNUyxq95sf94UebH6j8qYFAkkdBTQK0DKnqPypPNT1\/SgB6HCKPQUu6o\/NSjzE96QWP\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MLUB2WJC\/F04Q7HJK669\/img_7191.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04Q7HJK669-99e98b3fee",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04MLUB2WJC",
+        "display_as_bot": false,
+        "ts": "1676824567.391029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put in what she said to but it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "isn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " working for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "EC9FE25A-6337-48D2-9B32-81017E505A8F"
+    },
+    {
+        "client_msg_id": "71edd1b9-6b41-4d5e-b0ab-d3d2bb5e28cd",
+        "type": "message",
+        "text": "Lowercase the s in sudo.",
+        "user": "U04JWGYC9JT",
+        "ts": "1676824584.630889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r76N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lowercase the s in sudo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04MLUB2WJC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4984299b-ee1d-4931-b163-578128193d5c",
+        "type": "message",
+        "text": "Commands are case sensative",
+        "user": "U04JWGYC9JT",
+        "ts": "1676824591.346849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Commands are case sensative"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DB7E9FF1-071B-477D-850F-BE3156DBF6E6",
+        "type": "message",
+        "text": "Thank you, I got it ",
+        "user": "U04MLUB2WJC",
+        "ts": "1676824634.383799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, I got it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7e91d71093cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4726208703041_7e91d71093cb74978056_72.jpg",
+            "first_name": "Zachary",
+            "real_name": "Zachary H.S. Dierkhising",
+            "display_name": "Zachary Dierkhising",
+            "team": "T04HC2CMNJ0",
+            "name": "zachary.dierkhising",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "I got his now though",
+        "files": [
+            {
+                "id": "F04QAFSBZDG",
+                "created": 1676824768,
+                "timestamp": 1676824768,
+                "name": "IMG_7192.jpg",
+                "title": "IMG_7192",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04MLUB2WJC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 1289904,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QAFSBZDG\/img_7192.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QAFSBZDG\/download\/img_7192.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAFSBZDG-676da83b36\/img_7192_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACTQiOYxTZ\/9XUMU5RcFCfxpZZ96YCMKQFeTqKaxwpNKVYgnB47YqJ9xQja2T\/s1NiyNnJPUUm8+ophib3\/I0eU3v+Rp2Qrs1NuASeAKb5kf98U6U\/ujWfnFUSX\/ADI\/76\/nS+ZH\/wA9F\/Os4njrTM0h2NTOeQcijn1qOHiFPpT80CGTNiI\/hVDdV5wHUqehqL7PH6t+dMCoTmk7VaNvH\/tfnR5Ce\/50ATIcIv0FO3VFyKOaQH\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MLUB2WJC\/F04QAFSBZDG\/img_7192.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QAFSBZDG-3885f8b32b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04MLUB2WJC",
+        "display_as_bot": false,
+        "ts": "1676824788.533189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaeHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got his now though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "52836073-B9DC-4A32-8822-D8EA50535327"
+    },
+    {
+        "client_msg_id": "68A619F5-B67F-4082-A449-AFA555CC048C",
+        "type": "message",
+        "text": "This*",
+        "user": "U04MLUB2WJC",
+        "ts": "1676824806.348929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7D03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7e91d71093cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4726208703041_7e91d71093cb74978056_72.jpg",
+            "first_name": "Zachary",
+            "real_name": "Zachary H.S. Dierkhising",
+            "display_name": "Zachary Dierkhising",
+            "team": "T04HC2CMNJ0",
+            "name": "zachary.dierkhising",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A1530A82-DC9F-4270-BFA7-AB890DDADEC5",
+        "type": "message",
+        "text": "Never mind, I figured it out. Thank you for the help though!",
+        "user": "U04MLUB2WJC",
+        "ts": "1676825067.941179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Never mind, I figured it out"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for the help though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7e91d71093cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-28\/4726208703041_7e91d71093cb74978056_72.jpg",
+            "first_name": "Zachary",
+            "real_name": "Zachary H.S. Dierkhising",
+            "display_name": "Zachary Dierkhising",
+            "team": "T04HC2CMNJ0",
+            "name": "zachary.dierkhising",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clap::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "In step 7 the commands are not working properly. Saying command not found. Does anyone know how I should proceed?",
+        "files": [
+            {
+                "id": "F04QP6X9EUR",
+                "created": 1676828205,
+                "timestamp": 1676828205,
+                "name": "2023-02-19 (2).png",
+                "title": "2023-02-19 (2).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 136966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QP6X9EUR\/2023-02-19__2_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QP6X9EUR\/download\/2023-02-19__2_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 265,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 353,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 529,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QP6X9EUR-5a2e4c32fb\/2023-02-19__2__800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 588,
+                "original_w": 804,
+                "original_h": 591,
+                "thumb_tiny": "AwAjADCmRgKdwOR0Hak47g09jlU5DYXoB0pufY0DG5X3\/Olyvv8AnQcehpCPrTCwZHv+dAPakpV+8Oe9AWHsxZUG7OB0Axim\/nTpOFQhlOR0Hao9xoAU5zzSYoyaM0DClX7w+tJmlU\/MPrQAr9FplPfov0plABRRRQAUq\/eH1pKVfvD60Af\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04QP6X9EUR\/2023-02-19__2_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QP6X9EUR-32ed01ac67",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676828233.910139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UN\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In step 7 the commands are not working properly. Saying command not found. Does anyone know how I should proceed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "87271c36-192d-4258-9c1e-3c92304423c5",
+        "thread_ts": "1676828233.910139",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676946137.958119",
+        "reply_users": [
+            "U04KHKZCJDV"
+        ],
+        "replies": [
+            {
+                "user": "U04KHKZCJDV",
+                "ts": "1676946137.958119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d0302f1c-ed42-432b-b054-3737717c5868",
+        "type": "message",
+        "text": "I may have succeeded, but how will I know if the installation was successful?",
+        "user": "U04L092G2NN",
+        "ts": "1676828633.728129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may have succeeded, but how will I know if the installation was successful?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676828633.728129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676829089.766779",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04L092G2NN"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676829024.402259"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676829089.766779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "04ed8a73-fa79-4891-945c-c8d9b450faa0",
+        "type": "message",
+        "text": "Hi <@U04L092G2NN> The command is ls with the letter L as in litter. Also, it has to be a lowercase letter L because it is case sensitive",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676829024.402259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L092G2NN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The command is ls with the letter L as in litter. Also, it has to be a lowercase letter L because it is case sensitive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676828633.728129",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "ea3ff1d7-70a2-4c68-8fb6-8b8a128a5a33",
+        "type": "message",
+        "text": "thank you",
+        "user": "U04L092G2NN",
+        "ts": "1676829089.766779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/TrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676828633.728129",
+        "parent_user_id": "U04L092G2NN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adf132b6-e940-4b91-937b-03e1eaae0b36",
+        "type": "message",
+        "text": "For the sudo .\/VBoxLinuxAdditions.run",
+        "user": "U04L092G2NN",
+        "ts": "1676829491.123019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the sudo .\/VBoxLinuxAdditions.run"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed507d15-fe1e-4282-a17a-8fca078589b8",
+        "type": "message",
+        "text": "I get a command not found",
+        "user": "U04L092G2NN",
+        "ts": "1676829511.942239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I get a command not found"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70fcc9d3-41c6-4464-ab62-fc8f40f34ca7",
+        "type": "message",
+        "text": "I've even done sudo apt update sudo apt upgrade sudo apt install dkms sudo reboot but I still do not have full screen.",
+        "user": "U04L092G2NN",
+        "ts": "1676829612.253999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSpL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've even done sudo apt update sudo apt upgrade sudo apt install dkms sudo reboot but I still do not have full screen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676829612.253999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676830119.249189",
+        "reply_users": [
+            "U04KF568V9B"
+        ],
+        "replies": [
+            {
+                "user": "U04KF568V9B",
+                "ts": "1676830119.249189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1a4a168d-b7b0-4678-874a-5eef78d65ffe",
+        "type": "message",
+        "text": "Show a screenshot of how you're typing in the sudo .\/VBoxLinuxAdditions.run",
+        "user": "U04JWGYC9JT",
+        "ts": "1676829913.916829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IE4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Show a screenshot of how you're typing in the sudo .\/VBoxLinuxAdditions.run"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gfa2fc933326",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa2fc933326a99c37ce2d7b35e05d8d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Xander",
+            "real_name": "Xander Newlun",
+            "display_name": "Xander",
+            "team": "T04HC2CMNJ0",
+            "name": "xander.newlun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B53A1BC7-7F38-4F40-9D21-19130F6B1CE0",
+        "type": "message",
+        "text": "Please post a screenshot of how you’re typing in the command. Make sure you are using a space. ",
+        "user": "U04KF568V9B",
+        "ts": "1676830119.249189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please post a screenshot of how "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " typing in the command"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Make sure you are using a space"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6a70662152c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4677665081270_6a70662152c4f3a9dd56_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Phillips",
+            "display_name": "Taylor Phillips",
+            "team": "T04HC2CMNJ0",
+            "name": "taylor.phillips2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676829612.253999",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "files": [
+            {
+                "id": "F04PW2WB45D",
+                "created": 1676830118,
+                "timestamp": 1676830118,
+                "name": "2023-02-19 (3).png",
+                "title": "2023-02-19 (3).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 82532,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04PW2WB45D\/2023-02-19__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04PW2WB45D\/download\/2023-02-19__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 370,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04PW2WB45D-c4565aff75\/2023-02-19__3__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 555,
+                "original_w": 793,
+                "original_h": 611,
+                "thumb_tiny": "AwAkADCmylMbgRkZGTScY5\/nTpPk24XblfXOaZvPtQOwvy+n60ZH+TSbjSZ9hTCwvHp+tKPT+tNPWhfvD60DsSTDGz5Qvyjoc5qKnuQcYAHHbvTKAQUUUUAFKv3h9aSlX7w+tACnmkxS0UAJijFLRQAYpQORSClHUUAf\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04PW2WB45D\/2023-02-19__3_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04PW2WB45D-542441cc05",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676830120.790989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ab91c1e9-9fb4-4a84-a0d6-2e23a13665ed",
+        "thread_ts": "1676830120.790989",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1676834956.022139",
+        "reply_users": [
+            "U04KF568V9B",
+            "U04L092G2NN"
+        ],
+        "replies": [
+            {
+                "user": "U04KF568V9B",
+                "ts": "1676830155.269679"
+            },
+            {
+                "user": "U04KF568V9B",
+                "ts": "1676830180.291389"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676830241.193349"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676830270.358549"
+            },
+            {
+                "user": "U04KF568V9B",
+                "ts": "1676830474.301919"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676830492.496179"
+            },
+            {
+                "user": "U04KF568V9B",
+                "ts": "1676830614.061709"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676834956.022139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "832E925C-DB48-4AB6-81A2-F55251F12964",
+        "type": "message",
+        "text": "The terminal has requested your password. You need to enter that to run the command. ",
+        "user": "U04KF568V9B",
+        "ts": "1676830155.269679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5sQgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The terminal has requested your password"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " You need to enter that to run the command"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6a70662152c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4677665081270_6a70662152c4f3a9dd56_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Phillips",
+            "display_name": "Taylor Phillips",
+            "team": "T04HC2CMNJ0",
+            "name": "taylor.phillips2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "12AAE0ED-60AF-4FFC-9B7A-71984385B44E",
+        "type": "message",
+        "text": "Run the command again the enter your password when prompted",
+        "user": "U04KF568V9B",
+        "ts": "1676830180.291389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYiTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Run the command again the enter your password when prompted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6a70662152c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4677665081270_6a70662152c4f3a9dd56_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Phillips",
+            "display_name": "Taylor Phillips",
+            "team": "T04HC2CMNJ0",
+            "name": "taylor.phillips2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "b5a30608-553d-46b2-8a74-986d3a17f735",
+        "type": "message",
+        "text": "i have entered my password already",
+        "user": "U04L092G2NN",
+        "ts": "1676830241.193349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have entered my password already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "25592c0b-f38e-455e-901c-44d3bdf079e3",
+        "type": "message",
+        "text": "it doesn't say command not found until after I enter my password",
+        "user": "U04L092G2NN",
+        "ts": "1676830270.358549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gjkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it doesn't say command not found until after I enter my password"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "cf3d08ab-8377-4e7f-93bc-6773efd1eead",
+        "type": "message",
+        "text": "And you opened the terminal by right clicking in the folder after selecting the \"inserted disk\"",
+        "user": "U04KF568V9B",
+        "ts": "1676830474.301919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMVOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And you opened the terminal by right clicking in the folder after selecting the \"inserted disk\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6a70662152c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4677665081270_6a70662152c4f3a9dd56_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Phillips",
+            "display_name": "Taylor Phillips",
+            "team": "T04HC2CMNJ0",
+            "name": "taylor.phillips2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04R09QCGTA",
+                "created": 1676830484,
+                "timestamp": 1676830484,
+                "name": "2023-02-19 (4).png",
+                "title": "2023-02-19 (4).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 123734,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R09QCGTA\/2023-02-19__4_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R09QCGTA\/download\/2023-02-19__4_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 266,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 355,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R09QCGTA-155323c19e\/2023-02-19__4__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 532,
+                "original_w": 788,
+                "original_h": 582,
+                "thumb_tiny": "AwAjADCmylcbu4yOc0nGORmnuNu3Chcr2703P+1QMT5f7o\/OjcPT9aM89aTv1H5UwDjPQfnQDjpj86Mewo\/AUDsSSjbt4VcqOhzmmbh6\/pQ+DjAA47d6ZQA7PPX9KM+\/6U2igBc+woz7CkooAc\/b6U2nP2+lNoAKKKKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04R09QCGTA\/2023-02-19__4_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04R09QCGTA-0e55eab74f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676830492.496179",
+        "client_msg_id": "495962b0-77eb-4ac2-8c2c-bcf5d07fa0d1",
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "db4e575f-18a3-4c36-90e1-fae2cbac3a5d",
+        "type": "message",
+        "text": "post a screenshot of the contents of the disk please.",
+        "user": "U04KF568V9B",
+        "ts": "1676830614.061709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nqHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "post a screenshot of the contents of the disk please."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6a70662152c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4677665081270_6a70662152c4f3a9dd56_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Phillips",
+            "display_name": "Taylor Phillips",
+            "team": "T04HC2CMNJ0",
+            "name": "taylor.phillips2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "9a95d292-a24b-4e28-bda2-05ff76a508b9",
+        "type": "message",
+        "text": "I got it working now, I appreciate it",
+        "user": "U04L1A0LWPJ",
+        "ts": "1676834518.359519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGe7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got it working now, I appreciate it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g82d9270c83a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/82d9270c83a66750e2b9f3f714709175.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Mettler",
+            "display_name": "Ryan Mettler",
+            "team": "T04HC2CMNJ0",
+            "name": "ryan.mettler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676773241.949769",
+        "parent_user_id": "U04L1A0LWPJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04Q7NWJVK7",
+                "created": 1676834948,
+                "timestamp": 1676834948,
+                "name": "2023-02-19 (5).png",
+                "title": "2023-02-19 (5).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 107717,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q7NWJVK7\/2023-02-19__5_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q7NWJVK7\/download\/2023-02-19__5_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q7NWJVK7-df36b886e0\/2023-02-19__5__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "original_w": 798,
+                "original_h": 597,
+                "thumb_tiny": "AwAjADBLKGNi28b\/AJQfmGMVc+yQH\/lmv5VX08gs21icIM5HTrV8dKAK4tYP+eK5FL9mtyM+UmKmVFV2YDk9aaI0ERQD5T2oAj+yW\/8AzxSj7JD\/AM8l\/KpgAFAHAHSlP3utAGfp5JZ89lA6Y9a0B0qlZMZGPz7sIOgxirgB9T+dAACuTTN2YzkDNS0YHpQBEx+RePwp527venYHpRQBm6WSXkz6CtGs7Svvy\/QVo0ALRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04Q7NWJVK7\/2023-02-19__5_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04Q7NWJVK7-ef92f0b698",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676834956.022139",
+        "client_msg_id": "08bd75d1-193b-48d3-8a68-5ca588e1e2c9",
+        "thread_ts": "1676830120.790989",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "type": "message",
+        "text": "Hi does anyone know what this means, is it the same password as we had to create in Ubuntu?, Am I missing something ",
+        "files": [
+            {
+                "id": "F04R0DTN6BA",
+                "created": 1676838644,
+                "timestamp": 1676838644,
+                "name": "IMG_9093.jpg",
+                "title": "IMG_9093",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04L96ZG1C1",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 969611,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R0DTN6BA\/img_9093.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R0DTN6BA\/download\/img_9093.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R0DTN6BA-64219a7077\/img_9093_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS3vjBwXUHpjNL5kX99PzFULkATvgDOTnmoicHlRRYdjV3RnoyfnSEp2K\/nWSX56D8qAw\/uiiwWNM49vzo49vzrOXJH8NLg\/wCzSsFiW73CZuuNxqsznPNWr0jzCOM7vT2qmeaZS2EJz2pRQKdgUxk0K7kJ96k8unWi5iP1qfbSuS2NM1uxyyAn1K0hmtR\/yzH\/AHwKpkE0bcdq15Ymd2W\/tFt\/zyH\/AHwKQz2+M+WP++RVQ0w0uRDuXBdRLwqkD2FL9sj9G\/KqOCaNp9KORBc\/\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L96ZG1C1\/F04R0DTN6BA\/img_9093.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04R0DTN6BA-18c3badc8e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L96ZG1C1",
+        "display_as_bot": false,
+        "ts": "1676838713.290099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi does anyone know what this means, is it the same password as we had to create in Ubuntu?, Am I missing something "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D069D7EF-CF64-4689-A418-F8FA4FAE3AE2",
+        "thread_ts": "1676838713.290099",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1676840167.415019",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04L96ZG1C1"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676840044.758509"
+            },
+            {
+                "user": "U04L96ZG1C1",
+                "ts": "1676840142.371599"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676840167.415019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7eee3b69-90c7-4814-9482-b9c33c799364",
+        "type": "message",
+        "text": "Hi <@U04L96ZG1C1> Yes, the password you use in the terminal is the same password you created for Ubuntu.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676840044.758509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L96ZG1C1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, the password you use in the terminal is the same password you created for Ubuntu."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676838713.290099",
+        "parent_user_id": "U04L96ZG1C1"
+    },
+    {
+        "client_msg_id": "C9A2BF31-2E31-4326-B70D-D75E08FD7066",
+        "type": "message",
+        "text": "<@U04KKRC0ZRA> i’m trying to enter the password, but nothing is typing on the screen ",
+        "user": "U04L96ZG1C1",
+        "ts": "1676840142.371599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zsW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i’m trying to enter the password, but nothing is typing on the screen "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ab245cc359",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676683762354_72ab245cc35963e62161_72.jpg",
+            "first_name": "Lazar",
+            "real_name": "Lazar Pereira",
+            "display_name": "Lazar Pereira",
+            "team": "T04HC2CMNJ0",
+            "name": "lazar.pereira",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676838713.290099",
+        "parent_user_id": "U04L96ZG1C1"
+    },
+    {
+        "client_msg_id": "4abb6de6-de4c-4534-b69a-7ae00fc89060",
+        "type": "message",
+        "text": "That is normal. Instead of dots or dashes, Linux shows nothing.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676840167.415019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ou3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is normal. Instead of dots or dashes, Linux shows nothing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1676840237.000000"
+        },
+        "thread_ts": "1676838713.290099",
+        "parent_user_id": "U04L96ZG1C1"
+    },
+    {
+        "client_msg_id": "4d84aecf-7550-4ba5-a8c3-ce151a114a35",
+        "type": "message",
+        "text": "For step 7: #6 when it said to maximize the window do we do that manually or is it supposed resize automatically after rebooting?",
+        "user": "U04LE2A99QE",
+        "ts": "1676844750.492899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qNes5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For step 7: #6 when it said to maximize the window do we do that manually or is it supposed resize automatically after rebooting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e78f26b598bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720527336915_e78f26b598bbe8f404fb_72.jpg",
+            "first_name": "Timmodean",
+            "real_name": "Timmodean Burks II",
+            "display_name": "Timmodean Burks II",
+            "team": "T04HC2CMNJ0",
+            "name": "timmodean.burks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676844750.492899",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1676845902.503299",
+        "reply_users": [
+            "U04L288QDJ4",
+            "U04LE2A99QE",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1676845646.540239"
+            },
+            {
+                "user": "U04LE2A99QE",
+                "ts": "1676845686.520879"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676845751.531409"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676845902.503299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8720a10c-e41a-452e-a433-0a77dc3a1355",
+        "type": "message",
+        "text": "manually",
+        "user": "U04L288QDJ4",
+        "ts": "1676845646.540239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "manually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676844750.492899",
+        "parent_user_id": "U04LE2A99QE"
+    },
+    {
+        "client_msg_id": "8d6ba2c2-9dfc-48ab-bb5c-9937262988be",
+        "type": "message",
+        "text": "appreciate it",
+        "user": "U04LE2A99QE",
+        "ts": "1676845686.520879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9G5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "appreciate it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e78f26b598bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720527336915_e78f26b598bbe8f404fb_72.jpg",
+            "first_name": "Timmodean",
+            "real_name": "Timmodean Burks II",
+            "display_name": "Timmodean Burks II",
+            "team": "T04HC2CMNJ0",
+            "name": "timmodean.burks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676844750.492899",
+        "parent_user_id": "U04LE2A99QE"
+    },
+    {
+        "client_msg_id": "ce1a98d3-4a11-41af-bd34-7cfe91de7aa9",
+        "type": "message",
+        "text": "Hi <@U04LE2A99QE> Ubuntu should resize automatically to fit the window after rebooting.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676845751.531409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2By2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04LE2A99QE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ubuntu should resize automatically to fit the window after rebooting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676844750.492899",
+        "parent_user_id": "U04LE2A99QE"
+    },
+    {
+        "client_msg_id": "7be731cf-ac68-41d9-b5a0-9c78bda6ed5b",
+        "type": "message",
+        "text": "I looked back at the instructions. When you manually maximize the window, Ubuntu automatically resizes to fit it.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676845902.503299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I looked back at the instructions. When you manually maximize the window, Ubuntu automatically resizes to fit it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676844750.492899",
+        "parent_user_id": "U04LE2A99QE"
+    },
+    {
+        "type": "message",
+        "text": "I still can not complete the guest additions installation",
+        "files": [
+            {
+                "id": "F04Q805MV6H",
+                "created": 1676847670,
+                "timestamp": 1676847670,
+                "name": "2023-02-19 (5).png",
+                "title": "2023-02-19 (5).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 107717,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q805MV6H\/2023-02-19__5_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04Q805MV6H\/download\/2023-02-19__5_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04Q805MV6H-d0e166650d\/2023-02-19__5__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "original_w": 798,
+                "original_h": 597,
+                "thumb_tiny": "AwAjADBLKGNi28b\/AJQfmGMVc+yQH\/lmv5VX08gs21icIM5HTrV8dKAK4tYP+eK5FL9mtyM+UmKmVFV2YDk9aaI0ERQD5T2oAj+yW\/8AzxSj7JD\/AM8l\/KpgAFAHAHSlP3utAGfp5JZ89lA6Y9a0B0qlZMZGPz7sIOgxirgB9T+dAACuTTN2YzkDNS0YHpQBEx+RePwp527venYHpRQBm6WSXkz6CtGs7Svvy\/QVo0ALRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04Q805MV6H\/2023-02-19__5_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04Q805MV6H-1e87da3e75",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676847768.060509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxjoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still can not complete the guest additions installation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0b894c5d-de08-4fdd-8eb1-128c1d879dd4",
+        "thread_ts": "1676847768.060509",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1676849302.075189",
+        "reply_users": [
+            "U04L288QDJ4",
+            "U04KKRC0ZRA",
+            "U04L092G2NN"
+        ],
+        "replies": [
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1676848104.476639"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676848232.224289"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848736.868389"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848748.637889"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848781.306999"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676848890.810229"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848899.333739"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848908.430419"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676848939.161709"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676849025.565199"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676849080.416659"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676849129.036989"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676849198.848229"
+            },
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1676849219.421899"
+            },
+            {
+                "user": "U04L288QDJ4",
+                "ts": "1676849261.130829"
+            },
+            {
+                "user": "U04L092G2NN",
+                "ts": "1676849302.075189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e887a885-f03a-49d6-ab5b-63f74914e581",
+        "type": "message",
+        "text": "are you copying and pasting the command? That can cause errors.",
+        "user": "U04L288QDJ4",
+        "ts": "1676848104.476639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivuS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you copying and pasting the command? That can cause errors."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "b3b12461-6bb7-4a7d-b5c3-a3c58ca95e14",
+        "type": "message",
+        "text": "Hi <@U04L092G2NN> I have installed guest additions. It seems that your screenshot is the same as what I have. Do you mind sharing a screenshot of the entire Ubuntu window?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676848232.224289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QxA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L092G2NN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have installed guest additions. It seems that your screenshot is the same as what I have. Do you mind sharing a screenshot of the entire Ubuntu window?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "f169dedf-462e-4003-aeaf-2b4f55e4dd66",
+        "type": "message",
+        "text": "no I am not copying and pasting",
+        "user": "U04L092G2NN",
+        "ts": "1676848736.868389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8Hms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no I am not copying and pasting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "37a493b7-1edd-461d-9fcf-81a9f753e20e",
+        "type": "message",
+        "text": "yes I will share the window",
+        "user": "U04L092G2NN",
+        "ts": "1676848748.637889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sRyD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes I will share the window"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04QAUDFZ8S",
+                "created": 1676848774,
+                "timestamp": 1676848774,
+                "name": "2023-02-19.png",
+                "title": "2023-02-19.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L092G2NN",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 668775,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QAUDFZ8S\/2023-02-19.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QAUDFZ8S\/download\/2023-02-19.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QAUDFZ8S-3da3589346\/2023-02-19_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 1920,
+                "original_h": 1200,
+                "thumb_tiny": "AwAeADCv5sn99vzo81\/+ejf99U2gdaAHec\/\/AD0b\/vqjzn\/56N\/31TFHtQUzTK5R\/myf32\/M0ebJ\/fb86byOtFIkKKQnFAOaAHcDoacCM8mmds0meaCuZjn+8cdKSkJxijI96CWf\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L092G2NN\/F04QAUDFZ8S\/2023-02-19.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QAUDFZ8S-0a275b661c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L092G2NN",
+        "display_as_bot": false,
+        "ts": "1676848781.306999",
+        "client_msg_id": "57590f58-05f4-4e95-9fe2-feb86bc1a0da",
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "e02d0014-3722-4669-a8d2-cb6c7d8384b4",
+        "type": "message",
+        "text": "What is the screenshot for Breakpoint #7 supposed to look like?",
+        "user": "U04LE2A99QE",
+        "ts": "1676848794.130199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpiL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is the screenshot for Breakpoint #7 supposed to look like?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e78f26b598bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720527336915_e78f26b598bbe8f404fb_72.jpg",
+            "first_name": "Timmodean",
+            "real_name": "Timmodean Burks II",
+            "display_name": "Timmodean Burks II",
+            "team": "T04HC2CMNJ0",
+            "name": "timmodean.burks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676848794.130199",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1676916488.288119",
+        "reply_users": [
+            "U04JYA33E9Z",
+            "U04LE2A99QE",
+            "U04LBN6DEKT"
+        ],
+        "replies": [
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1676851209.806549"
+            },
+            {
+                "user": "U04LE2A99QE",
+                "ts": "1676851834.822699"
+            },
+            {
+                "user": "U04LBN6DEKT",
+                "ts": "1676912384.548079"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1676915817.277199"
+            },
+            {
+                "user": "U04LBN6DEKT",
+                "ts": "1676915985.585039"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1676916330.715739"
+            },
+            {
+                "user": "U04LBN6DEKT",
+                "ts": "1676916477.655089"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1676916488.288119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c491b29f-31b3-4866-a1bc-834015461e1a",
+        "type": "message",
+        "text": "You have tried clicking on Devices and then Insert Guest Additions CD image . . . ?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676848890.810229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yg1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You have tried clicking on Devices and then Insert Guest Additions CD image . . . ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "597967c3-e556-468f-9331-c074b9361082",
+        "type": "message",
+        "text": "<@U04KKRC0ZRA>",
+        "user": "U04L092G2NN",
+        "ts": "1676848899.333739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "696ae23f-6a4b-44d8-99e5-aa9a3c965501",
+        "type": "message",
+        "text": "ill try",
+        "user": "U04L092G2NN",
+        "ts": "1676848908.430419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "229624fe-1f26-476a-a63f-f46b2c266459",
+        "type": "message",
+        "text": "actually yes I have done that already",
+        "user": "U04L092G2NN",
+        "ts": "1676848939.161709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klUja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually yes I have done that already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "678cec5f-5f2d-43e0-95c8-457234eed0f7",
+        "type": "message",
+        "text": "when I attempt to install it through the terminal I get a command not found notification.",
+        "user": "U04L092G2NN",
+        "ts": "1676849025.565199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when I attempt to install it through the terminal I get a command not found notification."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "7a3fb0eb-adbe-43ad-8b1b-cbfd55b0525a",
+        "type": "message",
+        "text": "In your terminal screenshots, it seems that you opened the terminal in the desktop. In the blank location in your disk screenshot, right click and select open in terminal.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676849080.416659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In your terminal screenshots, it seems that you opened the terminal in the desktop. In the blank location in your disk screenshot, right click and select open in terminal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "503836ca-c103-47fa-9c21-c378f3a41693",
+        "type": "message",
+        "text": "Your terminal should say media instead of desktop.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676849129.036989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tm5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your terminal should say media instead of desktop."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "efe0ff9b-bf82-46ce-bfca-aaeb2e9e0935",
+        "type": "message",
+        "text": "Im not sure why it says desktop",
+        "user": "U04L092G2NN",
+        "ts": "1676849198.848229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHILZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im not sure why it says desktop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "fea6c64c-0429-4ed2-b768-06ff8c5bb966",
+        "type": "message",
+        "text": "check your path",
+        "user": "U04L288QDJ4",
+        "ts": "1676849219.421899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check your path"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "99a45b65-b464-47cb-a171-977fcf6322bb",
+        "type": "message",
+        "text": "when you type ls in the terminal it should show all the files",
+        "user": "U04L288QDJ4",
+        "ts": "1676849261.130829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xamg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when you type ls in the terminal it should show all the files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "204f2ef853ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4661060678068_204f2ef853ae1c98fce2_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Galliher",
+            "display_name": "Alyssa Galliher",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.galliher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "bb896d44-ec8e-43aa-97ee-fef402eac934",
+        "type": "message",
+        "text": "I believe it is working now that I have clicked on the blank space in the disk file",
+        "user": "U04L092G2NN",
+        "ts": "1676849302.075189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe it is working now that I have clicked on the blank space in the disk file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "02789d17ba92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-22\/4692963442561_02789d17ba9257c4cd26_72.jpg",
+            "first_name": "Karmello",
+            "real_name": "Karmello Dumas",
+            "display_name": "Karmello Dumas",
+            "team": "T04HC2CMNJ0",
+            "name": "karmello.dumas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676847768.060509",
+        "parent_user_id": "U04L092G2NN"
+    },
+    {
+        "client_msg_id": "8e78ed25-80a8-46a5-9dd7-92aab5d065c6",
+        "type": "message",
+        "text": "Timmodean - great question!\nIf you maximize your Linux VM and then take a screenshot of your entire host desktop, (showing the maximized VM and a terminal inside of that) that will cover Breakpoint #7.",
+        "user": "U04JYA33E9Z",
+        "ts": "1676851209.806549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Timmodean - great question!\nIf you maximize your Linux VM and then take a screenshot of your entire host desktop, (showing the maximized VM and a terminal inside of that) that will cover Breakpoint #7."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JYA33E9Z",
+            "ts": "1676851298.000000"
+        },
+        "thread_ts": "1676848794.130199",
+        "parent_user_id": "U04LE2A99QE"
+    },
+    {
+        "client_msg_id": "892b5542-bfac-4906-83e9-7ba83be6e34a",
+        "type": "message",
+        "text": "Ok will do. Thank you",
+        "user": "U04LE2A99QE",
+        "ts": "1676851834.822699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok will do. Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e78f26b598bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-30\/4720527336915_e78f26b598bbe8f404fb_72.jpg",
+            "first_name": "Timmodean",
+            "real_name": "Timmodean Burks II",
+            "display_name": "Timmodean Burks II",
+            "team": "T04HC2CMNJ0",
+            "name": "timmodean.burks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676848794.130199",
+        "parent_user_id": "U04LE2A99QE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A019D4F7-866E-4CAE-B1AE-2BFD29F171F5",
+        "type": "message",
+        "text": "How do I answer Breakpoint 1? Can I put my screenshot on where I found my BIOS settings and explain it in the caption of the screenshot?",
+        "user": "U04KHN8U3FC",
+        "ts": "1676852089.568979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5cqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do I answer Breakpoint 1? Can I put my screenshot on where I found my BIOS settings and explain it in the caption of the screenshot?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676852089.568979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676853776.314629",
+        "reply_users": [
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676853776.314629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7db83fb8-c74f-4d22-812b-e93254fcccc4",
+        "type": "message",
+        "text": "I verified my BIOS setting by using the Search bar on the bottom left of my screen. I searched for Task Manager and then clicked \"More Details.\" Then I clicked Performance and finally I clicked CPU. Right under the \"Logical Processors\" I found \"Virtualization\" and found that it was already enabled. I also used this video for help: <https:\/\/www.youtube.com\/watch?v=KYFTqYA_A6k>",
+        "user": "U04LBC31GTC",
+        "ts": "1676852980.356479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified my BIOS setting by using the Search bar on the bottom left of my screen. I searched for Task Manager and then clicked \"More Details.\" Then I clicked Performance and finally I clicked CPU. Right under the \"Logical Processors\" I found \"Virtualization\" and found that it was already enabled. I also used this video for help: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=KYFTqYA_A6k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "e75fbe965d85",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4715139177504_e75fbe965d8551059ad6_72.png",
+            "first_name": "David",
+            "real_name": "David Murillo Santiago",
+            "display_name": "David Murillo Santiago",
+            "team": "T04HC2CMNJ0",
+            "name": "david.murillosantiago",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KYFTqYA_A6k",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KYFTqYA_A6k\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KYFTqYA_A6k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"How to Check What Processor\/CPU You Have on a Windows 10 PC\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=KYFTqYA_A6k",
+                "fallback": "YouTube Video: How to Check What Processor\/CPU You Have on a Windows 10 PC",
+                "title": "How to Check What Processor\/CPU You Have on a Windows 10 PC",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KYFTqYA_A6k",
+                "author_name": "Tropical Tech",
+                "author_link": "https:\/\/www.youtube.com\/@TropicalTech",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bddafb58-847a-4d05-ba74-5e50c9c229d2",
+        "type": "message",
+        "text": "Hi <@U04KHN8U3FC> Yes, put a screenshot of where you found your BIOS settings. I would recommend explaining how you found the setting in a short paragraph above the screenshot and making the caption a description of what the screenshot is.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1676853776.314629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=p9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KHN8U3FC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, put a screenshot of where you found your BIOS settings. I would recommend explaining how you found the setting in a short paragraph above the screenshot and making the caption a description of what the screenshot is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KKRC0ZRA",
+            "ts": "1676853889.000000"
+        },
+        "thread_ts": "1676852089.568979",
+        "parent_user_id": "U04KHN8U3FC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KHN8U3FC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I verified my BIOS virtualization setting by searching task manager and looking at the performance tab, as you can see, Virtualization is enabled.",
+        "files": [
+            {
+                "id": "F04QDQF6W76",
+                "created": 1676861034,
+                "timestamp": 1676861034,
+                "name": "Screenshot 2023-02-19 CPU.png",
+                "title": "Screenshot 2023-02-19 CPU.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L1A0LWPJ",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 62703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QDQF6W76\/screenshot_2023-02-19_cpu.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QDQF6W76\/download\/screenshot_2023-02-19_cpu.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 370,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 554,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QDQF6W76-1b05ecc7f0\/screenshot_2023-02-19_cpu_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 616,
+                "original_w": 957,
+                "original_h": 737,
+                "thumb_tiny": "AwAkADClx0P8qQjml7\/4UE8d6AE7Z5xRSZ4xRQAvHfNHHvSZPqaMn1oAWhsfjQODQce\/5UAJRSjoOlGB7UACLubHSjYec9qMc9qSgAzilyTTTSigBcnGKSiigAzzmikpaAP\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L1A0LWPJ\/F04QDQF6W76\/screenshot_2023-02-19_cpu.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QDQF6W76-87c0c4c1ad",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L1A0LWPJ",
+        "display_as_bot": false,
+        "ts": "1676861038.491779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified my BIOS virtualization setting by searching task manager and looking at the performance tab, as you can see, Virtualization is enabled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "80a598b6-2d69-4ece-ae90-02d14959dc1a"
+    },
+    {
+        "type": "message",
+        "text": "I verified my BIOS settings by looking up \"task manager\" and then proceeding to click on the performance tab, allowing me to view the information that I needed to access for step 1. Virtualization is allowed and I am able to continue on with the lab.",
+        "files": [
+            {
+                "id": "F04QE900FSQ",
+                "created": 1676872815,
+                "timestamp": 1676872815,
+                "name": "Screenshot (3).png",
+                "title": "Screenshot (3).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L9RCUQ85",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 323591,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QE900FSQ\/screenshot__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04QE900FSQ\/download\/screenshot__3_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04QE900FSQ-005ebd04ba\/screenshot__3__1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCpEjSyBFPJqf7Fcein\/gVJY4N3Hxjg\/wAq1lXAoAyvsVz\/AHV\/76qCWN4X2OADjPWt3isnUv8Aj6\/4CKAKuTTlPIHr7Uz8KVfvCgC5ZRlblCSOAf5Vqdq5+jJ9T+dDCx0GDWTqQ\/0r\/gIqEAf5NBUb8Y\/zigCPFAHIopwFA7H\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L9RCUQ85\/F04QE900FSQ\/screenshot__3_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04QE900FSQ-6de307a549",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L9RCUQ85",
+        "display_as_bot": false,
+        "ts": "1676873016.996759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Arr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I verified my BIOS settings by looking up \"task manager\" and then proceeding to click on the performance tab, allowing me to view the information that I needed to access for step 1. Virtualization is allowed and I am able to continue on with the lab."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2389baa0-28ba-4786-8a4c-e54e59f96c8d"
+    },
+    {
+        "client_msg_id": "04F67A0B-37A5-4F4F-A2F8-79A890A41CD4",
+        "type": "message",
+        "text": "In Breakpoint #4 where can I find my VirtualBox interface and its settings?",
+        "user": "U04KHN8U3FC",
+        "ts": "1676875632.478479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Mhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Breakpoint #4 where can I find my VirtualBox interface and its settings?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676875632.478479",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1676915160.778919",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04KHN8U3FC"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676897146.485349"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1676914594.507519"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1676914608.610299"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1676914618.801369"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676914887.665339"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1676914963.087029"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1676915049.431819"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1676915160.778919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

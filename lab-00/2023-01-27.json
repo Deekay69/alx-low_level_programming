@@ -1,0 +1,1309 @@
+[
+    {
+        "type": "message",
+        "text": "Hey guys this is my profile!",
+        "files": [
+            {
+                "id": "F04M95NLZNV",
+                "created": 1674838645,
+                "timestamp": 1674838645,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L6UEURD1",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 34149,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04M95NLZNV\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04M95NLZNV\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04M95NLZNV-fdad932dfe\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04M95NLZNV-fdad932dfe\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04M95NLZNV-fdad932dfe\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 159,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04M95NLZNV-fdad932dfe\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 212,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04M95NLZNV-fdad932dfe\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 312,
+                "original_h": 708,
+                "thumb_tiny": "AwAwABWOGyeeFXDIAfbmn\/2a56Sp+VWbME2ChepBx+dRW0Uizg7SoHXNBaimmylcwG2cKzBsjPFQ5q9qv+uT\/d\/rVCggupOwt0jXcAOuAeeab5u053MPfmoBnHekOe+fxoLVRpWJbubzyh6kDBqDBpaKCGOA4\/h\/E0nTjilB460hNACUUUUAf\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6UEURD1\/F04M95NLZNV\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04M95NLZNV-db00661780",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L6UEURD1",
+        "display_as_bot": false,
+        "ts": "1674838710.735789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "12H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys this is my profile!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5f06071f-4510-4f3b-babe-7c5c38e59181"
+    },
+    {
+        "type": "message",
+        "text": "hi guys, this is my profile.",
+        "files": [
+            {
+                "id": "F04LG1X9BFZ",
+                "created": 1674838987,
+                "timestamp": 1674838987,
+                "name": "9EF73412-450C-49B3-9FAE-8E0415FC91D8.jpeg",
+                "title": "9EF73412-450C-49B3-9FAE-8E0415FC91D8.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04ML38CB08",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 36786,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LG1X9BFZ\/9ef73412-450c-49b3-9fae-8e0415fc91d8.jpeg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LG1X9BFZ\/download\/9ef73412-450c-49b3-9fae-8e0415fc91d8.jpeg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LG1X9BFZ-797ef15201\/9ef73412-450c-49b3-9fae-8e0415fc91d8_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LG1X9BFZ-797ef15201\/9ef73412-450c-49b3-9fae-8e0415fc91d8_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LG1X9BFZ-797ef15201\/9ef73412-450c-49b3-9fae-8e0415fc91d8_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 223,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LG1X9BFZ-797ef15201\/9ef73412-450c-49b3-9fae-8e0415fc91d8_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 298,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LG1X9BFZ-797ef15201\/9ef73412-450c-49b3-9fae-8e0415fc91d8_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 394,
+                "original_h": 635,
+                "thumb_tiny": "AwAwAB2rBC1w+xSoIGckVY\/syX\/non603S\/+Po\/7ppdTZ\/PAJITHy+lAB\/Zkv99P1qoq7s89K17Eu1opkznnGfSsqPvQBJZSiGR5G5wh49eRRJezyHlgB6ACoQRj7q0hOewH0oAvW1++8JMQynjOORVSPvUdSRd6AGjp2pDSjHoKQ9eAKADHvT4u9R1JF3oA\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04ML38CB08\/F04LG1X9BFZ\/9ef73412-450c-49b3-9fae-8e0415fc91d8.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LG1X9BFZ-d8ee3ba34e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04ML38CB08",
+        "display_as_bot": false,
+        "ts": "1674838994.571929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izl5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi guys, this is my profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b63d5ee1-1f23-469c-ad0b-a7c78bb33efa"
+    },
+    {
+        "client_msg_id": "B8293678-9AD4-4A09-B061-76D363E49D4E",
+        "type": "message",
+        "text": "Hi I am confused abt the part on the lab template that says the screenshots have to be “inline” can someone clarify what she means by that please?",
+        "user": "U04LTJT7HFW",
+        "ts": "1674845683.885859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0me6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I am confused abt the part on the lab template that says the screenshots have to be “inline” can someone clarify what she means by that please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g94940e746ba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/94940e746ba55e139892494b813084f4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Abrar",
+            "real_name": "Abrar Ali",
+            "display_name": "Abrar Ali",
+            "team": "T04HC2CMNJ0",
+            "name": "abrar.ali",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1E368FED-7FDC-4081-A7E1-E8B548256810",
+        "type": "message",
+        "text": "<@U04LTJT7HFW> like they can’t be all towards the end or beginning, the screenshots should be placed where you are explaining a specific step ",
+        "user": "U04L7V1MBK2",
+        "ts": "1674846223.369369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiWc=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04LTJT7HFW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like they "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be all towards the end or beginning, the screenshots should be placed where you are explaining a specific step "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "d42d45fbebe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4657718700342_d42d45fbebe5641331c0_72.png",
+            "first_name": "Mariana",
+            "real_name": "Mariana Garcia",
+            "display_name": "Mariana Garcia",
+            "team": "T04HC2CMNJ0",
+            "name": "mariana.garcia8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hello everyone, this is my slack profile.",
+        "files": [
+            {
+                "id": "F04LXUSRDTM",
+                "created": 1674855145,
+                "timestamp": 1674855145,
+                "name": "pic.PNG",
+                "title": "pic.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LV2N1T4M",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 176625,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LXUSRDTM\/pic.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LXUSRDTM\/download\/pic.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LXUSRDTM-2d04e7b3a2\/pic_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LXUSRDTM-2d04e7b3a2\/pic_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LXUSRDTM-2d04e7b3a2\/pic_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 222,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LXUSRDTM-2d04e7b3a2\/pic_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 296,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LXUSRDTM-2d04e7b3a2\/pic_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 398,
+                "original_h": 646,
+                "thumb_tiny": "AwAwAB2iW46CkzRjPFW0tlaMbhz6igErlPNLT2jAkYHimUASQgGQA1cTsB0PrVLcMD5R+VIWyMbV\/AUAnYmlQ7sg9e9V6KKAHA8dqQ\/h+FKCMfw\/lSHk8YoACPekoooA\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LV2N1T4M\/F04LXUSRDTM\/pic.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LXUSRDTM-6d4055e734",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LV2N1T4M",
+        "display_as_bot": false,
+        "ts": "1674855168.207369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, this is my slack profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d4a779ed-bd57-4fe5-a3c5-60d2b2e2a2cc"
+    },
+    {
+        "type": "message",
+        "text": "Hello Team! This is my profile.",
+        "files": [
+            {
+                "id": "F04LRFZK3B8",
+                "created": 1674855821,
+                "timestamp": 1674855821,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04LHD0ERQF",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 33057,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LRFZK3B8\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LRFZK3B8\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRFZK3B8-e27ea4dace\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRFZK3B8-e27ea4dace\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRFZK3B8-e27ea4dace\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 162,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRFZK3B8-e27ea4dace\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 216,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRFZK3B8-e27ea4dace\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 317,
+                "original_h": 705,
+                "thumb_tiny": "AwAwABWtEm8KAASTirM1l5Ue\/KtjrxUVrHI+DGOVOcntV+dJ5ItoCc9cHrQZ23MmQANxTKkmBV8EYIqOguOxZhunhj2oRjrytPOoTY+8P++P\/r1VA46Gkx3HSgY6WVpn3vjd7CmUUUAOAHp+tIRzwKM+wpKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LHD0ERQF\/F04LRFZK3B8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LRFZK3B8-8939a526de",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LHD0ERQF",
+        "display_as_bot": false,
+        "ts": "1674855829.838269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Team! This is my profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04LHD0ERQF",
+            "ts": "1674855843.000000"
+        },
+        "client_msg_id": "93e70463-481e-4bcf-843a-b2c88fc2490c"
+    },
+    {
+        "type": "message",
+        "text": "Howdy Everyone. Here is my profile.",
+        "files": [
+            {
+                "id": "F04LRJS9TP0",
+                "created": 1674857120,
+                "timestamp": 1674857120,
+                "name": "Slack Profile.PNG",
+                "title": "Slack Profile.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KKA31SG2",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 262269,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LRJS9TP0\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04LRJS9TP0\/download\/slack_profile.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 167,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 223,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 334,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04LRJS9TP0-d3b778b709\/slack_profile_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 371,
+                "thumb_800_h": 800,
+                "original_w": 379,
+                "original_h": 817,
+                "thumb_tiny": "AwAwABaWTid\/mwN3Df3T6H2qGZCE37mDZ5+bimXkzLcyKvy9iR3pZHQ20XPJz+FHUptWsW7GTeDz0A71brP0vHznHJA5zWhQSUprJJZWdi4LHsRTV01MffkHbtV38KUY9KAIbe2W2LbSxz61P+FFFADD15X9acOeSKTHtSgfX86ADv0pfwoooA\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KKA31SG2\/F04LRJS9TP0\/slack_profile.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04LRJS9TP0-c35776d7dd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KKA31SG2",
+        "display_as_bot": false,
+        "ts": "1674857125.231649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Howdy Everyone. Here is my profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bf76784a-ff17-40f9-b573-ed2a89bc16f4"
+    },
+    {
+        "client_msg_id": "1cca021a-6286-4093-9d12-d629c5577151",
+        "type": "message",
+        "text": "If nobody helped (or collaborated with me on this project) do I have to put anything for Collaboration?",
+        "user": "U04LHGC3S1M",
+        "ts": "1674858689.726069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0y3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If nobody helped (or collaborated with me on this project) do I have to put anything for Collaboration?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7881735d55d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712167719618_7881735d55d4171f09a3_72.png",
+            "first_name": "Reyna",
+            "real_name": "Reyna Vega",
+            "display_name": "Reyna",
+            "team": "T04HC2CMNJ0",
+            "name": "reyna.vega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d7243952-4c1d-4d7e-9290-7f8db0c56b0e",
+        "type": "message",
+        "text": "(Also if you answer my question, you and I both now have something to put down for the Collaboration section)",
+        "user": "U04LHGC3S1M",
+        "ts": "1674858715.917119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AugFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Also if you answer my question, you and I both now have something to put down for the Collaboration section)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7881735d55d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712167719618_7881735d55d4171f09a3_72.png",
+            "first_name": "Reyna",
+            "real_name": "Reyna Vega",
+            "display_name": "Reyna",
+            "team": "T04HC2CMNJ0",
+            "name": "reyna.vega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0055c57-25b0-4e6a-835b-56e95a7f5ba2",
+        "type": "message",
+        "text": "Ya she said even if you don't collaborate with anyone just put that you didn't collaborate with anyone. Now we have something to put lol.",
+        "user": "U04KKA31SG2",
+        "ts": "1674858773.403839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ntti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya she said even if you don't collaborate with anyone just put that you didn't collaborate with anyone. Now we have something to put lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ac5a579d4409",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4650816344295_ac5a579d4409c6e2eb7d_72.jpg",
+            "first_name": "River",
+            "real_name": "River Dowling",
+            "display_name": "River Dowling",
+            "team": "T04HC2CMNJ0",
+            "name": "river.dowling",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04LHGC3S1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cb5b6e1-937a-40a8-8400-b2512366830e",
+        "type": "message",
+        "text": "Haha perfect, thank you so much!",
+        "user": "U04LHGC3S1M",
+        "ts": "1674858786.421859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5tnx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha perfect, thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "7881735d55d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712167719618_7881735d55d4171f09a3_72.png",
+            "first_name": "Reyna",
+            "real_name": "Reyna Vega",
+            "display_name": "Reyna",
+            "team": "T04HC2CMNJ0",
+            "name": "reyna.vega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKA31SG2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7335dcc0-3c2a-48b4-8446-b664c7dd8b55",
+        "type": "message",
+        "text": "Hello, I know for the labs they need to be readable in PDF format, does that mean we cannot use hyperlinks when editing in word? or will that work with adobe acrobat? Any help is appreciated",
+        "user": "U04LY71MCQ2",
+        "ts": "1674861354.604409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I know for the labs they need to be readable in PDF format, does that mean we cannot use hyperlinks when editing in word? or will that work with adobe acrobat? Any help is appreciated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674861354.604409",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1675107357.846449",
+        "reply_users": [
+            "U04K42C14HM",
+            "U04LY71MCQ2",
+            "U04KZMSE24X"
+        ],
+        "replies": [
+            {
+                "user": "U04K42C14HM",
+                "ts": "1674861687.740609"
+            },
+            {
+                "user": "U04LY71MCQ2",
+                "ts": "1674861968.697269"
+            },
+            {
+                "user": "U04KZMSE24X",
+                "ts": "1674865740.942019"
+            },
+            {
+                "user": "U04LY71MCQ2",
+                "ts": "1675107357.846449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6237d39a-85d3-472b-92c9-334095887daf",
+        "type": "message",
+        "text": "The hyperlinks should work... But what I'm wondering is if they would work when you upload the pdf to blackboard.",
+        "user": "U04K42C14HM",
+        "ts": "1674861687.740609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zt2Zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The hyperlinks should work... But what I'm wondering is if they would work when you upload the pdf to blackboard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "a335515ad8af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4667973588259_a335515ad8af2379cc48_72.jpg",
+            "first_name": "Joshua",
+            "real_name": "Joshua Baca",
+            "display_name": "Joshua Baca",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.baca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674861354.604409",
+        "parent_user_id": "U04LY71MCQ2"
+    },
+    {
+        "client_msg_id": "52197402-b8c2-45f0-b987-173c57d0d94b",
+        "type": "message",
+        "text": "<@U04K42C14HM> Thank you! I'll check this once uploaded :blush:",
+        "user": "U04LY71MCQ2",
+        "ts": "1674861968.697269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/LG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04K42C14HM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you! I'll check this once uploaded "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "8488b99f6ee7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4712142459091_8488b99f6ee778a06893_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Bray",
+            "display_name": "Samantha Bray",
+            "team": "T04HC2CMNJ0",
+            "name": "samantha.bray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674861354.604409",
+        "parent_user_id": "U04LY71MCQ2"
+    },
+    {
+        "client_msg_id": "CE3A0BA7-6BAE-4D0F-A570-101E3C699578",
+        "type": "message",
+        "text": "They should work even when u upload them to blackboard. As long as you embed it as an actual hyperlink ",
+        "user": "U04KZMSE24X",
+        "ts": "1674865740.942019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They should work even when u upload them to blackboard. As long as you embed it as an actual hyperlink "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "3416f9d03970",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4718018985504_3416f9d0397060b706be_72.png",
+            "first_name": "William",
+            "real_name": "William Faniyi",
+            "display_name": "William Faniyi",
+            "team": "T04HC2CMNJ0",
+            "name": "william.faniyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674861354.604409",
+        "parent_user_id": "U04LY71MCQ2"
+    },
+    {
+        "client_msg_id": "F6E7E168-2666-4397-83A9-161E59798B82",
+        "type": "message",
+        "text": "does anyone know how i can cite my sources in IEEE format ?",
+        "user": "U04LFB0F276",
+        "ts": "1674874359.495549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9uFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does anyone know how i can cite my sources in IEEE format ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674874359.495549",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1674881933.845979",
+        "reply_users": [
+            "U04MB3GV2RX",
+            "U04LFB0F276",
+            "U04M8MADT4Y"
+        ],
+        "replies": [
+            {
+                "user": "U04MB3GV2RX",
+                "ts": "1674874752.477049"
+            },
+            {
+                "user": "U04LFB0F276",
+                "ts": "1674874990.153019"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1674881933.845979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b9e941cf-5a88-4704-8cd9-e065eb12b139",
+        "type": "message",
+        "text": "I just followed the format that is in the Lab-00-Reporting.pdf that is on page 8 towards the bottom.",
+        "user": "U04MB3GV2RX",
+        "ts": "1674874752.477049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yRvX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just followed the format that is in the Lab-00-Reporting.pdf that is on page 8 towards the bottom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g40f3d04b2ca",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40f3d04b2ca6247dd4d3044488f8ad1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Emma",
+            "real_name": "Emma Gaines",
+            "display_name": "Emma Gaines",
+            "team": "T04HC2CMNJ0",
+            "name": "emma.gaines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674874359.495549",
+        "parent_user_id": "U04LFB0F276",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6DE5C7A2-BEFF-45EF-988E-DBAC76A6DEEF",
+        "type": "message",
+        "text": "are we supposed to write it out ourself ?",
+        "user": "U04LFB0F276",
+        "ts": "1674874990.153019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are we supposed to write it out ourself ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "72ae1896bd2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4695676545252_72ae1896bd2c7b5bdc4f_72.png",
+            "first_name": "Priya",
+            "real_name": "Priya Gill",
+            "display_name": "Priya Gill",
+            "team": "T04HC2CMNJ0",
+            "name": "priya.gill2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674874359.495549",
+        "parent_user_id": "U04LFB0F276"
+    },
+    {
+        "client_msg_id": "916D5167-503C-4A36-AEDF-6CAF544A58F3",
+        "type": "message",
+        "text": "Isn’t the slack profile screenshot only supposed to be posted in your report?",
+        "user": "U04M8MADT4Y",
+        "ts": "1674876400.149719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Isn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the slack profile screenshot only supposed to be posted in your report?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674876400.149719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674881813.258199",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04M8MADT4Y"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1674881187.992059"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1674881813.258199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U04K42C14HM",
+                    "U04JWGYC9JT",
+                    "U04ME79DU2C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04LHGC3S1M",
+                    "U04KKRC0ZRA",
+                    "U04ME79DU2C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04KSDYV8DQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04bd85b8-616a-4a7f-9984-1c82ed6126d5",
+        "type": "message",
+        "text": "Hi <@U04M8MADT4Y> Yes, the screenshot of your Slack profile only needs to be in your lab.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1674881187.992059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TU5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M8MADT4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, the screenshot of your Slack profile only needs to be in your lab."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674876400.149719",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "client_msg_id": "68432349-CB18-454F-BEA7-A6556E0B66A6",
+        "type": "message",
+        "text": "Thank you for the clarification <@U04KKRC0ZRA>! :grin: ",
+        "user": "U04M8MADT4Y",
+        "ts": "1674881813.258199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnJlg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for the clarification "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KKRC0ZRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674876400.149719",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26B3E6E9-8D28-4177-863F-0EED97124E55",
+        "type": "message",
+        "text": "Here is an IEEE citation generator. Just double check that the output matches the format in the document. I haven’t checked it myself yet. \n<https:\/\/www.citationmachine.net\/ieee|https:\/\/www.citationmachine.net\/ieee>",
+        "user": "U04M8MADT4Y",
+        "ts": "1674881933.845979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is an IEEE citation generator"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just double check that the output matches the format in the document"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haven’t checked"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it myself yet"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.citationmachine.net\/ieee",
+                                "text": "https:\/\/www.citationmachine.net\/ieee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.citationmachine.net\/ieee",
+                "service_icon": "https:\/\/www.citationmachine.net\/static\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.citationmachine.net\/ieee",
+                "fallback": "Citation Machine®: IEEE Format &amp; IEEE Citation Generator",
+                "text": "Generate IEEE citations in seconds. Start citing books, websites, journals, and more with the Citation Machine® IEEE Citation Generator.",
+                "title": "Citation Machine®: IEEE Format &amp; IEEE Citation Generator",
+                "title_link": "https:\/\/www.citationmachine.net\/ieee",
+                "service_name": "citationmachine.net"
+            }
+        ],
+        "thread_ts": "1674874359.495549",
+        "parent_user_id": "U04LFB0F276",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

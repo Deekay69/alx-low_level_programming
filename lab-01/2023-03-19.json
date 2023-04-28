@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "e36a9403-5ef9-437b-b751-8009f6a64eb6",
+        "type": "message",
+        "text": "I started doing this lab very late since I got overwhelmed by a lot of things that happened in the past month, but here is how I enabled Virtualization on my MSI b450 Tomahawk max BIOS. - I ended up finding the setting in my BIOS after watching a short 1-minute video on YouTube by a small channel named Sandro GamePlaying. <https:\/\/www.youtube.com\/watch?v=iXf0iHKR7sg>",
+        "user": "U04N4UQNAV6",
+        "ts": "1679260153.157479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zfsr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I started doing this lab very late since I got overwhelmed by a lot of things that happened in the past month, but here is how I enabled Virtualization on my MSI b450 Tomahawk max BIOS. - I ended up finding the setting in my BIOS after watching a short 1-minute video on YouTube by a small channel named Sandro GamePlaying. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=iXf0iHKR7sg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "174b5c63aa21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4729297133634_174b5c63aa21e8e377e5_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Robertson",
+            "display_name": "Brandon Robertson",
+            "team": "T04HC2CMNJ0",
+            "name": "brandon.robertson2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=iXf0iHKR7sg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/iXf0iHKR7sg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/iXf0iHKR7sg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"***How to enable Virtualization on MSI b450 tomahawk MAX IN 1 MINUTE***\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=iXf0iHKR7sg",
+                "fallback": "YouTube Video: ***How to enable Virtualization on MSI b450 tomahawk MAX IN 1 MINUTE***",
+                "title": "***How to enable Virtualization on MSI b450 tomahawk MAX IN 1 MINUTE***",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=iXf0iHKR7sg",
+                "author_name": "Sandro GamePlaying",
+                "author_link": "https:\/\/www.youtube.com\/@sandrogameplaying6837",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

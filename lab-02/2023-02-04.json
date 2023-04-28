@@ -1,0 +1,340 @@
+[
+    {
+        "client_msg_id": "19d7cc97-5d03-407c-9084-f0b68296b97b",
+        "type": "message",
+        "text": "Just a quick note when everyone gets here, the instructions for Step 4 list the command \"*cat is_ed25519.pub\"* however the correct command is \"cat *id*_ed25519.pub\" as shown in the terminal screenshot!",
+        "user": "U04KEJUNAJG",
+        "ts": "1675541558.007429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0mI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a quick note when everyone gets here, the instructions for Step 4 list the command \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "cat is_ed25519.pub\" ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "however the correct command is \"cat "
+                            },
+                            {
+                                "type": "text",
+                                "text": "id",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "_ed25519.pub\" as shown in the terminal screenshot!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675541558.007429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679364833.916589",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04L46KHE82"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675541601.812519"
+            },
+            {
+                "user": "U04L46KHE82",
+                "ts": "1679364833.916589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679364833.916589",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04JVCE8GA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13a6daec-7d5d-4baa-9517-0439eadb6b90",
+        "type": "message",
+        "text": "Oh, thanks for that correction, <@U04KEJUNAJG>! I'll make the edit in a bit and reload. Much appreciated :slightly_smiling_face:.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675541601.812519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JqJE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, thanks for that correction, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KEJUNAJG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I'll make the edit in a bit and reload. Much appreciated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1675544531.000000"
+        },
+        "thread_ts": "1675541558.007429",
+        "parent_user_id": "U04KEJUNAJG",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04KEJUNAJG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I have completed everything up to the \"push\" command however when I type \"git push -u origin main\" I receive the following error",
+        "files": [
+            {
+                "id": "F04N0MLJW9K",
+                "created": 1675562549,
+                "timestamp": 1675562549,
+                "name": "image (11).png",
+                "title": "image (11).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KEJUNAJG",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 183889,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N0MLJW9K\/image__11_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04N0MLJW9K\/download\/image__11_.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04N0MLJW9K-0a1a57dd2a\/image__11__1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCubiYHHnP+dIbqb\/ns\/wCdRP8AfNNplWJvtU\/\/AD1f86PtU\/8Az1f86hooCxN9qn\/56v8AnQLqf\/nq\/wCdQ0o60BYGO5iT1NJW2Io\/+eaf98igxR4\/1af98igVzEoraaKMH\/Vp\/wB8imiNMf6tP++RQFzHpR1rZWKMr\/q0\/wC+RQYY\/wDnmn5UBc\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KEJUNAJG\/F04N0MLJW9K\/image__11_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04N0MLJW9K-32a623b7df",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KEJUNAJG",
+        "display_as_bot": false,
+        "ts": "1675562568.181989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have completed everything up to the \"push\" command however when I type \"git push -u origin main\" I receive the following error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5b762b6a-6178-4cfb-b28d-16a103ca6d0f",
+        "thread_ts": "1675562568.181989",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1678941598.820059",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04L7V1MBK2",
+            "U04L7DALXDH"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675562826.406089"
+            },
+            {
+                "user": "U04L7V1MBK2",
+                "ts": "1676399457.098849"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676400493.701569"
+            },
+            {
+                "user": "U04L7V1MBK2",
+                "ts": "1676484163.155689"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676485189.106439"
+            },
+            {
+                "user": "U04L7DALXDH",
+                "ts": "1678941598.820059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678941598.820059"
+    },
+    {
+        "client_msg_id": "F759E7DA-77AA-4738-A572-D8DE164EDD6E",
+        "type": "message",
+        "text": "Hi <@U04KEJUNAJG>: This is a common roadblock when doing this lab for the first time. It’s likely that there is some error in the steps before. Take a look at the tips in the Lab 02 folder and see if any of them work (checking your email, checking the repo name, removing the origin, reestablishing it, etc.). If you are not able to “fix” the syncing, it’s likely easier to just try again with a new repo. ",
+        "user": "U04GV2EK7UP",
+        "ts": "1675562826.406089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vccd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KEJUNAJG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": This is a common roadblock when doing this lab for the first time. It’s likely that there is some error in the steps before. Take a look at the tips in the Lab 02 folder and see if any of them work (checking your email, checking the repo name, removing the origin, reestablishing it, etc.). If you are not able to “fix” the syncing, it’s likely easier to just try again with a new repo. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1675562844.000000"
+        },
+        "thread_ts": "1675562568.181989",
+        "parent_user_id": "U04KEJUNAJG"
+    }
+]

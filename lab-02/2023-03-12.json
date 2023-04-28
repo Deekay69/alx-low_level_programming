@@ -1,0 +1,528 @@
+[
+    {
+        "type": "message",
+        "text": "I was following the instructions from the video and I typed in git push and it said This key is not known by any other names and I have this option: Are you sure you want to continue connecting yes or no. The instruction video picture looks different than my version. ",
+        "files": [
+            {
+                "id": "F04TNDAB3RS",
+                "created": 1678683221,
+                "timestamp": 1678683221,
+                "name": "IMG_8914.jpg",
+                "title": "IMG_8914",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KHN8U3FC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 707483,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TNDAB3RS\/img_8914.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TNDAB3RS\/download\/img_8914.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 251,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 334,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 501,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 557,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 669,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TNDAB3RS-9414ff7967\/img_8914_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 713,
+                "original_w": 3024,
+                "original_h": 2106,
+                "thumb_tiny": "AwAhADCMSsEHCH8OaPPP9yP\/AL5pg5iU8nkjpRkDtQhkglJ\/5Zx\/980eZ\/0yj\/Ko8jPQUFvYUwHeZzgxR\/lQGUnGxPwFREj0p8HM6cd6QWEjx5Y6Z3elKQPxoiidlyOme5qYW57so\/GmIgI9j+dITgdMVO0SDhpVpuyHHMo\/AUDIC3oTUtrzcp9aUrbj+Mn8DQkkEbhlJyPakGgRdTQ1EXU0NTJK7daYae3WmGkAlFFFAz\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHN8U3FC\/F04TNDAB3RS\/img_8914.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TNDAB3RS-f18096bcc6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04U9KRS85N",
+                "created": 1678683221,
+                "timestamp": 1678683221,
+                "name": "IMG_8913.jpg",
+                "title": "IMG_8913",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KHN8U3FC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 1191485,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U9KRS85N\/img_8913.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U9KRS85N\/download\/img_8913.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 314,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 419,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 628,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 917,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 838,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9KRS85N-9bb1522ab7\/img_8913_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 894,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 3465,
+                "thumb_tiny": "AwAwAClvmzjo5o8+f+\/+gphkHoab5nPSgdiT7TJ3Kn6qKPPJ6rH\/AN8Co\/M9qazA9qAsSGUd0i\/75pvmL\/cj\/KoSaTNAWLAHBpmw+tO5J9BRj3NNAN28ZyKa3HenEY6MKYc0DGk02lINJQBYxxSEH1FNMo96DMuBgHPelckCvH+AprDHUGgyj+7SGQH+H9aLhcTj0NJx6Upf\/ZFJv9hQFz\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHN8U3FC\/F04U9KRS85N\/img_8913.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04U9KRS85N-36164f8fe0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KHN8U3FC",
+        "ts": "1678683228.612549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was following the instructions from the video and I typed in git push and it said This key is not known by any other names and I have this option: Are you sure you want to continue connecting yes or no. The instruction video picture looks different than my version. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4D8BDDAA-0EAD-4ECF-B07A-F641C281A4B5",
+        "thread_ts": "1678683228.612549",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1678731044.865379",
+        "reply_users": [
+            "U04JVCE8GA1",
+            "U04KHN8U3FC",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678683388.120469"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678683458.930069"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1678683590.441019"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678683601.954729"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678683620.454449"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1678684140.313329"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1678684270.246999"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678716427.557579"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1678717217.783989"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1678717324.595189"
+            },
+            {
+                "user": "U04KHN8U3FC",
+                "ts": "1678731044.865379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678731044.865379"
+    },
+    {
+        "client_msg_id": "55C998CC-18C3-424F-89BE-0F0F530F565C",
+        "type": "message",
+        "text": "Hi David, looks like you have a typo: orgin vs origin",
+        "user": "U04JVCE8GA1",
+        "ts": "1678683388.120469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9eY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi David, looks like you have a typo: orgin vs origin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "055CC350-7A2B-4802-A631-8D3213A7FB4F",
+        "type": "message",
+        "text": "You also created a folder with your name, not Rita mitra. ",
+        "user": "U04JVCE8GA1",
+        "ts": "1678683458.930069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQp=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You also created a folder with your name, not Rita mitra"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "4CDE3B76-B7A2-4A82-831B-675B24398CC0",
+        "type": "message",
+        "text": "Sorry I made a mistake typing her name and fixed that part but do I put no to cancel the connectiing option?",
+        "user": "U04KHN8U3FC",
+        "ts": "1678683590.441019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry I made a mistake typing her name and fixed that part but do I put no to cancel the connectiing option?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "D8AE2751-F5D9-47DC-9B32-010EBC2DB25A",
+        "type": "message",
+        "text": "Correct",
+        "user": "U04JVCE8GA1",
+        "ts": "1678683601.954729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3ry+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JVCE8GA1",
+            "ts": "1678683658.000000"
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "A90F0968-7BA0-4772-A1A4-6954EC52100D",
+        "type": "message",
+        "text": "Then retype the command with correct spelling",
+        "user": "U04JVCE8GA1",
+        "ts": "1678683620.454449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59Mf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then retype the command with correct spelling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "type": "message",
+        "text": "How do I remove the wrong spelling typos ",
+        "files": [
+            {
+                "id": "F04U9LZJP9N",
+                "created": 1678684127,
+                "timestamp": 1678684127,
+                "name": "IMG_8915.jpg",
+                "title": "IMG_8915",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04KHN8U3FC",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 664076,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U9LZJP9N\/img_8915.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04U9LZJP9N\/download\/img_8915.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 184,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 245,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 368,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 409,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 490,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04U9LZJP9N-6f9b6a3808\/img_8915_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 523,
+                "original_w": 3024,
+                "original_h": 1545,
+                "thumb_tiny": "AwAYADCLz5gBhz0zS\/aJ\/wC+ahDAhenAHvR+H6UATi5mxzIfyoN1L\/z0\/Sq2T6UpwOo\/WmFiY3c2f9Z+lNN3L\/f\/AEqE4\/yaTj\/JpDsPU8DPpT85NRr0FSL98UCFw3ofypChJyVapxTqYXKZhkPRGx9KTypAQShA+laI6Cmy\/wCrP0NAXP\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KHN8U3FC\/F04U9LZJP9N\/img_8915.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04U9LZJP9N-a143728af2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KHN8U3FC",
+        "display_as_bot": false,
+        "ts": "1678684140.313329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9pF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do I remove the wrong spelling typos "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7DE74B48-0E6D-4B2D-8AA5-CF68BA27861E",
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    },
+    {
+        "client_msg_id": "33C5DC41-5A63-4A82-8D21-8885D21D07E1",
+        "type": "message",
+        "text": "I need to find a way to remove it.",
+        "user": "U04KHN8U3FC",
+        "ts": "1678684270.246999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pnp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to find a way to remove it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fc4378451da0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-18\/4660937703909_fc4378451da07602dfb9_72.png",
+            "first_name": "David-Jeremiah",
+            "real_name": "David-Jeremiah Lim",
+            "display_name": "David-Jeremiah Lim",
+            "team": "T04HC2CMNJ0",
+            "name": "david-jeremiah.lim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678683228.612549",
+        "parent_user_id": "U04KHN8U3FC"
+    }
+]

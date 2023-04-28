@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "5b663315-8371-413e-a582-a6985b82e140",
+        "type": "message",
+        "text": "Hi <@U04L7DALXDH> In your GitHub screenshot, it seems that you may be using a HTTPS link instead of a SSH link.",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678967394.610249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0ZkF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04L7DALXDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In your GitHub screenshot, it seems that you may be using a HTTPS link instead of a SSH link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678858608.664909",
+        "parent_user_id": "U04L7DALXDH"
+    },
+    {
+        "client_msg_id": "ee8bd277-14ea-46ac-9004-45df9fea654c",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> I selected the ssh link but still having the same error. I have actually started over 3 times now.",
+        "user": "U04L7DALXDH",
+        "ts": "1679018984.345239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I selected the ssh link but still having the same error. I have actually started over 3 times now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gec6dd7b787e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ec6dd7b787e97445934ec5c13d245ada.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Yaa",
+            "real_name": "Yaa Rose",
+            "display_name": "Yaa Rose",
+            "team": "T04HC2CMNJ0",
+            "name": "yaa.rose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678939784.518179",
+        "parent_user_id": "U04L7DALXDH"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04UAUVV2J1",
+                "created": 1679019044,
+                "timestamp": 1679019044,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 18929,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UAUVV2J1\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UAUVV2J1\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 47,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 63,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 94,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 104,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 125,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UAUVV2J1-a6eebc830b\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 133,
+                "original_w": 1166,
+                "original_h": 152,
+                "thumb_tiny": "AwAGADDQwfWjB9T+dLRTEJzS\/wCetFFABRRRQB\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04UAUVV2J1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UAUVV2J1-5ea3cc7362",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F04UDTG5E7L",
+                "created": 1679019118,
+                "timestamp": 1679019118,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04L7DALXDH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 86056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UDTG5E7L\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04UDTG5E7L\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04UDTG5E7L-fccaab8030\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 304,
+                "original_w": 733,
+                "original_h": 309,
+                "thumb_tiny": "AwAUADCn+VBx7UZAPUUmaZQhINA+p\/Clz\/nijdzQAhJ96TcfU0uQTnmkOO2aAH5pCaD2pD1oEH40oGQ2ewzSd6cv3X\/3aYDKB1H1ooHUUhn\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L7DALXDH\/F04UDTG5E7L\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04UDTG5E7L-5f8bba22d2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04L7DALXDH",
+        "ts": "1679019121.649929",
+        "client_msg_id": "142913e6-d424-4ee9-bfbb-1b248fe60ed1"
+    },
+    {
+        "client_msg_id": "d5f2c011-12b1-4931-9e9c-45e428637c95",
+        "type": "message",
+        "text": "When you started over, did you delete the current folders, and start with a new name for your repos (on both GitHub and in your VM)? It's best to start completely from scratch.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679023526.616219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBKj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you started over, did you delete the current folders, and start with a new name for your repos (on both GitHub and in your VM)? It's best to start completely from scratch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678939784.518179",
+        "parent_user_id": "U04L7DALXDH"
+    }
+]

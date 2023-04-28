@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "662f42ba-bd6a-4b46-a913-73e2e81b3d66",
+        "type": "message",
+        "text": "For Lab 02, how different do our captions of figures have to be to yours. For example your caption says \"_Echoing and redirecting a string to a file, and then displaying the contents of that file with cat.\"_  I'm not sure how to caption the my image differently and I do not want to plagiarize your caption.",
+        "user": "U04KEJUNAJG",
+        "ts": "1675412415.556919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For Lab 02, how different do our captions of figures have to be to yours. For example your caption says \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "Echoing and redirecting a string to a file, and then displaying the contents of that file with cat.\"  ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I'm not sure how to caption the my image differently and I do not want to plagiarize your caption."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g23ece3e05bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23ece3e05bc40113ddc5492ecdc7fe65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Nathanael",
+            "real_name": "Nathanael Lara",
+            "display_name": "Nathanael Lara",
+            "team": "T04HC2CMNJ0",
+            "name": "nathanael.lara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675412415.556919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675437655.967739",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1675437383.767279"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675437655.967739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675437655.967739"
+    },
+    {
+        "client_msg_id": "fc85cab5-55a0-4e1a-b593-41c0028c04a7",
+        "type": "message",
+        "text": "Hey Nathanael! Great Question, you can try to summarize it in your words , in this example you could say 'Echoing the string \"hello\" on the screen and redirecting it to a file called \"README.md\", and then displaying the contents of the \"README.md\" file with the cat command, which stands for concatenate.",
+        "user": "U04KCMLDMPE",
+        "ts": "1675437383.767279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9MVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Nathanael! Great Question, you can try to summarize it in your words , in this example you could say 'Echoing the string \"hello\" on the screen and redirecting it to a file called \"README.md\", and then displaying the contents of the \"README.md\" file with the cat command, which stands for concatenate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675412415.556919",
+        "parent_user_id": "U04KEJUNAJG"
+    },
+    {
+        "client_msg_id": "21647c30-3cb1-4c90-ba5a-b0544f21f6f9",
+        "type": "message",
+        "text": "Great response, <@U04KCMLDMPE>, thank you! To add to that, if you do use the same captions as in the instructions (if there is only so much variation possible), please attribute them in the references explicitly.\n\nAlso, note that narrative text above each screenshot should be rephrased in your own words.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675437655.967739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "frfn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great response, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KCMLDMPE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thank you! To add to that, if you do use the same captions as in the instructions (if there is only so much variation possible), please attribute them in the references explicitly.\n\nAlso, note that narrative text above each screenshot should be rephrased in your own words."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675412415.556919",
+        "parent_user_id": "U04KEJUNAJG"
+    }
+]

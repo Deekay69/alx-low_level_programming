@@ -1,0 +1,197 @@
+[
+    {
+        "type": "message",
+        "text": "So i'm stuck on part 4 because it says i have too many arguments. Are there any methods to fix the problem?",
+        "files": [
+            {
+                "id": "F050BH739RQ",
+                "created": 1679880509,
+                "timestamp": 1679880509,
+                "name": "20230326_202342.jpg",
+                "title": "20230326_202342.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04K8NL51HV",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 991186,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F050BH739RQ\/20230326_202342.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F050BH739RQ\/download\/20230326_202342.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F050BH739RQ-a01d0f5c9d\/20230326_202342_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3000,
+                "original_h": 4000,
+                "thumb_tiny": "AwAwACRQwz9xfyqQHKkYUfhUAOS31qZWCgkmkMViVQcL+VRGUj0\/KnNKjAYP51C55oCw\/wA9vb8qPPb2\/KoqKYWHDgn60rHdTADjk9KXApoYjA45NJzgCg8UZz0OKGMesbMMgUvkv6VF50i8A\/kaPPk\/vH86QgQ\/L+NPJGP8KaDGBjzP\/HTS5j\/56L+RpiuRnHvSginnyyOJUH4H\/CmbE\/57J+v+FA7gQSc8H8KTafanAKP+Wyfr\/hRx\/wA9k\/X\/AAoC5\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04K8NL51HV\/F050BH739RQ\/20230326_202342.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F050BH739RQ-50d9045472",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04K8NL51HV",
+        "display_as_bot": false,
+        "ts": "1679880586.159599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=dFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So i'm stuck on part 4 because it says i have too many arguments. Are there any methods to fix the problem?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9fee6cb3-1e69-4a5e-85c7-4efeed316bb8",
+        "thread_ts": "1679880586.159599",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679881466.476489",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04K8NL51HV"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679880665.228009"
+            },
+            {
+                "user": "U04K8NL51HV",
+                "ts": "1679881466.476489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679881466.476489"
+    },
+    {
+        "client_msg_id": "fd8de2e6-56b1-495c-be9a-20df587a20a4",
+        "type": "message",
+        "text": "Hi Elijah: Please see the second post directly above you.",
+        "user": "U04GV2EK7UP",
+        "ts": "1679880665.228009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQAqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Elijah: Please see the second post directly above you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1679880695.000000"
+        },
+        "thread_ts": "1679880586.159599",
+        "parent_user_id": "U04K8NL51HV"
+    },
+    {
+        "client_msg_id": "d78ff989-7f73-4887-a76d-56bdb09a5574",
+        "type": "message",
+        "text": "I got it now. Thank you",
+        "user": "U04K8NL51HV",
+        "ts": "1679881466.476489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvuA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got it now. Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g7670321298a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7670321298af9cf10da47a101b5025de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Elijah",
+            "real_name": "Elijah Simien",
+            "display_name": "Elijah Simien",
+            "team": "T04HC2CMNJ0",
+            "name": "elijah.simien",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679880586.159599",
+        "parent_user_id": "U04K8NL51HV",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

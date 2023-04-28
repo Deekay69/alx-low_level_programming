@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "dd04c614-0a02-4861-8015-0c792bf1735d",
+        "type": "message",
+        "text": "Jason - thank you for your comments. As someone who led cybersecurity assessments for over a decade, I assure you I - and the other instructors - are very aware of the threats we face, and the potential impact should those threats become realized. In fact, as a team lead for IDART and CASA at Sandia National Labs, it was my job to identify the \"nightmare consequences\" that government agencies, critical infrastructure providers, and other organizations faced.\n\nTo address the other part of your comment: The instructors discuss the course, its content - and the software used - on a regular basis to ensure we are providing the best learning experience we can. However, we also have to consider a number of restrictions - some of which were mentioned by Professor Rita - which may limit our options. For a concrete example, in a previous offering of a different class, I ran into a licensing delay for the software. If we had not identified a workaround, we would have lost 4-6 weeks of lab time. This has resulted in us examining if we can move the class into AWS, which removes the licensing issues - but brings a number of other things that must be considered.\n\nSo, thank you for your comments and your perspective, but please know that all of the instructors are committed to your (and everyone's) success, and we do what we can to give you the best course possible. Let's take further discussion on this topic offline so we keep the Discord feed focused on the class - but absolutely feel free to contact Professor Collazo in her office hours or via email to provide her with any additional comments or perspectives you have so we can incorporate that into future version of the class.",
+        "user": "U04JYA33E9Z",
+        "ts": "1678206376.833819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ffhi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jason - thank you for your comments. As someone who led cybersecurity assessments for over a decade, I assure you I - and the other instructors - are very aware of the threats we face, and the potential impact should those threats become realized. In fact, as a team lead for IDART and CASA at Sandia National Labs, it was my job to identify the \"nightmare consequences\" that government agencies, critical infrastructure providers, and other organizations faced.\n\nTo address the other part of your comment: The instructors discuss the course, its content - and the software used - on a regular basis to ensure we are providing the best learning experience we can. However, we also have to consider a number of restrictions - some of which were mentioned by Professor Rita - which may limit our options. For a concrete example, in a previous offering of a different class, I ran into a licensing delay for the software. If we had not identified a workaround, we would have lost 4-6 weeks of lab time. This has resulted in us examining if we can move the class into AWS, which removes the licensing issues - but brings a number of other things that must be considered.\n\nSo, thank you for your comments and your perspective, but please know that all of the instructors are committed to your (and everyone's) success, and we do what we can to give you the best course possible. Let's take further discussion on this topic offline so we keep the Discord feed focused on the class - but absolutely feel free to contact Professor Collazo in her office hours or via email to provide her with any additional comments or perspectives you have so we can incorporate that into future version of the class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678096509.964209",
+        "parent_user_id": "U04MZKVG04D"
+    },
+    {
+        "client_msg_id": "d7e47516-048b-47fa-8b82-8e46ad337539",
+        "type": "message",
+        "text": "<@U04MZKVG04D> Hi Jace, I concur with Dr Anderson and Dr Mitra--let's chat during my office hours.  For now, we would like to close this thread, and encourage everyone to learn from and enjoy the course as it is currently designed.",
+        "user": "U04JVCE8GA1",
+        "ts": "1678206705.390669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BhYX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04MZKVG04D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Jace, I concur with Dr Anderson and Dr Mitra--let's chat during my office hours.  For now, we would like to close this thread, and encourage everyone to learn from and enjoy the course as it is currently designed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678096509.964209",
+        "parent_user_id": "U04MZKVG04D"
+    }
+]

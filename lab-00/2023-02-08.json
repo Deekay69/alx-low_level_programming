@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "f8d1114f-8c91-4db9-8aa1-367540c4074d",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U04L4KYU5A7",
+        "ts": "1675874538.948949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+jqin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "aabec8c57ae9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-23\/4670279652535_aabec8c57ae9cddfd292_72.jpg",
+            "first_name": "Armando",
+            "real_name": "Armando Sifuentes",
+            "display_name": "Armando Sifuentes",
+            "team": "T04HC2CMNJ0",
+            "name": "armando.sifuentes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675819730.477539",
+        "parent_user_id": "U04KAHHNJ1M"
+    }
+]

@@ -1,0 +1,699 @@
+[
+    {
+        "type": "message",
+        "text": "I searched up the task manager in the windows search, opened up TM, went to performance and clicked on CPU. There, I found my virtualization turned on already.",
+        "files": [
+            {
+                "id": "F04RBBPCGFQ",
+                "created": 1677536552,
+                "timestamp": 1677536552,
+                "name": "Screenshot 2023-02-27 162013.png",
+                "title": "Screenshot 2023-02-27 162013.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KBRD8ESJ",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 189859,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RBBPCGFQ\/screenshot_2023-02-27_162013.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RBBPCGFQ\/download\/screenshot_2023-02-27_162013.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 222,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 296,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 444,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 493,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 591,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RBBPCGFQ-61cc4945e4\/screenshot_2023-02-27_162013_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 631,
+                "original_w": 2735,
+                "original_h": 1685,
+                "thumb_tiny": "AwAdADDQyQeKcM96O9LQAUUUUAHNJz6UtFABgUhNLSY5oAXNJRjmlHSgBMUtFFAH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KBRD8ESJ\/F04RBBPCGFQ\/screenshot_2023-02-27_162013.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RBBPCGFQ-9e4f40d195",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KBRD8ESJ",
+        "display_as_bot": false,
+        "ts": "1677536619.022789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I searched up the task manager in the windows search, opened up TM, went to performance and clicked on CPU. There, I found my virtualization turned on already."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "62c19ce8-141c-434b-8b4c-d4b45bc347df"
+    },
+    {
+        "type": "message",
+        "text": "My ls -a and ls -al commands look completely different from the reference images on the instruction page. Did I do something wrong?",
+        "files": [
+            {
+                "id": "F04S8JEE072",
+                "created": 1677552665,
+                "timestamp": 1677552665,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04N1A605SS",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 33030,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04S8JEE072\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04S8JEE072\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04S8JEE072-edfcbe74ea\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04S8JEE072-edfcbe74ea\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04S8JEE072-edfcbe74ea\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 101,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04S8JEE072-edfcbe74ea\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 135,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04S8JEE072-edfcbe74ea\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "original_w": 619,
+                "original_h": 174,
+                "thumb_tiny": "AwANADCkRjvRg\/5NNz9aXP1plC4P+TRtP+TTc\/WgHmgBSDjNNpScmkoA\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04N1A605SS\/F04S8JEE072\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04S8JEE072-0166007792",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04N1A605SS",
+        "display_as_bot": false,
+        "ts": "1677552668.295479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7XNRv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My ls -a and ls -al commands look completely different from the reference images on the instruction page. Did I do something wrong?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6ecf209f-9a0d-43a9-b276-e7129ff115fc",
+        "thread_ts": "1677552668.295479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677553406.166859",
+        "reply_users": [
+            "U04KKRC0ZRA",
+            "U04N1A605SS"
+        ],
+        "replies": [
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1677552769.088489"
+            },
+            {
+                "user": "U04N1A605SS",
+                "ts": "1677553406.166859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "034aa9a3-29b0-4b75-8cdc-f928d50c0bce",
+        "type": "message",
+        "text": "Hi <@U04N1A605SS> This Slack Thread might help: <https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVFGJLQ2\/p1676991176852939>",
+        "user": "U04KKRC0ZRA",
+        "ts": "1677552769.088489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pn8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04N1A605SS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This Slack Thread might help: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVFGJLQ2\/p1676991176852939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVFGJLQ2\/p1676991176852939",
+                "ts": "1676991176.852939",
+                "author_id": "U04L6TSL2GK",
+                "channel_id": "C04JVFGJLQ2",
+                "channel_team": "T04HC2CMNJ0",
+                "channel_name": "lab-01",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T04HC2CMNJ0",
+                        "channel": "C04JVFGJLQ2",
+                        "ts": "1676991176.852939",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "1gHnR",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hello guys, for this part of the assignment are you guys also having issues?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F04R99731G8",
+                        "created": 1676991091,
+                        "timestamp": 1676991091,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U04L6TSL2GK",
+                        "user_team": "T04HC2CMNJ0",
+                        "editable": false,
+                        "size": 47598,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R99731G8\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04R99731G8\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R99731G8-ec5bc437b0\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R99731G8-ec5bc437b0\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R99731G8-ec5bc437b0\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 194,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R99731G8-ec5bc437b0\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 258,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04R99731G8-ec5bc437b0\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                        "original_w": 716,
+                        "original_h": 385,
+                        "thumb_tiny": "AwAZADClwcc0oOO9N3D0o3D0pjsLuPrRuPrSbhjpSZ9qAsLuOaTJoyaM5oGJRRRQAUUUUAFFFFAH\/9k=",
+                        "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04L6TSL2GK\/F04R99731G8\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04R99731G8-4527a8e821",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/is-1003-spring-2023.slack.com\/archives\/C04JVFGJLQ2\/p1676991176852939",
+                "fallback": "[February 21st, 2023 6:52 AM] nataly.rosado: Hello guys, for this part of the assignment are you guys also having issues?",
+                "text": "Hello guys, for this part of the assignment are you guys also having issues?",
+                "author_name": "Nataly Rosado",
+                "author_link": "https:\/\/is-1003-spring-2023.slack.com\/team\/U04L6TSL2GK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4699670825014_ea64302fd3d1927f9891_48.jpg",
+                "author_subname": "Nataly Rosado",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #lab-01"
+            }
+        ],
+        "thread_ts": "1677552668.295479",
+        "parent_user_id": "U04N1A605SS",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "310de250-9bc3-4b63-b1a7-cceb9df865b5",
+        "type": "message",
+        "text": "thank you",
+        "user": "U04N1A605SS",
+        "ts": "1677553406.166859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb23d801414f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-06\/4758446724820_fb23d801414f578e3496_72.png",
+            "first_name": "Leon",
+            "real_name": "Leon Morton",
+            "display_name": "Leon Morton",
+            "team": "T04HC2CMNJ0",
+            "name": "leon.morton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677552668.295479",
+        "parent_user_id": "U04N1A605SS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a140f82-8d2d-4895-a503-069888c4d6a3",
+        "type": "message",
+        "text": "is there a difference between the ll and ls -al commands?",
+        "user": "U04N1A605SS",
+        "ts": "1677554044.665689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rvt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a difference between the ll and ls -al commands?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb23d801414f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-06\/4758446724820_fb23d801414f578e3496_72.png",
+            "first_name": "Leon",
+            "real_name": "Leon Morton",
+            "display_name": "Leon Morton",
+            "team": "T04HC2CMNJ0",
+            "name": "leon.morton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554044.665689",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1677557734.013039",
+        "reply_users": [
+            "U04N1A605SS",
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04N1A605SS",
+                "ts": "1677554133.124219"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677555023.525599"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677555139.305759"
+            },
+            {
+                "user": "U04N1A605SS",
+                "ts": "1677555486.279689"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1677557734.013039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677557734.013039",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8625ecc4-0d25-45f3-8e44-bcddfe8cf80b",
+        "type": "message",
+        "text": "the only difference I see is that there are forward slashes after every line",
+        "user": "U04N1A605SS",
+        "ts": "1677554133.124219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the only difference I see is that there are forward slashes after every line"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb23d801414f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-06\/4758446724820_fb23d801414f578e3496_72.png",
+            "first_name": "Leon",
+            "real_name": "Leon Morton",
+            "display_name": "Leon Morton",
+            "team": "T04HC2CMNJ0",
+            "name": "leon.morton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554044.665689",
+        "parent_user_id": "U04N1A605SS"
+    },
+    {
+        "client_msg_id": "b46f7e6e-d9b2-4ea4-abd0-2d64d45e3553",
+        "type": "message",
+        "text": "Hi Leon: The behavior of \"ll\" is dependent on the Linux distribution.",
+        "user": "U04GV2EK7UP",
+        "ts": "1677555023.525599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/k84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Leon: The behavior of \"ll\" is dependent on the Linux distribution."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554044.665689",
+        "parent_user_id": "U04N1A605SS"
+    },
+    {
+        "type": "message",
+        "text": "In Ubuntu, \"ll\" seems to be the same as \"ls -alF\" (showing the forward slash). But in Kali, for example, \"ll\" does not show hidden files.",
+        "files": [
+            {
+                "id": "F04RK1JJF42",
+                "created": 1677555123,
+                "timestamp": 1677555123,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04GV2EK7UP",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 219056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RK1JJF42\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04RK1JJF42\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 337,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 450,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 675,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 750,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_960.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 900,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04RK1JJF42-f3e88bef94\/image_1024.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 960,
+                "original_w": 1066,
+                "original_h": 999,
+                "thumb_tiny": "AwAsADCnx3FHHp+tO7D6UAdKYhmRjp+tLuJGM8U7A2\/hR2\/GgBlFKaSgB2eKN1HYfSgAY6UAG7jGKTd7d6UAZ6d6MDB47UANJzRTtvvTaAHdhSjoKZuNG4igY9f60dj9KbuIo3GgQrE0080ZNFAH\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04GV2EK7UP\/F04RK1JJF42\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04RK1JJF42-d7f2008510",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04GV2EK7UP",
+        "display_as_bot": false,
+        "ts": "1677555139.305759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Ubuntu, \"ll\" seems to be the same as \"ls -alF\" (showing the forward slash). But in Kali, for example, \"ll\" does not show hidden files."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9444548d-65d7-4513-86a9-e4099706fd9c",
+        "thread_ts": "1677554044.665689",
+        "parent_user_id": "U04N1A605SS"
+    },
+    {
+        "client_msg_id": "2b6aae42-6b92-4ffd-8e02-bf48e5c6200d",
+        "type": "message",
+        "text": "oooohh ok that cool. thank you",
+        "user": "U04N1A605SS",
+        "ts": "1677555486.279689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tu0S9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooohh ok that cool. thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb23d801414f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-06\/4758446724820_fb23d801414f578e3496_72.png",
+            "first_name": "Leon",
+            "real_name": "Leon Morton",
+            "display_name": "Leon Morton",
+            "team": "T04HC2CMNJ0",
+            "name": "leon.morton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554044.665689",
+        "parent_user_id": "U04N1A605SS"
+    },
+    {
+        "client_msg_id": "77d5c73a-ff54-4b9a-ba1a-0c982a8e1501",
+        "type": "message",
+        "text": "Thanks for noticing the differences and asking about them!",
+        "user": "U04GV2EK7UP",
+        "ts": "1677557734.013039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4YPt3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for noticing the differences and asking about them!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677554044.665689",
+        "parent_user_id": "U04N1A605SS"
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "6b3dfdb5-8929-4c3a-b9f7-c4a84d197daa",
+        "type": "message",
+        "text": "On this lab, am I allowed to use my own computer? I have a Macbook. I saw on the instructions that I got to download things like virtual box and save my files.",
+        "user": "U04K91MUE9Z",
+        "ts": "1676390464.119759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7pHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On this lab, am I allowed to use my own computer? I have a Macbook. I saw on the instructions that I got to download things like virtual box and save my files."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c8dab25605f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4655194288722_c8dab25605f4fc9fd5a0_72.jpg",
+            "first_name": "Ricky",
+            "real_name": "Ricky Coreas",
+            "display_name": "Ricky Coreas",
+            "team": "T04HC2CMNJ0",
+            "name": "ricky.coreas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676390464.119759",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1676396083.765599",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676396012.886589"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1676396083.765599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676396083.765599"
+    },
+    {
+        "client_msg_id": "b3b272bf-608e-473e-ae1d-a30ea25fc90a",
+        "type": "message",
+        "text": "Hi Ricky: Yes, you may use your own computer, which you presumably detailed in Lab 00.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676396012.886589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cz3wa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ricky: Yes, you may use your own computer, which you presumably detailed in Lab 00."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676390464.119759",
+        "parent_user_id": "U04K91MUE9Z"
+    },
+    {
+        "client_msg_id": "02b190e5-f2f1-489a-8efd-00892112442b",
+        "type": "message",
+        "text": "And given your specs, I just added you to the <#C04JVFN7EHZ|> channel.",
+        "user": "U04GV2EK7UP",
+        "ts": "1676396083.765599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WH3qN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And given your specs, I just added you to the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04JVFN7EHZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676390464.119759",
+        "parent_user_id": "U04K91MUE9Z"
+    }
+]

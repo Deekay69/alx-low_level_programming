@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "2ba60b9a-c513-4734-8884-14c9241f26d0",
+        "type": "message",
+        "text": "As stated a few times before, it is actually not a requirement to post your profile here in the slack.",
+        "user": "U04KSDYV8DQ",
+        "ts": "1675391809.581889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Totp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As stated a few times before, it is actually not a requirement to post your profile here in the slack."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675275330.638479",
+        "parent_user_id": "U04JWGYC9JT"
+    }
+]

@@ -1,0 +1,459 @@
+[
+    {
+        "client_msg_id": "20DCE7C4-16E5-4A18-8F1E-D65F963EBE4F",
+        "type": "message",
+        "text": "Hello! When we log in to our student account to download VMware what do we put for the username? Because I tried my student id number and my email and both didn’t seem to work. I even tried to register and it didn’t work. Does this mean we have to request an account or am I putting in the wrong information ? ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675698828.390859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ief",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! When we log in to our student account to download VMware what do we put for the username? Because I tried my student id number and my email and both didn’t seem to work. I even tried to register and it didn’t work. Does this mean we have to request an account or am I putting in the wrong information ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1675796131.274259",
+        "reply_users": [
+            "U04KC5TB3TR",
+            "U04GV2EK7UP",
+            "U04LP6YKHJ8"
+        ],
+        "replies": [
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675699054.683109"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675723871.419149"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675724139.055449"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675724467.468689"
+            },
+            {
+                "user": "U04LP6YKHJ8",
+                "ts": "1675796131.274259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675796131.274259"
+    },
+    {
+        "client_msg_id": "8B1B1043-0E76-463F-BC83-6F928853707E",
+        "type": "message",
+        "text": "Nevermind I figured it out! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675699054.683109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8WF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nevermind I figured it out! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3C5A127A-5A3F-444D-919D-CE2EB89DBF56",
+        "type": "message",
+        "text": "For this lab if I have 8 gb ram can I still download ubuntu? Just because I am having a bit of trouble finding Lubuntu downloading tutorials, if not that’s okay. ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675704475.751849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For this lab if I have 8 gb ram can I still download ubuntu"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just because I am having a bit of trouble finding Lubuntu downloading tutorials, if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "not that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " okay. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675704475.751849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675708614.799019",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04KC5TB3TR"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1675704911.778069"
+            },
+            {
+                "user": "U04KC5TB3TR",
+                "ts": "1675708614.799019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f068d22a-8dd5-44ef-9529-c733aca1f163",
+        "type": "message",
+        "text": "Hey Daija, I'm sure the ubuntu machine can still operate on a machine that has 8GB RAM or less, but it might be slow at times, here is a video I found which can guide you to download Lubuntu: <https:\/\/www.youtube.com\/watch?v=OijSqk8ONRA>, If you are still having any trouble downloading it, feel free to hop on a peer mentor zoom session and we can help you.",
+        "user": "U04KCMLDMPE",
+        "ts": "1675704911.778069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Daija, I'm sure the ubuntu machine can still operate on a machine that has 8GB RAM or less, but it might be slow at times, here is a video I found which can guide you to download Lubuntu: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=OijSqk8ONRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", If you are still having any trouble downloading it, feel free to hop on a peer mentor zoom session and we can help you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OijSqk8ONRA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OijSqk8ONRA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OijSqk8ONRA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Install and overview of Lubuntu 22.04, Jammy Jellyfish\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OijSqk8ONRA",
+                "fallback": "YouTube Video: Install and overview of Lubuntu 22.04, Jammy Jellyfish",
+                "title": "Install and overview of Lubuntu 22.04, Jammy Jellyfish",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OijSqk8ONRA",
+                "author_name": "Low Tech Linux",
+                "author_link": "https:\/\/www.youtube.com\/@LowTechLinux",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "thread_ts": "1675704475.751849",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1D8B18CF-DC1E-4A45-91A2-25889A02806F",
+        "type": "message",
+        "text": "thank you so much! ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675708614.799019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7S+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you so much! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675704475.751849",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "9798b8af-f1f4-4028-b610-f3bf2dad2337",
+        "type": "message",
+        "text": "Hi <@U04KC5TB3TR>: Can you share how you solved your issue for the benefit of others? Thanks!",
+        "user": "U04GV2EK7UP",
+        "ts": "1675723871.419149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8G2g0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KC5TB3TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Can you share how you solved your issue for the benefit of others? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "parent_user_id": "U04KC5TB3TR"
+    },
+    {
+        "client_msg_id": "687E788C-A3EC-4B28-8854-C5BA243079FD",
+        "type": "message",
+        "text": "No problem! I just pressed the link that was in the email and went from there. The accounts are already made I just made my password and I pressed vmfusion on my account and pressed download. ",
+        "user": "U04KC5TB3TR",
+        "ts": "1675724139.055449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrvwW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No problem! I just pressed the link that was in the email and went from there. The accounts are already made I just made my password and I pressed vmfusion on my account and pressed download. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g21f15d290d9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21f15d290d99fb2df097b4d022e4beb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Daija",
+            "real_name": "Daija Freeman",
+            "display_name": "Daija Freeman",
+            "team": "T04HC2CMNJ0",
+            "name": "daija.freeman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "parent_user_id": "U04KC5TB3TR",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04LP6YKHJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42ec72ed-68c1-47ef-8853-126b9bfd3675",
+        "type": "message",
+        "text": "Very helpful, thanks! So everyone should start with their email first.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675724467.468689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very helpful, thanks! So everyone should start with their email first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675698828.390859",
+        "parent_user_id": "U04KC5TB3TR"
+    }
+]

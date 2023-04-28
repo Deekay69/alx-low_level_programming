@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "78CC3D6C-6B04-4946-BBE0-239F0E202C89",
+        "type": "message",
+        "text": "Hi. This is my Slack Profile",
+        "user": "U04MZKVG04D",
+        "ts": "1675505785.380759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtKi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi. This is my Slack Profile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "c0f4cb1e4104",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-04\/4774309917248_c0f4cb1e4104b3c8ea2f_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Marks",
+            "display_name": "Jace",
+            "team": "T04HC2CMNJ0",
+            "name": "jason.marks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

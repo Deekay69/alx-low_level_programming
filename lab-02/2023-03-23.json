@@ -1,0 +1,509 @@
+[
+    {
+        "client_msg_id": "83E60A19-5880-4193-84A6-77BC706CE918",
+        "type": "message",
+        "text": "Any advice on why my sniping tool stopped working, Suddenly it won’t work while the vm is running ",
+        "user": "U04MCU247HB",
+        "ts": "1679577202.104729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p14z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any advice on why my sniping tool stopped working, Suddenly it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " work while the vm is running "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ccfcd2a46245",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4753600866624_ccfcd2a46245919ff5c6_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Victor",
+            "display_name": "Julian Victor",
+            "team": "T04HC2CMNJ0",
+            "name": "julian.victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1679632023.849219",
+        "reply_users": [
+            "U04JYA33E9Z",
+            "U04MCU247HB",
+            "U04GV2EK7UP",
+            "U04KSDYV8DQ"
+        ],
+        "replies": [
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1679577310.962379"
+            },
+            {
+                "user": "U04MCU247HB",
+                "ts": "1679577397.560999"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1679577487.026879"
+            },
+            {
+                "user": "U04MCU247HB",
+                "ts": "1679577726.216379"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679580360.321279"
+            },
+            {
+                "user": "U04KSDYV8DQ",
+                "ts": "1679632023.849219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679632023.849219"
+    },
+    {
+        "client_msg_id": "179b2592-a57d-4b7b-b1f0-a7b4b3d165c4",
+        "type": "message",
+        "text": "Julian - Make sure you are outside of your VM when using your snipping tool. If you are still able to type in your VM, that means your input is going there instead of your host machine.",
+        "user": "U04JYA33E9Z",
+        "ts": "1679577310.962379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6PlPq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Julian - Make sure you are outside of your VM when using your snipping tool. If you are still able to type in your VM, that means your input is going there instead of your host machine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    },
+    {
+        "client_msg_id": "5A634EB9-1916-4CCA-A6C2-5D305ADABF33",
+        "type": "message",
+        "text": "Is there a way to make sure im outside of it because I’ve tried different methods of getting it to work and no luck",
+        "user": "U04MCU247HB",
+        "ts": "1679577397.560999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/b=Zz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a way to make sure im outside of it because "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tried different methods of getting it to work and no luck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "ccfcd2a46245",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-31\/4753600866624_ccfcd2a46245919ff5c6_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Victor",
+            "display_name": "Julian Victor",
+            "team": "T04HC2CMNJ0",
+            "name": "julian.victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    },
+    {
+        "client_msg_id": "6178deef-e0ea-473f-845f-d782ca1951bf",
+        "type": "message",
+        "text": "If you can click on\/select things your host desktop, then you are outside of the VM.\nIf your VM is full screen, that makes it harder to switch back to your host.",
+        "user": "U04JYA33E9Z",
+        "ts": "1679577487.026879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you can click on\/select things your host desktop, then you are outside of the VM.\nIf your VM is full screen, that makes it harder to switch back to your host."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    },
+    {
+        "type": "message",
+        "text": "I never used it full screen before and it still doesn’t load. When I click on it from the search menu the loading circle pops up on the mouse but nothing else happens after and I know im outside the vm for sure ",
+        "files": [
+            {
+                "id": "F04V9CHGQUD",
+                "created": 1679577642,
+                "timestamp": 1679577642,
+                "name": "IMG_3001.jpg",
+                "title": "IMG_3001",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04MCU247HB",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 1054786,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04V9CHGQUD\/img_3001.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04V9CHGQUD\/download\/img_3001.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04V9CHGQUD-aa11e4637c\/img_3001_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQEHAzE3XtTGib\/AJ5P+VQ5IPBH4GtKAk26E5JxU8pTZR8jP8LVKtr7kVbHWmSv8ygnApNAisd8bFQ5IFJvk\/vVLsUs2055o8sVIzPzyK0M\/wDEuU+1UwIQuS8n\/fIqwt3AIRGVdgPUCtSSLzCTwxxUkpO2I8\/d\/rSCe1H\/ACxNMmuFcgKCqgdDUsCxbMvlklgMsetTbk\/vCq1tCHhDEnkmpfs6+rVm9zZKNtzNyCPu\/rSbk\/u\/rVr7Knt+dL9mj9V\/Or5kZ2ZU3L6U4Mp\/hFWhBECDlaeyxNjIGB6LRcLMWAYhTk9PWpMe5\/OlC4Ax0o2moKsf\/9k=",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04MCU247HB\/F04V9CHGQUD\/img_3001.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04V9CHGQUD-cae5cefc1c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04MCU247HB",
+        "display_as_bot": false,
+        "ts": "1679577726.216379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65vev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I never used it full screen before and it still "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " load. When I click on it from the search menu the loading circle pops up on the mouse but nothing else happens after and I know im outside the vm for sure "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1A3267B8-DA4D-4B7F-8295-45F757020E84",
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    },
+    {
+        "client_msg_id": "33e6456e-38aa-4b2e-b437-d051598f077e",
+        "type": "message",
+        "text": "Hi Julian: I just responded to your email about this!",
+        "user": "U04GV2EK7UP",
+        "ts": "1679580360.321279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMjf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Julian: I just responded to your email about this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    },
+    {
+        "type": "message",
+        "text": "Can anybody help me with step 4 I’m stuck and can’t seem to figure out what’s wrong",
+        "files": [
+            {
+                "id": "F05030947BL",
+                "created": 1679631546,
+                "timestamp": 1679631546,
+                "name": "IMG_4627.jpg",
+                "title": "IMG_4627",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U04LC3JHZPH",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 940924,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F05030947BL\/img_4627.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F05030947BL\/download\/img_4627.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_64.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_80.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_360.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_480.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_160.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_720.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_800.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_960.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F05030947BL-a1021d07bd\/img_4627_1024.jpg?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSt82BgfpQGcdP5U4oGnIxgAVIDhfegdiMM+Mkn8qRm9Tz7mlY\/7WB6EE1E3JosOwhY54NJuPrSUU7DsWuRO3Tp3p+QB7+lQK+x2I7k08T9Pl6e9ISEbYSflwfYiojjtU3n9fl61ExLHJploZRRRTAGOGP1pNwprH5j9aSpM7km4Ubqjop3HzMfkUZFNoouFz\/\/2Q==",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04LC3JHZPH\/F05030947BL\/img_4627.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F05030947BL-b95be08269",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04LC3JHZPH",
+        "display_as_bot": false,
+        "ts": "1679631581.227529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ireh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anybody help me with step 4 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m stuck"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seem to figure out "
+                            },
+                            {
+                                "type": "text",
+                                "text": "what’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0E7B197A-FBDB-47F6-ADBA-B1F9F65B767B",
+        "thread_ts": "1679631581.227529",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679653719.246919",
+        "reply_users": [
+            "U04GV2EK7UP"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679653719.246919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679653719.246919"
+    },
+    {
+        "client_msg_id": "91f6f3cf-f41b-4d54-9960-10749adfd606",
+        "type": "message",
+        "text": "If your snipping tool inside the vm is not working, I would just leave the entire window minimized and snip using the windows shortcut",
+        "user": "U04KSDYV8DQ",
+        "ts": "1679632023.849219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJ0sp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If your snipping tool inside the vm is not working, I would just leave the entire window minimized and snip using the windows shortcut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "28a73e70a45a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-20\/4676908385442_28a73e70a45a3daf657e_72.jpg",
+            "first_name": "Markus",
+            "real_name": "Markus Richardson",
+            "display_name": "Markus Richardson",
+            "team": "T04HC2CMNJ0",
+            "name": "markus.richardson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679577202.104729",
+        "parent_user_id": "U04MCU247HB"
+    }
+]

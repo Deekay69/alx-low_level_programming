@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "a245dbf2-0ce1-4900-9a20-a629be4f7c31",
+        "type": "message",
+        "text": "Hello everyone,\n\nFor Breakpoint 9, the instructions state \"Include two screenshots with the GitHub and git tasks\/output above.\" I interpret these instructions to mean that the breakpoint should have two screenshots, one of GitHub and one of using git in the Ubuntu terminal. So while the git screenshot will be of the terminal commands I used to clone the repo, what should be included in the GitHub screenshot? A screenshot of creating the fork, the fork appearing in my GitHub account, copying the SSH link, or something else? Or, I am misinterpreting the instructions?",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678468209.260129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=vhM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\n\nFor Breakpoint 9, the instructions state \"Include two screenshots with the GitHub and git tasks\/output above.\" I interpret these instructions to mean that the breakpoint should have two screenshots, one of GitHub and one of using git in the Ubuntu terminal. So while the git screenshot will be of the terminal commands I used to clone the repo, what should be included in the GitHub screenshot? A screenshot of creating the fork, the fork appearing in my GitHub account, copying the SSH link, or something else? Or, I am misinterpreting the instructions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678468209.260129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1678473603.039219",
+        "reply_users": [
+            "U04KCMLDMPE",
+            "U04KKRC0ZRA"
+        ],
+        "replies": [
+            {
+                "user": "U04KCMLDMPE",
+                "ts": "1678471717.186849"
+            },
+            {
+                "user": "U04KKRC0ZRA",
+                "ts": "1678473603.039219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Hey Sarah! Great question, you can include a screenshot of the github repo along with the link that you will use to clone the repository which can be seen when you click the code dropdown on github. A screenshot with the github repo in the picture along with the link to the repo will be great.",
+        "files": [
+            {
+                "id": "F04TE8PPHDZ",
+                "created": 1678471678,
+                "timestamp": 1678471678,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04KCMLDMPE",
+                "user_team": "T04HC2CMNJ0",
+                "editable": false,
+                "size": 52636,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TE8PPHDZ\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04HC2CMNJ0-F04TE8PPHDZ\/download\/image.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_64.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_80.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_360.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 102,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_480.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 136,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_160.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_720.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 204,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04HC2CMNJ0-F04TE8PPHDZ-5c3fbb1f28\/image_800.png?t=xoxe-4590080736612-5103277303719-5114876852661-7c6954f20f96cb848404111e9d27c8e9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 227,
+                "original_w": 900,
+                "original_h": 255,
+                "thumb_tiny": "AwANADDS59\/zo59D+dMAUZIHX3pcj0oAfmkz2pBg9qXAoAMD1P503YN+7c30zxT8CjFAH\/\/Z",
+                "permalink": "https:\/\/is-1003-spring-2023.slack.com\/files\/U04KCMLDMPE\/F04TE8PPHDZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T04HC2CMNJ0-F04TE8PPHDZ-9608294d16",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04KCMLDMPE",
+        "display_as_bot": false,
+        "ts": "1678471717.186849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ufm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Sarah! Great question, you can include a screenshot of the github repo along with the link that you will use to clone the repository which can be seen when you click the code dropdown on github. A screenshot with the github repo in the picture along with the link to the repo will be great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4555af89-e97b-43e5-ad0c-efe7267d919c",
+        "thread_ts": "1678468209.260129",
+        "parent_user_id": "U04KKRC0ZRA",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04KKRC0ZRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05c75ce0-742e-4235-af89-56a9261dfef9",
+        "type": "message",
+        "text": "Hi <@U04KCMLDMPE>, Thank you for the clarification! :grin:",
+        "user": "U04KKRC0ZRA",
+        "ts": "1678473603.039219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KCMLDMPE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Thank you for the clarification! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "6713326feb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4670223792436_6713326feb534f2e8325_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara McDonald",
+            "display_name": "Sara McDonald",
+            "team": "T04HC2CMNJ0",
+            "name": "sara.mcdonald",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678468209.260129",
+        "parent_user_id": "U04KKRC0ZRA"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "42B10469-2DE6-45F1-9F17-2E10C0398508",
+        "type": "message",
+        "text": "Hi I will hosting a zoom session today from 3pm - 6pm feel free to join :) \nZoom link:<https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09>",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1679774354.657899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I will hosting a zoom session today from 3pm - 6pm feel free to join :) \nZoom link:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

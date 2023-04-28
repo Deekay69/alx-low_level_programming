@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "c0277b48-90be-4bb8-8ce4-115b92280cd9",
+        "type": "message",
+        "text": "Hi Nicolas: Thanks for this question! PowerShell is \"object\"-based whereas Bash is text-based (or file-based). The syntax is different due to the way commands\/objects are referenced, but both are shell interpreters. Bash is native to Linux\/Unix and PowerShell is native to Windows, but both can be installed Linux\/Mac\/Win. You will gain familiarity with both, but we're mostly working with Bash in this class. To that end, you all might practice the capture-the-flag (CTF) exercises at <https:\/\/overthewire.org\/wargames\/|overthewire.org> for Bash. For PowerShell, there is a similar CTF at <https:\/\/underthewire.tech\/>. As an added benefit, you'll gain some experience with CTFs!",
+        "user": "U04GV2EK7UP",
+        "ts": "1680090273.549149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nicolas: Thanks for this question! PowerShell is \"object\"-based whereas Bash is text-based (or file-based). The syntax is different due to the way commands\/objects are referenced, but both are shell interpreters. Bash is native to Linux\/Unix and PowerShell is native to Windows, but both can be installed Linux\/Mac\/Win. You will gain familiarity with both, but we're mostly working with Bash in this class. To that end, you all might practice the capture-the-flag (CTF) exercises at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/overthewire.org\/wargames\/",
+                                "text": "overthewire.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for Bash. For PowerShell, there is a similar CTF at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/underthewire.tech\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". As an added benefit, you'll gain some experience with CTFs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1680096411.000000"
+        },
+        "thread_ts": "1680057006.036679",
+        "parent_user_id": "U04KLBCHHD5"
+    },
+    {
+        "client_msg_id": "cc82b8ac-26a7-4d8a-81f4-9a1e6191f5c6",
+        "type": "message",
+        "text": "Happy Wednesday everyone! I'll be available today from 10 AM to 1 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09>",
+        "user": "U04KDSDECLC",
+        "ts": "1680102023.273489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Wednesday everyone! I'll be available today from 10 AM to 1 PM on Slack\/Zoom . Please feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/8783019278?pwd=ZW1pWWdtc2pka2I1c1ZJRjB6WUI4QT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bcd2a1414174",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-01\/4733678002562_bcd2a14141742e58fdb3_72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Mijangos",
+            "display_name": "Dana Mijangos",
+            "team": "T04HC2CMNJ0",
+            "name": "dana.mijangos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JVCE8GA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "449CB9AC-ECB6-4A38-93FD-E8CE03D4732B",
+        "type": "message",
+        "text": "Hi today I’ll be on zoom and slack from 3-6pm today here is the zoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09> ",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1680119910.093809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hH6sp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi today "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be on zoom and slack from 3-6pm today here is the zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=eXFWVXF3aDcwZTB2MDhkTERZWHR0dz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49e383de-f710-471f-90cc-68b7b5f035c0",
+        "type": "message",
+        "text": "thank you very much for the responses!",
+        "user": "U04KLBCHHD5",
+        "ts": "1680135640.215559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nA+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you very much for the responses!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g9a239525e05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9a239525e059e1be5f4f675a900a6acf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Martinez",
+            "display_name": "Nicolas Martinez",
+            "team": "T04HC2CMNJ0",
+            "name": "nicolas.martinez4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680057006.036679",
+        "parent_user_id": "U04KLBCHHD5",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

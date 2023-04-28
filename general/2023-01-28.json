@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "0fcd97ef-eace-4f0d-9c77-89b10c5a35f2",
+        "type": "message",
+        "text": "Hi peeps!",
+        "user": "U04MPLNP116",
+        "ts": "1674944991.889669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi peeps!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g8961655c1b6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8961655c1b646da54de6e8c1dbb6ad9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Connor",
+            "real_name": "Connor",
+            "display_name": "Connor",
+            "team": "T04HC2CMNJ0",
+            "name": "connor.castillo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y",
+                    "U04JVCE8GA1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U04MCLPQJPK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

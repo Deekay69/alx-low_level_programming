@@ -1,0 +1,303 @@
+[
+    {
+        "client_msg_id": "b5078b0d-b1cb-40cb-bb23-720c14204427",
+        "type": "message",
+        "text": "Happy Tuesday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1679416219.759829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5DF6P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Tuesday everyone! I’ll be available on Slack\/Zoom today from 11:30 AM to 1:30 PM. Please Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "625e7f48-3ea6-4ffb-9a9d-2a25349947cd",
+        "type": "message",
+        "text": "Hi all: I'm on Zoom here for anyone who would like to go over an issue in Lab 02: <https:\/\/utsa.zoom.us\/my\/rita.mitra?pwd=NnFrR2tqSGpONUpvcG9WZHk4OWgrUT09>. (I have not read any of the comments on Slack the last three hours, including DMs, so just hop on if you've not resolved your issues).",
+        "user": "U04GV2EK7UP",
+        "ts": "1679447293.642089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: I'm on Zoom here for anyone who would like to go over an issue in Lab 02: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/my\/rita.mitra?pwd=NnFrR2tqSGpONUpvcG9WZHk4OWgrUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". (I have not read any of the comments on Slack the last three hours, including DMs, so just hop on if you've not resolved your issues)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F9E0191A-8A7E-4D1A-92BB-1978D0C1E434",
+        "type": "message",
+        "text": "Hi all: we figured out the zoom issue here is my zoom link: <https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09|https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09> ",
+        "user": "U04TEUMTQ9Z",
+        "ts": "1679448386.350579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kHVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all: we figured out the zoom issue here is my zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09",
+                                "text": "https:\/\/utsa.zoom.us\/j\/6959974588?pwd=SGROc1FYQTJmZjNSUFNWa0hYcmFkUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "gf8777fbabee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8777fbabeeb69b54509e74c10ccc7e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sheena",
+            "real_name": "Sheena Gabriel",
+            "display_name": "Sheena Gabriel",
+            "team": "T04HC2CMNJ0",
+            "name": "sheena.gabriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7f62fc6-f3e3-4d06-b739-787e61355671",
+        "type": "message",
+        "text": "Hello all\nI'm not sure who may need to hear this but this is just in case (For lab 02):\nIf your virtual machine doesn't want to run due to an error displaying something along the lines of \"VCRUNTIME140_1.dll\", it is most likely the C++ redistributable packets being corrupted and needing to be repaired\nIf anyone is having that problem, message me and I can help",
+        "user": "U04LGHK2BU4",
+        "ts": "1679452705.741299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/hp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all\nI'm not sure who may need to hear this but this is just in case (For lab 02):\nIf your virtual machine doesn't want to run due to an error displaying something along the lines of \"VCRUNTIME140_1.dll\", it is most likely the C++ redistributable packets being corrupted and needing to be repaired\nIf anyone is having that problem, message me and I can help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "2435bcbea7f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4694025823139_2435bcbea7f5f2f80b61_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert De La Torre",
+            "display_name": "Robert De La Torre",
+            "team": "T04HC2CMNJ0",
+            "name": "robert.delatorre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679452705.741299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679461732.009519",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04LGHK2BU4"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1679456801.268889"
+            },
+            {
+                "user": "U04LGHK2BU4",
+                "ts": "1679461732.009519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679461732.009519",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35a5fad9-9910-413b-b2c7-65c93a2dd4af",
+        "type": "message",
+        "text": "This is very helpful, Robert, thanks! Can you summarize what you did to fix the issue? Did you redownload the package?",
+        "user": "U04GV2EK7UP",
+        "ts": "1679456801.268889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azOi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very helpful, Robert, thanks! Can you summarize what you did to fix the issue? Did you redownload the package?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679452705.741299",
+        "parent_user_id": "U04LGHK2BU4"
+    },
+    {
+        "client_msg_id": "b3f369c7-46ef-48e2-a330-a6da98a8fb76",
+        "type": "message",
+        "text": "I went to a site that offers the Microsoft redistributable packages and when I downloaded the the packet again, it gave me the option to repair the package file which allowed me to run my Vietual Machine again",
+        "user": "U04LGHK2BU4",
+        "ts": "1679461732.009519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diMN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I went to a site that offers the Microsoft redistributable packages and when I downloaded the the packet again, it gave me the option to repair the package file which allowed me to run my Vietual Machine again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "2435bcbea7f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-24\/4694025823139_2435bcbea7f5f2f80b61_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert De La Torre",
+            "display_name": "Robert De La Torre",
+            "team": "T04HC2CMNJ0",
+            "name": "robert.delatorre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679452705.741299",
+        "parent_user_id": "U04LGHK2BU4",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

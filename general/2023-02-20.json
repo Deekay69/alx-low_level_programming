@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "9e76a1b7-ccf0-4d35-bc93-af5ff353877a",
+        "type": "message",
+        "text": "Happy Monday everyone! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1676908687.549289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2gj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Monday everyone! I’ll be available on Slack\/Zoom today from 10:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec92a6a1-efb4-47b8-8ed3-47aca52545f1",
+        "type": "message",
+        "text": "Hey y'all, if you have a couple spare minutes I would really appreciate it if you could fill out this survey. <https:\/\/www.surveymonkey.com\/r\/Q96B89W>",
+        "user": "U04MELJ0S2U",
+        "ts": "1676917978.262149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey y'all, if you have a couple spare minutes I would really appreciate it if you could fill out this survey. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.surveymonkey.com\/r\/Q96B89W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "726c84c382da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4728732443184_726c84c382dadc0cd011_72.jpg",
+            "first_name": "Edward",
+            "real_name": "Edward Larkins",
+            "display_name": "Edward Larkins",
+            "team": "T04HC2CMNJ0",
+            "name": "edward.larkins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.surveymonkey.com\/collect\/images\/default_custom_meta_image.jpg",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 251248,
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/Q96B89W",
+                "service_icon": "https:\/\/www.surveymonkey.com\/favicon1.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.surveymonkey.com\/r\/Q96B89W",
+                "fallback": "College undergraduate general survey",
+                "text": "Take this survey powered by <http:\/\/surveymonkey.com|surveymonkey.com>. Create your own surveys for free.",
+                "title": "College undergraduate general survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/Q96B89W",
+                "service_name": "surveymonkey.com"
+            }
+        ]
+    }
+]

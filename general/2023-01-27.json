@@ -1,0 +1,404 @@
+[
+    {
+        "client_msg_id": "578fcf1a-c9d3-4ab0-8400-512cfa01740b",
+        "type": "message",
+        "text": "Happy Friday everyone! We are almost at the weekend! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1674831452.992139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Friday everyone! We are almost at the weekend! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7C438A14-A8F9-478D-8E1E-1DA33C3782BF",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> I am still waiting to be added to the mac channel Professor.",
+        "user": "U04LFF8BL2Z",
+        "ts": "1674837878.878719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am still waiting to be added to the mac channel Professor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "f46d07fd78f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-25\/4683937727655_f46d07fd78f4bc2e116b_72.jpg",
+            "first_name": "Mercy",
+            "real_name": "Mercy Babalola",
+            "display_name": "Mercy Babalola",
+            "team": "T04HC2CMNJ0",
+            "name": "mercy.babalola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a603ccb8-257a-44a6-b953-3cc188c15e48",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> Could I be added to the mac channel professor?",
+        "user": "U04ML38CB08",
+        "ts": "1674856287.012349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rh3FB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Could I be added to the mac channel professor?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g57b64609247",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/57b6460924725fba48a3a8b53302dac8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Bolden",
+            "display_name": "Alyssa Bolden",
+            "team": "T04HC2CMNJ0",
+            "name": "alyssa.bolden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674674757.259479",
+        "parent_user_id": "U04GV2EK7UP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0255a093-bfa3-4c06-a04d-944217866cd6",
+        "type": "message",
+        "text": "wait are we on module-1 for this week right",
+        "user": "U04MB00LANM",
+        "ts": "1674859217.924459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z84S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait are we on module-1 for this week right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674859217.924459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674875661.436229",
+        "reply_users": [
+            "U04JVCE8GA1",
+            "U04MB00LANM"
+        ],
+        "replies": [
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1674874644.596309"
+            },
+            {
+                "user": "U04MB00LANM",
+                "ts": "1674875661.436229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D8C84D85-6964-40C9-87F2-ACCC95EB2F37",
+        "type": "message",
+        "text": "Oops yes we are",
+        "user": "U04MB00LANM",
+        "ts": "1674859514.986929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xdMVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops yes we are"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FD34D043-3950-49A4-A8F3-F88CF8516E6F",
+        "type": "message",
+        "text": "Myb",
+        "user": "U04MB00LANM",
+        "ts": "1674859516.919229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "84RC\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Myb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "89E56562-DB47-4091-A79D-2FD2BD3ACE7C",
+        "type": "message",
+        "text": "<@U04MB00LANM> Hi, Lab 00 is due next.  ",
+        "user": "U04JVCE8GA1",
+        "ts": "1674874644.596309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFZoy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04MB00LANM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi, Lab 00 is due next"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674859217.924459",
+        "parent_user_id": "U04MB00LANM",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CD697B03-DE16-4BD4-B0E7-CD18AEA35653",
+        "type": "message",
+        "text": "Thank you :pray::skin-tone-5:  ",
+        "user": "U04MB00LANM",
+        "ts": "1674875661.436229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fe",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "bf332dbc096f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-27\/4697824815975_bf332dbc096f5cb2ac04_72.jpg",
+            "first_name": "Caylen",
+            "real_name": "Caylen Taylor",
+            "display_name": "Caylen Taylor",
+            "team": "T04HC2CMNJ0",
+            "name": "caylen20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674859217.924459",
+        "parent_user_id": "U04MB00LANM"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673963785.485929",
+        "user": "U04KASKBBC4",
+        "text": "<@U04KASKBBC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673969938.565149",
+        "user": "U04K91MUE9Z",
+        "text": "<@U04K91MUE9Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673978971.655839",
+        "user": "U04KCMLDMPE",
+        "text": "<@U04KCMLDMPE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673982823.881819",
+        "user": "U04KAKV7N7L",
+        "text": "<@U04KAKV7N7L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673987313.461969",
+        "user": "U04JWGYC9JT",
+        "text": "<@U04JWGYC9JT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673988021.182789",
+        "user": "U04KB1Z9EKD",
+        "text": "<@U04KB1Z9EKD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673990671.005729",
+        "user": "U04KDSDECLC",
+        "text": "<@U04KDSDECLC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673991497.585539",
+        "user": "U04KBBG47TM",
+        "text": "<@U04KBBG47TM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992152.610419",
+        "user": "U04JX0Q745V",
+        "text": "<@U04JX0Q745V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673992678.146839",
+        "user": "U04KBHXKQF4",
+        "text": "<@U04KBHXKQF4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673993044.436739",
+        "user": "U04L1A0LWPJ",
+        "text": "<@U04L1A0LWPJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673996735.702059",
+        "user": "U04KQGC6X4Z",
+        "text": "<@U04KQGC6X4Z> has joined the channel"
+    },
+    {
+        "client_msg_id": "878e02ce-5388-4436-a3f6-13a0820482bf",
+        "type": "message",
+        "text": "Hi Everybody!",
+        "user": "U04KBHXKQF4",
+        "ts": "1673998900.355779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bc5pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everybody!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "83f372cdfc03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4670265575873_83f372cdfc03e98d862a_72.jpg",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth Waldrip",
+            "display_name": "Elizabeth Waldrip",
+            "team": "T04HC2CMNJ0",
+            "name": "elizabeth.waldrip",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001067.318529",
+        "user": "U04KEJUNAJG",
+        "text": "<@U04KEJUNAJG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674001471.978789",
+        "user": "U04L1S6GGU8",
+        "text": "<@U04L1S6GGU8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674008512.543979",
+        "user": "U04KCGCUXH8",
+        "text": "<@U04KCGCUXH8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674009172.041159",
+        "user": "U04L288QDJ4",
+        "text": "<@U04L288QDJ4> has joined the channel"
+    }
+]

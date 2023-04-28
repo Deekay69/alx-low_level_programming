@@ -1,0 +1,442 @@
+[
+    {
+        "client_msg_id": "bf73503c-cc99-4669-997f-73e00881b7c6",
+        "type": "message",
+        "text": "Happy Friday everyone! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: <https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09>",
+        "user": "U04KCMLDMPE",
+        "ts": "1675436342.169079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lit",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Friday everyone! I’ll be available on Slack\/Zoom today from 9:00 AM to 12:00 PM. Feel free to ask any questions on Slack or hop onto Zoom at this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utsa.zoom.us\/j\/2798585736?pwd=N0dmNHpBSldsUGhEUTRQL3NZUjZkQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "g253227c7bce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/253227c7bce721eb11f4d613d8277725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Dindi",
+            "display_name": "Aditya Dindi",
+            "team": "T04HC2CMNJ0",
+            "name": "aditya.dindi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04GV2EK7UP",
+                    "U04JVCE8GA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "782C259D-B071-4334-916A-10D3DD86AD74",
+        "type": "message",
+        "text": "Does anyone have a grade yet for Lab00 or know when the grades will be posted? :eyes: ",
+        "user": "U04M8MADT4Y",
+        "ts": "1675467258.588259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zS6q6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a grade yet for Lab00 or know when the grades will be posted? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675467258.588259",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1675469299.957049",
+        "reply_users": [
+            "U04GV2EK7UP",
+            "U04M8MADT4Y",
+            "U04JYA33E9Z",
+            "U04JVCE8GA1"
+        ],
+        "replies": [
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675467296.525839"
+            },
+            {
+                "user": "U04M8MADT4Y",
+                "ts": "1675467333.354119"
+            },
+            {
+                "user": "U04JYA33E9Z",
+                "ts": "1675467336.902099"
+            },
+            {
+                "user": "U04GV2EK7UP",
+                "ts": "1675467382.528459"
+            },
+            {
+                "user": "U04JVCE8GA1",
+                "ts": "1675469299.957049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675469299.957049"
+    },
+    {
+        "client_msg_id": "277570c9-e2c4-4e00-b906-eae0f3199540",
+        "type": "message",
+        "text": "Hi Joshua: For anything grade-related, please email your instructor directly, as we are all at different stages of grading.",
+        "user": "U04GV2EK7UP",
+        "ts": "1675467296.525839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGheo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Joshua: For anything grade-related, please email your instructor directly, as we are all at different stages of grading."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04GV2EK7UP",
+            "ts": "1675467343.000000"
+        },
+        "thread_ts": "1675467258.588259",
+        "parent_user_id": "U04M8MADT4Y"
+    },
+    {
+        "client_msg_id": "A113A1DD-D788-429C-B9EA-C229A2D9BE47",
+        "type": "message",
+        "text": "<@U04GV2EK7UP> you’re right! Sorry about that. I know that was previously said. Completely forgot",
+        "user": "U04M8MADT4Y",
+        "ts": "1675467333.354119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xmG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04GV2EK7UP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right! Sorry about that"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I know that was previously said"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Completely forgot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "408c2212ce52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-05\/4753092497490_408c2212ce521169efed_72.png",
+            "first_name": "Joshua",
+            "real_name": "Joshua Cudd",
+            "display_name": "",
+            "team": "T04HC2CMNJ0",
+            "name": "joshua.cudd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675467258.588259",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U04GV2EK7UP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86f91d7a-01d1-4b65-838f-8630b3479f47",
+        "type": "message",
+        "text": "For my section, they are graded - and I will be reviewing them all tomorrow to ensure things are consistent before releasing that grade column.",
+        "user": "U04JYA33E9Z",
+        "ts": "1675467336.902099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For my section, they are graded - and I will be reviewing them all tomorrow to ensure things are consistent before releasing that grade column."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "fb1dfb2f474f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-03\/4746978298627_fb1dfb2f474f61bd4293_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Anderson",
+            "display_name": "Benjamin Anderson",
+            "team": "T04HC2CMNJ0",
+            "name": "benjamin.anderson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675467258.588259",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M8MADT4Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04M8TJKPQE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a03a05fc-d47b-4132-817e-7c6b2df54fb8",
+        "type": "message",
+        "text": "No worries, <@U04M8MADT4Y> and thanks, Professor <@U04JYA33E9Z>!",
+        "user": "U04GV2EK7UP",
+        "ts": "1675467382.528459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMWFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M8MADT4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and thanks, Professor "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JYA33E9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "89851f1f9a95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4584695628949_89851f1f9a95ff2d98ad_72.png",
+            "first_name": "Rita",
+            "real_name": "Rita Mitra",
+            "display_name": "Rita Mitra",
+            "team": "T04HC2CMNJ0",
+            "name": "rita.mitra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675467258.588259",
+        "parent_user_id": "U04M8MADT4Y",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04JYA33E9Z",
+                    "U04M8TJKPQE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "276F2865-5FDE-4F06-B45F-B74C8941302B",
+        "type": "message",
+        "text": "For my sections, my TA and I are still grading the exams…please stand by for feedback (please read the feedback provided for your exam once it it graded). ",
+        "user": "U04JVCE8GA1",
+        "ts": "1675469299.957049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For my sections, my TA and I are still grading the exams"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "please stand by for feedback (please read the feedback provided for your exam once it it graded)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04HC2CMNJ0",
+        "user_team": "T04HC2CMNJ0",
+        "source_team": "T04HC2CMNJ0",
+        "user_profile": {
+            "avatar_hash": "866caa6e7e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-17\/4657812216323_866caa6e7e6f3a440862_72.gif",
+            "first_name": "Professor",
+            "real_name": "Professor Collazo",
+            "display_name": "Professor Collazo",
+            "team": "T04HC2CMNJ0",
+            "name": "angelica.collazo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675467258.588259",
+        "parent_user_id": "U04M8MADT4Y"
+    }
+]
